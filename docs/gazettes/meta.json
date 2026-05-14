@@ -1,36 +1,12 @@
 {
   "phase": "derive",
-  "generated_at": "2026-05-14T09:19:04Z",
+  "generated_at": "2026-05-14T11:24:34Z",
   "elapsed_s": 0.0,
   "totals": {
     "central": 3
   },
-  "search_bundle": {
-    "shard_count": 1,
-    "shards": [
-      "search-bundle-00.json"
-    ],
-    "shard_sizes": {
-      "search-bundle-00.json": 27467
-    },
-    "total": 3,
-    "truncated": 2,
-    "head_chars": 5000,
-    "size_bytes": 27467,
-    "max_shard_bytes": 27467
-  },
-  "search_index": {
-    "shard_count": 1,
-    "shards": [
-      "search-index-00.json"
-    ],
-    "shard_sizes": {
-      "search-index-00.json": 46344
-    },
-    "total": 3,
-    "size_bytes": 46344,
-    "max_shard_bytes": 46344
-  },
+  "search_bundle": null,
+  "search_index": null,
   "audit": {
     "central_records": 3,
     "djvu_ok": 3,
@@ -42,10 +18,10 @@
     "records_with_text": 3,
     "shards": 1,
     "r2_fallback": 0,
-    "total_text_bytes": 155310,
+    "total_text_bytes": 0,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 0,
-    "txt_files_removed": 3
+    "from_existing_shards": 3,
+    "txt_files_removed": 0
   }
 }
