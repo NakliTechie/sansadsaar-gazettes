@@ -1,48 +1,13 @@
 # sansadsaar-gazettes
 
-Index repo for the Central Gazette of India corpus on SansadSaar.
+Index data for the **Central Gazette of India** corpus on [SansadSaar](https://github.com/NakliTechie/SansadSaar).
 
-## What this repo holds
+Holds metadata + bilingual (English + Hindi) extracted text + search artifacts for ~170K Central Gazette items (Weekly + Extraordinary, 1947→present). The actual PDFs live at archive.org and are served directly from there to the app.
 
-- **`docs/gazettes/`** — corpus data, served by Cloudflare Pages.
-  - `reports-meta.json` + `reports-central-NN.json` — record metadata
-    (sharded).
-  - `texts-NN.json` + `texts-meta.json` — bundled body text (sharded).
-  - `search-bundle-NN.json` + `search-index-NN.json` — search artifacts.
-  - `manifest.json`, `audit.json`, `meta.json` — derived overviews.
-- **`gazettes/`** — Python scraper package (`scrapers/archive_org.py`).
-- **`build_gazettes.py`** — orchestrator (extract + derive phases).
-- **`.github/workflows/`** — cron-driven scrape + derive workflows.
+## Why a separate repo?
 
-## What this repo does NOT hold
+Volume. The Central Gazette corpus alone is comparable in scale to the rest of [parliamentwatch-data](https://github.com/NakliTechie/parliamentwatch-data) combined. Splitting keeps each repo's Cloudflare Pages deploy comfortably under the per-project file count cap.
 
-- **Original PDFs.** Those live at archive.org (which serves them
-  directly to the SansadSaar app) and, separately, in cold-mirror
-  repos named `sansadsaar-gazettes-mirror-<years>` for continuity
-  insurance.
+## Credits
 
-## Upstream
-
-[archive.org/details/gazetteofindia](https://archive.org/details/gazetteofindia)
-— a continuously-maintained mirror of the Central Gazette + ~25 state
-gazettes maintained by Sushant Sinha. We pull from here exclusively
-per the project's archive.org-first policy.
-
-## Approach
-
-For each archive.org item matching `in.gazette.central.{e|w}.*`:
-
-1. Fetch `/metadata/<identifier>` → ministry, department, subject,
-   languages, gazette ID, source URL.
-2. Fetch `<identifier>_djvu.txt` → archive.org's pre-OCR'd text
-   (`tesseract 5.x -l hin+eng`, bilingual English + Devanagari Hindi).
-3. Bundle text + metadata into our sharded index.
-
-No own OCR, no pypdf, no `egazette.gov.in` scraping. archive.org has
-already done the work; we're a downstream consumer.
-
-## License
-
-The Python code in this repo is original work by SansadSaar. The
-gazette data flows from public-domain Government of India
-publications and is consumed via archive.org's open APIs.
+PDFs + OCR text sourced from the [`gazetteofindia` collection](https://archive.org/details/gazetteofindia) on archive.org, continuously populated since 2014 by [Sushant Sinha](https://github.com/sushant354)'s [`egazette`](https://github.com/sushant354/egazette) project. Our scraper pattern is observed from that project but independently re-implemented per the project's Independence Principle.
