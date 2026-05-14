@@ -1,0 +1,86 @@
+name: Gazettes scrape and publish
+
+# Hourly walk of archive.org's `gazetteofindia` collection for Central
+# Gazette items (Weekly + Extraordinary), newest-first. Per item:
+# fetch metadata + djvu.txt; write text + record to the index repo.
+# PDF mirror push to per-date mirror repos is a follow-up — for v1
+# the records carry archive.org URLs as pdf_url and the app links there.
+#
+# Cadence rationale (plan/gazettes-recon-001.md):
+# 50 records/run × 24×/day = 1,200/day. Clears the ~170K archive.org
+# backlog in ~142 days. Per record costs ~3 HTTP requests
+# (metadata + djvu); ~1 sec each with jitter → ~50 sec sustained per
+# burst. Well within archive.org's ~30 req/sec policy.
+#
+# archive.org-first policy (project-wide): we do NOT touch
+# egazette.gov.in for the back-catalogue. archive.org is the SOLE
+# upstream.
+#
+# Off-cluster from existing parliamentwatch-data corpora:
+# LC :01 (4-hourly), FC :01 (4-hourly), debates :23 (2-hourly),
+# questions :47 (hourly). Gazettes fires at :13 hourly.
+
+on:
+  schedule:
+    - cron: '13 * * * *'
+  workflow_dispatch:
+    inputs:
+      max_extractions:
+        description: 'Max records to extract this run. Keep ≤100 unless deep-backfill.'
+        default: '50'
+      max_run_seconds:
+        description: 'Hard wall-clock cap (seconds)'
+        default: '900'
+      enum_stop_after_known:
+        description: 'Stop enumerating after N consecutive already-known identifiers'
+        default: '200'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gazettes
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git identity for in-flight checkpoint commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Build gazettes primary data (extract phase only)
+        # Split-phase: writers commit reports shards + text/.
+        # Derived files owned by gazettes-derive.yml. See CONV.md
+        # "Split-phase scraping pattern".
+        env:
+          BUILD_PHASE:             'extract'
+          MAX_EXTRACTIONS_PER_RUN: ${{ inputs.max_extractions       || '50' }}
+          MAX_RUN_SECONDS:         ${{ inputs.max_run_seconds        || '900' }}
+          ENUM_STOP_AFTER_KNOWN:   ${{ inputs.enum_stop_after_known || '200' }}
+          JITTER_MIN_MS:           '200'
+          JITTER_MAX_MS:           '400'
+        run: python build_gazettes.py
+
+      - name: Commit and push primary changes
+        # `docs/gazettes/` covers reports shards + text/ + meta.json.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/gazettes/
+          git diff --cached --quiet && echo "no primary changes" && exit 0
+          git commit -m "Auto-update gazettes primary data [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          git pull --rebase origin main
+          git push

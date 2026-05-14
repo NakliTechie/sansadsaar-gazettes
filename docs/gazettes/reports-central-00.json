@@ -1,0 +1,76 @@
+{
+  "records": [
+    {
+      "identifier": "in.gazette.central.e.2026-05-12.272488",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-12",
+      "ugid": "272488",
+      "title": "Extrordinary Gazette of India, 2026-05-12",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "Changes in SWS and AIDC",
+      "gazette_id": "CG-DL-E-13052026-272488",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272488.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-12.272488/272488.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-12.272488",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-12/272488.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-12.272487",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-12",
+      "ugid": "272487",
+      "title": "Extrordinary Gazette of India, 2026-05-12",
+      "ministry": "Bar Council of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "We have audited the accompanying Financial Statements of the BAR COUNCIL OF INDIA  the Council , as at March , which comprise the Balance Sheet and Income and Expenditure Account for the year then ended, and Notes",
+      "gazette_id": "CG-DL-E-13052026-272487",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272487.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-12.272487/272487.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-12.272487",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-12/272487.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-12.272485",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-12",
+      "ugid": "272485",
+      "title": "Extrordinary Gazette of India, 2026-05-12",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of ERO",
+      "gazette_id": "CG-DL-E-12052026-272485",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272485.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-12.272485/272485.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-12.272485",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-12/272485.pdf",
+      "topics": []
+    }
+  ],
+  "count": 3,
+  "category": "central",
+  "shard_index": 0
+}

@@ -1,0 +1,10 @@
+{
+  "audited_at": "2026-05-14T09:19:04Z",
+  "totals": {
+    "central_records": 3,
+    "djvu_ok": 3,
+    "djvu_pending": 0,
+    "no_text": 0,
+    "topics_assigned": 0
+  }
+}
