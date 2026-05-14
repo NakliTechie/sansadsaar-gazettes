@@ -1,0 +1,10 @@
+# Static-assets deploy config for the gazettes data mirror.
+# Mirrors parliamentwatch-data's wrangler.toml shape — no worker code,
+# just `./docs/` served as static assets via CF Workers Static Assets.
+
+name = "sansadsaar-gazettes"
+compatibility_date = "2026-05-14"
+
+[assets]
+directory = "./docs"
+not_found_handling = "404-page"
