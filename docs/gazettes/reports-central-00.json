@@ -760,6 +760,52 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-05-08.272457",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-08",
+      "ugid": "272457",
+      "title": "Extrordinary Gazette of India, 2026-05-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-13052026-272457",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272457.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272457/272457.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-08.272457",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-08/272457.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-08.272455",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-08",
+      "ugid": "272455",
+      "title": "Extrordinary Gazette of India, 2026-05-08",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of Gazette Notification for the below mentioned Land Schedule under Subsection 1 of section 20A of the Railways Amendment Act 1989",
+      "gazette_id": "CG-OR-E-13052026-272455",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272455.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272455/272455.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-08.272455",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-08/272455.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-08.272454",
       "category": "extraordinary",
       "type_letter": "e",
@@ -2278,6 +2324,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-05-07.272499",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-07",
+      "ugid": "272499",
+      "title": "Extrordinary Gazette of India, 2026-05-07",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of Gazette Notification for the below mentioned Land Schedule under Subsection 1 of section 20A of the Railways Amendment Act 2008 for ROB No274",
+      "gazette_id": "CG-OR-E-13052026-272499",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272499.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272499/272499.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-07.272499",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-07/272499.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-07.272465",
       "category": "extraordinary",
       "type_letter": "e",
@@ -2968,6 +3037,52 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-05-06.272524",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-06",
+      "ugid": "272524",
+      "title": "Extrordinary Gazette of India, 2026-05-06",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extraordinary Gazette of India under Section 6(1) of the Petroleum and Minerals Pipelines",
+      "gazette_id": "CG-DL-E-13052026-272524",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272524.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-06.272524/272524.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-06.272524",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-06/272524.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-06.272505",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-06",
+      "ugid": "272505",
+      "title": "Extrordinary Gazette of India, 2026-05-06",
+      "ministry": "Ministry of Information and Broadcasting",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of Shri Shashi Shekhar Vempati as Chairperson, Central Board of Film Certification (CBFC)",
+      "gazette_id": "CG-DL-E-13052026-272505",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272505.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-06.272505/272505.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-06.272505",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-06/272505.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-06.272473",
       "category": "extraordinary",
       "type_letter": "e",
@@ -2988,6 +3103,29 @@
       "ia_identifier": "in.gazette.central.e.2026-05-06.272473",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-05-06/272473.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-06.272468",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-06",
+      "ugid": "272468",
+      "title": "Extrordinary Gazette of India, 2026-05-06",
+      "ministry": "Ministry of Railways",
+      "department": "North Central Railway",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under the Railways amendment Act 2008 under clause 20E for Construction of 2 lane ROB in lieu of L Xing No 18 at km 771 1 3 DDU PRYJ section of Prayagraj Division Uttar Pradesh",
+      "gazette_id": "CG-UP-E-13052026-272468",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272468.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-06.272468/272468.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-06.272468",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-06/272468.pdf",
       "topics": []
     },
     {
@@ -3057,6 +3195,52 @@
       "ia_identifier": "in.gazette.central.e.2026-05-06.272459",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-05-06/272459.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-06.272456",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-06",
+      "ugid": "272456",
+      "title": "Extrordinary Gazette of India, 2026-05-06",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Validity of Adhoc norms under Para 412 vi of HBP2023",
+      "gazette_id": "CG-DL-E-13052026-272456",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272456.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-06.272456/272456.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-06.272456",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-06/272456.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-06.272449",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-06",
+      "ugid": "272449",
+      "title": "Extrordinary Gazette of India, 2026-05-06",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "37A Notification",
+      "gazette_id": "CG-CG-E-13052026-272449",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272449.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-06.272449/272449.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-06.272449",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-06/272449.pdf",
       "topics": []
     },
     {
@@ -4693,6 +4877,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-05-04.272520",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-04",
+      "ugid": "272520",
+      "title": "Extrordinary Gazette of India, 2026-05-04",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of acquisition of land under Section 20(E) for Proposed Construction of ROB and RUB (10 Nos.) in lieu of Level Crossing Gates between Igatpuri Manmad and Bhusawal Badnera Section of Bhusawal Division.",
+      "gazette_id": "CG-MH-E-13052026-272520",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272520.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-04.272520/272520.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-04.272520",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-04/272520.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-04.272464",
       "category": "extraordinary",
       "type_letter": "e",
@@ -5495,6 +5702,29 @@
       "ia_identifier": "in.gazette.central.w.2026-05-02.272191",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-05-02/272191.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-30.272462",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-30",
+      "ugid": "272462",
+      "title": "Extrordinary Gazette of India, 2026-04-30",
+      "ministry": "Institute of Chartered Accountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Regulation 18 of the Chartered Accountants Regulations, 1988, it is hereby notified that in exercise of the powers conferred by Section 20(1) (c) of the Chartered Accountants Act,",
+      "gazette_id": "CG-DL-E-13052026-272462",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272462.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-30.272462/272462.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-30.272462",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-30/272462.pdf",
       "topics": []
     },
     {
@@ -8005,6 +8235,351 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-04-24.272081",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272081",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "North Eastern Railway",
+      "subject": "For Publication in the Gazette of India under section 2 clause 37A of Railways amendment Act 2008 for Special Railway Project declaration of Doubling between Katra and Tikri stations",
+      "gazette_id": "CG-UP-E-25042026-272081",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272081.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272081/272081.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272081",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272081.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272080",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272080",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Western Railway Cantonment Bangalore",
+      "subject": "Publication of Notification in respect of Quadrupling between Hospete and Ballari stations in terms of clause 7A and 20F of the Railway Act 1989",
+      "gazette_id": "CG-KA-E-25042026-272080",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272080.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272080/272080.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272080",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272080.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272073",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272073",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of 20A Gazette Notification for Construction of 3rd line between Ichapuram to Nuapada in connection to Khurda Road  Vizianagaram on Waltair division of East Coast Railway",
+      "gazette_id": "CG-OR-E-25042026-272073",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272073.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272073/272073.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272073",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272073.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272072",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272072",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Railways",
+      "department": "West Central Railway",
+      "office": "Kota Division",
+      "subject": "Gazette notification under section 20E for ROB at LC no 231 in Kota Division, West Central Railway",
+      "gazette_id": "CG-RJ-E-25042026-272072",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272072.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272072/272072.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272072",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272072.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272071",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272071",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Science and Technology",
+      "department": "Department of Science and Technology",
+      "office": "",
+      "subject": "regarding Rescission of the notifications of the Government of India in the Ministry of Science and Technology, Department of Science and Technology, Science and Engineering Research Board, number 002/2014/F. No. SR/S9/Z08/2011 and 003/2014/F. No. SR/S9/Z08/2011, dated the 24th April, 2014",
+      "gazette_id": "CG-DL-E-25042026-272071",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272071.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272071/272071.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272071",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272071.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272068",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272068",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "20A",
+      "gazette_id": "CG-CG-E-25042026-272068",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272068.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272068/272068.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272068",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272068.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272061",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272061",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24042026-272061",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272061.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272061/272061.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272061",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272061.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272060",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272060",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24042026-272060",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272060.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272060/272060.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272060",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272060.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272059",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272059",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24042026-272059",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272059.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272059/272059.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272059",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272059.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272057",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272057",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Home Affairs",
+      "department": "CTCR DIVISION",
+      "office": "",
+      "subject": "Appointment of SPP",
+      "gazette_id": "CG-DL-E-24042026-272057",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272057.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272057/272057.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272057",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272057.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272055",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272055",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24042026-272055",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272055.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272055/272055.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272055",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272055.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272053",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272053",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24042026-272053",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272053.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272053/272053.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272053",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272053.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272052",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272052",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24042026-272052",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272052.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272052/272052.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272052",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272052.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272051",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272051",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24042026-272051",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272051.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272051/272051.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272051",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272051.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-24.272050",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272050",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24042026-272050",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272050.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272050/272050.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272050",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272050.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-04-24.272049",
       "category": "extraordinary",
       "type_letter": "e",
@@ -8120,7 +8695,7 @@
       "topics": []
     }
   ],
-  "count": 353,
+  "count": 378,
   "category": "central",
   "shard_index": 0
 }
