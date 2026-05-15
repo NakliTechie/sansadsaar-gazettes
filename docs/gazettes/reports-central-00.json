@@ -9093,6 +9093,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272349/272349_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-04-24.272319",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-24",
+      "ugid": "272319",
+      "title": "Extrordinary Gazette of India, 2026-04-24",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "20a kharsia",
+      "gazette_id": "CG-CG-E-13052026-272319",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272319.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272319/272319.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-24.272319",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-24/272319.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-04-24.272309",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57525,29 +57548,6 @@
       "ia_identifier": "in.gazette.central.e.2026-02-05.269868",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-02-05/269868.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-05.269867",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-05",
-      "ugid": "269867",
-      "title": "Extrordinary Gazette of India, 2026-02-05",
-      "ministry": "Ministry of Railways",
-      "department": "Sout East Central Railway",
-      "office": "",
-      "subject": "20A notification",
-      "gazette_id": "CG-CG-E-06022026-269867",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269867.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-05.269867/269867.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-05.269867",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-05/269867.pdf",
       "topics": []
     }
   ],
