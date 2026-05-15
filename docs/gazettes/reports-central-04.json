@@ -19482,6 +19482,75 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2024-12-26.259731",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-26",
+      "ugid": "259731",
+      "title": "Extraordinary Gazette of India, 2024-12-26",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "ADD imports of Roller Chain exported from China PR",
+      "gazette_id": "CG-DL-E-31122024-259731",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259731.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-26.259731/259731.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-26.259731",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-26/259731.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-12-26.259723",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-26",
+      "ugid": "259723",
+      "title": "Extraordinary Gazette of India, 2024-12-26",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby",
+      "gazette_id": "CG-DL-E-30122024-259723",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259723.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-26.259723/259723.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-26.259723",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-26/259723.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-12-26.259720",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-26",
+      "ugid": "259720",
+      "title": "Extraordinary Gazette of India, 2024-12-26",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "Western Railway",
+      "subject": "Notification under clause 20E of section 2 of the Railway Act 1989 24 of 1989 for land to be acquired in connection with Special Railway Project Namely new BG line project from Dahod to Indore (through Jhabua, Sardarpur, Dhar and Pithampur) in Dhar district Tehsil Dhar Village Ranipura in the State of Madhya Pradesh",
+      "gazette_id": "CG-MH-E-31122024-259720",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259720.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-26.259720/259720.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-26.259720",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-26/259720.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2024-12-26.259681",
       "category": "extraordinary",
       "type_letter": "e",
@@ -19781,7 +19850,7 @@
       "topics": []
     }
   ],
-  "count": 860,
+  "count": 863,
   "category": "central",
   "shard_index": 4
 }
