@@ -1,0 +1,76 @@
+{
+  "records": [
+    {
+      "identifier": "in.gazette.central.e.2026-02-05.269853",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-05",
+      "ugid": "269853",
+      "title": "Extrordinary Gazette of India, 2026-02-05",
+      "ministry": "Telecom Regulatory Authority of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by section 36, read with  sub clauses  ii,  iii  and  iv of clause  b of sub section  1 of section 11, of the Telecom Regulatory Authority",
+      "gazette_id": "CG-DL-E-05022026-269853",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269853.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-05.269853/269853.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-05.269853",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-05/269853.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-05.269851",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-05",
+      "ugid": "269851",
+      "title": "Extrordinary Gazette of India, 2026-02-05",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Department of Legal Affairs",
+      "office": "Department of Legal Affairs",
+      "subject": "Amendment to Law Officers (Conditions of Service) Rule, 1987 pertaining to revision of fee",
+      "gazette_id": "CG-DL-E-05022026-269851",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269851.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-05.269851/269851.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-05.269851",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-05/269851.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-05.269850",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-05",
+      "ugid": "269850",
+      "title": "Extrordinary Gazette of India, 2026-02-05",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "notifies for the purposes of the said clause  District Legal Service Authority Faridabad",
+      "gazette_id": "CG-DL-E-05022026-269850",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269850.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-05.269850/269850.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-05.269850",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-05/269850.pdf",
+      "topics": []
+    }
+  ],
+  "count": 3,
+  "category": "central",
+  "shard_index": 1
+}
