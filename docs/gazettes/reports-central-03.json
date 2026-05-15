@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "identifier": "in.gazette.central.e.2025-05-26.263377",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-26",
+      "ugid": "263377",
+      "title": "Extraordinary Gazette of India, 2025-05-26",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-26052025-263377",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263377.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-26.263377/263377.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-26.263377",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-26/263377.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-05-26.263376",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-26",
+      "ugid": "263376",
+      "title": "Extraordinary Gazette of India, 2025-05-26",
+      "ministry": "Ministry of Home Affairs",
+      "department": "N. E. Division",
+      "office": "",
+      "subject": "Order dated 21.05.2025 of the Unlawful Activities (Prevention) Tribunal adjudicating the notification dated 25.11.2024 in the matter of United Liberation Front of Asom (ULFA)",
+      "gazette_id": "CG-DL-E-26052025-263376",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263376.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-26.263376/263376.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-26.263376",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-26/263376.pdf",
+      "topics": []
+    }
+  ],
+  "count": 2,
+  "category": "central",
+  "shard_index": 3
+}
