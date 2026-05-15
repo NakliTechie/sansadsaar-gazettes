@@ -29602,6 +29602,121 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2025-07-18.264807",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-18",
+      "ugid": "264807",
+      "title": "Extraordinary Gazette of India, 2025-07-18",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-19072025-264807",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264807.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-18.264807/264807.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-18.264807",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-18/264807.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-18.264806",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-18",
+      "ugid": "264806",
+      "title": "Extraordinary Gazette of India, 2025-07-18",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-19072025-264806",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264806.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-18.264806/264806.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-18.264806",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-18/264806.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-18.264801",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-18",
+      "ugid": "264801",
+      "title": "Extraordinary Gazette of India, 2025-07-18",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "Anti dumping duty on Aniline for 5 years",
+      "gazette_id": "CG-DL-E-18072025-264801",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264801.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-18.264801/264801.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-18.264801",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-18/264801.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-18.264800",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-18",
+      "ugid": "264800",
+      "title": "Extraordinary Gazette of India, 2025-07-18",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-18072025-264800",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264800.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-18.264800/264800.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-18.264800",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-18/264800.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-18.264799",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-18",
+      "ugid": "264799",
+      "title": "Extraordinary Gazette of India, 2025-07-18",
+      "ministry": "Ministry of Housing and Urban Affairs",
+      "department": "Land and Development Office",
+      "office": "",
+      "subject": "Notification (English and Hindi version) in respect of Estate Officer in Land and Development Office, MoHUA, New Delhi",
+      "gazette_id": "CG-DL-E-18072025-264799",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264799.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-18.264799/264799.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-18.264799",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-18/264799.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2025-07-18.264798",
       "category": "extraordinary",
       "type_letter": "e",
@@ -29832,7 +29947,7 @@
       "topics": []
     }
   ],
-  "count": 1297,
+  "count": 1302,
   "category": "central",
   "shard_index": 2
 }
