@@ -45,12 +45,14 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
 # parliamentwatch_text_shards is the shared helper for bundling
-# per-record text files into size-targeted shard JSONs. Vendored from
-# parliamentwatch-data — copy maintained here under the Independence
-# Principle. See parliamentwatch_text_shards.py.
-from parliamentwatch_text_shards import write_text_shards  # noqa: E402
+# per-record text files into size-targeted shard JSONs + the
+# write_json_idempotent helper that skips no-op timestamp-only meta /
+# audit writes. Vendored from parliamentwatch-data — copy maintained
+# here under the Independence Principle. See
+# parliamentwatch_text_shards.py.
+from parliamentwatch_text_shards import write_text_shards, write_json_idempotent  # noqa: E402
 
-from gazettes.common import RateLimited
+from gazettes.common import RateLimited, http_get, DOWNLOAD_API
 from gazettes.scrapers.archive_org import (
     GazetteRecord,
     enumerate_items,
@@ -92,6 +94,16 @@ SHARD_SIZE = 2500
 
 MAX_EXTRACTIONS_PER_RUN = int(os.environ.get("MAX_EXTRACTIONS_PER_RUN", "50"))
 MAX_RUN_SECONDS         = int(os.environ.get("MAX_RUN_SECONDS", "900"))   # 15 min
+
+# Per-run budget for the djvu retry pass. archive.org's djvu derivative
+# isn't generated immediately when an item is uploaded (~24h delay), so
+# the first scrape visit often finds an empty djvu_url and records the
+# item as djvu_pending. retry_djvu_pending revisits those records each
+# run, attempting to construct the djvu URL directly from the
+# identifier and fetch the now-ready derivative. ~1 HTTP request per
+# retry; 50/run = ~50 sec sustained burst on top of the new-record
+# pass. See diagnosis in plan/gazettes-djvu-pending.md.
+MAX_DJVU_RETRY_PER_RUN = int(os.environ.get("MAX_DJVU_RETRY_PER_RUN", "50"))
 
 # Newest-first enumeration: when we see this many already-known records
 # in a row, assume we've reached steady-state catch-up and stop.
@@ -439,6 +451,135 @@ def walk_archive_and_extract(reports: dict[str, list[dict]], *,
     }
 
 
+def retry_djvu_pending(reports: dict[str, list[dict]], *,
+                       deadline: float) -> dict:
+    """Retry djvu fetch for records that were indexed before archive.org
+    finished generating their djvu derivative.
+
+    Diagnosis: archive.org generates djvu.txt as a derivative file ~24h
+    after an item is uploaded. The first scraper visit (newest-first
+    walk) often lands on items uploaded in the last 24h, finds no
+    djvu file in the IA metadata response, records the metadata, and
+    moves on — leaving the record permanently flagged djvu_pending.
+    On 2026-05-15 this was 435 of 438 records (~99%).
+
+    Fix: for each record that has no text file on disk, construct the
+    djvu URL directly from the identifier (pattern: <id>/<seq>_djvu.txt
+    where seq is the trailing numeric segment of the identifier) and
+    attempt to fetch. On success, write text/<cat>/<fid>.txt and
+    update the record's djvu_url field in memory; save_reports persists
+    it. On 404 / empty / RateLimited, leave the record as-is for the
+    next run.
+
+    Ordering: oldest issue_date first. Older records have had more time
+    for archive.org to derivative their djvu, so they have a higher
+    success rate per HTTP request — better budget utilisation than
+    revisiting recent records that probably aren't ready yet.
+    """
+    text_dir = TEXT_DIR / "central"
+    text_dir.mkdir(parents=True, exist_ok=True)
+
+    # Build the pending list — records with no text file on disk.
+    pending: list[dict] = []
+    for r in reports.get("central", []):
+        fid = file_id_from_dict(r)
+        if not (text_dir / f"{fid}.txt").exists():
+            pending.append(r)
+
+    if not pending:
+        return {"attempted": 0, "succeeded": 0, "pending_total": 0,
+                "rate_limited": False, "budget_hit": False}
+
+    # Oldest issue_date first — see docstring for rationale.
+    pending.sort(key=lambda r: r.get("issue_date", ""))
+
+    attempted = 0
+    succeeded = 0
+    rate_limited = False
+    budget_hit = False
+    last_checkpoint_at = time.monotonic()
+    extracted_since_checkpoint = 0
+
+    print(f"  djvu retry pool: {len(pending)} pending; budget={MAX_DJVU_RETRY_PER_RUN}/run")
+
+    for r in pending:
+        if time.monotonic() > deadline:
+            print(f"  [BUDGET] djvu retry wall-clock budget hit after {attempted} attempts")
+            budget_hit = True
+            break
+        if attempted >= MAX_DJVU_RETRY_PER_RUN:
+            print(f"  [BUDGET] hit MAX_DJVU_RETRY_PER_RUN={MAX_DJVU_RETRY_PER_RUN}")
+            budget_hit = True
+            break
+
+        identifier = r.get("identifier", "")
+        # Trailing numeric segment of the identifier is the seq prefix
+        # archive.org uses on the djvu derivative filename. Pattern:
+        # `in.gazette.central.<t>.<YYYY-MM-DD>.<seq>` → `<seq>_djvu.txt`.
+        seq = identifier.rsplit(".", 1)[-1] if "." in identifier else ""
+        if not seq.isdigit():
+            attempted += 1
+            continue
+        djvu_url = f"{DOWNLOAD_API}/{identifier}/{seq}_djvu.txt"
+
+        attempted += 1
+        try:
+            resp = http_get(djvu_url, timeout=120)
+        except RateLimited as rl:
+            print(f"  [RATE-LIMITED] djvu retry {identifier}: {rl}")
+            rate_limited = True
+            break
+        except Exception:
+            # 404 = derivative still not ready, or some other transient.
+            # Don't log per-record — the pending pool can be large and
+            # logging each miss would flood the run log.
+            continue
+        text = resp.text or ""
+        if not text.strip():
+            continue
+
+        # Persist + update the record so subsequent runs don't re-fetch.
+        fid = file_id_from_dict(r)
+        text_path = text_dir / f"{fid}.txt"
+        with open(text_path, "w", encoding="utf-8") as f:
+            f.write(text)
+        r["djvu_url"] = djvu_url
+        succeeded += 1
+        extracted_since_checkpoint += 1
+
+        # Same checkpoint cadence as the extract loop.
+        now = time.monotonic()
+        if (extracted_since_checkpoint >= CHECKPOINT_EVERY_N or
+            (extracted_since_checkpoint > 0 and
+             now - last_checkpoint_at >= CHECKPOINT_EVERY_S)):
+            save_reports(reports)
+            ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+            checkpoint_commit(
+                f"Auto-checkpoint gazettes djvu retry (succeeded={succeeded} this run) [{ts}]",
+                ["docs/gazettes/"],
+            )
+            extracted_since_checkpoint = 0
+            last_checkpoint_at = now
+
+    save_reports(reports)
+    if extracted_since_checkpoint > 0:
+        ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+        checkpoint_commit(
+            f"Auto-checkpoint gazettes djvu retry (final, succeeded={succeeded} this run) [{ts}]",
+            ["docs/gazettes/"],
+        )
+
+    print(f"  djvu retry done: attempted={attempted} succeeded={succeeded} "
+          f"pool_remaining={len(pending) - succeeded}")
+    return {
+        "attempted": attempted,
+        "succeeded": succeeded,
+        "pending_total": len(pending),
+        "rate_limited": rate_limited,
+        "budget_hit": budget_hit,
+    }
+
+
 def _enumerate_newest_first():
     """Wrap enumerate_items() with newest-first sort. The scraper module's
     default sort is `date asc`; we override here to walk descending so
@@ -749,12 +890,30 @@ def phase_extract() -> int:
     extract_result = walk_archive_and_extract(existing, deadline=deadline)
     rate_limited = extract_result.get("rate_limited", False)
 
+    # Retry pass for djvu_pending records — see retry_djvu_pending docstring.
+    # Skip if we already hit a rate-limit during extract (budget exhausted
+    # AND archive.org is throttling us; back off and let the next run try).
+    if not rate_limited:
+        retry_result = retry_djvu_pending(existing, deadline=deadline)
+        if retry_result.get("rate_limited"):
+            rate_limited = True
+    else:
+        retry_result = {"attempted": 0, "succeeded": 0, "pending_total": 0,
+                        "rate_limited": False, "budget_hit": False,
+                        "skipped_reason": "rate_limited_during_extract"}
+
     meta = {
         "phase":        "extract",
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "elapsed_s":    round(time.monotonic() - t_start, 1),
         "extracted":    len(extract_result.get("extracted", [])),
         "failed":       len(extract_result.get("failed", [])),
+        "djvu_retry": {
+            "attempted":      retry_result.get("attempted", 0),
+            "succeeded":      retry_result.get("succeeded", 0),
+            "pending_total":  retry_result.get("pending_total", 0),
+            "budget":         MAX_DJVU_RETRY_PER_RUN,
+        },
         "rate_limited": rate_limited,
         "budget": {
             "max_extractions": MAX_EXTRACTIONS_PER_RUN,
@@ -764,11 +923,20 @@ def phase_extract() -> int:
     }
     if rate_limited:
         meta["rate_limited_at"] = meta["generated_at"]
-    with open(META_JSON, "w", encoding="utf-8") as f:
-        json.dump(meta, f, ensure_ascii=False, indent=2)
+    # Idempotent write: skip the write entirely if only `generated_at`
+    # would change. The next derive run's meta.json fully replaces this
+    # one, so a no-op extract-meta write is pure CF-build noise.
+    # `elapsed_s` is timing-variant so ignore it too.
+    wrote_meta = write_json_idempotent(
+        META_JSON, meta, ignore_keys=("generated_at", "elapsed_s"),
+    )
+    if not wrote_meta:
+        print("  [skip] extract meta.json unchanged (besides timing) — no commit churn")
 
     print(f"[phase_extract] done in {meta['elapsed_s']}s: "
-          f"extracted={meta['extracted']}, rate_limited={rate_limited}")
+          f"extracted={meta['extracted']}, "
+          f"djvu_retry_succeeded={retry_result.get('succeeded', 0)}, "
+          f"rate_limited={rate_limited}")
     return 0 if not rate_limited else 1
 
 
@@ -781,13 +949,18 @@ def phase_derive() -> int:
     reports = load_existing_reports()
     print(f"  reports loaded: " + ", ".join(f"{c}={len(reports.get(c, []))}" for c in CATEGORIES))
 
+    # Idempotent writes for the three small derive outputs that always
+    # carry a build-time timestamp. If the underlying data hasn't
+    # actually changed, these no-op writes used to trigger a commit +
+    # CF build every hour for no reason. See parliamentwatch_text_shards
+    # write_json_idempotent for the full rationale.
     manifest = build_manifest()
-    with open(MANIFEST_JSON, "w", encoding="utf-8") as f:
-        json.dump(manifest, f, ensure_ascii=False, indent=2)
+    if not write_json_idempotent(MANIFEST_JSON, manifest):
+        print("  [skip] manifest.json unchanged")
 
     audit = compute_audit(reports)
-    with open(AUDIT_JSON, "w", encoding="utf-8") as f:
-        json.dump(audit, f, ensure_ascii=False, indent=2)
+    if not write_json_idempotent(AUDIT_JSON, audit):
+        print("  [skip] audit.json unchanged (besides timestamp)")
 
     # Bundle texts. Composite IDs: `central|<file_id>`.
     items: list[tuple[str, Path]] = []
@@ -812,8 +985,14 @@ def phase_derive() -> int:
         "audit":         audit["totals"],
         "text_shards":   text_meta["totals"],
     }
-    with open(META_JSON, "w", encoding="utf-8") as f:
-        json.dump(meta, f, ensure_ascii=False, indent=2)
+    # Idempotent meta write — see manifest/audit above. `elapsed_s` is
+    # timing-variant per run so ignore it; the rest of meta is genuinely
+    # derived from disk state.
+    wrote_meta = write_json_idempotent(
+        META_JSON, meta, ignore_keys=("generated_at", "elapsed_s"),
+    )
+    if not wrote_meta:
+        print("  [skip] derive meta.json unchanged (besides timestamp)")
 
     print(f"[phase_derive] done in {meta['elapsed_s']}s")
     return 0
