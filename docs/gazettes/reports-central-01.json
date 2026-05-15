@@ -16216,6 +16216,144 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-01-05.269151",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-05",
+      "ugid": "269151",
+      "title": "Extrordinary Gazette of India, 2026-01-05",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "20EAIIchanderiabanera",
+      "gazette_id": "CG-RJ-E-07012026-269151",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269151.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-05.269151/269151.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-05.269151",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-05/269151.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-01-05.269150",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-05",
+      "ugid": "269150",
+      "title": "Extrordinary Gazette of India, 2026-01-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Pand M file",
+      "gazette_id": "CG-DL-E-07012026-269150",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269150.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-05.269150/269150.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-05.269150",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-05/269150.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-01-05.269149",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-05",
+      "ugid": "269149",
+      "title": "Extrordinary Gazette of India, 2026-01-05",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "20EAIIchanderiaGangrar",
+      "gazette_id": "CG-RJ-E-07012026-269149",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269149.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-05.269149/269149.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-05.269149",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-05/269149.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-01-05.269148",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-05",
+      "ugid": "269148",
+      "title": "Extrordinary Gazette of India, 2026-01-05",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "20EAIIPUSHKAR",
+      "gazette_id": "CG-RJ-E-07012026-269148",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269148.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-05.269148/269148.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-05.269148",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-05/269148.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-01-05.269147",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-05",
+      "ugid": "269147",
+      "title": "Extrordinary Gazette of India, 2026-01-05",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "7A Notification",
+      "gazette_id": "CG-CG-E-07012026-269147",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269147.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-05.269147/269147.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-05.269147",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-05/269147.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-01-05.269141",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-05",
+      "ugid": "269141",
+      "title": "Extrordinary Gazette of India, 2026-01-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-07012026-269141",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269141.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-05.269141/269141.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-05.269141",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-05/269141.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-01-05.269135",
       "category": "extraordinary",
       "type_letter": "e",
@@ -16745,7 +16883,7 @@
       "topics": []
     }
   ],
-  "count": 728,
+  "count": 734,
   "category": "central",
   "shard_index": 1
 }
