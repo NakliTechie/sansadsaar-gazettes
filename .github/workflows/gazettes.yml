@@ -34,9 +34,14 @@ on:
       enum_stop_after_known:
         description: 'Stop enumerating after N consecutive already-known identifiers'
         default: '200'
+      max_djvu_retry:
+        description: 'Per-run budget for the djvu retry pass (revisit djvu_pending records)'
+        default: '50'
 
 permissions:
   contents: write
+  # Needed for the chain step's `gh workflow run` call (deep-seed sprint).
+  actions: write
 
 concurrency:
   group: gazettes
@@ -45,7 +50,12 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    # Bumped from 60 → 300 to accommodate the deep-seed sprint mode
+    # (high MAX_EXTRACTIONS_PER_RUN + high ENUM_STOP_AFTER_KNOWN walks
+    # back through years of archive.org uploads). Hourly cron-fired
+    # runs stay well under this; this is the safety net for sprint
+    # dispatches.
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
 
@@ -65,11 +75,13 @@ jobs:
         # Split-phase: writers commit reports shards + text/.
         # Derived files owned by gazettes-derive.yml. See CONV.md
         # "Split-phase scraping pattern".
+        id: build
         env:
           BUILD_PHASE:             'extract'
           MAX_EXTRACTIONS_PER_RUN: ${{ inputs.max_extractions       || '50' }}
           MAX_RUN_SECONDS:         ${{ inputs.max_run_seconds        || '900' }}
           ENUM_STOP_AFTER_KNOWN:   ${{ inputs.enum_stop_after_known || '200' }}
+          MAX_DJVU_RETRY_PER_RUN:  ${{ inputs.max_djvu_retry         || '50' }}
           JITTER_MIN_MS:           '200'
           JITTER_MAX_MS:           '400'
         run: python build_gazettes.py
@@ -84,3 +96,37 @@ jobs:
           git commit -m "Auto-update gazettes primary data [$(date -u +%Y-%m-%dT%H:%MZ)]"
           git pull --rebase origin main
           git push
+
+      - name: Chain another deep-seed run if budget remains
+        # Sprint mechanism. Only fires on workflow_dispatch (NOT the
+        # hourly cron — that's the steady-state catch-up; the chain
+        # is for deep-seeding the historical archive.org backlog).
+        # Re-triggers when:
+        #   - we made progress this run (avoids no-op loops)
+        #   - we hit a per-run budget (more work pending)
+        #   - we were NOT rate-limited (don't hammer archive.org;
+        #     the rate-limit cooldown in build_gazettes.py kicks in
+        #     for the next cron firing instead)
+        # Self-terminates when the walk naturally exits (no more
+        # unknown identifiers in the enumeration) — at that point
+        # the build script reports budget_hit=false and we don't
+        # chain. See build_gazettes.py phase_extract for the
+        # GITHUB_OUTPUT emit that drives the gate.
+        if: >-
+          success()
+          && github.event_name == 'workflow_dispatch'
+          && steps.build.outputs.progress != '0'
+          && steps.build.outputs.progress != ''
+          && steps.build.outputs.budget_hit == 'true'
+          && steps.build.outputs.rate_limited != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Deep-seed progress: ${{ steps.build.outputs.progress }} this run, budget_hit=${{ steps.build.outputs.budget_hit }}"
+          echo "Chaining another deep-seed dispatch with the same budget."
+          gh workflow run gazettes.yml \
+            -R ${{ github.repository }} \
+            --field max_extractions=${{ inputs.max_extractions       || '2000' }} \
+            --field max_run_seconds=${{ inputs.max_run_seconds        || '3600' }} \
+            --field enum_stop_after_known=${{ inputs.enum_stop_after_known || '999999' }} \
+            --field max_djvu_retry=${{ inputs.max_djvu_retry         || '200' }}

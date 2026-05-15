@@ -937,6 +937,28 @@ def phase_extract() -> int:
           f"extracted={meta['extracted']}, "
           f"djvu_retry_succeeded={retry_result.get('succeeded', 0)}, "
           f"rate_limited={rate_limited}")
+
+    # Emit outputs for the workflow's chain step (deep-seed sprint).
+    # See .github/workflows/gazettes.yml "Chain another deep-seed run".
+    extracted_count = len(extract_result.get("extracted", []))
+    retry_succeeded = retry_result.get("succeeded", 0)
+    progress = extracted_count + retry_succeeded
+    budget_hit = (
+        extract_result.get("budget_hit", False) or
+        retry_result.get("budget_hit", False)
+    )
+    gh_output_path = os.environ.get("GITHUB_OUTPUT")
+    if gh_output_path:
+        try:
+            with open(gh_output_path, "a", encoding="utf-8") as f:
+                f.write(f"progress={progress}\n")
+                f.write(f"budget_hit={'true' if budget_hit else 'false'}\n")
+                f.write(f"rate_limited={'true' if rate_limited else 'false'}\n")
+            print(f"  workflow outputs: progress={progress} "
+                  f"budget_hit={budget_hit} rate_limited={rate_limited}")
+        except OSError as e:
+            print(f"  (couldn't write GITHUB_OUTPUT: {e})")
+
     return 0 if not rate_limited else 1
 
 
