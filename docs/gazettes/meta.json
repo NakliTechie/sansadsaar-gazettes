@@ -1,13 +1,13 @@
 {
   "phase": "extract",
-  "generated_at": "2026-05-15T14:09:32Z",
-  "elapsed_s": 3602.4,
-  "extracted": 1630,
+  "generated_at": "2026-05-15T15:09:59Z",
+  "elapsed_s": 3604.8,
+  "extracted": 1292,
   "failed": 0,
   "djvu_retry": {
     "attempted": 0,
     "succeeded": 0,
-    "pending_total": 4676,
+    "pending_total": 6303,
     "budget": 200
   },
   "rate_limited": false,
