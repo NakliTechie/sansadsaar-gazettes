@@ -57363,6 +57363,52 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.w.2024-10-12.258099",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-10-12",
+      "ugid": "258099",
+      "title": "Weekly Gazette of India, 2024-10-12",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-22102024-258099",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258099.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-10-12.258099/258099.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-10-12.258099",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-10-12/258099.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2024-10-12.258043",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-10-12",
+      "ugid": "258043",
+      "title": "Weekly Gazette of India, 2024-10-12",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-18102024-258043",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258043.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-10-12.258043/258043.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-10-12.258043",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-10-12/258043.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2024-10-12.258038",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57452,52 +57498,6 @@
       "ia_identifier": "in.gazette.central.e.2024-10-12.258006",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2024-10-12/258006.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-12.258002",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-12",
-      "ugid": "258002",
-      "title": "Extraordinary Gazette of India, 2024-10-12",
-      "ministry": "Indian Bank",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by clause f of sub section 2 of section 19 of the Banking Companies",
-      "gazette_id": "CG-TN-E-17102024-258002",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258002.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.258002/258002.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-12.258002",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-12/258002.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-12.257991",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-12",
-      "ugid": "257991",
-      "title": "Extraordinary Gazette of India, 2024-10-12",
-      "ministry": "Saptagiri Grameena Bank",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by Section 30 read with sub section 1 of Section 17 of the Regional Rural Banks Act",
-      "gazette_id": "CG-TN-E-17102024-257991",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257991.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257991/257991.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-12.257991",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-12/257991.pdf",
       "topics": []
     }
   ],
