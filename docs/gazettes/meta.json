@@ -1,27 +1,13 @@
 {
-  "phase": "derive",
-  "generated_at": "2026-05-15T02:49:22Z",
-  "elapsed_s": 0.0,
-  "totals": {
-    "central": 438
-  },
-  "search_bundle": null,
-  "search_index": null,
-  "audit": {
-    "central_records": 438,
-    "djvu_ok": 3,
-    "djvu_pending": 435,
-    "no_text": 0,
-    "topics_assigned": 0
-  },
-  "text_shards": {
-    "records_with_text": 3,
-    "shards": 1,
-    "r2_fallback": 0,
-    "total_text_bytes": 0,
-    "missing_files": 0,
-    "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 3,
-    "txt_files_removed": 0
+  "phase": "extract",
+  "generated_at": "2026-05-15T04:15:34Z",
+  "elapsed_s": 0.6,
+  "extracted": 0,
+  "failed": 0,
+  "rate_limited": false,
+  "budget": {
+    "max_extractions": 50,
+    "max_run_seconds": 900,
+    "stop_after_known": 200
   }
 }
