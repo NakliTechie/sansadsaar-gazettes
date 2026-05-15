@@ -878,23 +878,41 @@ def phase_extract() -> int:
     + thin meta.json with run stats.
     """
     t_start = time.monotonic()
-    deadline = t_start + MAX_RUN_SECONDS
+    overall_deadline = t_start + MAX_RUN_SECONDS
+
+    # Reserve a slice of the budget for the djvu retry pass at the end.
+    # Without this, the extract walk consumes the full deadline and the
+    # retry pass starts with 0 time remaining — it prints "djvu retry
+    # pool: N pending; budget=M/run" then immediately exits with
+    # `[BUDGET] djvu retry wall-clock budget hit after 0 attempts`.
+    # Diagnosed 2026-05-15 after 5 deep-seed dispatches grew the index
+    # by 4,659 records but produced zero djvu_ok progress.
+    #
+    # Sizing: retry caps at MAX_DJVU_RETRY_PER_RUN records, each ~1-3 s
+    # (single archive.org GET with redirect-follow). Cap reserve at
+    # 1/3 of total budget OR 600 s, whichever is smaller, so the
+    # hourly cron (900 s budget) still gives extract 600 s and the
+    # sprint dispatches (3600 s budget) give extract 3000 s.
+    retry_reserve_seconds = min(600, MAX_RUN_SECONDS // 3)
+    extract_deadline = t_start + (MAX_RUN_SECONDS - retry_reserve_seconds)
 
     print(f"[phase_extract] run start: "
-          f"budget={MAX_EXTRACTIONS_PER_RUN}/{MAX_RUN_SECONDS}s, "
+          f"budget={MAX_EXTRACTIONS_PER_RUN}/{MAX_RUN_SECONDS}s "
+          f"(extract<={MAX_RUN_SECONDS - retry_reserve_seconds}s, "
+          f"retry<={retry_reserve_seconds}s), "
           f"stop_after_known={ENUM_STOP_AFTER_KNOWN}")
 
     existing = load_existing_reports()
     print(f"  existing: " + ", ".join(f"{c}={len(existing.get(c, []))}" for c in CATEGORIES))
 
-    extract_result = walk_archive_and_extract(existing, deadline=deadline)
+    extract_result = walk_archive_and_extract(existing, deadline=extract_deadline)
     rate_limited = extract_result.get("rate_limited", False)
 
     # Retry pass for djvu_pending records — see retry_djvu_pending docstring.
     # Skip if we already hit a rate-limit during extract (budget exhausted
     # AND archive.org is throttling us; back off and let the next run try).
     if not rate_limited:
-        retry_result = retry_djvu_pending(existing, deadline=deadline)
+        retry_result = retry_djvu_pending(existing, deadline=overall_deadline)
         if retry_result.get("rate_limited"):
             rate_limited = True
     else:
