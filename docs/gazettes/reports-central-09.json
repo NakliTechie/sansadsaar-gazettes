@@ -16854,6 +16854,98 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2023-05-12.245849",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-05-12",
+      "ugid": "245849",
+      "title": "Extraordinary Gazette of India, 2023-05-12",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Regarding the appointment of Returning Officer for the Lok Sabha Constituency of Chhattisgarh State",
+      "gazette_id": "CG-DL-E-12052023-245849",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/245849.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-12.245849/245849.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-05-12.245849",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-05-12/245849.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-05-12.245848",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-05-12",
+      "ugid": "245848",
+      "title": "Extraordinary Gazette of India, 2023-05-12",
+      "ministry": "Indian Nursing Council",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act, 1947 XLVIII of 1947, the Indian Nursing Council hereby",
+      "gazette_id": "CG-DL-E-12052023-245848",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/245848.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-12.245848/245848.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-05-12.245848",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-05-12/245848.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-05-12.245847",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-05-12",
+      "ugid": "245847",
+      "title": "Extraordinary Gazette of India, 2023-05-12",
+      "ministry": "Indian Nursing Council",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act",
+      "gazette_id": "CG-DL-E-12052023-245847",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/245847.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-12.245847/245847.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-05-12.245847",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-05-12/245847.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-05-12.245846",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-05-12",
+      "ugid": "245846",
+      "title": "Extraordinary Gazette of India, 2023-05-12",
+      "ministry": "Indian Nursing Council",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act",
+      "gazette_id": "CG-DL-E-12052023-245846",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/245846.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-12.245846/245846.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-05-12.245846",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-05-12/245846.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-05-12.245845",
       "category": "extraordinary",
       "type_letter": "e",
@@ -17222,7 +17314,7 @@
       "topics": []
     }
   ],
-  "count": 749,
+  "count": 753,
   "category": "central",
   "shard_index": 9
 }
