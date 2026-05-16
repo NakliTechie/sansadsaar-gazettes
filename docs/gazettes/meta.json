@@ -1,19 +1,67 @@
 {
-  "phase": "extract",
-  "generated_at": "2026-05-16T22:04:59Z",
-  "elapsed_s": 104.0,
-  "extracted": 0,
-  "failed": 0,
-  "djvu_retry": {
-    "attempted": 50,
-    "succeeded": 50,
-    "pending_total": 28300,
-    "budget": 50
+  "phase": "derive",
+  "generated_at": "2026-05-16T22:06:40Z",
+  "elapsed_s": 51.7,
+  "totals": {
+    "central": 28300
   },
-  "rate_limited": false,
-  "budget": {
-    "max_extractions": 50,
-    "max_run_seconds": 900,
-    "stop_after_known": 200
+  "search_bundle": {
+    "shard_count": 5,
+    "shards": [
+      "search-bundle-00.json",
+      "search-bundle-01.json",
+      "search-bundle-02.json",
+      "search-bundle-03.json",
+      "search-bundle-04.json"
+    ],
+    "shard_sizes": {
+      "search-bundle-00.json": 22480335,
+      "search-bundle-01.json": 22090451,
+      "search-bundle-02.json": 21594276,
+      "search-bundle-03.json": 22274184,
+      "search-bundle-04.json": 4112414
+    },
+    "total": 10433,
+    "truncated": 7534,
+    "head_chars": 5000,
+    "size_bytes": 92551660,
+    "max_shard_bytes": 22480335
+  },
+  "search_index": {
+    "shard_count": 5,
+    "shards": [
+      "search-index-00.json",
+      "search-index-01.json",
+      "search-index-02.json",
+      "search-index-03.json",
+      "search-index-04.json"
+    ],
+    "shard_sizes": {
+      "search-index-00.json": 17687583,
+      "search-index-01.json": 19562739,
+      "search-index-02.json": 21261487,
+      "search-index-03.json": 28251787,
+      "search-index-04.json": 12236691
+    },
+    "total": 10433,
+    "size_bytes": 99000287,
+    "max_shard_bytes": 28251787
+  },
+  "audit": {
+    "central_records": 28300,
+    "djvu_ok": 10433,
+    "djvu_pending": 17867,
+    "no_text": 0,
+    "topics_assigned": 0
+  },
+  "text_shards": {
+    "records_with_text": 10433,
+    "shards": 154,
+    "r2_fallback": 0,
+    "total_text_bytes": 7048481,
+    "missing_files": 0,
+    "skipped_oversize_no_r2": 0,
+    "from_existing_shards": 10383,
+    "txt_files_removed": 50
   }
 }
