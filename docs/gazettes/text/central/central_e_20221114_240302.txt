@@ -1,0 +1,160 @@
+रजिस्ट्री सं . डी . एल . 33004/99 
+
+
+सं . 5064 ] 
+No. 5064 ] 
+
+
+- 
+
+
+भारत 
+
+राजपत्र 
+
+The Gazette of India 
+
+
+सत्यमेव जयते 
+
+का 
+
+
+सी . जी . डी . एल . अ . - 16112022-240302 
+
+- 
+
+
+CG - DL - E - 16112022-240302 
+
+
+7551 GI / 2022 
+
+
+असाधारण 
+
+EXTRAORDINARY 
+
+
+भाग II– खण्ड 3 – उप खण्ड ( ii ) 
+PART II — Section 3 – Sub - section ( ii ) 
+
+
+प्राधिकार से प्रकाशित 
+
+PUBLISHED BY AUTHORITY 
+
+
+REGD . No. D. L. - 33004 / 99 
+
+
+नई दिल्ली , सोमवार , नवम्बर 14 , 2022 / कार्तिक 23 , 1944 
+
+NEW DELHI , MONDAY , NOVEMBER 14 , 2022 / KARTIKA 23 , 1944 
+
+
+इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 
+अधिसूचना 
+
+नई दिल्ली , 14 नवंबर , 2022 
+
+का.आ. 5284 ( अ ) . –केंद्रीय सरकार , सूचना प्रौद्योगिकी अधिनियम , 2000 ( 2000 का 21 ) की धारा 70 की 
+उप - धारा ( 1 ) और उप - धारा ( 2 ) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए , यूनियन बैंक ऑफ इंडिया और इसके सहयुक्त 
+आश्रितताओं के कंप्यूटर संसाधनोंको नाजुक सूचना अवसंरचना होने के कारण महत्वपूर्ण बैंककारी समाधान ( कोर बैंकिंग 
+के 
+सोल्यूशन ) , वास्तविक समय समग्र निपटान ( रियल टाइम ग्रॉस सेटलमेंट ) , राष्ट्रीय इलैक्ट्रोनिकी निधि अंतरण ( नेशनल 
+इलेक्ट्रॉनिक फंड ट्रांसफर ) , तुरंत भुगतान सेवा स्विच ( इमीडिएट पेमेंट सर्विस स्वित्र ) , स्वचालित टेलर मशीन स्विच 
+( ऑटोमेटिड टेलर मशीन स्विच ) और एकीकृत भुगतान इंटरफेस स्विच ( यूनिफाइड पेमेंट्स इंटरफेस स्वित्र ) से संबंधित 
+कंप्यूटर संसाधनों को , उक्त अधिनियम के प्रयोजन के लिए एतद्वारा संरक्षित प्रणाली घोषित करती है और निम्नलिखित 
+कार्मिकों को संरक्षित प्रणालियों तक पहुंच बनाने के लिए प्राधिकृत करती है , अर्थात् : 
+
+
+( क ) संरक्षित प्रणाली तक पहुंच बनाने के लिए , यूनियन बैंक ऑफ इंडिया द्वारा लिखित रूप में प्राधिकृत यूनियन 
+बैंक ऑफ इंडिया का कोई अभिहित कर्मचारी ; 
+
+
+- 
+
+( ख ) संविदात्मक प्रबंधित सेवा प्रदाता या तृतीय पक्षकार विक्रेता के दल का कोई सदस्य जिसे आवश्यकता के 
+आधार पर पहुंच बनाने के लिए यूनियन बैंक ऑफ इंडिया द्वारा लिखित रूप में प्राधिकृत किया गया और 
+
+
+( ग ) मामला दर मामला के आधार पर , यूनियन बैंक ऑफ इंडिया द्वारा लिखित रूप में प्राधिकृत कोई परामर्शी , 
+विनियामक , सरकारी पदाधिकारी , संपरीक्षक और पणधारी । 
+2. यह अधिसूचना राजपत्र में इसके प्रकाशन की तिथि से प्रभावी होगी । 
+
+
+( 1 ) 
+
+
+[ फा . सं . 2 ( 5 ) / 2022 - सीएल ] 
+अमित अग्रवाल , अपर सचिव 
+
+
+2 
+
+
+( b ) 
+
+
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+
+NOTIFICATION 
+
+New Delhi , the 14th November , 2022 
+
+S.O. 5284 ( E ) .— In exercise of the powers conferred by sub - sections ( 1 ) and ( 2 ) of section 70 of the 
+Information Technology Act , 2000 ( 21 of 2000 ) , the Central Government hereby declares the computer resources 
+relating to the Core Banking Solution , Real Time Gross Settlement , National Electronic Fund Transfer , Immediate 
+Payment Service Switch , Automated Teller Machine Switch and Unified Payments Interface Switch , being Critical 
+Information Infrastructure of the Union Bank of India , and the computer resources of its associated dependencies to be 
+protected systems for the purpose of the said Act and authorises the following personnel to access the protected 
+systems , namely : - 
+
+( a ) 
+
+
+( c ) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+2 . 
+
+
+[ PART II - SEC . 3 ( ii ) ] 
+
+
+any designated employee of the Union Bank of India authorised in writing by the Union Bank of India to 
+access the protected system ; 
+
+
+any team member of contractual managed service provider or third - party vendor who have been authorised in 
+writing by the Union Bank of India for need - based access ; and 
+
+
+any consultant , regulator , Government official , auditor and stakeholder authorised in writing by the Union 
+Bank of India on case to case basis . 
+
+This notification shall come into force on the date of its publication in the Official Gazette . 
+
+
+[ F. No. 2 ( 5 ) / 2022 - CL ] 
+AMIT AGRAWAL , Addl . Secy . 
+
+
+Uploaded by Dte . of Printing at Government of India Press , Ring Road , Mayapuri , New Delhi - 110064 
+and Published by the Controller of Publications , Delhi - 110054 . MANOJ KUMAR 
+
+VERMA 
+
+
+Digitally signed by MANOJ KUMAR 
+
+VERMA 
+
+
+Date : 2022.11.16 11 : 36 : 25 + 05 : 30 
+
+

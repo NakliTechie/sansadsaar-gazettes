@@ -1,0 +1,102 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. D. L.-33004/99 
+
+
+Wea & राजपत्र 
+
+
+Che Gazette of JSndia 
+
+
+Ol. oil. -ST. Wet. -37.-62022-240303 
+CG-DL-E-62022-240303 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग [I—avs ३--उप-खण्ड (ii) 
+PART IJ—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 5065] नई दिल्ली, सोमवार, नवम्बर 4, 2022/कार्तिक 23, 944 
+No. 5065] NEW DELHI, MONDAY, NOVEMBER 4, 2022/KARTIKA 23, 944 
+
+
+इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 74 नवंम्बर, 2022 
+
+का.आ. 5285(अ).-केंद्रीय सरकार, सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 2) की धारा 70 की 
+उप-धारा () और उप-धारा (2) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए, पंजाब नेशनल बैंक और इसके सहयुक्त 
+आश्रितताओं के कंप्यूटर संसाधनों को नाजुक सूचना अवसंरचना होने के कारण महत्वपूर्ण बैंककारी समाधान (कोर बैंकिंग 
+सोल्यूशन), वास्तविक समय समग्र निपटान (रियल टाइम ग्रॉस सेटलमेंट), राष्ट्रीय इलैक्ट्रोनिकी निधि अंतरण (नेशनल 
+इलेक्ट्रॉनिक फंड ट्रांसफर), तुरंत भुगतान सेवा स्विच (इमीडिएट पेमेंट सर्विस स्विच), स्वचालित टेलर मशीन स्विच 
+(ऑटोमेटिड टेलर मशीन स्विच),एकीकृत भुगतान इंटरफेस स्विच (यूनिफाइड पेमेंट्स इंटरफेस स्विच) और सोसाइटी 
+फॉरवल्ड वाइडइंटर बैंक फाइनेंशियल टेलीकम्यूनिकेशन सिस्टमस से संबंधित कंप्यूटर संसाधनों को, उक्त अधिनियम के 
+प्रयोजन के लिए एतद्दारा संरक्षित प्रणाली घोषित करती है और निम्नलिखित कार्मिकों को संरक्षित प्रणालियों तक पहुंच 
+बनाने के लिए प्राधिकृत करती है, अर्थात्‌ :- 
+
+(क) संरक्षित प्रणाली तक पहुंच बनाने के लिए, पंजाब नेशनल बैंक द्वारा लिखित रूप में प्राधिकृत पंजाब नेशनल 
+
+बैंक का कोई अभिहित कर्मचारी; 
+
+(ख) संविदात्मक प्रबंधित सेवा-प्रदाता या तृतीय पक्षकार विक्रेता के दल का कोई सदस्य जिसे आवश्यकता के 
+
+आधार पर पहुंच बनाने के लिए पंजाब नेशनल बैंक द्वारा लिखित रूप में प्राधिकृत किया गया है;और 
+
+(ग) मामला दर मामला के आधार पर, पंजाब नेशनल बैंक द्वारा लिखित रूप में प्राधिकृत कोई परामर्शी, 
+
+विनियामक, सरकारी पदाधिकारी, संपरीक्षक और पणधारी। 
+
+
+2. यह अधिसूचना राजपत्र में इसके प्रकाशन की तिथि से प्रभावी होगी। 
+
+
+[फा. सं.2(5)/2022-सीएल] 
+अमित अग्रवाल, अपर सचिव 
+
+
+7552 GI/2022 () 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+NOTIFICATION 
+New Delhi, the 4th November, 2022 
+
+
+99.0. 5285(E).—In exercise of the powers conferred by sub-sections (l) and (2) of section 70 of the 
+Information Technology Act, 2000 (2l of 2000), the Central Government hereby declares the computer resources 
+relating to the Core Banking Solution, Real Time Gross Settlement, National Electronic Fund Transfer, Immediate 
+Payment Service Switch, Automated Teller Machine Switch, Unified Payments Interface Switch and Society for 
+Worldwide Interbank Financial Telecommunications Systems, being Critical Information Infrastructure of the Punjab 
+National Bank, and the computer resources of its associated dependencies to be protected systems for the purpose of 
+the said Act and authorises the following personnel to access the protected systems, namely: - 
+
+
+(a) any designated employee of the Punjab National Bank authorised in writing by the Punjab National 
+Bank to access the protected system; 
+
+
+(b) any team member of contractual managed service provider or third-party vendor who have been 
+authorised in writing by the Punjab National Bank for need-based access; and 
+
+
+(c) any consultant, regulator, Government official, auditor and stakeholder authorised in writing by the 
+Punjab National Bank on case to case basis. 
+
+
+2. This notification shall come into force on the date of its publication in the Official Gazette. 
+[F. No. 2(5)/2022-CL] 
+AMIT AGRAWAL, Addl. Secy. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-]]0054. mavorruman —gypsmnnusean 
+
+
