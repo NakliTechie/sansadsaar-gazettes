@@ -1,0 +1,1172 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 २८७0. No. 0. L.-33004/99 
+
+
+Jiitd = राज्जपतन्र 
+Che Gazette of Jndia 
+
+
+Ot. GH. -S7. Wet. -37.-29052023-24645 
+CG-DL-E-29052023-24645 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग प--खण्ड ३---उप-खण्ड (ii) 
+PART II—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 2255] नई दिल्‍ली, सोमवार, मई 29, 2023/ज्येष्ठ 8, 945 
+No. 2255] NEW DELHI, MONDAY, MAY 29, 2023/JYAISHTHA 8, 945 
+वित्त मंत्रालय 
+(राजस्व विभाग) 
+(केंद्रीय प्रत्यक्ष कर बोर्ड) 
+अधिसूचना 
+नई दिल्‍ली, 29 मई, 2023 
+(आय-कर) 
+
+
+का.आ. 2352(अ).--केंद्रीय सरकार, आय-कर अधिनियम, 7967 (964 का 43) की धारा 246 की 
+उपधारा (5) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए निम्नलिखित स्कीम बनाती है, अर्थात्‌ :- 
+
+
+4. संक्षिप्त नाम और प्रारंभ - () इस स्कीम का संक्षिप्त नाम ई-अपील स्कीम, 2023 है। 
+(2) यह राजपत्र में उसके प्रकाशन की तारीख को प्रवृत्त होगी । 
+
+2. परिभाषाएं - (4) इस स्कीम में जब तक संदर्भ से अन्यथा अपेक्षित न हों,- 
+(i) “अधिनियम” से आय-कर, अधिनियम, 796 (796 का 43) अभिप्रेत है ; 
+
+
+(ii) “प्रेषिती” का वही अर्थ होगा, जो उसका सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 24) की धारा 2 
+की उपधारा () के खंड (ख) में है ; 
+
+
+(iii) “अपील” से अधिनियम की धारा 246 की उपधारा (4) या धारा 246क के अधीन किसी व्यक्ति द्वारा फाइल 
+की गई अपील afar है ; 
+
+
+3408 GI/2023 (.) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+(iv) “अपीलार्थी” से वह व्यक्ति अभिप्रेत है, जो अधिनियम की धारा 246 या धारा 246% के अधीन अपील फाइल 
+करता है ; 
+
+(५) “प्राधिकृत प्रतिनिधि" का वही अर्थ होगा, जो उसका सूचना अधिनियम की धारा 288 की उपधारा (2) में है ; 
+(vi) “स्वतः आबंटन प्रणाली” से संसाधनों के अनुकूलतम उपयोग की दृष्टि से उपयुक्त प्रौद्योगिकी टूल्स, जिसके 
+अंतर्गत कृत्रिम बुद्धिमत्ता और मशीन लर्निंग है, का उपयोग करके मामलों का यादृच्छिक आबंटन हेतु एल्गोरिधम 
+अभिय्रेत है; 
+
+(vii) “कंप्यूटर प्रणाली” का वही अर्थ होगा, जो उसका सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 24) की 
+धारा 2 की उपधारा (॥) के खंड (5) में है ; 
+
+(शा) “अपीलार्थी के कंप्यूटर संसाधन” में आय-कर विभाग के अभिहित पोर्टल या मोबाईल एप्प जो रजिस्ट्रीकृत 
+मोबाइल नंबर या रजिस्ट्रीकृत ई-मेल अकाउंट से संबद्ध है, में अपीलार्थी का रजिस्ट्रीकृत अकाउंट सम्मिलित 
+होगा ; 
+
+(ix) “डिजिटल हस्ताक्षर” का वही अर्थ होगा, जो उसका सूचना प्रौद्योगिकी अधिनियम, 2000 की धारा 2 की 
+उपधारा (॥) के खंड (त) में है ; 
+
+(x) “अभिहित पोर्टल” से प्रधान मुख्य आय-कर आयुक्त या प्रधान महा निदेशक या आय-कर महानिदेशक (प्रणाली) 
+द्वारा वैब पोर्टल के रूप में अभिहित alas है; 
+
+(xi) “ई-अपील” से अभिहित पोर्टल में अपीलार्थी के रजिस्ट्रीकृत अकाउंट के माध्यम से 'ई-अपील' सुविधा में 
+इलैट्रानिकी रूप से संचालित अपीलीय कार्यवाहियां अभिप्रेत है ; 
+
+(xii) “इलैक्ट्रानिक अभिलेख” का वही अर्थ होगा, जो उसका सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 
+24) की धारा 2 की उपधारा (॥) के खंड (न) में है ; 
+
+(xiii) “ई-मेल” या “इलैक्ट्रानिक मेल” और “इलैक्ट्रानिक मेल मैसेज” से किसी कंप्यूटर, कंप्यूटर प्रणाली, कंप्यूटर 
+संसाधन या संचार युक्ति, जिसके अंतर्गत किसी टेक्‍्सट, इमेज, आडियो, वीडियो और किसी अन्य इलैक्ट्रानिकी 
+अभिलेख में सृजित या पारेषित या प्राप्त किया गया कोई संदेश या सूचना अभिप्रेत है, जिसको संदेश के साथ 
+पारेषित किया जा सकता है ; 
+
+
+(xiv) “मोबाइल एप्प” से मोबाइल युक्तियों के लिए विकसित आय-कर विभाग को अनुपयोग साफ्टवेयर अभिपष्रेत 
+होगा, जिसको आवेदक के रजिस्ट्रीकृत मोबाइल नंबर पर डाउनलोड और प्रतिष्ठापित किया जाता है ; 
+
+
+(xv) “राष्ट्रीय पहचान विहीन अपील केन्द्र” से पहचान विहीन अपील स्कीम, 2024 के अधीन स्थापित और 
+अधिसूचित राष्ट्रीय पहचान विहीन अपील केन्द्र होगा ; 
+
+
+(xvi) “वास्तविक समय सतर्कता” से अपीलार्थी के रजिस्ट्रीकृत मोबाइल नंबर पर लघु संदेश सेवा के माध्यम से या 
+उसकी मोबाइल एप्प पर अपडेट के माध्यम से या उसके रजिस्ट्रीकृत ई-मेल पते पर ई-मेल के माध्यम से भेजा गई 
+कोई संसूचना अभिप्रेत है, जिससे उसे किसी इलैक्ट्रानिटी संसूचना के परिदान के संबंध में सतर्क किया जा सके ; 
+
+
+(xvii) अपीलार्थी के “रजिस्ट्रीकृत अकाउंट” से अभिहित पोर्टल में अपीलार्थी द्वारा रजिस्ट्रीकृत इलैक्ट्रानिकी 
+फाइलिंग अकाउंट afar है ; 
+
+
+(xviii) “रजिस्ट्रीकृत ई-मेल पता” से वह ई-मेल पता अभिप्रेत है, जिस पर प्रेषिती को कोई इलैक्ट्रानिकी संसूचना 
+परिदत्त या पारेषित की जा सकती है, जिसके अंतर्गत - 
+
+
+(क) अभिहित पोर्टल में रजिस्ट्रीकृत प्रेषिती के इलैट्रानिकी फाइलिंग अकाउंट में उपलब्ध ई-मेल पता ; या 
+(ख) प्रेषिती द्वारा प्रस्तुत अंतिम आय-कर विवरणी में उपलब्ध ई-मेल पता ; या 
+ग) प्रेषिती से संबंधित स्थायी लेखा संख्यांक, डाटा बेस में उपलब्ध ई-मेल पता ; या 
+
+
+( 
+(घ) प्रेषिती के कोई व्यष्टि होने की दशा में, जिसके पास आधार नंबर है, भारतीय विशिष्ट पहचान 
+प्राधिकरण के डाटा बेस में उपलब्ध प्रेषिती का ई-मेल पता ; या 
+
+
+[भाग W—ears 3(ii)] भारत का राजपत्र : असाधारण 3 
+
+
+(ड) प्रेषिती के कोई कंपनी होने की दशा में, कार्पोरेट कार्य मंत्रालय की शासकीय वेब साइट में उपलब्ध 
+कंपनी का ई-मेल पता ; या 
+
+
+(च) प्रेषिती द्वारा आय-कर प्राधिकारी या ऐसे प्राधिकारी द्वारा प्राधिकृत किसी व्यक्ति को उपलब्ध 
+कराया गया ई-मेल पता, सम्मिलित हैं ; 
+(xix) “रजिस्ट्रीकृत मोबाइल नंबर” से अपीलार्थी या उसके प्राधिकृत प्रतिनिधि का मोबाइल नंबर अभिप्रेत है जो 
+अभिहित पोर्टल में अपीलार्थी द्वारा रजिस्ट्रीकृत इलैक्ट्रोनिक फाइलिंग अकाउंट की उपयोगकर्ता प्रोफाइल में 
+उपदर्शित होता है ; 
+(xx) “नियम” से आय-कर नियम, 7962 ata है ; और 
+(xxi) “वीडियो कोंफ्रेसिंग या वीडियो टेलीफोनी” से उपयोगकर्ताओं द्वारा विभिन्न अवस्थानों पर वास्तविक समय 
+में लोगों के बीच संचार के लिए ओडियो-वीडियो संकेतों की प्राप्ति और पारेषण के लिए प्रौद्योगिकी समाधान 
+अभिप्रेत हैं ; 
+(2) शब्द और पद, जो इसमें प्रयुक्त है और परिभाषित नहीं है किंतु अधिनियम में परिभाषित है, का क्रमशः वही अर्थ होगा, 
+जो उनका अधिनियम में है। 
+3. स्कीम का विस्तार - स्कीम सिवाय धारा 246 की उपधारा (6) के अधीन अपवर्जेत मामलों के, ऐसे व्यक्तियों या 
+व्यक्तियों के वर्ग, आय या आय के वर्ग, मामलों या मामलों के वर्ग, जो अधिनियम की उस धारा के अधीन आते हैं, के संबंध 
+में अपीलों के लिए लागू होगी | 
+4. स्कीम के अधीन अपील प्राधिकारी - (4) संयुक्त आयुक्त (अपील) [जिसे इसमें इसके पश्चात्‌ जेसीआईटी (अपील) कहा 
+गया है] उसके समक्ष फाइल की गई अपील या उसे आबंटित या अंतरित की गई अपील का इस स्कीम के उपबंधों के अनुसार 
+निपटान करेगा | 
+(2) जेसीआईटी (अपील) के पास अपीलों के निपटान में सहायता करने के लिए, ऐसा आय-कर प्राधिकारी, अनुसचिवीय 
+कर्मचारिवृंद, कार्यपालक या सलाहकार होंगे, जो बोर्ड द्वारा आवश्यक समझे जाए। 
+5. अपीलों का आबंटन - यथास्थिति, आय-कर प्रधान महानिदेशक (प्रणाली) या आय-कर महानिदेशक (प्रणाली) केन्द्रीय 
+
+
+प्रत्यक्ष कर बोर्ड के अनुमोदन से, जेसीआईटी (अपील) को पैरा 3 में निर्दिष्ट अपीलों के यादृच्छिक आबंटन या अंतरण के लिए 
+प्रक्रिया तैयार करेगा | 
+
+
+6. अपील की प्रक्रिया - (4) पैरा 3 में निर्दिष्ट अपील का निपटान जेसीआईटी (अपील) द्वारा इस स्कीम के अधीन 
+निम्नलिखित प्रक्रिया के अनुसार किया जाएगा, अर्थात्‌ :- 
+(l) जेसीआईटी (अपील), किसी अपील को सौंपे जाने पर,- 
+
+
+(क) यदि अपील अधिनियम की धारा 249 के अधीन अनुज्ञात समय से परे फाइल की गई है तो अपील 
+फाइल करने में विलंब को माफ कर सकेगा और खंड (IX) के अधीन पारित अपील आदेश में ऐसे माफ 
+करने या अन्यथा के कारणों को लेखबद्ध करेगा ; 
+
+(ख) अपीलार्थी को नोटिस देगा, जिसमें विनिर्दिष्ट तारीख और समय के भीतर अपनी दलील प्रस्तुत करने 
+के लिए कहेगा और ऐसे नोटिस की एक प्रति निर्धारण अधिकारी को भेजेगा ; 
+
+
+(ग) अपीलार्थी या किसी अन्य व्यक्ति से और सूचना, दस्तावेज या साक्ष्य अभिप्राप्त कर सकेगा ; 
+
+
+(घ) अपील या अपीलार्थी द्वारा प्रस्तुत सूचना, दस्तावेज या साक्ष्य के आधारों पर निर्धारण अधिकारी से 
+रिपोर्ट अभिप्राप्त कर सकेगा ; 
+
+(=) अधिनियम की धारा 250 की उपधारा (4) के अधीन निर्धारण अधिकारी से और जांच करने का और 
+उसकी रिपोर्ट प्रस्तुत करने का अनुरोध कर सकेगा ; 
+
+(a) अपीलार्थी या किसी अन्य व्यक्ति या निर्धारण अधिकारी को, विनिर्दिष्ट तारीख और समय पर, 
+
+
+यथास्थिति, ऐसी सूचना, दस्तावेज या साक्ष्य या रिपोर्ट प्रस्तुत करने के लिए नोटिस की तामील कर 
+सकेगा, जो उसके द्वारा विनिर्दिष्ट किया जाए या अपीलीय कार्यवाहियों से सुसंगत हों ; 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+(Il) यथास्थिति, अपीलार्थी या कोई अन्य व्यक्ति खंड (|) के उपखंड (ख), उपखंड (ग) या उपखंड (च) में यथा 
+अपेक्षित प्रत्युत्तर, उसमें विनिर्दिष्ट तारीख और समय या ऐसी विस्तारित तारीख और समय के भीतर, इस निमित्त 
+किए गए आवेदन के आधार पर अनुज्ञात की जाए, जो जेसीआईटी (अपील) को प्रस्तुत करेगा ; 
+
+(Ill) निर्धारण अधिकारी खंड (|) के उपखंड (घ), उपखंड (ड या उपखंड (च) के अधीन यथा अपेक्षित रिपोर्ट, 
+उसमें विनिर्दिष्ट तारीख और समय या ऐसी विस्तारित तारीख और समय के भीतर प्रस्तुत करेगा, जो जेसीआईटी 
+(अपील) को इस निमित्त किए गए आवेदन के आधार पर अनुज्ञात की जाए ; 
+
+
+(IV) अपीलार्थी जेसीआईटी (अपील) को उसके द्वारा पारित अपील में, ऐसे आधारों का लोप किए जाने के कारणों 
+को विनिर्दिष्ट करते हुए अपील के अतिरिक्त आधार ऐसे प्ररूप में फाइल कर सकेगा, जो विनिर्दिष्ट किया जाए ; 
+
+
+(V) जब अपील के लिए अतिरिक्त आधार फाइल किया जाता है,- 
+
+
+(क) जेसीआईटी (अपील) अधिनियम की धारा 743 की उपधारा (4) या अधिनियम की धारा 200क के 
+अधीन या किसी ऐसे अन्य मामले में, जहां अपील योग्य आदेश केन्द्रीय प्रसंस्करण केन्द्र द्वारा पारित कोई 
+आदेश है, पारित आदेश की दशा में, ऐसे अतिरिक्त आधारों को स्वीकार करेगा । 
+
+
+(ख) किसी अन्य मामले में, जेसीआईटी (अपील) अतिरिक्त आधार को टिप्पणियां, यदि कोई हों, प्रदान 
+करने के लिए निर्धारण अधिकारी को भेजेगा ; 
+(ग) निर्धारण अधिकारी विनिर्दिष्ट तारीख और समय के भीतर या ऐसी विस्तारित तारीख और समय के 
+भीतर, जो इस निमित्त को किए गए आवेदन के आधार पर अनुज्ञात की जाए, जेसीआईटी (अपील) 
+अपनी टिप्पणियां प्रस्तुत करेगा ; 
+(घ) जेसीआईटी (अपील) निर्धारण अधिकारी से प्राप्त टिप्पणियां, यदि कोई हों, पर विचार करने के 
+पश्चात्‌,- 
+(अ) यदि उसका यह समाधान हो जाता है कि अपील के ज्ञापन से ऐसे अतिरिक्त आधार का 
+लोप जानबूझकर नहीं था या पर्याप्त कारण थे, ऐसे अतिरिक्त आधार को स्वीकार करेगा ; या 
+(आ) किसी अन्य दशा में खंड (IX) के अधीन पारित अपील आदेश में कारणों को लेखबद्ध करते 
+हुए अतिरिक्त आधार को स्वीकार नहीं करेगा ; 
+(VI) अपीलार्थी, उसके द्वारा निर्धारण अधिकारी के समक्ष कार्यवाहियों के प्रक्रम में प्रस्तुत साक्ष्य से भिन्न अतिरिक्त 
+साक्ष्य को जेसीआईटी (अपील) को ऐसे प्ररूप में, जो विनिर्दिष्ट किया जाए, विनिर्दिष्ट करते हुए कि उसका मामला 
+किस प्रकार नियमों के नियम 46क के उपनियम (॥) में विनिर्दिष्ट आपवादिक परिस्थितियों के अधीन आता है, 
+प्रस्तुत कर सकेगा ; 
+(VIL) जब अतिरिक्त साक्ष्य प्रस्तुत किया जाता है,- 
+(क) जेसीआईटी (अपील) अधिनियम की धारा 443 की उपधारा () या धारा 200क के अधीन या 
+
+
+किसी अन्य मामलें में, जहां अपील किया जा सकने वाला आदेश, केन्द्रीय प्रसंस्करण केन्द्र द्वारा पारित 
+कोई आदेश है, पारित आदेशों की दशा में ऐसे अतिरिक्त साक्ष्य को स्वीकार करेगा ; 
+
+
+(ख) किसी अन्य मामले में, जेसीआईटी (अपील) अतिरिक्त साक्ष्य को नियमों के नियम 46क के अनुसार 
+अतिरिक्त साक्ष्य की अनुज्ञेयता पर रिपोर्ट प्रस्तुत करने के लिए निर्धारण अधिकारी को भेजेगा ; 
+
+
+(ग) निर्धारण अधिकारी उपखंड (ख) में निर्दिष्ट रिपोर्ट को ऐसे तारीख और समय के भीतर, जो विनिर्दिष्ट 
+किया जाए, या ऐसी विस्तारित तारीख और समय के भीतर, जो इस निमित्त किए गए आवेदन के आधार 
+पर अनुज्ञात की जाए, जेसीआईटी (अपील) को प्रस्तुत करेगा ; 
+
+(घ) जेसीआईटी (अपील) निर्धारण अधिकारी द्वारा प्रस्तुत अतिरिक्त साक्ष्य और रिपोर्ट, यदि कोई हो, 
+पर विचार करने के पश्चात्‌ कारणों को लेखबद्ध करते हुए अतिरिक्त साक्ष्य को स्वीकार या अस्वीकार कर 
+सकेगा और वह खंड (IX) के अधीन पारित अपील आदेश का एक भाग बनेगा ; 
+
+(=) जेसीआईटी (अपील) यदि ऐसे साक्ष्य को स्वीकार करता है, ऐसे साक्ष्य को अपील कार्यवाहियों में 
+गणना में लेने से पूर्व ऐसे साक्ष्य की जांच करने या ऐसे साक्ष्यों की प्रति परीक्षा करने के लिए जैसा कि 
+
+
+[भाग W—ears 3(ii)] भारत का राजपत्र : असाधारण 5 
+
+
+अपीलार्थी द्वारा प्रस्तुत किया जाए या अपीलार्थोी द्वारा प्रस्तुत किसी साक्ष्य या दस्तावेज या किन्हीं 
+साक्ष्यों के साक्ष्य या साक्षियों का खंडन करने के लिए निर्धारण अधिकारी अवसर प्रदान करने हेतु को एक 
+नोटिस तैयार करेगा और उसकी एक रिपोर्ट प्रस्तुत करेगा तथा ऐसे नोटिस को निर्धारण अधिकारी को 
+भेजेगा ; 
+
+
+(च) निर्धारण अधिकारी विनिर्दिष्ट तारीख और समय के भीतर या ऐसी विस्तारित तारीख और समय, 
+जो इस निमित्त किए गए आवेदन के आधार अनुज्ञात किया जाए, जेसीआईटी (अपील) को रिपोर्ट प्रस्तुत 
+करेगा ; 
+
+
+(छ) निर्धारण अधिकारी जेसीआईटी (अपील) को अपीलार्थी द्वारा किसी दस्तावेज या साक्ष्य को प्रस्तुत 
+करने या किसी साक्षी की जांच करने, जो अपीलीय कार्यवाहियों से सुसंगत हों, का निदेश देने का 
+अनुरोध कर सकेगा ; 
+(ज) जेसीआईटी (अपील) खंड (|) के उपखंड (ग) या उपखंड (ड) में निर्दिष्ट अपीलीय कार्यवाहियों में 
+जांच करने के प्रयोजनों के लिए या जब उपखंड (छ) में निर्दिष्ट अनुरोध प्राप्त किया जाता है, यदि वह 
+ठीक समझता है तो - 
+(अ) अपीलार्थी को ऐसा दस्तावेज या साक्ष्य, जो वह विनिर्दिष्ट करें, प्रस्तुत करने का निदेश देते 
+हुए; या 
+(आ) किसी अन्य व्यक्ति, जो साक्षी है, की परीक्षा करने के लिए ; 
+नोटिस भेज सकेगा ; 
+
+
+(झ) यथास्थिति, अपीलार्थी या अन्य व्यक्ति उपखंड (ज) में निर्दिष्ट नोटिस का प्रत्युत्तर नोटिस में 
+विनिर्दिष्ट तारीख और समय या ऐसी विस्तारित तारीख और समय, जो इस निमित्त किए गए आवेदन के 
+आधार पर अनुज्ञात किया जाए, जेसीआईटी (अपील) को प्रस्तुत करेगा ; 
+(VII) जब जेसीआईटी (अपील) किसी निर्धारण या किसी शास्ति में वृद्धि करने या प्रतिदाय की रकम को कम 
+करने का आशय रखता है,- 
+
+
+(क) जेसीआईटी (अपील), यथास्थिति, ऐसी वृद्धि या कम करने के कारणों को अंतर्विष्ट करते हुए एक 
+हेतुक उपदर्शित करने का नोटिस तैयार करेगा और नोटिस की अपीलार्थी को तामील करेगा ; 
+
+
+(ख) अपीलार्थी, नोटिस में विनिर्दिष्ट समय और तारीख के भीतर या इस निमित्त किए गए आवेदन के 
+आधार पर ऐसी तारीख और बढ़ाए गए समय तक जो अनुज्ञात किया जाए, जेसीआईटी (अपील) को 
+अपना उत्तर प्रस्तुत करेगा | 
+
+
+(IX) जेसीआईटी (अपील), इसके पश्चात्‌ निम्नलिखित करेगा, - 
+
+
+(क) अधिनियम की धारा 25 के उपबंधों के अनुसार कोई अपील आदेश, अवधारण के लिए बिंदुओं, उन पर लिए गए 
+विनिश्चय और विनिश्चय के कारणों का कथन करते हुए, लिखित में तैयार करेगा; और 
+
+
+(a) अपीलार्थी को ऐसा आदेश डिजिटल रुप से हस्ताक्षर करने के पश्चात्‌ शास्ति की कार्यवाहियों के ब्यौरों सहित, यदि 
+कोई है, प्रारंभ लिए जाने के लिए भेजेगा; 
+
+(ग) 250 की उपधारा (7) के अनुरुप, प्रधान मुख्य आयुक्त या प्रधान आयुक्त या प्रधान आयुक्त या आयुक्त को ऐसा आदेश 
+संसूचित करेगा; 
+
+(घ) ऐसा आदेश निर्धारण अधिकारी को ऐसी कार्यवाही करने के लिए संसूचित करेगा जो अधिनियम के अधीन अपेक्षित हो; 
+
+
+(ड.) जहां आदेश में शास्ति के प्रारंभ की सिफारिश की गई हो, वहां अपीलार्थी पर नोटिस की तामील यह कारण दर्शाने के 
+लिए करेगा कि अधिनियम के सुसंगत उपबंधों के अधीन उस पर शास्ति अधिरोपित क्‍यों नहीं की जानी चाहिए । 
+
+(2) उपधारा (॥) में अंतर्विष्ट किसी बात के होते हुए भी, अपील कार्यवाहियों के किसी भी स्तर पर, यदि आवश्यक समझी 
+जाए, अधिनियम की धारा 420 के अनुसार किसी आदेश द्वारा ऐसे जेसीआईटी (अपील) जो आदेश में विनिर्दिष्ट किया 
+जाए, को हस्तांरित की जा सकेगी । 
+
+
+6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+7. शास्ति कार्यवाहियां - (4) जेसीआईटी (अपील), अपील कार्यवाहियों के अनुक्रम में, इस स्कीम के अधीन जारी किसी 
+नोटिस, निदेश या आदेश की, यथास्थिति, अपीलार्थी की ओर से या किसी अन्य व्यक्ति द्वारा गैर-अनुपालना के लिए 
+अपीलार्थी या किसी अन्य व्यक्ति को नोटिस की तामील किसी शास्ति कार्यवाहियों को प्रारंभ करने के लिए यह कारण 
+बताने के लिए करेगा कि अधिनियम के सुसंगत उपबंधों के अधीन उस पर शास्ति अधिरोपित क्यों नहीं की जानी चाहिए। 
+
+
+(2) यथास्थिति, अपीलार्थी या कोई अन्य व्यक्ति इस पैरा के उपपैरा (॥) में निर्दिष्ट कारण बताओ नोटिस या पैरा 6 की 
+उपधारा (॥) के खंड (ix) के उपखंड (ड.) का उत्तर ऐसे नोटिस में विनिर्दिष्ट समय और तारीख के भीतर या ऐसे विस्तारित 
+समय और तारीख के भीतर जो इस निमित्त किए गए आवेदन के आधार पर अनुज्ञात किया जाए, जेसीआईटी (अपील) को 
+प्रस्तुत करेगा। 
+
+
+(3) जेसीआईटी (अपील), रिकार्ड पर उपलब्ध सभी सुसंगत सामग्री को विचार में लेने के पश्चात्‌, जिसके अंतर्गत 
+यथास्थिति, अपीलार्थी या किसी अन्य व्यक्ति द्वारा प्रस्तुत किए गए उत्तर भी हैं, यदि कोई हो, - 
+
+
+(क) शास्ति आदेश तैयार करेगा और डिजिटल रुप से इसे हस्ताक्षर करने के पश्चात्‌ ऐसे आदेश की एक प्रति तामील करेगा; 
+या 
+
+
+(ख)लेखबद्ध किए जाने वाले कारणों के लिए शास्ति छोड़ देगा या उसकी सूचना यथास्थिति, अपीलार्थी या किसी अन्य 
+व्यक्ति को और निर्धारण अधिकारी को ऐसी कार्यवाही करने के लिए भेजेगा जो अधिनियम के अधीन अपेक्षित हो | 
+
+
+8. सुधार कार्यवाहियां - () रिकार्ड पर प्रत्यक्ष किसी त्रुटि का सुधार करने के लिए जेसीआईटी (अपील), अधिनियम के 
+उपबंधों के अनुसार इसके द्वारा पारित किसी आदेश को लिखित में जारी किए जाने वाले किसी आदेश द्वारा सुधार सकेगा । 
+
+
+(2) इस स्कीम के अन्य उपबंधों के अधीन रहते हुए, उप पैरा (॥) में निर्दिष्ट त्रुटि के सुधार के लिए कोई आवेदन 
+निम्नलिखित द्वारा जेसीआईटी (अपील) को फाइल किया जा सकेगा :- 
+
+
+(क) यथास्थिति, अपीलार्थी या किसी अन्य व्यक्ति; या 
+
+(ख) निर्धारण अधिकारी। 
+
+(3) जेसीआईटी (अपील), आवेदन की जांच करेगा और निम्नलिखित को सुनवाई का अवसर देने के लिए नोटिस भेजेगा, - 
+(क) यथास्थिति, अपीलार्थी या किसी अन्य व्यक्ति को, जहां आवेदन निर्धारण अधिकारी द्वारा फाइल किया गया है; या 
+
+( 
+
+
+ख) निर्धारण अधिकारी को, जहां आवेदन यथास्थिति, अपीलार्थी या किसी अन्य व्यक्ति द्वारा फाइल किया गया है, यह 
+कारण बताने के लिए कि क्‍यों न अधिनियम के सुसंगत उपबंधों के अधीन त्रुटि का सुधार कर देना चाहिए | 
+
+
+(4) यथास्थिति, अपीलार्थी या कोई अन्य व्यक्ति या निर्धारण अधिकारी, उप-पैरा (3) में यथानिर्दिष्ट नोटिस का उत्तर 
+उसमें विनिर्दिष्ट समय और तारीख के भीतर या ऐसे विस्तारित तारीख और समय के भीतर जो इस निमित्त किए गए 
+आवेदन के आधार पर अनुज्ञात किया जाए, प्रस्तुत करेगा। 
+
+
+(5) जेसीआईटी (अपील), यथास्थिति, अपीलार्थी या किसी अन्य व्यक्ति या निर्धारण अधिकारी द्वारा आवेदन और उत्तर 
+को विचार में लेने के पश्चात्‌, लिखित में आदेश द्वारा निम्नलिखित करेगा, -- 
+
+
+(क) त्रुटियों का सुधार; या 
+
+(ख) लिखित में लेखबद्ध किए जाने वाले कारणों के लिए सुधार के लिए आवेदन को निरस्त करना | 
+
+(6) जेसीआईटी (अपील), डिजिटल रुप से इसे हस्ताक्षर करने के पश्चात्‌ आदेश निम्नलिखित को भेजेगा, - 
+
+(क) यथास्थिति, अपीलार्थी या किसी अन्य व्यक्ति; और 
+
+(ख) निर्धारण अधिकारी को ऐसी कार्यवाही करने के लिए जो अधिनियम के सुसंगत उपबंधों के अधीन अपेक्षित हो । 
+
+
+9. अपीली कार्यवाहियां -() इस स्कीम के अधीन जेसीआईटी (अपील) द्वारा पारित किसी आदेश के विरुद्ध कोई अपील ऐसे 
+आयकर अपील अधिकरण के समक्ष होगी जिसके पास अपीलार्थी निर्धारिती के निर्धारण अधिकारी की अधिकारिता पर 
+क्षेत्राधिकार हो । 
+
+
+(2) इस स्कीम के पैरा 3 के उपबंधों के अधीन रहते हुए, जहां जेसीआईटी (अपील) द्वारा पारित कोई आदेश अपास्त हो 
+जाता है और आयकर अपील अधिकरण या उच्च न्यायालय या उच्चतम न्यायालय द्वारा जेसीआईटी (अपील) को वापस 
+
+
+[भाग W—ears 3(ii)] भारत का राजपत्र : असाधारण 7 
+
+
+भेज दिया जाता है वहां ऐसा आदेश इस स्कीम के उपबंधों के अनुसार और कार्रवाई करने के लिए जेसीआईटी (अपील) FT 
+समनुदेशित किया जाएगा। 
+
+40. इलैक्ट्रानिक पद्धति द्वारा संसूचना का आदान-प्रदान करना - इस स्कीम के प्रयोजनों के लिए, 
+
+(क) जेसीआईटी (अपील) और अपीलार्थी या उसके प्राधिकृत प्रतिनिधि के मध्य सबै संसूचनाओं का आदान-प्रदान, जहां तक 
+प्रौद्योगिक रुप से संभव हो, इलैक्ट्रानिक पद्धति द्वारा किया जाएगा; और 
+
+(ख) जेसीआईटी (अपील) और यथास्थिति, निर्धारण अधिकारी या प्रधान मुख्य आयुक्त या मुख्य आयुक्त या प्रधान आयुक्त 
+या आयुक्त के मध्य सभी आंतरिक संसूचनाओं का आदान-प्रदान इलैक्ट्रानिक पद्धति द्वारा किया जाएगा | 
+
+
+4. इलैक्ट्रानिक रिकार्ड का अधिप्रमाणन - इस स्कीम के प्रयोजनों के लिए कोई इलैक्ट्रानिक रिकार्ड निम्नलिखित द्वारा 
+अधिप्रमाणित किया जाएगा, - 
+
+
+(i) जेसीआईटी (अपील), पैरा 6 के STAT (॥) के खंड (ix) या पैरा 7 के उप पैरा (3) के अधीन या पैरा 8 के उप पैरा (5) 
+के अधीन पारित किए गए आदेश की दशा में, अपने डिजिटल हस्ताक्षर चस्पा करके; 
+
+(ii) अपीलार्थी या अन्य व्यक्ति द्वारा अपने डिजिटल हस्ताक्षर चस्पा करके या इलैक्ट्रानिक सत्यापन कोड के अधीन या 
+अभिहित पोर्टल पर अपने रजिस्ट्रीकृत खाते में लॉगिन द्वारा; 
+
+स्पष्टीकरण :- इस पैरा के प्रयोजनों के लिए, “इलैक्ट्रानिक सत्यापन कोड” का वही अर्थ होगा जो उसका नियम 42 के उप 
+नियम (3) में है । 
+
+42. इलैक्ट्रानिक रिकार्ड का परिदान —(() इस स्कीम के अधीन प्रत्येक नोटिस या आदेश या कोई अन्य इलैक्ट्रानिक संसूचना 
+अपीलार्थी होने के नाते पाने वाले को निम्न प्रकार परिदत्त की जाएगी, - 
+
+(क) अपीलार्थी के रजिस्ट्रीकृत खाते में उसकी अधिप्रमाणित प्रतिलिपि रखकर; या 
+
+(ख) अपीलार्थी या उसके प्राधिकृत प्रतिनिधि के रजिस्ट्रीकृत ई-मेल पते पर उसकी एक अधिप्रमाणित प्रति भेजकर; या 
+
+(ग) अपीलार्थी की मोबाइल ऐप पर द्वारा एक अधिप्रमाणित प्रतिलिपि अपलोड करके इसके पश्चात तत्काल सचेतक द्वारा | 
+
+
+(2) इस स्कीम के अधीन प्रत्येक नोटिस या आदेश या कोई अन्य इलैक्ट्रानिक संसूचना निर्धारिती को,कोई अन्य व्यक्ति होने 
+के नाते, ऐसे व्यक्ति के रजिस्ट्रीकृत ईमेल पते पर उसकी एक अधिप्रमाणित प्रति भेजकर इसके पश्चात तत्काल सचेतक द्वारा 
+परिदत्त की जाएगी। 
+
+(3) अपीलार्थी, इस स्कीम के अधीन किसी नोटिस या आदेश या किसी अन्य इलैक्ट्रानिक संसूचना का अपना उत्तर अपने 
+रजिस्ट्रीकृत खाते के माध्यम से प्रस्तुत करेगा और एक बार जब अभिस्वीकृति, उत्तर के सफलतापूर्वक प्रस्तुत करने पर भेजी 
+जाती है तब उत्तर अधिप्रमाणित हुआ समझा जाएगा | 
+
+
+(4) इलैक्ट्रानिक रिकार्ड का पारेषण और प्राप्ति का स्थान और समय, सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 
+24) की धारा 43 के उपबंधों के अनुसार अवधारित किया जाएगा | 
+
+43. स्कीम के अधीन वैयक्तिकउपस्थिति का न होना - (() इस स्कीम के अधीन Peet कार्यवाहियों के संबंध में किसी 
+व्यक्ति को वैयक्तिक रुप से या प्राधिकृत प्रतिनिधि के माध्यम से उपस्थित होना अपेक्षित नहीं होगा। 
+
+(2) यथास्थिति, अपीलार्थी या उसका प्राधिकृत प्रतिनिधि वैयक्तिक सुनवाई के लिए अनुरोध कर सकेगा ताकि वह अपने 
+मौखिक कथन कर सके या अपने मामले को जेसीआईटी (अपील) के समक्ष प्रस्तुत कर सके और संबंधित जेसीआईटी (अपील) 
+वैयक्तिक सुनवाई के लिए अनुरोध अनुज्ञात करेगा और अपीलार्थी को सुनवाई की तारीख और समय संसूचित करेगा | 
+
+(3) ऐसी सुनवाई, बोर्ड द्वारा अधिकथित प्रक्रिया के अनुसार जहां तक प्रोद्योगिकी रुप से संभव हो, या वीडियो टेलीफोनी 
+के माध्यम से, जिसके अंतर्गत किसी टेलीकम्युनिकेशन एप्लीकेशन साफ्टवेयर का प्रयोग भी है जो या वीडियो टेलीफोनी में 
+सहायता करता हो संचालित की जाएगी, । 
+
+(4) अपीलार्थी या किसी अन्य व्यक्ति का कथन अभिलिखित करने या कोई परीक्षा इस स्कीम के अधीन जेसीआईटी 
+(अपील) द्वारा बोर्ड द्वारा अधिकथित प्रक्रिया के अनुसार जहां तक प्रोद्योगिकी रुप से संभव हो, अनन्य रूप से या वीडियो 
+
+
+8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+टेलीफोनी के माध्यम से, जिसके अंतर्गत किसी टेलीकम्युनिकेशन एप्लीकेशन साफ्टवेयर का प्रयोग भी है जो या वीडियो 
+टेलीफोनी में सहायता करता हो, संचालित की जाएगी 
+
+
+(5) बोर्ड, के लिए या वीडियो टेलीफोनी के लिए उपयुक्त सुविधा एं जिसके अंतर्गत टेलीकम्युनिकेशन एप्लीकेशन 
+साफ्टवेयर भी है, जो वीडियो संगोष्ठी या वीडियो टेलीफोनी में सहायता करता हो, ऐसे अवस्थानों पर जो आवश्यक हो, 
+स्थापित करेगा जिससे यह सुनिश्चित किया जा सके कि अपीलार्थी या उसका प्राधिकृत प्रतिनिधि या किसी अन्य व्यक्ति को 
+इस स्कीम के अधीन फायदे से केवल इस आधार पर वंचित न किया जाए कि ऐसे अपीलार्थी या उसके प्राधिकृत प्रतिनिधि 
+या किसी अन्य व्यक्ति के पास वीडियो संगोष्ठी या वीडियो टेलीफोनी तक पहुंच नहीं है । 
+
+
+44. राष्ट्रीय पहचानविहीन आयकर अपील केंद्र के प्रधान मुख्य आयुक्त के कृत्य - प्रधान मुख्य आयकर आयुक्त (राष्ट्रीय 
+पहचानविहीन अपील केंद्र),इस स्कीम के अधीन स्थापित जेसीआईटी (अपील) के कार्यालय के प्रभावी कार्यकरण के लिए, 
+बोर्ड के पूर्व अनुमोदन से, निम्नलिखित कृत्यों का निर्वहन करेगा,अर्थात्‌ :- 
+
+
+(i) ई-अपील स्कीम से मामलों का अंदर हस्तांतरण और बाहर हस्तांतरण करना; 
+(ii) एक जेसीआईटी (अपील) से दूसरे को मामलों का हस्तांतरण करना; 
+
+
+(iit) अपीलों के आबंटन के लिए,यदि अपेक्षित हो, प्रक्रियाएँ बनाने हेतु आयकर प्रधान महानिदेशक या आयकर महानिदेशक 
+के साथ समन्वय करना; 
+
+
+(५) नोटिसों या पत्रों के प्रारुपों का अनुमोदन करना; 
+(५) विभिन्‍न प्रक्रियाओं और वीडियो संगोष्ठी संचालित करने के लिए मानक प्रचालन प्रक्रिया जारी करना; और 
+(५) बोर्ड द्वारा समय-समय पर समनुदेशित कोई अन्य प्रक्रियात्मक कृत्य करना | 
+
+
+45. प्रारुप, ढंग, प्रक्रिया और प्रोसेस विनिर्दिष्ट करने की शक्ति -आयकर प्रधान महानिदेशक या आयकर 
+महानिदेशक,(प्रणाली) राष्ट्रीय आयकर पहचान विहीन अपील केंद्र के प्रधान मुख्य आयुक्त के परामर्श से, यदि अपेक्षित हो, 
+इस स्कीम के अधीन स्थापित जेसीआईटी (अपील) के कार्यालय के प्रभावी कार्यकरण के लिए बोर्ड के पूर्व अनुमोदन से, 
+स्वचालित और यांत्रिक वातावरण,जिसके अंतर्गत निम्नलिखित के संबंध में प्रारुप, ढंग,प्रक्रिया और प्रोसेस मानक भी हैं, 
+अधिकथित करेगा, अर्थात्‌ :- 
+
+(i) नोटिस, आदेश या किसी अन्य संसूचना की तामील; 
+
+(ii) किसी नोटिस, आदेश या किसी अन्य संसूचना के उत्तर में व्यक्ति से किसी सूचना या दस्तावेजों की प्रापि; 
+
+(iii) किसी व्यक्ति द्वारा प्रस्तुत किए गए उत्तर की अभिस्वीकृति जारी करना; 
+
+(iv) ई-अपील सुविधा , जिसके अंतर्गत खाता लॉगिन सुविधा, अपील की प्रास्थिति ट्रैक करना, सुसंगत ब्यौरे उपरदर्शित 
+करना और डाउनलोड की सुविधा भी है, का उपबंध करना; 
+
+
+(५) सूचना और उत्तर तक पहुंच, सत्यापन और अधिप्रमाणन करना, जिसके अंतर्गत अपील कार्यवाहियों के दौरान प्रस्तुत 
+किए गए दस्तावेज भी हैं; 
+
+
+(vi) किसी केंद्रीकृत रीति में दस्तावेजों या जानकारी की प्राप्ति, भंडारण और पुनर्प्राप्ति; और 
+(vii) बोर्ड द्वारा समय -समय पर समनुदेशित कोई अन्य कृत्य; 
+
+
+46. अधिनियम के उपबंधों का लागू होना - इस स्कीम में यथाउपबंधित के सिवाय, अधिनियम की धारा 2 के खंड 
+(28गक), धारा 720, धारा 729, धारा (34, धारा 33, धारा 34, धारा 436, धारा 40, धारा 54, धारा 55, 
+धारा 282, धारा 282क, धारा 283, धारा 284, अध्याय 20 और अध्याय 2 और अधिनियम के अन्य उपबंध, इस स्कीम 
+के अधीन जेसीआईटी (अपील) द्वारा अपील के निपटान में प्रक्रिया को लागू होंगे । 
+
+
+[अधिसूचना सं. 33/2023/फा. सं. 370742/70/2023-etra] 
+
+
+रमन चोपड़ा, संयुक्त संचिव 
+
+
+[भाग W—ears 3(ii)] भारत का राजपत्र : असाधारण 9 
+
+
+9.0. 2352(E). 
+
+
+MINISTRY OF FINANCE 
+(Department Of Revenue) 
+(CENTRAL BOARD OF DIRECT TAXES) 
+NOTIFICATION 
+New Delhi, the 29" May, 2023 
+(INCOME-TAX) 
+
+
+In exercise of the powers conferred by sub-section (5) of section 246 of the Income-tax Act, 
+
+
+96! (43 of 96), the Central Government hereby makes the following Scheme, namely:— 
+
+
+l. Short title and commencement.—() This Scheme may be called the e-Appeals Scheme, 2023. 
+
+
+(2) It shall come into force on the date of its publication in the Official Gazette. 
+
+
+2. Definitions.— () In this Scheme, unless the context otherwise requires, — 
+
+
+(i) 
+(ii) 
+
+
+(iii) 
+
+
+(iv) 
+(v) 
+
+
+(vi) 
+
+
+(vii) 
+
+
+(viii) 
+
+
+(ix) 
+
+
+(x) 
+
+
+(xi) 
+
+
+(xii) 
+
+
+(xiii) 
+
+
+(xiv) 
+
+
+(xv) 
+
+
+(xvi) 
+
+
+(Xvi) 
+
+
+“Act” means the Income-tax Act, 96] (43 of 96]); 
+
+
+“addressee” shall have the same meaning as assigned to it in clause (b) of sub-section (.) of section 2 
+of the Information Technology Act, 2000 (2! of 2000); 
+
+
+“appeal” means appeal filed by a person under sub-section (.) of section 246 or section 246A of the 
+Act; 
+
+
+“appellant” means the person who files appeal under section 246 or section 246A of the Act; 
+
+
+“authorised representative” shall have the same meaning as assigned to it in sub-section (2) of section 
+288 of the Act; 
+
+
+“automated allocation system” means an algorithm for randomised allocation of cases, by using 
+suitable technological tools, including artificial intelligence and machine learning, with a view to 
+optimise the use of resources; 
+
+
+“computer system” shall have the same meaning as assigned to it in clause (l) of sub-section (0) of 
+section 2 of the Information Technology Act, 2000 (2 of 2000); 
+
+
+“computer resource of appellant” shall include the registered account in the designated portal of the 
+Income-tax Department, or the Mobile App linked to the registered mobile number or the registered e- 
+mail account of the appellant; 
+
+
+“digital signature” shall have the same meaning as assigned to it in clause (p) of sub-section (l) of 
+section 2 of the Information Technology Act, 2000 (2 of 2000); 
+
+
+“designated portal” means the web portal designated as such by the Principal Chief Commissioner of 
+Income-tax or the Principal Director General or the Director General of Income-tax, (Systems); 
+
+
+“e-appeal” means the appellate proceedings conducted electronically in 'e-appeal' facility through the 
+registered account of the appellant in the designated portal; 
+
+
+“electronic record” shall have the same meaning as assigned to it in clause (t) of sub-section (l) of 
+section 2 of the Information Technology Act, 2000 (2 of 2000); 
+
+
+“e-mail” or “electronic mail” and “electronic mail message” means a message or information created 
+or transmitted or received on a computer, computer system, computer resource or communication 
+device including attachments in text, image, audio, video and any other electronic record, which may 
+be transmitted with the message; 
+
+
+“Mobile app” shall mean the application software of the Income-tax Department developed for mobile 
+devices which is downloaded and installed on the registered mobile number of the appellant; 
+
+
+“National Faceless Appeal Centre” shall mean the National Faceless Appeal Centre as set up and 
+notified under the Faceless Appeal Scheme, 202]; 
+
+
+“real time alert” means any communication sent to the appellant, by way of Short Messaging Service 
+on his registered mobile number, or by way of update on his Mobile App, or by way of an e-mail at his 
+registered e-mail address, so as to alert him regarding delivery of an electronic communication; 
+
+
+“registered account” of the appellant means the electronic filing account registered by the appellant in 
+the designated portal; 
+
+
+0 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+(xviii) “registered e-mail address” means the e-mail address at which an electronic communication may be 
+delivered or transmitted to the addressee, including- 
+
+
+(a) the e-mail address available in the electronic filing account of the addressee registered in the 
+designated portal; or 
+
+
+(b) the e-mail address available in the last income-tax return furnished by the addressee; or 
+
+
+(c) the e-mail address available in the permanent account number database relating to the 
+addressee; or 
+
+
+(d) in the case of addressee being an individual who possesses the Aadhaar number, the e-mail 
+address of addressee available in the database of Unique Identification Authority of India; or 
+
+
+(e) inthe case of addressee being a company, the e-mail address of the company as available on 
+the official website of the Ministry of Corporate Affairs; or 
+
+
+(f) any e-mail address made available by the addressee to the income-tax authority or any person 
+authorised by such authority; 
+
+
+(xix) “registered mobile number” means the mobile number of the appellant, or his authorised 
+representative, appearing in the user profile of the electronic filing account registered by the appellant 
+in the designated portal; 
+
+
+(xx) “Rules” means the Income-tax Rules, [962; and 
+
+
+(xxi) | “video conferencing or video telephony” means the technological solutions for the reception and 
+transmission of audio-video signals by users at different locations, for communication between people 
+in real-time. 
+
+
+(2) Words and expressions used herein and not defined but defined in the Act shall have the same meanings 
+respectively as assigned to them in the Act. 
+
+
+3. Scope of the Scheme.— The Scheme shall apply to appeals, in respect of such persons or class of persons, incomes 
+or class of incomes, cases or class of cases, as covered under section 246 of the Act except the cases excluded under 
+sub-section(6) of that section. 
+
+
+4. Appeal Authority under the Scheme.—(l) The Joint Commissioner (Appeals) [hereinafter referred to as the JCIT 
+(Appeals)], shall dispose of the appeals filed before it or allocated or transferred to it, in accordance with the 
+provisions of this Scheme. 
+
+
+(2) The JCIT (Appeals) shall have such income-tax authority, ministerial staff, executive or consultant to assist in the 
+disposal of appeals, as may be considered necessary by the Board. 
+
+
+5. Allocation of appeals.-The Principal Director General of Income-tax (Systems) or the Director General of Income 
+tax (Systems), as the case may be, shall, with the approval of the Central Board of Direct Taxes, devise a process to 
+randomly allocate or transfer the appeals, referred to in paragraph 3, to the JCIT(Appeals). 
+
+
+6. Procedure in appeal.—() The appeal referred to in paragraph 3 shall be disposed of by the JCIT(Appeals) under 
+this Scheme as per the following procedure, namely:— 
+
+
+(I) On assignment of an appeal, the JCIT (Appeals),— 
+
+
+(a) may condone the delay in filing appeal if the appeal is filed beyond the time permitted under section 
+249 of the Act and record the reasons for such condonation or otherwise in the appeal order passed 
+under clause (IX); 
+
+
+(b) shall give notice to the appellant asking him to file his submission within the date and time specified 
+in such notice and also send a copy of such notice to the Assessing Officer; 
+
+
+(c) may obtain further information, document or evidence from the appellant or any other person; 
+
+
+(d) may obtain a report of the Assessing Officer on grounds of appeal or information, document or 
+evidence furnished by the appellant; 
+
+
+(e) may request the Assessing Officer for making further inquiry under sub-section (4) of section 250 of 
+the Act and submit a report thereof; 
+
+
+(f) shall serve a notice upon the appellant or any other person, or the Assessing Officer to submit such 
+information, document or evidence or report, as the case may be, as may be specified by it or 
+relevant to the appellate proceedings, on a specified date and time; 
+
+
+[भाग त---खण्ड 3(ii)] भारत का राजपत्र : असाधारण |] 
+
+
+(II) 
+
+
+(II) 
+
+
+(IV) 
+
+
+(४) 
+
+
+(VI) 
+
+
+(शा) 
+
+
+the appellant or any other person, as the case may be, shall furnish response as required in sub-clauses (9), 
+(c) or (f) of clause (I), within the date and time specified therein, or such extended date and time as may be 
+allowed on the basis of an application made in this behalf, to the JCIT (Appeals); 
+
+
+the Assessing Officer shall furnish a report as required under sub-clauses (8), (e) or (f) of clause (I), within 
+the date and time specified therein or such extended date and time as may be allowed on the basis of an 
+application made in this behalf, to the JCIT (Appeals); 
+
+
+the appellant may file additional grounds of appeal to the JCIT (Appeals), in such form, as may be 
+specified, specifying therein the reason for omission of such grounds in the appeal filed by him; 
+
+
+where the additional ground of appeal is filed,— 
+
+
+(a) the JCIT (Appeals) shall admit such additional ground in case of orders passed under sub-section () 
+of section 43 of the Act or under section 200A of the Act or in any other case where the appealable 
+order is an order passed by the Central Processing Centre; 
+
+
+(b) in any other case, the JCIT (Appeals) shall send the additional ground to the Assessing Officer for 
+providing comments if any; 
+
+
+(c) the Assessing Officer shall furnish their comments, within the date and time specified or such 
+extended date and time as may be allowed on the basis of an application made in this behalf, to the 
+JCIT (Appeals); 
+
+
+(d) the JCIT (Appeals) shall, after taking into consideration the comments, if any, received from the 
+Assessing Officer,— 
+
+
+(A) if he is satisfied that the omission of such additional ground from the memorandum of appeal 
+was not wilful or there was sufficient cause, admit the additional ground; or 
+
+
+(B) in any other case, for reasons to be recorded in writing in the appeal order passed under 
+clause (IX) not admit the additional ground; 
+
+
+the appellant may furnish additional evidence, other than the evidence produced by him during the 
+course of proceedings before the Assessing Officer, to the JCIT (Appeals), in such form, as may be 
+specified, specifying therein as to how his case is covered by the exceptional circumstances specified in 
+sub-rule () of rule 46A of the Rules; 
+
+
+where the additional evidence is furnished,— 
+
+
+(a) the JCIT (Appeals) shall admit such additional evidence in case of orders passed under sub-section 
+(.) of section 43 of the Act or under section 200A of the Act or any such case where the appealable 
+order is an order passed by the Central Processing Centre; 
+
+
+(b) in any other case, the JCIT (Appeals) shall send the additional evidence to the Assessing Officer for 
+furnishing a report on the admissibility of additional evidence in accordance with rule 46A of the 
+Rules; 
+
+
+(c) the Assessing Officer shall furnish the report, as referred to in sub-clause (b), within such date and 
+time as specified or such extended date and time as may be allowed on the basis of an application 
+made in this behalf, to the JCIT (Appeals); 
+
+
+(d) the JCIT (Appeals) may, after considering the additional evidence and the report, if any, furnished 
+by the Assessing Officer admit or reject the additional evidence, for reasons to be recorded in 
+writing, and the same shall form a part of the appeal order passed under clause (IX); 
+
+
+(e) the JCIT (Appeals) shall, if he admits such evidence, before taking such evidence into account in the 
+appellate proceedings, prepare a notice to provide an opportunity to the Assessing Officer to 
+examine such evidence or to cross-examine such witness, as may be produced by the appellant, or to 
+produce any evidence or document, or any witness in rebuttal of the evidence or witness produced 
+by the appellant, and furnish a report thereof and send such notice to the Assessing Officer; 
+
+
+(f) the Assessing Officer shall furnish the report within the date and time specified or such extended 
+date and time as may be allowed on the basis of an application made in this behalf, to the JCIT 
+(Appeals); 
+
+
+(g) the Assessing Officer may request the JCIT (Appeals) to direct the production of any document or 
+evidence by the appellant, or the examination of any witness, as may be relevant to the appellate 
+proceedings; 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+(h) the JCIT (Appeals) for the purposes of making enquiries in the appeal proceedings as referred to in 
+sub-clauses (c) or (e) of clause (I) or where the request referred to in sub-clause (g) is received, may, 
+if it deems fit, send a notice — 
+
+
+(A) directing the appellant to produce such document or evidence, as it may specify; or 
+(B) for examination of any other person, being a witness; 
+
+
+(i) the appellant or any other person, as the case may be, shall furnish his response to the notice referred 
+to in sub-clause (h), within the date and time specified in the notice or such extended date and time 
+as may be allowed on the basis of application made in this behalf, to the JCIT (Appeals); 
+
+
+(VIII) where the JCIT (Appeals) intends to enhance an assessment or a penalty or reduce the amount of refund,— 
+
+
+(a) the JCIT (Appeals) shall prepare a show-cause notice containing the reasons for such enhancement 
+or reduction, as the case may be, and shall serve the notice upon the appellant; 
+
+
+(b) the appellant shall, within the date and time specified in the notice or such extended date and time as 
+may be allowed on the basis of application made in this behalf, furnish his response to the JCIT 
+(Appeals). 
+
+
+(IX) The JCIT (Appeals) shall, thereafter.— 
+
+
+(a) prepare in writing, an appeal order in accordance with the provisions of section 25] of the Act 
+stating the points for determination, the decision thereon and the reason for decision; and 
+
+
+(b) send such order after signing the same digitally to the appellant along with the details of the penalty 
+proceedings, if any, to be initiated therein; 
+
+
+(c) communicate such order to the Principal Chief Commissioner or Chief Commissioner or Principal 
+Commissioner or Commissioner in the line with sub-section (7) of section 250 of the Act; 
+
+
+(d) communicate such order to the Assessing Officer for such action as may be required under the Act; 
+
+
+(e) where initiation of penalty has been recommended in the order, serve a notice upon the appellant 
+calling upon him to show cause as to why penalty should not be imposed upon him under the 
+relevant provisions of the Act. 
+
+
+(2) Notwithstanding anything contained in sub-paragraph (), the appeal may be transferred at any stage of the 
+appellate proceedings, if considered necessary, by an order in accordance with section !20 of the Act, to such JCIT 
+(Appeals) as may be specified in the order. 
+
+
+7. Penalty proceedings— (l) The JCIT (Appeals) may, in the course of appeal proceedings, for non-compliance of any 
+notice, direction or order issued under this Scheme on the part of the appellant or any other person, as the case may be, 
+send a notice to the appellant or any other person for initiation of any penalty proceedings calling upon them to show 
+cause as to why penalty should not be imposed upon him under the relevant provisions of the Act. 
+
+
+(2) The appellant or any other person, as the case may be, shall furnish a response to the show-cause notice referred to 
+
+in sub-paragraph (l) of this paragraph or in sub-clause (e) of clause (IX) of sub-paragraph (l) of paragraph 6, within 
+the date and time specified in such notice or such extended date and time as may be allowed on the basis of 
+application made in this behalf, to the JCIT (Appeals). 
+
+
+(3) The JCIT (Appeals) shall, after taking into account all the relevant material available on the record, including the 
+response furnished, if any, by the appellant or any other person, as the case may be, — 
+
+
+(a) prepare a penalty order and serve a copy of such order after digitally signing the same; or 
+(b) for reasons to be recorded in writing, drop the penalty and send an intimation thereof, 
+
+
+to the appellant or any other person, as the case may be, and the Assessing Officer, for such action as may be required 
+under the Act. 
+
+
+8. Rectification Proceedings. — (l) With a view to rectifying any mistake apparent from the record the JCIT 
+(Appeals) may amend any order passed by it in accordance with the provisions of the Act, by an order to be passed in 
+writing. 
+
+
+(2) Subject to the other provisions of this Scheme, an application for rectification of mistake referred to in sub- 
+paragraph (l) may be filed with the JCIT (Appeals) by,— 
+
+
+(a) the appellant or any other person, as the case may be; or 
+
+
+[भाग I—ave 3(ii)] भारत का राजपत्र : असाधारण ]3 
+
+
+(b) the Assessing Officer. 
+
+
+(3) The JCIT (Appeals) shall examine the application and send the notice for granting an opportunity to,— 
+
+
+(a) the appellant or any other person, as the case may be, where the application has been filed by the 
+Assessing Officer; or 
+
+
+(b) the Assessing Officer where the application has been filed by the appellant or any other person, as the case 
+may be, 
+
+
+calling upon them to show cause as to why rectification of mistake should not be carried out under the relevant 
+provisions of the Act. 
+
+
+(4) The appellant or any other person, as the case may be, or the Assessing Officer shall furnish a response to the 
+notice, as referred to in sub-paragraph (3), within the date and time specified therein, or such extended date and time 
+as may be allowed on the basis of an application made in this behalf. 
+
+
+(5) The JCIT (Appeals) shall, after taking into consideration the application and response, if any, furnished by the 
+appellant or any other person, as the case may be, or the Assessing Officer by an order in writing, — 
+
+
+(a) rectify the mistakes; or 
+(b) for reasons to be recorded in writing, reject the application for rectification. 
+(6) The JCIT (Appeals) shall send the order after digitally signing it to,— 
+(a) the appellant or any other person, as the case may be; and 
+(b) the Assessing Officer for such action as may be required under the relevant provisions of the Act. 
+
+
+9. Appellate Proceedings.—(|) An appeal against an order passed by the JCIT (Appeals) under this Scheme shall lie 
+before the Income Tax Appellate Tribunal having jurisdiction over the jurisdictional Assessing Officer of the 
+appellant assessee. 
+
+
+(2) Subject to the provisions of paragraph 3 of the Scheme, where any order passed by the JCIT (Appeals) is set-aside 
+and remanded back to the JCIT (Appeals) by the Income Tax Appellate Tribunal or High Court or Supreme Court, the 
+order shall be assigned to a JCIT (Appeals) for further action in accordance with the provisions of this Scheme. 
+
+
+0. Exchange of communication by electronic mode.—For the purposes of this Scheme,— 
+
+
+(a) all communications between the JCIT (Appeals) and the appellant, or his authorised representative, shall be 
+exchanged by electronic mode, to the extent technologically feasible; and 
+
+
+(b) all internal communications between the JCIT (Appeals), the Assessing Officer and the Principal Chief 
+Commissioner or Chief Commissioner or Principal Commissioner or Commissioner, as the case may be, 
+shall be exchanged by electronic mode. 
+
+
+il. Authentication of electronic record— For the purposes of this Scheme, an electronic record shall be 
+authenticated by,— 
+
+
+(i) the JCIT (Appeals), in case of order passed under clause (IX) of sub-paragraph (l) of paragraph 6 or under 
+sub-paragraph (3) of paragraph 7 or under sub-paragraph (5) of paragraph 8, by affixing his digital 
+signature; 
+
+
+(ii) the appellant or any other person, by affixing his digital signature or under electronic verification code or 
+by logging into his registered account in the designated portal; 
+
+
+Explanation. — For the purposes of this paragraph, “electronic verification code” shall have the same meaning 
+as referred to in sub-rule (3) of rule |2 of the Rules. 
+
+
+2. Delivery of electronic record.—() Every notice or order or any other electronic communication under this 
+Scheme shall be delivered to the addressee, being the appellant, by way of,— 
+
+
+(a) placing an authenticated copy thereof in the appellant’s registered account; or 
+
+
+(b) sending an authenticated copy thereof to the registered e-mail address of the appellant or his authorised 
+representative; or 
+
+
+(c) uploading an authenticated copy on the Mobile App of the appellant followed by a real time alert. 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+(2) Every notice or order or any other electronic communication under this Scheme shall be delivered to the 
+addressee, being any other person, by sending an authenticated copy thereof to the registered e-mail address of such 
+person followed by a real time alert. 
+
+
+(3) The appellant shall furnish his response to any notice or order or any other electronic communication, under this 
+Scheme, through his registered account, and once an acknowledgement is sent upon successful submission of 
+response, the response shall be deemed to be authenticated. 
+
+
+(4) The time and place of dispatch and receipt of electronic record shall be determined in accordance with the 
+provisions of section 3 of the Information Technology Act, 2000 (2! of 2000). 
+
+
+3. No personal appearance under the Scheme .—(|) A person shall not be required to appear either personally or 
+through authorised representative in connection with any proceedings under this Scheme. 
+
+
+(2) The appellant or his authorised representative, as the case may be, may request for personal hearing so as to make 
+his oral submissions or present his case before the JCIT (Appeals) and the concerned JCIT (Appeals) shall allow the 
+request for personal hearing and communicate the date and time of hearing to the appellant. 
+
+
+(3) Such hearing shall be conducted through video conferencing or video telephony, including use of any 
+telecommunication application software which supports video conferencing or video telephony, to the extent 
+technologically feasible, in accordance with the procedure laid down by the Board. 
+
+
+(4) Any examination or recording of the statement of the appellant or any other person shall be conducted by the JCIT 
+(Appeals) under this Scheme, exclusively through video conferencing or video telephony, including use of any 
+telecommunication application software which supports video conferencing or video telephony, to the extent 
+technologically feasible, in accordance with the procedure laid down by the Board. 
+
+
+(5) The Board shall establish suitable facilities for video conferencing or video telephony including 
+telecommunication application software which supports video conferencing or video telephony at such locations as 
+may be necessary, so as to ensure that the appellant, or his authorised representative, or any other person is not denied 
+the benefit of this Scheme merely on the ground that such appellant or his authorised representative, or any other 
+person does not have access to video conferencing or video telephony at his end. 
+
+
+4. Functions of the Principal Chief Commissioner of Income-tax National Faceless Appeal Centre.—The 
+Principal Chief Commissioner of Income-tax (National Faceless Appeal Centre), with the prior approval of Board, for 
+the effective functioning of the Office of the JCIT (Appeals) set-up under this Scheme, shall perform the following 
+functions, namely:— 
+
+
+(i) transfer in and transfer out of cases from e-appeal Scheme; 
+(ii) transfer of cases from one JCIT(Appeals) to another; 
+
+
+(iii) co-ordinate with the Principal Director General or Director General of Income tax (Systems) for devising 
+processes for allocation of appeals, if required; 
+
+
+(iv) approval of Formats of notices or letter; 
+(v) issuing Standard Operating Procedures for various processes and for conducting Video Conference; and 
+(vi) any other procedural function assigned by the Board from time to time. 
+
+
+5. Power to specify format, mode, procedure and processes.—The Principal Director General or the Director 
+General of Income-tax (Systems) shall, in consultation with the Principal Chief Commissioner of Income-tax National 
+Faceless Appeal Centre, if required, lay down the standards, procedures and processes for effective functioning of the 
+Office of the JCIT (Appeals) set-up under this Scheme, in an automated and mechanised environment, including 
+format, mode, procedure and processes with the prior approval of the Board, in respect of the following, namely:— 
+
+
+(i) service of the notice, order or any other communication; 
+
+
+(ii) receipt of any information or documents from the person in response to the notice, order or any 
+other communication; 
+
+
+(iii) issue of acknowledgment of the response furnished by the person; 
+
+
+(iv) provision of “e-appeal” facility including login account facility, tracking status of appeal, display of 
+relevant details, and facility of download; 
+
+
+[भाग W—ars 3(ii)] भारत का राजपत्र : असाधारण 5 
+
+
+(५) accessing, verification and authentication of information and response including documents 
+submitted during the appellate proceedings; 
+
+
+(vi) receipt, storage and retrieval of information or documents in a centralised manner; and 
+(vii) | any other function assigned by the Board from time to time. 
+
+
+6. Application of provisions of the Act.- Save as otherwise provided in this Scheme, the provisions of clause 
+(28CA) of section 2, section 20, section 29, section 3, section 33, section 34, section 36, section l40, section 
+54, section 55, section 282, section 282A, section 283, section 284, Chapter XX and Chapter XXI, and other 
+provisions of the Act, shall apply to the procedure in disposal of appeal by the JCIT (Appeals) under this Scheme. 
+
+
+[Notification No. 33/2023/F.No. 37042/0/2023-TPL] 
+RAMAN CHOPRA, Jt. Secy. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-]0054, sven 
+
+
