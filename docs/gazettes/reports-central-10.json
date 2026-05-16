@@ -19230,6 +19230,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2023-01-11.241910",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-11",
+      "ugid": "241910",
+      "title": "Extraordinary Gazette of India, 2023-01-11",
+      "ministry": "Food Safety and Standards Authority of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Whereas the draft Food Safety and Standards Food Products Standards and Food Additives Amendment Regulations",
+      "gazette_id": "CG-DL-E-12012023-241910",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241910.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-11.241910/241910.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-11.241910",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-11/241910.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-01-11.241909",
       "category": "extraordinary",
       "type_letter": "e",
@@ -19642,9 +19665,55 @@
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-01-11/241871.pdf",
       "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-10.241835",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-10",
+      "ugid": "241835",
+      "title": "Extraordinary Gazette of India, 2023-01-10",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Department of Legal Affairs",
+      "office": "Department of Legal Affairs",
+      "subject": "Temporary charge of ASG of Karnataka High Court, Bengaluru to ASG (Southern Zone), Shri R. Sankarnarayanan.",
+      "gazette_id": "CG-DL-E-10012023-241835",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241835.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-10.241835/241835.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-10.241835",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-10/241835.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-10.241834",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-10",
+      "ugid": "241834",
+      "title": "Extraordinary Gazette of India, 2023-01-10",
+      "ministry": "Ministry of Civil Aviation",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Accessibility Standards and Guidelines for Civil Aviation",
+      "gazette_id": "CG-DL-E-10012023-241834",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241834.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-10.241834/241834.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-10.241834",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-10/241834.pdf",
+      "topics": []
     }
   ],
-  "count": 855,
+  "count": 858,
   "category": "central",
   "shard_index": 10
 }
