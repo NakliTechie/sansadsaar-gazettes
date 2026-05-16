@@ -1,0 +1,411 @@
+रजिस्ट्री सं . डी . एल.- 33004/99 
+
+- 
+
+
+सत्यमेव जयते 
+
+भारत 
+The Gazette of India 
+
+को राजपत्र 
+
+
+सं . 79 ] 
+No. 79 ] 
+
+
+( 1 ) 
+
+
+1 
+
+
+सी . जी . डी . एल . अ . - 09022023-243543 
+
+
+CG - DL - E - 09022023-243543 
+
+
+882 GI / 2023 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+( 2 ) 
+
+
+भाग III– खण्ड 4 
+
+PART III— Section 4 
+
+
+प्राधिकार से प्रकाशित 
+
+PUBLISHED BY AUTHORITY 
+
+
+संदर्भ : HQ - PUBS012 / 1 / 2022 - PUBS - BIS ( 513 ) . – भारतीय मानक ब्यूरो नियम , 2018 के नियम 15 के 
+उप - नियम ( 1 ) के अनुसरण में भारतीय मानक ब्यूरो एतदद्वारा अधिसूचित करता है की जिन भारतीय मानकों के विवरण 
+इसमें संलग्न अनूसूची के द्वितीय स्तंभ में दिये गये हैं , तीसरे स्तंभ में इंगित तिथि को स्थापित हो गये हैं । चौथे स्तंभ में दिये 
+गये मानकों के विवरण , यदि कोई हो तो वे भी साथ - साथ लागू रहेंगे जब तक वे पाँचवें स्तंभ में इंगित तिथि को वापस लिए 
+जाने हैं । 
+
+
+अनुसूची 
+
+क्रम स्थापित भारतीय मानकों की संख्या , वर्ष प्रतिस्थापन तिथि 
+सं . तथा शीर्षक 
+
+
+नई दिल्ली , बृहस्पतिवार , फरवरी 9 , 2023 / माघ 20 , 1944 
+
+NEW DELHI , THURSDAY , FEBRUARY 9 , 2023 / MAGHA 20 , 1944 
+
+
+भारतीय मानक ब्यूरो 
+
+( उपभोक्ता मामले विभाग ) 
+
+अधिसूचना 
+
+नई दिल्ली , 2 फरवरी , 2023 
+
+
+आई एस / आई एस ओ / आई ई सी 27001 : 
+2022 
+
+सूचना सुरक्षा , साइबर सुरक्षा और 
+
+
+( 3 ) 
+
+
+REGD . No. D. L. - 33004 / 99 
+
+
+30 जनवरी 
+
+2023 
+
+
+( 1 ) 
+
+
+भारतीय मानकों , यदि वापस 
+लिए जाने हैं , की संख्या , वर्ष 
+
+तथा शीर्षक 
+
+( 4 ) 
+
+
+आई एस / आई एस ओ / आई ई 
+
+सी 27001 : 2013 
+
+
+सूचना प्रौद्यौगिकी 
+
+
+सुरक्षा 
+
+
+वापस होनें 
+की तिथि 
+
+
+( 5 ) 
+
+
+31 जनवरी 
+
+2026 
+
+
+2 
+
+
+SI . 
+No. 
+
+
+( 1 ) 
+
+
+1 
+
+
+गोपनीयता सुरक्षा 
+प्रबंधन प्रणाली – अपेक्षाएँ 
+
+( दूसरा पुनरीक्षण ) 
+
+
+( 1 ) 
+
+
+1 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+- 
+
+
+Ref : HQ - PUBS012 / 1 / 2022 - PUBS - BIS ( 513 ) .- In pursuance of Sub - rule ( 1 ) of Rule ( 15 ) of the Bureau of 
+Indian Standards Rules , 2018 , the Bureau of Indian Standards hereby notifies that Indian standards , particulars of 
+which are given in the second column of the schedule hereto annexed have been established on the date indicated 
+against it in third column . The particulars of the standards , if any which are given in the fourth column shall also 
+remain in force concurrently till they are withdrawn on the date indicated against them in the fifth column . 
+
+SCHEDULE 
+
+
+सूचना सुरक्षा 
+
+
+( 2 ) 
+
+
+No. , Year & Title of the Indian 
+Standards Established 
+
+
+( 2 ) 
+
+
+पी . राजेश , वैज्ञानिक एफ एवं उप महानिदेशक ( आई टी एस , पी आर टी , टी एन एम ) 
+
+, 
+
+[ विज्ञापन- III / 4 / असा . / 605 / 2022-23 ] 
+
+
+BUREAU OF INDIAN STANDARDS 
+( Department of Consumer Affairs ) 
+NOTIFICATION 
+
+New Delhi , the 2nd February , 2023 
+
+
+IS / ISO / IEC 27001 : 2022 
+Information Security , Cybersecurity and 
+Privacy Protection - Information 
+Security Management Systems - 
+
+Requirements 
+( Second Revision ) 
+
+
+सं . 
+
+क्रम स्थापित भारतीय मानकों की संख्या , 
+वर्ष तथा शीर्षक 
+
+
+Date of 
+Establishment 
+
+
+आई एस 12766 : 2023 
+कंप्यूटर पेपर – विशिष्टि 
+
+
+( 3 ) 
+
+
+30 January 
+2023 
+
+
+[ PART III— SEC.4 ] 
+
+
+तकनीक सूचना सुरक्षा 
+प्रबंधन प्रणाली – अपेक्षाएं 
+( पहला पुनरीक्षण ) 
+
+
+अधिसूचना 
+
+नई दिल्ली , 8 फरवरी , 2023 
+
+
+( 3 ) 
+
+
+संदर्भ : HQ - PUB012 / 1 / 2020 - PUB - BIS ( 515 ) . – भारतीय मानक ब्यूरो नियम , 2018 के नियम 15 के 
+उप - नियम ( 1 ) के अनुसरण में भारतीय मानक ब्यूरो एतदद्वारा अधिसूचित करता है की जिन भारतीय मानकों के विवरण 
+इसमें संलग्न अनूसूची के द्वितीय स्तंभ में दिये गये हैं , तीसरे स्तंभ में इंगित तिथि को स्थापित हो गये हैं । चौथे स्तंभ में दिये 
+गये मानकों के विवरण , यदि कोई हो तो वे भी साथ - साथ लागू रहेंगे जब तक वे पाँचवें स्तंभ में इंगित तिथि को वापस लिए 
+जाने हैं । 
+
+
+6 फरवरी 2023 
+
+
+No. , Year & Title of the 
+Indian Standards to be 
+withdrawn , if any 
+( 4 ) 
+
+
+IS / ISO / IEC 27001 : 2013 
+Information Technologies 
+Security Techniques – 
+Information Security 
+Management Systems - 
+Requirements 
+( First Revision ) 
+
+
+Date of 
+withdrawal 
+
+
+P. RAJESH , Scientist F & DDG ( ITS , PRT & TNM ) 
+
+[ ADVT . - III / 4 / Exty . / 605 / 2022-23 ] 
+
+
+( 5 ) 
+
+
+अनुसूची 
+
+प्रतिस्थापन तिथि भारतीय मानकों , यदि वापस लिए वापस होनें 
+| 
+
+की तिथि 
+
+
+जाने हैं , की संख्या , वर्ष तथा 
+
+शीर्षक 
+( 4 ) 
+
+
+31 January 
+2026 
+
+
+आई एस 12766 : 1997 
+कागज , कंप्यूटर – विशिष्टि 
+
+
+( 5 ) 
+6 अगस्त 
+2023 
+
+
+[ भाग III— खण्ड 4 ] 
+
+
+SI . 
+No. 
+
+
+( 1 ) 
+
+
+( दूसरा पुनरीक्षण ) 
+
+
+1 
+
+
+NOTIFICATION 
+
+New Delhi , the 8th February , 2023 
+
+Ref : HQ - PUB012 / 1 / 2020 - PUB - BIS ( 515 ) .— In pursuance of Sub - rule ( 1 ) of Rule ( 15 ) of the Bureau of Indian 
+Standards Rules , 2018 , the Bureau of Indian Standards hereby notifies that Indian standards , particulars of which are 
+given in the second column of the schedule hereto annexed have been established on the date indicated against it in 
+third column . The particulars of the standards , if any which are given in the fourth column shall also remain in force 
+concurrently till they are withdrawn on the date indicated against them in the fifth column . 
+
+SCHEDULE 
+
+
+No. , Year & Title of the Indian 
+Standards Established 
+
+
+( 2 ) 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+( पहला पुनरीक्षण ) 
+
+पी . राजेश , वैज्ञानिक एफ एवं उप महानिदेशक ( आई टी एस , पी आर टी , टी एन एम ) 
+
+) 
+
+[ विज्ञापन- III / 4 / असा . / 605 / 2022-23 ] 
+
+
+IS 12766 : 2023 
+
+Computer Paper - Specification 
+( Second Revision ) 
+
+
+Date of 
+Establishment 
+
+
+( 3 ) 
+
+
+6 Feb 2023 
+
+
+No. , Year & Title of the Indian 
+Standards to be withdrawan , if 
+
+
+any 
+( 4 ) 
+
+
+IS 12766 : 1997 
+
+Paper , Computer - Specification 
+( First Revision ) 
+
+
+3 
+
+
+Date of 
+withdrawal 
+
+
+( 5 ) 
+
+
+6 Aug 2023 
+
+
+Uploaded by Dte . of Printing at Government of India Press , Ring Road , Mayapuri , New Delhi - 110064 
+and Published by the Controller of Publications , Delhi - 110054 . 
+SARVESH KUMAR Dgkally agned by SARVESH KUMAR 
+
+SRIVASTAVA 
+
+SRIVASTAVA 
+
+Date : 2013.02.00 21.53.22 405 30 
+
+
+P. RAJESH , Scientist F & DDG ( ITS , PRT & TNM ) 
+
+[ ADVT . - III / 4 / Exty . / 605 / 2022-23 ] 
+
+
