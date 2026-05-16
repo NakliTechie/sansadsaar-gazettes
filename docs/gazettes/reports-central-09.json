@@ -56262,6 +56262,52 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2023-02-22.243928",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-22",
+      "ugid": "243928",
+      "title": "Extraordinary Gazette of India, 2023-02-22",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "rdso",
+      "gazette_id": "CG-RJ-E-25022023-243928",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243928.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-22.243928/243928.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-22.243928",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-22/243928.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-22.243894",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-22",
+      "ugid": "243894",
+      "title": "Extraordinary Gazette of India, 2023-02-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-24022023-243894",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243894.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-22.243894/243894.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-22.243894",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-22/243894.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-02-22.243878",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57432,52 +57478,6 @@
       "ia_identifier": "in.gazette.central.e.2023-02-22.243797",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-02-22/243797.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-22.243796",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-22",
-      "ugid": "243796",
-      "title": "Extraordinary Gazette of India, 2023-02-22",
-      "ministry": "Ministry of Coal",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Coal",
-      "gazette_id": "CG-DL-E-22022023-243796",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243796.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-22.243796/243796.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-22.243796",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-22/243796.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-22.243795",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-22",
-      "ugid": "243795",
-      "title": "Extraordinary Gazette of India, 2023-02-22",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Social Security I",
-      "office": "",
-      "subject": "Implementation of ESI Act in Imphal",
-      "gazette_id": "CG-DL-E-22022023-243795",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243795.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-22.243795/243795.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-22.243795",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-22/243795.pdf",
       "topics": []
     }
   ],
