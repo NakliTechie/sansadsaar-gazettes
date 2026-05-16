@@ -2,11 +2,16 @@
 
 Index data for the **Central Gazette of India** corpus on [SansadSaar](https://github.com/NakliTechie/SansadSaar).
 
-Holds metadata + bilingual (English + Hindi) extracted text + search artifacts for ~170K Central Gazette items (Weekly + Extraordinary, 1947→present). The actual PDFs live at archive.org and are served directly from there to the app.
+Metadata + bilingual (English + Hindi) extracted text + search artifacts for ~170K Central Gazette items (Weekly + Extraordinary, 1947→present). The PDFs themselves live at archive.org and the app links there directly.
 
-## Why a separate repo?
+Served at `sansadsaar-gazettes.naklitechie.com`.
 
-Volume. The Central Gazette corpus alone is comparable in scale to the rest of [parliamentwatch-data](https://github.com/NakliTechie/parliamentwatch-data) combined. Splitting keeps each repo's Cloudflare Pages deploy comfortably under the per-project file count cap.
+## Family
+
+- [SansadSaar](https://github.com/NakliTechie/SansadSaar) — the app
+- [parliamentwatch-data](https://github.com/NakliTechie/parliamentwatch-data) — DRSC, CAG, Bills, LC, FC
+- [sansadsaar-proceedings-data](https://github.com/NakliTechie/sansadsaar-proceedings-data) — Debates, Questions
+- [sansadsaar-lc](https://github.com/NakliTechie/sansadsaar-lc) — Law Commission PDF archive
 
 ## Credits
 
