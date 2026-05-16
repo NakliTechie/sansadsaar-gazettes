@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "identifier": "in.gazette.central.e.2022-11-07.240084",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-07",
+      "ugid": "240084",
+      "title": "Extraordinary Gazette of India, 2022-11-07",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules,",
+      "gazette_id": "CG-DL-E-07112022-240084",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240084.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-07.240084/240084.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-07.240084",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-07/240084.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-07.240082",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-07",
+      "ugid": "240082",
+      "title": "Extraordinary Gazette of India, 2022-11-07",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Budget Division",
+      "subject": "Amendment in Electoral Bond Scheme 2018",
+      "gazette_id": "CG-DL-E-07112022-240082",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240082.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-07.240082/240082.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-07.240082",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-07/240082.pdf",
+      "topics": []
+    }
+  ],
+  "count": 2,
+  "category": "central",
+  "shard_index": 11
+}
