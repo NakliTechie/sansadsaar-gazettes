@@ -1,0 +1,920 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Witd = Usa 
+Che Gazette of Jndia 
+
+
+O.GN.-F.AH.-3.-02023-250005 
+CG-JK-E-02023-250005 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग Wi—ave 4 
+PART IJ—Section 4 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+a. 756] नई दिल्ली, बृहस्पतिवार, नवम्बर 9, 2023/कार्तिक 8, 945 
+No. 756] NEW DELHI, THURSDAY, NOVEMBER 9, 2023/KARTIKA 8, 945 
+संयुक्त विद्युत विनियामक आयोग 
+
+
+केंद्र शासित प्रदेश जम्मू और कश्मीर व केंद्र शासित प्रदेश लद्दाख 
+अधिसूचना 
+जम्मु, | नवम्बर 2023 
+
+
+क्रमांक--जेईआरसी-जेकेएल/आरईजी/2023/2: -- विद्युत अधिनियम, 2003 (2003 का अधिनियम संख्या 36) 
+(इसके बाद 'अधिनियम' के रूप में संदर्भित) की धारा 784 के साथ पठित धारा 86()(बी) के तहत प्रदत्त शक्तियों और इसे 
+सक्षम करने वाली अन्य सभी शक्तियों का प्रयोग करते हुए इस संबंध में, केंद्र शासित प्रदेश जम्मू-कश्मीर और केंद्र शासित 
+प्रदेश लद्दाख के लिए संयुक्त विद्युत विनियामक आयोग निम्नलिखित विनियम बनाता है। 
+
+
+4: संक्षिप्त शीर्षक, प्रारंभ और विस्तार 
+
+
+4.4. इन विनियमों को “संयुक्त विद्युत विनियामक आयोग, केंद्र शासित प्रदेश जम्मू और कश्मीर व केंद्र शासित प्रदेश 
+लद्दाख (लोड पूर्वानुमान, संसाधन योजना और बिजली खरीद प्रक्रिया के लिए दिशानिर्देश) विनियम, 2023” कहा 
+जाएगा। 
+
+4.2. ये विनियम जम्मू और कश्मीर पावर कॉरपोरेशन लिमिटेड (जेकेपीसीएल) और केंद्र शासित प्रदेश जम्मू और कश्मीर 
+और केंद्र शासित प्रदेश लद्दाख के सभी वितरण लाइसेंसधारियों पर लागू होंगे और यह जेकेपीसीएल या किसी भी 
+वितरण लाइसेंसधारियों द्वारा की जाने वाली या प्रस्तावित पारंपरिक और नवीकरणीय स्रोतों से बिजली की सभी 
+अंतर/अंतर-राज्य खरीद पर लागू होगा। 
+
+
+4.3. ये विनियम आधिकारिक राजपत्र में उनके प्रकाशन की तारीख से लागू होंगे। 
+
+
+7089 GI/2023 (.) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+2: परिभाषाएँ 
+
+
+2.. 
+
+
+क. 
+qq. 
+
+
+ग. 
+
+
+2.2. 
+
+
+इन विनियमों में, जब तक कि यह संदर्भ के प्रतिकूल न हो: 
+
+
+"अधिनियम" का अर्थ विद्युत अधिनियम, 2003 (2003 का 36) है; 
+
+"आयोग" का अर्थ केंद्र शासित प्रदेश जम्मू और कश्मीर और केंद्र शासित प्रदेश लद्दाख के लिए संयुक्त विद्युत 
+विनियामक आयोग है; 
+
+"जेकेपीसीएल" का अर्थ है जम्मू और कश्मीर पावर कॉर्पोरेशन लिमिटेड, जो केंद्र शासित प्रदेश जम्मू और कश्मीर 
+और केंद्र शासित प्रदेश लद्दाख में कार्यरत वितरण लाइसेंसधारियों की ओर से बिजली खरीदता है; 
+
+
+. "दीर्घकालिक बिजली खरीद" का अर्थ है सात साल से अधिक की अवधि या कालावधि के लिए किसी व्यवस्था या 
+
+
+समझौते के तहत बिजली की खरीद; 
+
+
+=. "मध्यम अवधि बिजली खरीद" का अर्थ है किसी भी व्यवस्था या समझौते के तहत तीन महीने से अधिक लेकिन 
+
+
+पाँच वर्ष से कम की अवधि या कालावधि के लिए बिजली की खरीद; 
+
+
+. "महीना" का अर्थ है ब्रिटिश कैलेंडर के अनुसार एक कैलेंडर माह; 
+. "पावर एक्सचेंज" का अर्थ है केंद्रीय विद्युत विनियामक आयोग द्वारा जारी दिशा-निर्देशों के अनुसार बिजली के 
+
+
+लिए पावर एक्सचेंज के रूप में काम करने वाला कोई भी एक्सचेंज; 
+
+
+. "बिजली खरीद समझौता (पीपीए)" का अर्थ है खरीदार और विक्रेता के बीच हुआ समझौता, जिसके अनुसार 
+
+
+विक्रेता उसमें निर्दिष्ट नियमों और शर्तों के अनुसार खरीदार को बिजली की आपूर्ति करेगा; 
+
+
+. "बिजली बिक्री समझौता (पीएसए)" का अर्थ किसी भी बिजली खरीद समझौते के तहत खरीदी गई बिजली की 
+
+
+आगे की बिक्री के लिए क्रेता इकाई (ओं) और मध्यस्थ खरीदार/व्यापारी के बीच एक के बाद एक किया गया 
+समझौता होगा; 
+
+
+. "अल्पकालिक बिजली खरीद" का अर्थ है किसी भी व्यवस्था या समझौते के तहत तीन महीने से कम या उसके 
+
+
+बराबर अवधि या कालावधि के लिए बिजली की खरीद; और 
+"वर्ष" का अर्थ है कैलेंडर वर्ष के AIT को शुरू होने वाला और अगले कैलेंडर वर्ष के 3 मार्च को समाप्त होने 
+वाला वित्तीय वर्ष; 
+
+
+जब तक संदर्भ की अन्यथा आवश्यकता न हो, इन विनियमों में शब्दों और अभिव्यक्तियों का वही अर्थ होगा जो 
+विद्युत अधिनियम, 2003 (2003 की संख्या 36) और केंद्र शासित प्रदेश जम्मू-कश्मीर और केंद्र शासित प्रदेश 
+लद्दाख के लिए संयुक्त विद्युत विनियामक आयोग द्वारा अधिसूचित विनियमों में परिभाषित तथा संशोधित है। 
+
+
+3: बिजली खरीद योजना 
+
+
+3./. 
+
+
+3.2. 
+
+
+जेकेपीसीएल के साथ वितरण लाइसेंसधारी अपने आपूर्ति क्षेत्र में बिजली की आवश्यकता को ध्यान में रखते हुए 5 
+साल की अवधि के लिए बिजली खरीद योजना तैयार करेगा। योजना में इन विनियमों के अनुसार, मांग-आपूर्ति की 
+स्थिति के अनुसार, बिजली खरीद के दीर्घकालिक, मध्यम अवधि और अल्पकालिक स्रोत शामिल हो सकते zl 
+
+
+बिजली खरीद योजना बिजली की मांग, ऊर्जा आवश्यकता और आपूर्ति की स्थिति के दीर्घकालिक पूर्वानुमान और 
+दीर्घकालिक/मध्यम/अल्पकालिक बिजली खरीद समझौतों/व्यवस्थाओं के विकास की आवश्यकता के लिए एक 
+रूपरेखा प्रस्तुत करती है: 
+
+
+राज्य के स्वामित्व वाले पुराने और साथ ही नई पीढ़ी के स्रोत; 
+
+
+. केंद्रीय क्षेत्र के संयंत्र; 
+
+
+स्वतंत्र बिजली उत्पादक (आईपीपी); 
+कैप्टिव विद्युत संयंत्र; 
+
+
+S. पावर ट्रेडिंग कंपनियाँ; 
+. बिजली बाजार; और 
+छ्‌ 
+
+
+कोई अन्य स्रोत. 
+
+
+4: बिजली खरीद योजना के लिए रूपरेखा 
+
+
+4./. 
+
+
+एमवाईटी नियंत्रण अवधि के लिए जेकेपीसीएल के परामर्श से वितरण लाइसेंसधारी व्यवसाय योजना के एक भाग 
+के रूप में अनुमोदन के लिए आवश्यक सहायक दस्तावेजों के साथ बिजली खरीद योजना प्रस्तुत करेगा: 
+
+
+[भाग ता--खण्ड 4] भारत का राजपत्र : असाधारण 3 
+
+
+4.2 
+
+
+4.3 
+
+
+4.5 
+
+
+4.6 
+
+
+4.7 
+
+
+बिजली खरीद क्रय योजना, जैसा कि व्यवसाय योजना के तहत प्रस्तुत की गई है, हर साल वितरण लाइसेंसधारी 
+द्वारा दायर की जाने वाली एआरआर याचिका के एक भाग के रूप में प्रस्तुत की जाएगी; 
+
+
+. 5-वर्षीय बिजली खरीद योजना में निम्नलिखित शामिल होंगे: 
+
+
+क. प्रत्येक वर्ष के लिए मासिक और वार्षिक मांग प्रक्षेपण (मेगावाट) और ऊर्जा आवश्यकता (WHA); 
+
+ख. राज्य के स्वामित्व वाले स्टेशनों से मासिक और वार्षिक उपलब्धता का पूर्वानुमान और उन सभी स्टेशनों या स्रोतों 
+से खरीदारी जिनके साथ लाइसेंसधारी के पास दीर्घकालिक/मध्यम अवधि के पीपीए हैं; 
+
+ग. पीक और ऑफ-पीक अवधि (दैनिक/मासिक 24-घंटे लोड वक्र के अनुसार) पर विचार करते हुए मांग-आपूर्ति घाटे 
+का आकलन और घाटे को पाटने की योजना और तदनुसार संसाधन योजना; 
+
+घ. प्रासंगिक नियमों में निर्दिष्ट आरपीओ आवश्यकता को पूरा करने के लिए अनुमोदित आरपीओ प्रक्षेपवक्र पर विचार 
+करते हुए नवीकरणीय ऊर्जा संयंत्रों से की जाने वाली खरीद की मात्रा; 
+
+ड.. बिजली खरीद योजना में ट्रांसमिशन और अन्य आकस्मिक शुल्कों सहित बिजली खरीद की लागत के लिए संयंत्र- 
+वार वार्षिक अनुमान भी शामिल होगा: 
+बशर्ते कि बिजली खरीद लागत को अन्य प्रासंगिक विनियमों के साथ पढ़े गए मौजूदा एमवाईटी विनियमों के 
+प्रावधानों के अनुसार विवेकपूर्ण जांच के बाद खुदरा आपूर्ति टैरिफ में अनुमति दी जाएगी; 
+
+च. मांग का पूर्वानुमान और उपलब्धता का आकलन नीचे विनियम 4.4 से 4.45 के अनुसार विस्तृत होगा। 
+
+
+. योजना की जांच करते समय आयोग ऐसी अतिरिक्त जानकारी और डेटा मांग सकता है जिसे वह बिजली खरीद 
+
+
+योजना की समीक्षा के लिए आवश्यक समझे और वितरण लाइसेंसधारी/जेकेपीसीएल, आयोग द्वारा जब भी अपेक्षित 
+हो, ऐसी जानकारी प्रस्तुत करेगा और तकनीकी सत्यापन के दौरान, लाइसेंसधारी बिजली खरीद पूर्वानुमान पद्धति 
+का प्रदर्शन करेगा। 
+
+
+मांग और ऊर्जा पूर्वानुमान: 
+
+
+. मूल्यांकन ऐतिहासिक डेटा के रुझानों और सांख्यिकीय विश्लेषण, भविष्य के अनुमानों और व्यावसायिक योजनाओं के 
+
+
+कार्यान्वयन के पूर्वानुमानित परिणामों पर आधारित होगा। 
+
+
+. मांग और ऊर्जा पूर्वानुमान निम्नलिखित को ध्यान में रखकर तैयार किया जाएगा: 
+
+
+क) पिछली अवधि और समय श्रृंखला विश्लेषण के लिए वर्ष-दर-वर्ष वृद्धि/चक्रवृद्धि वार्षिक वृद्धि दर (सीएजीआर) के 
+आधार पर श्रेणी-वार मासिक ऊर्जा खपत और मासिक और वार्षिक ऊर्जा आवश्यकता का पूर्वानुमान। 
+
+ख) समग्र आर्थिक विकास अनुमान; 
+
+ग) श्रेणियों के लिए उपभोक्ताओं की संख्या में परिवर्तन, कनेक्टेड लोड (किलोवाट) में अपेक्षित वृद्धि, लोड वृद्धि/लोड 
+कटौती/नए कनेक्शन/डिस्कनेक्शन के लिए आवेदन, और प्रत्येक उपभोक्ता श्रेणी के लिए माहवार ऊर्जा खपत; 
+
+घ) उपभोक्ताओं के खुली पहुंच और कैप्टिव उत्पादन में संभावित स्विचओवर का प्रभाव; 
+
+S) बैटरी, पंप स्टोरेज सिस्टम, इलेक्ट्रिक वाहन चार्जिंग स्टेशन आदि सहित भंडारण क्षमताओं का प्रभाव; 
+
+a) विभिन्न पहलों के तहत स्थापित विकेन्द्रीकृत नवीकरणीय ऊर्जा संयंत्रों का प्रभाव; 
+
+छ) केंद्र शासित प्रदेश सरकार/कैंद्र सरकार द्वारा कार्यान्वित नई योजनाओं के कारण प्रभाव; 
+
+ज) महत्वपूर्ण त्योहारों, कार्य दिवसों या गैर-कार्य दिवसों का प्रभाव, पीक और ऑफ-पीक घंटों का लोड पैटर्न, 
+संचालन के घंटे और मौसमी बदलाव, फसल पैटर्न, वर्षा पैटर्न, आदि का प्रभाव; 
+
+झ) आयोग के प्रासंगिक विनियमों के अनुसार आपूर्ति की गुणवत्ता और विश्वसनीयता के संबंध में मानकों को बनाए 
+रखा जाना चाहिए; 
+
+ञ) ऊर्जा संरक्षण, ऊर्जा दक्षता और मांग पक्ष प्रबंधन के लिए उठाए गए उपाय और प्रस्तावित उपाय; 
+
+
+. वितरण लाइसेंसधारी पूर्वानुमान के लिए केंद्रीय विद्युत प्राधिकरण (सीईए) द्वारा अपनाई गई पद्धति या अर्थमितीय 
+
+
+विश्लेषण जैसी किसी अन्य पद्धति का पालन कर सकते हैं। 
+
+
+. लाइसेंसधारी विभिन्न उपभोक्ता श्रेणियों के दैनिक उपभोग पैटर्न को समझने के लिए लोड रिसर्च अध्ययन करेगा 
+
+
+और यह भी समझेगा कि उनके उपयोग में विविधता मांग वक्र को समतल करने में कैसे मदद करती है। 
+
+
+4 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+ख. उपलब्धता का आकलनः 
+
+
+4.8. 
+
+
+4.9. 
+
+
+जेकेपीसीएल के साथ वितरण लाइसेंसधारी मौजूदा उत्पादन क्षमता और किसी भी पाइपलाइन क्षमता का 
+प्रौद्योगिकी/ईंधन-वार वर्गीकरण करेंगे, जिसे ऊर्जा मांग में वृद्धि को पूरा करने के लिए इष्टतम ऊर्जा प्राप्त करने के 
+लिए जोड़ने की योजना बनाई गई है। 
+
+
+जेकेपीसीएल के साथ वितरण लाइसेंसधारी पारंपरिक बिजली स्रोतों के साथ आरई एकीकरण और उच्च मांग वाले 
+मौसमों के दौरान चरम भार को पूरा करने के लिए विभिन्न भंडारण प्रौद्योगिकियों को अपनाने के लिए विभिन्न 
+परिदृश्यों के साथ एक संसाधन योजना विकसित करेंगे। 
+
+
+. राज्य के थर्मल पावर प्लांट की प्लांट उपलब्धता (पीएएफ) को पिछले पैटर्न के आधार Frat जाएगा। केंद्रीय 
+
+
+उत्पादन स्टेशनों के मामले में, कोयला आधारित और गैस आधारित इकाइयों के लिए लागू सीईए/सीईआरसी के 
+अनुसार योजना मानदंडों पर विचार किया जा सकता है। आईपीपी के मामले में, बिजली की उपलब्धता का अनुमान 
+लगाने के लिए पिछले प्रदर्शन पर विचार किया जाएगा। सभी नई/आगामी थर्मल परियोजनाओं के लिए पीएएफ पर 
+राज्य/केंद्रीय टैरिफ नियमों में दिए गए मानदंडों के अनुसार विचार किया जाएगा। 
+
+
+. मौजूदा सौर और गैर-सौर ऊर्जा संयंत्रों के क्षमता उपयोग कारक (सीयूएफ) पर संयंत्र के पिछले प्रदर्शन के आधार 
+
+
+पर विचार किया जाएगा। नई/आगामी परियोजनाओं के लिए सीयूएफ का अनुमान संयंत्र के पीपीए के अनुसार 
+सीयूएफ पर विचार करते हुए लगाया जाएगा। 
+
+
+. हाइड्रो पावर प्लांट (एचपीपी) से उपलब्धता का अनुमान लगाने के लिए, पिछले वर्षों के वर्षा पैटर्न और संबंधित 
+
+
+वास्तविक माह-वार ऊर्जा उपलब्धता पर विचार किया जाएगा, जिससे आगामी वर्षों के लिए ऊर्जा की मात्रा का 
+अनुमान लगाने के लिए उत्पादन पैटर्न में मौसमी बदलाव को दर्शाया जाएगा। 
+
+
+. वितरण लाइसेंसधारी/जेकेपीसीएल विभिन्न बिजली संयंत्रों के लिए सहायक खपत पर विचार करने के मामले में 
+
+
+विनियम 4.40 से 4.42 में ऊपर वर्णित समान पद्धति का पालन करेंगे। 
+
+
+. नवीकरणीय ऊर्जा संयंत्रों से खरीदी जाने वाली ऊर्जा की मात्रा संबंधित विनियमों और उनके संशोधनों में आरपीओ 
+
+
+प्रक्षेपवक्र के अनुसार होगी। 
+
+
+. ऊर्जा उपलब्धता का अनुमान लगाते समय, वितरण लाइसेंसधारी/जेकेपीसीएल चरम अवधि के दौरान बिजली 
+
+
+उपलब्धता सुनिश्चित करने के लिए बैंकिंग/बिजली बाजार और अन्य राज्य के स्वामित्व वाली उपयोगिताओं के साथ 
+द्विपक्षीय व्यवस्था जैसे अन्य विकल्पों का पता लगाएगा। 
+
+
+परामर्श को शामिल करने के लिए मूल्यांकन: 
+
+
+वितरण लाइसेंसधारी / जेकेपीसीएल राज्य उत्पादन कंपनियों, वितरण लाइसेंसधारियों, केंद्रीय उत्पादन कंपनियों 
+और ट्रांसमिशन कंपनियों / राष्ट्रीय / राज्य / क्षेत्रीय लोड डिस्पैच केंद्रों और केंद्रीय विद्युत प्राधिकरणसहित किसी भी 
+या सभी संबंधितों के परामर्श से दीर्घकालिक / मध्यम अवधि की मांग और आपूर्ति उपलब्धता का आकलन करेगा। 
+
+
+अन्य बातें: 
+
+
+कोई भी नई क्षमता व्यवस्था/टाई-अप आवश्यकता, बिजली खरीद की लागत की तर्कसंगतता और कुशल, किफायती 
+और न्यायसंगत तरीके से काम को बढ़ावा देने के मद्देनजर आयोग की पूर्व मंजूरी के अधीन होगी। 
+
+
+. विभिन्न स्रोतों से दीर्घकालिक/मध्यम अवधि/अल्पकालिक बिजली की सभी खरीद समय-समय पर क केंद्र 
+
+
+सरकार/आयोग द्वारा जारी दिशानिर्देशों/नियमों/विनियमों के अनुसार की जाएगी। 
+
+
+. वितरण लाइसेंसधारियों/जेकेपीसीएल द्वारा किया गया कोई भी नया बिजली खरीद समझौता या मौजूदा बिजली 
+
+
+खरीद समझौते (पीपीए)/बिजली बिक्री समझौते (पीएसए) में किया गया संशोधन आयोग की पूर्व मंजूरी के अधीन 
+होगा। 
+
+
+5: बिजली खरीद में बदलाव 
+
+
+5.4. 
+
+
+वितरण लाइसेंसधारी/जेकेपीसीएल इस विनियम के अनुसार, आयोग द्वारा अनुमोदित बिजली खरीद योजना के 
+अलावा, वर्ष के दौरान अतिरिक्त बिजली खरीद कर सकता है। 
+
+
+[भाग ता--खण्ड 4] भारत का राजपत्र : असाधारण 5 
+
+
+बशर्ते कि जब बिजली की मांग में अप्रत्याशित वृद्धि हुई हो या वर्ष के दौरान आपूर्ति के किसी अनुमोदित ata से 
+बिजली की आपूर्ति में कमी या विफलता या जब मौजूदा गठबंधन स्रोतों से बिजली की सोर्सिंग अन्य उपलब्ध 
+वैकल्पिक स्रोतों की तुलना में महंगी हो जाती है, वितरण लाइसेंसधारी/जेकेपीसीएल बिजली की खरीद के लिए 
+अतिरिक्त समझौते या व्यवस्था में प्रवेश कर सकते हैं। 
+
+
+बशर्ते कि वितरण लाइसेंसधारी/जेकेपीसीएल, वितरण प्रणाली की स्थिरता को खतरे में डालने वाली आपातकालीन 
+स्थितियों का सामना करने पर, या आयोग द्वारा ऐसा करने का निर्देश दिए जाने पर, या जब ग्रिड विफलता को 
+रोकने के लिए एसएलडीसी द्वारा ऐसा करने का निर्देश दिए जाने पर आयोग की पूर्व मंजूरी के बिना बिजली की 
+खरीद के लिए एक अल्पकालिक व्यवस्था या समझौता कर सकते हैं 
+
+
+5.2. अल्पकालिक बिजली खरीद के लिए किसी समझौते या व्यवस्था में प्रवेश करने की तारीख से तीस दिनों के भीतर, 
+जिसके लिए पूर्व अनुमोदन नहीं लिया गया है, वितरण लाइसेंसधारी / जेकेपीसीएल आयोग को अपना विवरण 
+प्रस्तुत करेगा, जिसमें मात्रा, टैरिफ गणना, अवधि, आपूर्तिकर्ता विवरण, आपूर्तिकर्ता चयन की विधि और ऐसे अन्य 
+विवरण शामिल होंगे जिनकी आयोग को आवश्यकता हो सकती है, ताकि यह आकलन किया जा सके कि इस 
+विनियम में निर्दिष्ट शर्तों का अनुपालन किया गया है। 
+
+
+6: वेबसाइटों पर जानकारी प्रस्तुत करना 
+6.i. वितरण लाइसेंसधारियों/जेकेपीसीएल द्वारा मासिक/साप्ताहिक/दिन-आगे/अंतर्दिवतीय बिजली खरीद/बिक्री और 
+जनरेटर शेड्यूल को ऐसी खरीद/बिक्री के 30 दिनों के भीतर वितरण लाइसेंसधारियों/जेकेपीसीएल और 
+एसएलडीसी की वेबसाइटों, जैसा लागू हो, पर उपलब्ध कराया जाएगा, ताकि वर्तमान और साथ ही संग्रहीत डेटा 
+तक पहुंच आसान हो सके। 
+
+
+6.2. एसएलडीसी अपनी वेबसाइट पर प्रत्येक उत्पादन स्टेशन की प्रति यूनिट परिवर्तनीय लागत के साथ मासिक मेरिट 
+ऑर्डर Reta (एमओडी) cep भी प्रकाशित करेगा। 
+
+
+7: एक समर्पित सेल का गठन 
+
+
+7... विनियमन लागू होने के तीन महीने के भीतर जेकेपीसीएल द्वारा बिजली खरीद के लिए चौबीसों घंटे चलने वाले 
+समर्पित सेल का गठन किया जाएगा। सेल में ऊर्जा पूर्वानुमान के लिए अपेक्षित क्षमता और उपकरण होने चाहिए। 
+यह सेल ऊर्जा पूर्वानुमान लगाने के लिए वितरण लाइसेंसधारियों के साथ समन्वय और परामर्श करेगा। सेल के पास 
+पावर एक्सचेंजों या किसी अन्य माध्यम से वास्तविक समय, दिन के भीतर, अगले दिन, अगले सप्ताह या किसी भी 
+लंबी अवधि में ऊर्जा खरीदने/बेचने की शक्ति होगी। जेकेपीसीएल इस विनियम की भावना के अनुरूप समर्पित सेल 
+के तौर-तरीकों के लिए उपयुक्त दिशानिर्देश तैयार करेगा और इन विनियमों के लागू होने के 45 दिनों के भीतर 
+आयोग को इसके बारे में सूचित करेगा। 
+
+
+8: मिश्रित 
+क. इन विनियमों का गैर-अनुपालन: 
+
+
+8.. वितरण लाइसेंसधारियों/जेकेपीसीएल द्वारा इन विनियमों का अनुपालन नहीं करने की स्थिति में, आयोग, जैसा 
+उचित समझे, जुर्माना लगाने के अलावा, विद्युत अधिनियम 2003 के उचित प्रावधानों के अनुसार स्वत: संज्ञान 
+कार्यवाही शुरू कर सकता है। 
+
+ख. आदेश और अभ्यास निर्देश जारी करना: 
+
+
+8.2. विद्युत अधिनियम 2003 और इन विनियमों के प्रावधान के अधीन, आयोग, समय-समय पर, विनियमों और 
+प्रक्रियाओं के कार्यान्वयन के संबंध में आदेश और अभ्यास निर्देश जारी कर सकता है। 
+
+
+ग. कठिनाइयों को दूर करने की शक्तियाँ: 
+8.3. यदि इन विनियमों के किसी भी प्रावधान को प्रभावी करने में कोई कठिनाई उत्पन्न होती है, तो आयोग सामान्य या 
+विशेष आदेश द्वारा, एसएलडीसी, जनरेटर, लाइसेंसधारियों, जेकेपीसीएल और ओपन WH ग्राहक को अधिनियम 
+
+
+के प्रावधानों के साथ असंगत न होते हुए उचित कार्यवाही करने का निर्देश दें सकता है, जो आयोग को कठिनाइयों 
+को दूर करने के उद्देश्य से आवश्यक या समीचीन प्रतीत होता है। 
+
+
+6 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+8.4. 
+
+
+वितरण लाइसेंसधारी, जेकेपीसीएल और एसएलडीसी आयोग को आवेदन कर सकते हैं और इन नियमों के 
+कार्यान्वयन में आने वाली किसी भी कठिनाई को दूर करने के लिए उपयुक्त आदेश मांग सकते Sl 
+
+
+घ. संशोधन करने की शक्ति: 
+
+
+8.5. आयोग आवश्यक प्रक्रियाओं का पालन करने के बाद समय-समय पर इन विनियमों के किसी भी प्रावधान को जोड़, 
+बदल, परिवर्तित, सुधार या संशोधित कर सकता है। 
+
+ड.. जमा पूंजी: 
+
+8.6. इन विनियमों में कुछ भी ऐसा नहीं माना जाएगा जो न्याय के उद्देश्यों को पूरा करने या आयोग की प्रक्रिया के 
+दुरुपयोग को रोकने के लिए आवश्यक ऐसे आदेश देने के लिए आयोग की अंतर्निहित शक्ति को सीमित या अन्यथा 
+प्रभावित करता है। 
+
+8.7. इन विनियमों में कुछ भी आयोग को अधिनियम के प्रावधानों के अनुरूप ऐसी प्रक्रिया अपनाने से नहीं रोकेगा, जो 
+इन विनियमों के किसी भी प्रावधान से भिन्न हो, यदि आयोग, किसी मामले या वर्ग की विशेष परिस्थितियों को 
+ध्यान में रखते हुए मामलों और कारणों को लिखित रूप में दर्ज करने के लिए, ऐसे मामले या मामलों के वर्ग से 
+निपटने के लिए इसे आवश्यक या समीचीन मानता है। 
+
+8.8. इन विनियमों में कुछ भी, स्पष्ट या अप्रत्यक्ष रूप से, आयोग को किसी भी मामले से निपटने या अधिनियम के तहत 
+
+
+किसी भी शक्ति का प्रयोग करने से नहीं रोकेगा, जिसके लिए कोई विनियम नहीं बनाए गए हैं और आयोग ऐसे 
+मामलों, शक्तियों और कार्यों से उनके द्वारा उचित समझे गए तरीकों से निपट सकता है। 
+
+
+आयोग के आदेश द्वारा। 
+वी.के. धर, (जेकेएएस) सचिव 
+[ विज्ञापन-ा॥/4/असा./538/2023-24] 
+
+
+JOINT ELECTRICITY REGULATORY COMMISSION 
+For The UT of J&K and the UT of Ladakh. 
+NOTIFICATION 
+Jammu, the Ist, November 2023 
+No.--JERC-JKL/REG/2023/2:— In exercise of the powers conferred under Section 86()(b) read with 
+
+
+Section 8] of the Electricity Act, 2003 (Act No. 36 of 2003) (hereinafter referred to as the ‘Act’), and all other 
+powers enabling it in this behalf, the Joint Electricity Regulatory Commission for the UT of J&K and UT of Ladakh 
+hereby makes the following Regulations. 
+
+
+L. 
+
+
+.2 
+
+
+.3 
+
+
+2. 
+
+
+i: SHORT TITLE, COMMENCEMENT, AND EXTENT 
+These Regulations shall be called the Joint Electricity Regulatory Commission for the UT of J&K and the UT of 
+
+
+Ladakh (Guidelines for Load Forecasts, Resources Plans, and Power Procurement Process) Regulations, 2023. 
+
+
+These Regulations shall apply to Jammu and Kashmir Power Corporation Ltd (JKPCL) and all the Distribution 
+Licensees in the territory of the UT of Jammu & Kashmir and the UT of Ladakh and shall be applicable to all 
+inter/intra state purchases of power from conventional and renewable sources made or proposed to be made by 
+JKPCL or by any Distribution Licensees. 
+
+
+These Regulations shall come into force from the date of their publication in the Official Gazette. 
+2: DEFINITIONS 
+In these Regulations, unless it is repugnant to the context: 
+a. "Act" means the Electricity Act, 2003 (36 of 2003); 
+b. “Commission” means the Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the 
+UT of Ladakh; 
+c. “JKPCL” means the Jammu and Kashmir Power Corporation Ltd, who procures power on behalf of the 
+Distribution Licensees operating in the UT of Jammu & Kashmir and the UT of Ladakh; 
+
+
+[भागवता--खण्ड 4] भारत का राजपत्र : असाधारण 7 
+
+
+232 
+
+
+3.] 
+
+
+3.2 
+
+
+4.| 
+
+
+4.2 
+
+
+d. “Long-term power procurement” means Procurement of power under any arrangement or agreement with a 
+term or duration exceeding seven years; 
+
+
+e. “Medium-term power procurement” means Procurement of power under any arrangement or agreement 
+with a term or duration exceeding three months but not exceeding five years; 
+
+
+f. “Month” means a calendar month as per the British Calendar; 
+
+
+g. “Power Exchanges” mean any Exchanges operating as power exchanges for electricity in terms of the 
+guidelines issued by the Central Electricity Regulatory Commission; 
+
+
+h. “Power Purchase Agreement (PPA)” means the agreement entered into between the Procurer(s) and the 
+Seller pursuant to which the Seller shall supply power to the Procurer(s) as per the terms and conditions 
+specified therein; 
+
+
+i. “Power Sale Agreement (PSA)” shall mean the back-to-back agreement entered into between the Buying 
+Entity(s) and the Intermediary Procurer/trader for the onward sale of power purchased under any power 
+purchase agreement; 
+
+
+j. “Short-Term Power Procurement” means Procurement of power under any arrangement or agreement with 
+
+
+a term or duration less than or equal to three months; and 
+
+
+k. “Year” means the financial year commencing on |“ April of the calendar year and ending on 3*t March of 
+the subsequent calendar year; 
+
+
+Unless the context otherwise requires, the words and expressions in these Regulations shall bear the same 
+meaning as defined in the Electricity Act, 2003 (No. 36 of 2003), and Regulations notified by the Joint 
+Electricity Regulatory Commission for the UT of Jammu & Kashmir and the UT of Ladakh and amendments 
+thereof. 
+
+
+3: POWER PROCUREMENT PLAN 
+
+
+The Distribution Licensee along with JKPCL shall prepare the power procurement plan for a period of 5 years 
+with due regard to the requirement of electricity in its area of supply. The plan may include long-term, medium- 
+term, and short-term sources of power purchase, as per demand-supply position, in accordance with these 
+Regulations. 
+
+The Power Procurement plan presents a framework for long-term forecasting of power demand, energy 
+requirement, and supply positions and the need for the development of Long/ Medium/Short Term Power 
+purchase agreements/arrangements with: 
+
+State-owned old as well as new generation sources; 
+
+Central sector plants; 
+
+Independent power producers (IPP); 
+
+Captive Power Plants; 
+
+Power Trading Companies; 
+
+Power Market; and 
+
+Any other source. 
+
+
+4: FRAMEWORK FOR POWER PROCUREMENT PLANNING 
+
+
+wmo aoe 
+
+
+The Distribution Licensee in consultation with JKPCL for the MYT control period shall submit the Power 
+Procurement Plan along with necessary supporting documents for approval as a part of the Business Plan: 
+
+
+The Power Purchase procurement plan, as submitted under the Business plan, shall be submitted as a part of the 
+ARR petition to be filed by the Distribution licensee every year; 
+
+
+The 5-year power procurement plan would comprise the following: 
+a. Monthly and yearly demand projection (MW) and energy requirement (MU) for each year; 
+
+
+b. Forecast of monthly and yearly availability from state-owned stations and purchases from all stations or 
+sources with which the Licensee has long-term/medium-term PPAs; 
+
+
+c. Assessment of the demand-supply deficit considering peak, and off-peak periods (as per daily/monthly 24- 
+hour load curve) and plans to bridge the deficit and resource planning accordingly; 
+
+
+d. Quantum of purchase to be made from Renewable Energy Plants considering the approved RPO trajectory to 
+meet the RPO requirement as specified in the relevant regulations; 
+
+
+e. The power procurement plan shall also include a plant-wise yearly estimate for the cost of power purchase 
+including transmission and other incidental charges: 
+
+
+8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+Provided that power purchase cost shall be allowed in Retail Supply Tariff after exercising prudence check as per 
+provisions in prevailing MYT Regulations read with other relevant Regulations; 
+
+
+f. The demand forecast and assessment of availability shall be as detailed in Regulations 4.4 to 4.5 below. 
+
+
+4.3 While examining the plan the Commission may call for such additional information and data as it may deem 
+necessary for reviewing the Power Procurement Plan and the Distribution Licensee / JKPCL shall furnish such 
+information, as and when required by the Commission and during technical validation, the licensee shall 
+demonstrate the power procurement forecast methodology. 
+
+
+A. Demand and Energy Forecast: 
+
+
+4.4 The assessment shall be based on trends and statistical analysis of historical data, future projections, and 
+forecasted results of the implementation of business plans. 
+
+
+4.5 The demand and energy forecast shall be prepared considering the following: 
+
+
+a) Category-wise monthly energy consumption and monthly & yearly energy requirement forecast based on the 
+year-on-year growth/Compound Annual Growth Rate (CAGR) for the past period and time series analysis. 
+
+b) Overall economic growth projections; 
+
+c) Change in number of consumers for categories, expected increase in connected load (kW), applications for 
+load enhancement/load reduction/new connections/disconnections, and the month-wise energy consumption 
+for each consumer category; 
+
+d) The impact of the possible switchover of consumers to open access and captive generation; 
+
+e) Impact of Storage capacities including Batteries, Pump Storage systems, Electric Vehicle charging stations, 
+etc.; 
+
+f) Impact of decentralized renewable energy plants set up under various initiatives; 
+
+g) Impact due to new schemes implemented by UT Govt/Central Government; 
+
+h) The effect of important festivals, working days or non-working days, the impact of Peak and Off-peak hours 
+load pattern, hours of operation, and seasonal variations, cropping pattern, rainfall pattern, etc; 
+
+i) Standards to be maintained with regard to quality and reliability of supply, in accordance with the relevant 
+Regulations of the Commission; 
+
+j) Measures taken and proposed for energy conservation, energy efficiency, and Demand Side Management; 
+
+4.6 The Distribution Licensee(s) may follow the methodology adopted by the Central Electricity Authority (CEA) or 
+any other method like econometric analysis for forecasting. 
+
+
+4.7 The Licensee shall carry out Load Research studies of various consumer categories to understand their diurnal 
+consumption pattern and how diversity in their usages helps in flattening the demand curve. 
+
+
+Assessment of Availability: 
+
+
+4.8 The Distribution Licensees along with JKPCL shall carry out technology/fuel-wise categorization of existing 
+generation capacity and any pipeline capacity which has been planned to be added to get an optimal energy mix 
+to meet the rise in energy demand. 
+
+
+4.9 The Distribution Licensees along with JKPCL shall develop a resource plan with different scenarios for RE 
+integration with conventional power sources and the adoption of different storage technologies to meet the peak 
+load during high-demand seasons. 
+
+
+4.0 The Plant Availability (PAF) of the State Thermal power plants shall be considered on the basis of past patterns. 
+In the case of Central Generating stations, the planning norms as per CEA/CERC as applicable for coal-based 
+and gas-based units may be considered. In the case of IPPs, past performance shall be considered to estimate the 
+availability of power. PAF for all new/upcoming thermal projects shall be considered as per norms provided in 
+the State/Central tariff regulations. 
+
+
+4.l! The Capacity Utilization Factor (CUF) of existing solar and non-solar power plants shall be considered on the 
+basis of the past performance of the plant. For new/upcoming projects the CUF shall be estimated considering 
+CUF as per the PPA of the plant. 
+
+
+4.2 For estimating availability from Hydro Power Plants (HPPs), past years’ rainfall pattern and corresponding 
+actual month-wise energy availability shall be considered, thereby reflecting the seasonal variation in generation 
+pattern for estimating the quantum of energy for forthcoming years. 
+
+
+4.3 The Distribution Licensees / JKPCL shall follow a similar method as detailed above in Regulations 4.!0 to 4.2 
+in case of consideration of Auxiliary consumption for different power plants. 
+
+
+4.4 The quantum of energy to be procured from renewable energy plants shall be as per the RPO trajectory in the 
+relevant Regulations and amendments thereof. 
+
+
+[भागवता--खण्ड 4] भारत का राजपत्र : असाधारण 9 
+
+
+4.5 While estimating the energy availability, the Distribution Licensees / JKPCL shall explore other options like 
+banking/power market and bilateral arrangements with other state-owned utilities to ensure power availability 
+during Peak Periods. 
+
+
+C. Assessment to Involve Consultation: 
+
+
+4.6 The Distribution Licensees / JKPCL shall make long-term/medium-term demand and supply availability 
+assessments in consultation with any or all concerned including State Generating Companies, Distribution 
+Licensees, Central Generating Companies and Transmission Companies / National / State/Regional Load 
+Dispatch Centres, and Central Electricity Authority. 
+
+
+D. Other Considerations: 
+4.[7 Any new Capacity arrangement/tie-up shall be subject to the prior approval of the Commission in view of 
+
+
+necessity, the reasonableness of the cost of power purchase, and promotion of working in an efficient, 
+economical, and equitable manner. 
+
+
+4.8 All procurement of long-term/medium-term/short-term power from various sources shall be carried out as per the 
+guidelines/rules/ Regulations issued by the Central Government/Commission from time to time. 
+
+
+4.9 Any new power purchase agreements or amendments to existing Power Purchase Agreements (PPAs’)/ Power 
+Sale Agreements (PSA) entered into by the Distribution Licensees/ JKPCL shall be subject to the prior approval 
+of the Commission. 
+
+
+5: VARIATION IN POWER PURCHASE 
+
+
+5.l The Distribution Licensees / JKPCL may undertake additional power procurement during the year, over and 
+above the power procurement plan approved by the Commission, in accordance with this Regulation. 
+
+
+Provided that where there has been an unanticipated increase in the demand for electricity or a shortfall or failure 
+in the supply of electricity from any approved source of supply during the year or when the sourcing of power 
+from existing tied-up sources becomes costlier than other available alternative sources, the Distribution 
+Licensees /JKPCL may enter into additional agreement or arrangement for the procurement of power. 
+
+
+Provided that the Distribution Licensees / JKPCL may enter into a short-term arrangement or agreement for the 
+procurement of power without the prior approval of the Commission when faced with emergency conditions that 
+threaten the stability of the distribution system, or when directed to do so by the SLDC to prevent grid failure. 
+
+
+5.2 Within thirty days from the date of entering into an agreement or arrangement for short-term power procurement 
+for which prior approval is not taken, the Distribution Licensees / JKPCL shall submit to the Commission its 
+details, including the quantum, Tariff computations, duration, supplier particulars, method of supplier selection 
+and such other details as the Commission may require so as to assess that the conditions specified in this 
+Regulation have been complied with. 
+
+
+6. PLACING OF INFORMATION ON WEBSITES 
+
+
+6.l The monthly/weekly/day-ahead/intraday power procurements/sale by the Distribution Licensees / JKPCL and 
+generator schedule shall be made available on the websites of the Distribution Licensees / JKPCL, as applicable, 
+and SLDC within 30 days of such procurements/sale with ease of access to the current as well as archived data. 
+
+
+6.2 SLDC shall also publish the monthly Merit Order Dispatch (MoD) stack along with per unit variable cost of each 
+generating station on their website. 
+
+7: CONSTITUTION OF A DEDICATED CELL 
+
+7.. Around-the-clock dedicated cell for power procurement shall be constituted by JKPCL within three months of the 
+regulation coming into force. The cell should have the requisite capability and tools for energy forecast. The cell 
+shall co-ordinate and consult with the Distribution Licensees to do the energy forecasting. The cell shall have the 
+power to purchase/sell the energy in real-time, intra-day, day-ahead, week ahead, or any longer duration through 
+Power Exchanges or any other means. JKPCL shall frame suitable guidelines for the modus operandi of the 
+dedicated cell in line with the spirit of this Regulation and apprise the Commission for the same within 45 days of 
+the coming into force of these Regulations. 
+
+
+0 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+8: MISCELLANEOUS 
+
+
+A. 
+8. 
+
+
+8.7 
+
+
+8.8 
+
+
+Non-Compliance with these Regulations: 
+
+
+In the event of the Distribution Licensees / JKPCL not complying with these regulations, the Commission, in 
+addition to imposing such penalty as it may deem fit, may initiate Suo-Motu proceedings as per appropriate 
+provisions of the Electricity Act 2003. 
+
+
+Issue of Orders and Practice Directions: 
+
+
+Subject to the provision of the Electricity Act 2003 and these regulations, the Commission may, from time to 
+time, issue orders and practice directions with regard to the implementation of the regulations and procedures to 
+be followed. 
+
+
+Powers to Remove Difficulties: 
+
+
+If any difficulty arises in giving effect to any of the provisions of these Regulations, the Commission may, by 
+general or special order, direct the SLDC, generators, licensees, JKPCL and the Open Access Customer, to take 
+suitable action, not being inconsistent with the provisions of the Act, which appears to the Commission to be 
+necessary or expedient for the purpose of removing the difficulties. 
+
+
+The Distribution Licensees, JKPCL and SLDC may make an application to the Commission and seek suitable 
+orders to remove any difficulties that may arise in the implementation of these regulations. 
+
+Power to amend: 
+
+The Commission may from time to time add, vary, alter, modify, or amend any provisions of these regulations 
+after following the necessary procedures. 
+
+Savings: 
+
+
+Nothing in these Regulations shall be deemed to limit or otherwise affect the inherent power of the Commission 
+to make such orders as may be necessary to meet the ends of justice or to prevent abuses of the process of the 
+Commission. 
+
+
+Nothing in these Regulations shall bar the Commission from adopting in conformity with the provisions of the 
+Act a procedure, which is at variance with any of the provisions of these Regulations, if the Commission, in view 
+of the special circumstances of a matter or class of matters and for reasons to be recorded in writing, deems it 
+necessary or expedient for dealing with such a matter or class of matters. 
+
+
+Nothing in these Regulations shall, expressly or impliedly, bar the Commission from dealing with any matter or 
+exercising any power under the Act for which no Regulations have been framed, and the Commission may deal 
+with such matters, powers and functions in a manner it thinks fit. 
+
+
+By order of the Commission. 
+V.K.DHAR, (JKAS), Secy. 
+[ADVT.-HI/4/Extey.538/2023-24] 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-!0064 
+and Published by the Controller of Publications, Delhi-!0054. saxosxuma 
+
+
