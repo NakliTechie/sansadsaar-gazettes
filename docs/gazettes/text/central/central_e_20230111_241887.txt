@@ -1,0 +1,152 @@
+रजिस्ट्री सं . डी . एल . 33004/99 
+
+
+सं . 177 ] 
+No. 177 ] 
+
+
+- 
+
+
+भारत 
+
+राजपत्र 
+
+The Gazette of India 
+
+
+सत्यमेव जयते 
+
+का 
+
+
+सी . जी . डी . एल . अ . - 11012023-241887 
+
+- 
+
+
+266 GI / 2023 
+
+
+CG - DL - E - 11012023-241887 
+
+
+असाधारण 
+
+EXTRAORDINARY 
+
+
+भाग II– खण्ड 3 – उप खण्ड ( ii ) 
+PART II — Section 3 – Sub - section ( ii ) 
+
+
+प्राधिकार से प्रकाशित 
+
+PUBLISHED BY AUTHORITY 
+
+
+REGD . No. D. L. - 33004 / 99 
+
+
+नई दिल्ली , बुधवार , जनवरी 11 , 2023 / पौष 21 , 1944 
+
+NEW DELHI , WEDNESDAY , JANUARY 11 , 2023 / PAUSHA 21 , 1944 
+
+
+इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 
+अधिसूचना 
+
+नई दिल्ली , 11 जनवरी , 2023 
+
+
+का.आ. 185 ( अ ) . – केंद्रीय सरकार , सूचना प्रौद्योगिकी अधिनियम , 2000 ( 2000 का 21 ) की धारा 70 की उप 
+धारा ( 1 ) और उप - धारा ( 2 ) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए , कोटक महिंद्रा बैंक और इसके सहयुक्त आश्रितताओं के 
+कंप्यूटर संसाधनों को नाजुक सूचना अवसंरचना होने के कारण महत्वपूर्ण बैंककारी समाधान ( कोर बैंकिंग सोल्यूशन ) , 
+वास्तविक समय समग्र निपटान ( रियल टाइम ग्रॉस सेटलमेंट ) , राष्ट्रीय इलैक्ट्रोनिकी निधि अंतरण ( नेशनल इलेक्ट्रॉनिक फंड 
+ट्रांसफर ) , तुरंत भुगतान सेवा स्विच ( इमीडिएट पेमेंट सर्विस स्विच ) , स्वचालित टेलर मशीन स्विच ( ऑटोमेटिड टेलर 
+मशीन स्विच ) , एकीकृत भुगतान इंटरफेस स्विच ( यूनिफाइड पेमेंट्स इंटरफेस स्विच ) और सोसाइटी फॉर वर्ल्ड वाइड इंटर 
+बैंक फाइनेंशियल टेलीकम्यूनिकेशन सिस्टम्स से संबंधित कंप्यूटर संसाधनों को , उक्त अधिनियम के प्रयोजन के लिए एतद्वारा 
+संरक्षित प्रणाली घोषित करती है और निम्नलिखित कार्मिकों को संरक्षित प्रणालियों तक पहुंच बनाने के लिए प्राधिकृत 
+करती है , अर्थात् : 
+
+
+( क ) संरक्षित प्रणाली तक पहुंच बनाने के लिए , कोटक महिंद्रा बैंक द्वारा लिखित रूप में प्राधिकृत कोटक महिंद्रा 
+बैंक का कोई अभिहित कर्मचारी ; 
+
+
+( ख ) संविदातमक प्रबधित सेवा प्रदाता या तृतीय पक्षकार विक्रेता के दल का कोई सदस्य जिसे आवश्यकता के 
+आधार पर पहुंच बनाने के लिए कोटक महिंद्रा बैंक द्वारा लिखित रूप में प्राधिकृत किया गया है ; और 
+
+
+( 1 ) 
+
+
+2 
+
+
+2 . 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+( ग ) मामला दर मामला के आधार पर , कोटक महिंद्रा बैंक द्वारा लिखित रूप में प्राधिकृत कोई परामर्शी , 
+विनियामक , सरकारी पदाधिकारी , संपरीक्षक और पणधारी । 
+
+
+( b ) 
+
+
+[ PART II - SEC . 3 ( ii ) ] 
+
+
+( c ) 
+
+
+S.O. 185 ( E ) . In exercise of the powers conferred by sub - sections ( 1 ) and ( 2 ) of section 70 of the 
+Information Technology Act , 2000 ( 21 of 2000 ) , the Central Government hereby declares the computer resources 
+relating to the Core Banking Solution , Real Time Gross Settlement , National Electronic Fund Transfer , Immediate 
+Payment Service Switch , Automated Teller Machine Switch , Unified Payments Interface Switch and Society for 
+Worldwide Interbank Financial Telecommunications Systems , being Critical Information Infrastructure of Kotak 
+Mahindra Bank , and the computer resources of its associated dependencies , to be protected systems for the purpose of 
+the said Act and authorises the following personnel to access the protected systems , namely : — 
+
+( a ) 
+
+
+[ फा . सं . 2 ( 5 ) / 2022 - सीएल ] 
+अमित अग्रवाल , अपर सचिव 
+
+
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+
+NOTIFICATION 
+
+New Delhi , the 11th January , 2023 
+
+
+any designated employee of the Kotak Mahindra Bank authorised in writing by the Kotak Mahindra 
+Bank to access the protected system ; 
+
+
+any team member of contractual managed service provider or third - party vendor who have been 
+authorised in writing by the Kotak Mahindra Bank for need - based access ; and 
+
+
+any consultant , regulator , Government official , auditor and stakeholder authorised in writing by the 
+Kotak Mahindra Bank on case to case basis . 
+
+
+This notification shall come into force on the date of its publication in the Official Gazette . 
+
+
+[ F. No. 2 ( 5 ) / 2022 - CLI 
+AMIT AGRAWAL , Addl . Secy . 
+
+
+Uploaded by Dte . of Printing at Government of India Press , Ring Road , Mayapuri , New Delhi - 110064 
+and Published by the Controller of Publications , Delhi - 110054 . ALOK KUMAR Digitally signed by ALOK KUMAR 
+
+Date : 2023.01.11 19:58:25 + 05'30 ' 
+
+
