@@ -1,0 +1,88 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Jiitd = राज्जपतनत्र 
+Che Gazette of Jndia 
+
+
+सी.जी.-डी.एल.-अ.-27072023-247639 
+CG-DL-E-27072023-247639 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग तर--खण्ड 3--उप-खण्ड (ii) 
+PART II—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 395] नई दिल्ली, बुधवार, जुलाई 26, 2023/श्रावण 4, 945 
+No. 395] NEW DELHI, WEDNESDAY, JULY 26, 2023/SHRAVANA 4, 945 
+
+
+इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 26 जुलाई, 2023 
+का.आ. 3340(अ).--केंद्रीय सरकार, सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 2) की धारा 70 की 
+उप-धारा () और उप-धारा (2) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए, बैंक ऑफ इंडिया की नाजुक सूचना अवसंरचना 
+होने के कारण महत्वपूर्ण बैंककारी समाधान (कोर बैंकिंग Tey), वास्तविक समय समग्र निपटान (रियल टाइम ग्रॉस 
+Yedda), स्वचालित टेलर मशीन स्विच (ऑटोसेटिड टेलर मशीन स्विच्ते और एकीकृत भुगतान इंटरफेस स्विच ( यानिफाइड 
+qed इंटरफ़ेस स्विच) से संबंधित कंप्यूटर संसाधनों एवं इसके सहयुक्त आश्रितताओं के कंप्यूटर संसाधनों को उक्त 
+अधिनियम के प्रयोजन के लिए Wage संरक्षित प्रणाली घोषित करती है और निम्नलिखित कार्मिकों को संरक्षित प्रणालियों 
+तक पहुंच बनाने के लिए प्राधिकृत करती है, अर्थात्‌ :- 
+(क) संरक्षित प्रणाली तक पहुंच बनाने के लिए, बैंक ऑफ इंडिया द्वारा लिखित रूप में प्राधिकृत बैंक ऑफ इंडिया 
+का कोई अभिहित कर्मचारी; 
+(ख) संविदात्मक प्रबंधित सेवा-प्रदाता या तृतीय पक्षकार विक्रेता के दल का कोई सदस्य जिसे आवश्यकता के 
+आधार पर पहुंच बनाने के लिए बैंक ऑफ इंडिया द्वारा लिखित रूप में प्राधिकृत किया गया है; और 
+(ग) मामला दर मामला के आधार पर, बैंक ऑफ इंडिया द्वारा लिखित रूप में प्राधिकृत कोई परामर्शी, 
+विनियामक, सरकारी पदाधिकारी, संपरीक्षक और पणधारी। 
+2. यह अधिसूचना राजपत्र में इसके प्रकाशन की तिथि से प्रभावी होगी। 
+[फा. सं. 2(5)/2022-सीएल] 
+संदीप चटर्जी, वैज्ञानिक जी 
+
+
+4809 GI/2023 (.) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+NOTIFICATION 
+New Delhi, the 26th July, 2023 
+
+
+5.0. 3340(E).—In exercise of the powers conferred by sub-sections (l) and (2) of section 70 of the 
+Information Technology Act, 2000 (2! of 2000), the Central Government hereby declares the computer resources 
+relating to the Core Banking Solution, Real Time Gross Settlement, Automated Teller Machine Switch and Unified 
+Payments Interface Switch, being Critical Information Infrastructure of the Bank of India, and the computer resources 
+of its associated dependencies, to be protected systems for the purpose of the said Act and authorises the following 
+personnel to access the protected systems, namely:— 
+
+
+(a) any designated employee of the Bank of India authorised in writing by the Bank of India to access the 
+protected system; 
+
+
+(b) any team member of contractual managed service provider or third-party vendor who have been 
+authorised in writing by the Bank of India for need-based access; and 
+
+
+(c) any consultant, regulator, Government official, auditor and stakeholder authorised in writing by the 
+Bank of India on case to case basis. 
+
+
+2. This notification shall come into force on the date of its publication in the Official Gazette. 
+[F. No. 2(5)/2022-CL] 
+SANDIP CHATTERJEE, Scientist G 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-ll0054. #एड४/"७ ४: 
+
+
