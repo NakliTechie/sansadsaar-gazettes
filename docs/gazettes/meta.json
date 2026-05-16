@@ -1,19 +1,63 @@
 {
-  "phase": "extract",
-  "generated_at": "2026-05-16T10:33:31Z",
-  "elapsed_s": 3459.3,
-  "extracted": 679,
-  "failed": 0,
-  "djvu_retry": {
-    "attempted": 200,
-    "succeeded": 200,
-    "pending_total": 24668,
-    "budget": 200
+  "phase": "derive",
+  "generated_at": "2026-05-16T10:45:23Z",
+  "elapsed_s": 39.5,
+  "totals": {
+    "central": 25909
   },
-  "rate_limited": false,
-  "budget": {
-    "max_extractions": 2000,
-    "max_run_seconds": 3600,
-    "stop_after_known": 999999
+  "search_bundle": {
+    "shard_count": 4,
+    "shards": [
+      "search-bundle-00.json",
+      "search-bundle-01.json",
+      "search-bundle-02.json",
+      "search-bundle-03.json"
+    ],
+    "shard_sizes": {
+      "search-bundle-00.json": 22241121,
+      "search-bundle-01.json": 21524097,
+      "search-bundle-02.json": 22130004,
+      "search-bundle-03.json": 5189690
+    },
+    "total": 8047,
+    "truncated": 5760,
+    "head_chars": 5000,
+    "size_bytes": 71084912,
+    "max_shard_bytes": 22241121
+  },
+  "search_index": {
+    "shard_count": 4,
+    "shards": [
+      "search-index-00.json",
+      "search-index-01.json",
+      "search-index-02.json",
+      "search-index-03.json"
+    ],
+    "shard_sizes": {
+      "search-index-00.json": 19288766,
+      "search-index-01.json": 20622337,
+      "search-index-02.json": 21170304,
+      "search-index-03.json": 13164158
+    },
+    "total": 8047,
+    "size_bytes": 74245565,
+    "max_shard_bytes": 21170304
+  },
+  "audit": {
+    "central_records": 25909,
+    "djvu_ok": 8047,
+    "djvu_pending": 17862,
+    "no_text": 0,
+    "topics_assigned": 0
+  },
+  "text_shards": {
+    "records_with_text": 8047,
+    "shards": 117,
+    "r2_fallback": 0,
+    "total_text_bytes": 102925341,
+    "missing_files": 0,
+    "skipped_oversize_no_r2": 0,
+    "from_existing_shards": 6607,
+    "txt_files_removed": 1440
   }
 }
