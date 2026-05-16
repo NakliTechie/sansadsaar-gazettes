@@ -1,0 +1,1419 @@
+रजिस्ट्री सं . डी . एल . 33004/99 
+
+
+सं . 466 ] 
+No. 466 ] 
+
+
+- 
+
+
+भारत 
+
+राजपत्र 
+
+The Gazette of India 
+
+
+706 GI / 2023 
+
+
+सत्यमेव जयते 
+
+का 
+
+
+सी . जी . डी . एल . अ . - 06022023-243468 
+
+
+CG - DL - E - 06022023-243468 
+
+
+असाधारण 
+
+EXTRAORDINARY 
+
+
+भाग II– खण्ड 3 – उप खण्ड ( ii ) 
+PART II — Section 3 – Sub - section ( ii ) 
+
+
+प्राधिकार से प्रकाशित 
+
+PUBLISHED BY AUTHORITY 
+
+
+नई दिल्ली , बृहस्पतिवार , फरवरी 2 , 2023 / माघ 13 , 1944 
+
+NEW DELHI , THURSDAY , FEBRUARY 2 , 2023 / MAGHA 13 , 1944 
+
+
+विद्युत मंत्रालय 
+अधिसूचना 
+
+नई दिल्ली , 2 फरवरी , 2023 
+
+
+REGD . No. D. L. - 33004 / 99 
+
+
+का.आ. 481 ( अ ) . – केन्द्रीय सरकार , ऊर्जा संरक्षण अधिनियम , 2001 ( 2001 का 52 ) की धारा 14 के 
+खंड ( क ) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए , ऊर्जा दक्षता ब्यूरो के परामर्श से , भारत में विनिर्मित , 
+वाणिज्यिक रूप से खरीदे या बेचे जा रहे 1000 लीटर तक की भंडारण मात्रा वाले वेपर कम्प्रेशन प्रकार के डीप 
+फ्रीजरों के लिए एतद्वारा निम्नलिखित ऊर्जा खपत मानक विनिर्दिष्ट करती है , जो , 
+
+( 1 ) अनुपालन अपेक्षाओं को पूरा करेंगे , अर्थात् , 
+
+, 
+
+( क ) उक्त साधित्र श्रेणी के लिए , जहां कहीं लागू हो , भारतीय मानक ब्यूरो के क्वालिटी नियंत्रण आदेश 
+के उपबंधों के अनुसार सुरक्षा अपेक्षाएं ; 
+
+
+- 
+
+
+टिप्पण : उत्पाद को अनिवार्य भारतीय मानक ब्यूरो प्रमाणन ( क्यूसीओ ) के अंतर्गत जाने तक , सभी 
+संशोधनों सहित आईएस 7872 में विनिर्दिष्ट सुरक्षा अपेक्षाओं के अनुपालन के संबंध में परीक्षण रिपोर्ट 
+ब्यूरो को अनिवार्य रूप से प्रस्तुत की जाएगी । 
+
+
+( 1 ) 
+
+
+( ख ) सभी संशोधनों सहित भारतीय मानक , आईएस 7872 के अनुसार पुलडाउन टाइम , नोलोड ऊर्जा 
+खपत और भंडारण मात्रा के लिए निष्पाद न अपेक्षाएं | 
+
+
+[ PART II— SEC . 3 ( ii ) ] 
+
+( 2 ) डीप फ्रीजरों पर चिपकाए जाने वाले लेबल में एक स्टार के अंतराल के साथ अधिकतम पांच सितारे प्रदर्शित 
+होंगे , और डीप फ्रीजरों को उनकी सापेक्ष वार्षिक ऊर्जा खपत के आधार पर स्टार एक से स्टार पांच तक रेट 
+किया जाएगा । 
+
+2. परिभाषाएं . इस अधिसूचना में , जब तक कि संदर्भ से अन्यथा अपेक्षित न हो , 
+
+( क ) " वार्षिक ऊर्जा खपत " से किसी यूनिट द्वारा प्रतिवर्ष खपत की गई ऊर्जा ( किलोवाट घंटे में ) अभिप्रेत है । इसकी 
+गणना नीचे दिए गए सूत्र का उपयोग कर की जा सकती है 
+
+वार्षिक ऊर्जा खपत ( एईसी ) , के डब्ल्यू एच / वर्ष = 24 - घंटे ऊर्जा खपत * 365 ; 
+टिप्पण : चौबीस घंटे की ऊर्जा खपत की गणना यूनिट को 6 घंटे तक चला कर की जाएगी । 
+
+
+2 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+( ख ) " ऊर्जा की खपत " से डीप फ्रीजर द्वारा किलोवाट घंटे में इस मानक के अनुसार नियत यथा अवधारित , 
+विनिर्दिष्ट समयावधि में या विनिर्दिष्ट संचालन के लिए प्रयुक्त ऊर्जा अभिप्रेत है ; 
+
+
+( ग ) " मॉडलों की फैमिली " से किसी विशिष्ट ब्रांड के मॉडल की रेंज अभिप्रेत है , जिसके लिए परीक्षण रिपोर्टों का 
+एकल सेट स्वीकार्य और मान्य है , परंतु यह तब जबकि प्रत्येक मॉडल में प्रदर्शन विनिर्देश समान हों और जहां प्रत्येक 
+मॉडल की प्रासंगिक भौतिक विशेषताएं , वार्षिक ऊर्जा खपत , स्टार रेटिंग और अन्य प्रदर्शन विशेषताएं समान हों ; 
+
+
+( घ ) " फूड फ्रीजर " से कोई थर्मली इंसुलेटेड कैबिनेट अभिप्रेत है , जिसका आशय भोजन को 18 डिग्री सेल्सियस पर या 
+उससे कम तापमान पर लाने पर भंडारण अनुप्रयोग के लिए जमे हुए भोजन का भंडारण करना है ; 
+
+
+( ड . ) " ग्लास टॉप चेस्ट फ्रीजर्स " से ऐसे टॉप एक्सेस टाइप डीप फ्रीजर मॉडल की रेंज अभिप्रेत है , जिसमें एक कठोर 
+ग्लास का दरवाजा ( स्लाइडिंग , हिंज्ड और कर्ल्ड ) होता है , ताकि ग्राहक उत्पादों को बिना दरवाजा खोले देख सकें , 
+
+
+( च ) " हार्ड टॉप चेस्ट फ्रीजर्स " से ऐसे टॉप एक्सेस टाइप डीप फ्रीजर मॉडल की रेंज अभिप्रेत है , जिसमें एक अपारदर्शी 
+दरवाजा होता है , जो आमतौर पर बॉडी के मैटीरियल जैसा ही होता है ; 
+
+
+( छ ) " लेबल अवधि " से अनुसूची में यथा विनिर्दिष्ट स्टार रेटिंग योजना के अंतर्गत प्रदान किए गए ऊर्जा खपत मानकों की 
+लेबल विधिमान्य अवधि अभिप्रेत है ; 
+
+
+( ज ) “ स्टार रेटिंग " से ऊर्जा लेबल पर प्रदर्शित स्टारों की संख्या अभिप्रेत है , जिसमें निम्नलिखित शामिल हैं . - 
+
+( i ) उपलब्ध स्टार एक - स्टार अंतराल में दर्शाए गए न्यूनतम एक और अधिकतम पाँच के बीच हैं । 
+
+( ii ) स्टार रेटिंग की गणना स्टार रेटिंग बैंड से की जाती है ; और 
+
+( iii ) भंडारण मात्रा के आधार पर विभिन्न मॉडलों के लिए स्टार रेटिंग का अवधारण अलग - अलग होगा । 
+( झ ) " स्टार रेटिंग बैंड " से वार्षिक ऊर्जा खपत ( किवाघं / वर्ष ) की रेंज अभिप्रेत है जिसे गणना द्वारा प्राप्त किया जाता है 
+और इसका उपयोग ऊर्जा लेबल पर प्रदर्शित किए जाने वाले स्टार्स की संख्या अवधारित करने के लिए किया जाता है ; 
+
+
+( ञ ) " भंडारण मात्रा ( वी ) , लीटर में " से भोजन के भंडारण के लिए , खाद्य भंडारण के लिए अनुपयोगी के रूप में पहचाने 
+जाने वाले घटकों और स्थानों की मात्रा को कम करने के बाद शेष ( अधिकतम भंडारण सीमा रेखा को ध्यान में रखते 
+फ्रीजर की आंतरिक दीवारों के भीतर निहित कुल मात्रा अभिप्रेत है ; 
+
+हुए ) 
+
+
+( ट ) " टॉप एक्सेस टाइप डीप फ्रीजर " से ऐसा फूड फ्रीजर अभिप्रेत है जिसमें भंडारण कक्ष में शीर्ष से पहुंचा जा सकता है ; 
+3. स्टार स्तर या स्टार रेटिंग योजना.- ( 1 ) डीप फ्रीजर के स्टार स्तर या स्टार रेटिंग का अवधारण वार्षिक ऊर्जा खपत 
+के मूल्यांकन द्वारा किया जाएगा जो स्टार रेटिंग पैरामीटर के डीसी ( कॉन्स्टेंट मल्टी प्लायर ( किवाघं / लीटर / वर्ष ) और 
+
+
+[ भाग II— खण्ड 3 ( ii ) ] 
+
+सीडीसी [ कॉन्स्टेंट फिक्स्ड अलाउंस ( किवाघं / वर्ष ) ] से प्राप्त किया जाएगा । इसके बाद के केडीसी और सीडीसी चेस्ट 
+फ्रीजर के प्रकार अर्थात हार्डटॉप या ग्लासटॉप के आधार पर सारणी 3.1 या 3.2 से प्राप्त किए जाएंगे । 
+
+सारणी 
+
+
+क्र . सं . 
+
+
+1 
+
+
+2 
+
+
+डीप फ्रीजर का प्रकार 
+हार्डटॉप चेस्टफ्रीजर 
+
+
+ग्लासटॉप चेस्टफ्रीजर 
+
+
+Kac = कॉन्स्टेंट मल्टी प्लायर ( किवाघं / लीटर / वर्ष ) 
+
+V = भंडारण मात्रा ( लीटर ) 
+
+Cdc = कॉन्स्टेंट फिक्स्ड अलाउंस ( किवाघं / वर्ष ) 
+
+
+स्टार रेटिंग 
+
+1 स्टार ' 
+
+
+किसी विशिष्ट मॉडल के लिए स्टार रेटिंग बैंड अवधारित करने के लिए निम्नलिखित समीकरण का उपयोग किया जाएगा : 
+स्टार रेटिंग बैंड ( एसआरबी ) = Kac * V + Cde 
+
+जहां , 
+
+
+2 स्टार 
+
+
+3 स्टार * 
+
+
+4 स्टार * 
+5 स्टार * 
+
+
+* 
+
+
+- * * * 
+
+
+2 स्टार 
+
+
+3 स्टार 
+
+
+* * 
+
+
+***** 
+
+
+4 स्टार 
+
+5 स्टार 
+
+
+स्टार रेटिंग 
+
+1 स्टार 
+
+
+*** 
+
+
+* 
+
+
+* * 
+
+
+* * * 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+**** 
+
+
+**** * 
+
+
+प्रयुक्त सारणी 
+3.1 
+
+
+■ 
+
+
+3.2 
+
+
+सारणी 3.1 
+
+हाईटॉप टाइप चेस्ट फ्रीजर के लिए स्टार रेटिंग बैंड 
+1 जुलाई , 2023 से 30 जून , 2025 तक विधिमान्य 
+
+
+38 ° C पर वार्षिक ऊर्जा खपत ( Ei ) किवाघं वर्ष में 
+
+4.23 * V + 126.65 ≤ AEC < 5.07 * V + 151.98 
+3.52 * V + 105.54 < AEC < 4.23 * V + 126.65 
+2.82 * V + 84.43 < AEC < 3.52 * V + 105.54 
+2.25 * V + 67.55 ≤ AEC < 2.82 * V + 84.43 
+AEC < 2.25 * V + 67.55 
+
+
+सारणी 3.2 
+
+ग्लास टॉप टाइप चेस्ट फ्रीजर के लिए स्टार रेटिंग बैंड 
+1 जुलाई , 2023 से 30 जून , 2025 तक विधिमान्य 
+
+
+3 
+
+
+38 ° C पर वार्षिक ऊर्जा खपत ( E :) किवाघं वर्ष में 
+
+7.68 * V + 511.17 ≤ AEC < 9.21 * V + 613.40 
+6.40 * V + 425.97 < AEC < 7.68 * V + 511.17 
+5.12 * V + 340.78 ≤ AEC < 6.40 * V + 425.97 
+4.09 * V + 272.62 ≤ AEC < 5.12 * V + 340.78 
+AEC < 4.09 * V + 272.62 
+
+
+4 
+
+
+[ PART II— SEC . 3 ( ii ) ] 
+
+( 2 ) सारणियों में विनिर्दिष्ट स्टार रेटिंग योजना खंड 3 के पैरा 1 में यथाविनिर्दिष्ट डीप फ्रीजर के प्रकार के लिए 
+लागू होगी । 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+( 3 ) इन मॉडलों के लिए चुना गया स्टार स्तर सारणी 3.1 और 3.2 में विनिर्दिष्ट प्रत्येक स्टार स्तर बैंड की उनकी 
+सापेक्षिक वार्षिक ऊर्जाखपत की न्यूनतम और अधिकतम सीमा पर आधारित होगा । 
+
+
+( 4 ) स्टार रेटिंग स्तरों के लिए कोई ऋणात्मक उदारता नहीं होगी और सभी परीक्षित उपस्कर को प्रत्येक स्टार रेटिंग 
+स्तर के लिए न्यूनतम सीमा को पूरा करना होगा , और विनिर्माता द्वारा , राउंडिंग के लिए निम्नलिखित बिंदुओं 
+को ध्यान में रखते हुए , स्टार रेटिंग का अवधारण करते समय विनिर्माण उदारता और अन्य विविधताओं की 
+गुंजाइश का ध्यान रखा जाएगा , अर्थात् : 
+
+
+( 5 ) 
+
+
+4 . 
+
+
+( क ) भंडारण मात्रा के मानोंको राउंड किया जाएगा और दो दशमलव स्थानों तक दर्ज किया जाएगा ; 
+( ख ) वार्षिक ऊर्जा खपत के मानोंको दो दशमलव स्थानों पर राउंड और दर्ज किया जाएगा ; और 
+
+( ग ) सभी मानोंको सभी संशोधनों सहित आई एस 2 : 1960 के अनुसार , संबंधित महत्वपूर्ण अंकों तक 
+राउंड ऑफ किया जाएगा । 
+
+
+स्टार स्तर या स्टार रेटिंग योजना की समीक्षा प्रत्येक दो वर्ष के बाद या सारणी विधिमान्यता अवधि की 
+समाप्ति से पहले , जो भी पहले हो , की जाएगी । 
+
+
+परीक्षण विधियां . - ( 1 ) प्रत्येक डीप फ्रीजर का परीक्षण सभी संशोधनों सहित भारतीय मानक आई एस 
+7872 के अनुसार किया जाएगा । 
+
+( 2 ) परीक्षण के मानदंड पुलडाउन तापमान , वार्षिकऊर्जा खपत और भंडारण मात्रा होंगे । 
+
+( 3 ) वार्षिक ऊर्जाखपत की गणना की पद्धति भारतीय मानक से निम्नलिखित पद्धति पर विचार करते हुए 
+आई एस 7872 के खंड 11.2 के अनुसार होगी , अर्थात् : 
+
+
+( i ) फ्रीजर को परीक्षण शुरू होने से कम से कम चार घंटे पहले 38 डिग्री सेल्सियस के परिवेशी तापमान में 
+नोलोड पर प्रचालित किया जाएगा । स्थिर प्रचालन स्थितियां ( नो लोड ) प्राप्त होने के बाद परीक्षण 
+अवधि शुरू हो जाएगी । इसे 6 घंटे तक प्रचालित किया जाएगा और चौबीस घंटे की अवधि के लिए 
+गणना की जाएगी । इस अवधि के दौरान औसत तापमान 18 डिग्री सेल्सियस से नीचे होना चाहिए । 
+
+
+- 
+
+
+( ii ) ऊर्जा की खपत या तो लक्षित तापमान पर एक परीक्षण द्वारा या एक परीक्षण द्वारा लक्षित तापमान 
+प्राप्त नहीं होने पर दो परीक्षणों के परिणामों के अंतर्वेशन द्वारा अवधारित की जाएगी । अंतर्वेशन 
+परीक्षण के लिए प्रयुक्त दो तापमानों के बीच का अंतर 4 ° C से अधिक नहीं होगा । गणना की गई ऊर्जा 
+खपत दर Ex निम्नलिखित समीकरण द्वारा दी गई है 
+
+
+Ex = E ] + ( E , – E ) x 
+
++ [ 
+
+
+( tx ki 
+( 1₂ - 1 
+
+
+जहां , 
+
+Ex = लक्षित तापमान tx पर साधित्र की गणना की गई ऊर्जा खपत दर ; 
+
+E = बिंदु 1 के लिए साधित्र की मापित ऊर्जा खपत दर ; 
+
+E2 = बिंदु 2 के लिए साधित्र की मापित ऊर्जा खपत दर ; 
+
+
+[ भाग II— खण्ड 3 ( ii ) ] 
+
+
+6 . 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+t4 = बिंदु 1 ( उष्ण बिंदु ) के लिए मापित कक्ष तापमान ; 
+
+t½ = बिंदु 2 ( शीत बिंदु ) के लिए मापित कक्ष तापमान ; और 
+
+
+( 1 ) 
+
+( ii ) 
+
+
+tx = -18 ° C . 
+
+( iii ) 
+
+पुल - डाउन परीक्षण के लिए परीक्षण प्रक्रिया आई एस 7872 के खंड 11.1 के अनुसार होगी । 
+भंडारण मात्रा के मापन के लिए परीक्षण आई एस 7872 के खंड 8 के अनुसार होगा । 
+
+( iv ) 
+
+( v ) आईएस / आईईसी 60335-2-89 के अनुसार निम्नलिखित परीक्षणों के संबंध में सुरक्षा अपेक्षाएँ , 
+
+अर्थात् : 
+
+( i ) लीकेज करंट ; 
+
+( ii ) क्रीपिंग डिस्टेंस ; 
+
+( iii ) अर्थिंग कनेक्शन ; 
+
+( iv ) उच्च वोल्टेज : 
+
+( v ) बिजली के झटके से सुरक्षा ; और 
+
+सभी परीक्षण शर्तें सभी संशोधनों सहित आईएस 7872 के खंड 9 के अनुसार होंगी । 
+
+
+( vi ) 
+
+5. सहनशीलता - डीप फ्रीजर के नोलोड पुलडाउन और भंडारण मात्रा के लिए सहन सीमा सभी संशोधनों सहित 
+
+आईएस 7872 के अनुसार होगी , अर्थात 
+
+
+मात्राः ° 3 % की सहन की अनुमति है । 
+
+* 
+
+वार्षिक ऊर्जा खपत : 10 % की सहन की अनुमति है । घोषित वार्षिक ऊर्जा खपत 1.1 मापित 
+वार्षिक ऊर्जा खपत से कम या उसके बराबर होगी । 
+
+पुलडाउन : अधिकतम दो सौ मिनट के पुलडाउन समय की अनुमति है । 
+
+
+( iii ) 
+
+परीक्षण रिपोर्ट - प्रत्येक यूनिट के परीक्षण का परिणाम की रिपोर्ट उपाबंधक में दी जाएगी । 
+
+उपाबंध क 
+
+( परीक्षणों के परिणाम सभी संशोधनों सहित आईएस 7872 के अनुसार लागू उल्लिखित परिशिष्ट से संबंधित भागों के 
+साथ रिपोर्ट किए जाएंगे ) 
+
+
+परीक्षण रिपोर्ट संख्या : 
+
+1. चेस्ट फ्रीजर के ब्यौरे 
+
+
+5 
+
+
+परीक्षण के परिणाम की रिपोर्ट प्रस्तुत करने के लिए प्ररूप 
+
+
+परीक्षण की तारीख : 
+
+
+( i ) साधित्र : डीप फ्रीजर 
+
+( ii ) ब्रांड : 
+
+( iii ) टाइप : हार्डटॉप या ग्लासटॉप 
+
+( iv ) मॉडल का नाम या नंबर : 
+
+( v ) रेटेड वोल्टेज और फ्रीक्वेंसी तथा फेजों की संख्या : 
+
+( vi ) रेटेड स्टोरेज वॉल्यूम ( लीटर ) : 
+
+( vii ) प्रतिवर्ष बिजली की खपत ( किवाघ / वर्ष ) : 
+
+( viii ) विनिर्माण वर्षः 
+
+( ix ) उत्पाद की क्रम संख्या : 
+
+2. प्रत्येक परीक्षण प्रकार के लिए , जैसा लागू हो , नीचे दिए गए विशिष्टियों की एक अलग प्रति पूरी कर संलग्न करें : 
+
+
+6 
+
+
+3. परीक्षण का सार 
+सुरक्षा परीक्षण 
+
+
+मानदंड 
+
+
+( i ) परीक्षण की तारीख : 
+
+( ii ) परीक्षण अधिकारी : 
+
+( iii ) परीक्षण की प्रकृति : 
+
+( iv ) परिवेशी परीक्षण स्थितियां : 
+
+( v ) परीक्षण मानकः 
+
+
+रिसाव करंट परीक्षण 
+
+क्रीपेज दूरी 
+
+अर्थिंग कनेक्शन 
+
+
+उच्च वोल्टेज 
+
+बिजली के झटके से सुरक्षा 
+
+
+मानदंड 
+
+
+निष्पादन परीक्षण 
+
+
+फ्रीजर कक्ष 1 का 
+
+( डिग्री 
+
+
+तापमान 
+
+सेल्सियस ) 
+
+फ्रीजर कक्ष 2 का 
+
+( डिग्री 
+
+
+( i ) ऊर्जा खपत परीक्षण ( परीक्षित तीनों यूनिटों के लिए प्रस्तुत करें ) 
+
+
+तापमान 
+
+सेल्सियस ) 
+
+2 से अधिक होने पर 
+
+
+फ्रीजर कक्ष का 
+
+( डिग्री 
+
+
+तापमान 
+
+सेल्सियस ) 
+
+फ्रीजर कक्ष का औसत 
+
+
+तापमान 
+
+एनर्जी मीटर रीडिंग 
+
+( वाघं ) 
+
+रनिंग टाइम का 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+प्रतिशत ( घंटे ) 
+
+प्रतिदिन ऊर्जा खपत 
+
+
+दर ( वाघं / दिन ) 
+मापित वार्षिक ऊर्जा 
+
+खपत ( किवाघं / वर्ष ) 
+
+
+विनिर्दिष्ट मान 
+( रेटेड वैल्यू ) 
+
+
+विनिर्दिष्ट मान 
+
+( रेटेड वैल्यू ) 
+
+
+मापित मान 
+
+
+मापित मान 
+यूनिट 1 
+
+
+मापित मान 
+
+यूनिट 2 
+
+
+[ PART II— SEC . 3 ( ii ) ] 
+
+
+मापित मान 
+
+यूनिट 3 
+
+
+[ भाग II— खण्ड 3 ( ii ) ] 
+
+घोषित वार्षिक ऊर्जा 
+खपत ( किवाघं / वर्ष ) 
+
+
+मानदंड 
+
+
+( ii ) पुल - डाउन तापमान परीक्षण ( परीक्षित तीनों यूनिटों के लिए प्रस्तुत करें ) : 
+
+परिवेशी परीक्षण स्थिति : 
+
+प्रेक्षण और परिणाम : 
+
+
+फ्रीजर कक्ष का 
+
+तापमान ( F1 ) 
+
+फ्रीजर कक्ष का 
+
+तापमान ( F2 ) 
+
+तापमान नियंत्रण / 
+
+थर्मोस्टेट सेटिंग 
+
+
+पुलडाउन समय 
+
+( मिनट ) 
+
+
+सकल मात्रा ( लीटर में ) 
+
+विनिर्दिष्ट मान 
+
+( रेटेड वैल्यू ) 
+
+
+विनिर्दिष्ट मान 
+( रेटेड वैल्यू ) 
+
+
+मान 
+
+( रेटेड वैल्यू ) 
+
+
+भंडारण मात्रा ( लीटर में ) 
+
+विनिर्दिष्ट 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+मापित मान 
+
+यूनिट 1 
+
+
+( iii ) सकल और भंडारण मात्रा परीक्षण रिपोर्ट ( परीक्षित तीनों यूनिटों के लिए प्रस्तुत करें ) : 
+
+
+मापित मान 
+
+यूनिट 1 
+
+
+मापित मान 
+यूनिट 1 
+
+
+मापित मान 
+
+यूनिट 2 
+
+
+मापित मान 
+यूनिट 2 
+
+
+मापित मान 
+यूनिट 2 
+
+
+मापित मान 
+
+यूनिट 3 
+
+
+MINISTRY OF POWER 
+
+NOTIFICATION 
+
+New Delhi , the 2nd February , 2023 
+
+
+मापित मान 
+यूनिट 3 
+
+
+मापित मान 
+यूनिट 3 
+
+
+7 
+
+
+[ फा . सं . 10 / 6 / 2022 - ईसी ] 
+अजय तिवारी , अपर सचिव 
+
+
+S.O. 481 ( E ) .– In exercise of the powers conferred by clause ( a ) of section 14 of the Energy 
+Conservation Act , 2001 ( 52 of 2001 ) , the Central Government , in consultation with the Bureau of Energy 
+Efficiency , hereby specifies , the following energy consumption standards for deep freezers of the vapour 
+compression type having a storage volume up to and including 1000 litres being manufactured , commercially 
+purchased or sold in India shall , 
+
+( 1 ) meet the compliance requirements namely , 
+
+
+8 
+
+
+[ PART II - SEC . 3 ( ii ) ] 
+
+( a ) safety requirements in accordance with the provisions of Bureau of Indian Standard's Quality 
+Control Order wherever applicable for the said appliance category ; 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+Note : Till the product is brought under mandatory Bureau of Indian Standards certification 
+( QCO ) , test report regarding compliance with safety requirements as specified in IS 7872 with all 
+amendments shall mandatorily be submitted to the Bureau . 
+
+
+( b ) performance requirements for pull down time , no load energy consumption and storage volume 
+in accordance with Indian Standard , IS7872 with all amendments . 
+
+
+( 2 ) The label to be affixed on deep freezers shall display a maximum of five stars with an interval of one 
+star , and the deep freezers shall be rated from star one to star five based on their relative annual energy 
+consumption . 
+
+
+2. Definitions . - In this notification , unless the context otherwise requires , 
+
+( a ) “ Annual Energy Consumption " means the energy ( in kWh ) consumed by a unit per annum . This can be 
+calculated using the formula given below 
+
+Annual Energy Consumption ( AEC ) , kWh / year = 24 - hour Energy Consumption * 365 ; 
+Note : Twenty Four hour energy consumption shall be calculated by operating the unit for 6 hour . 
+
+( b ) " Energy consumption " means energy used by the deep freezer over a specified period of time or for a specified 
+operation as determined in accordance with this standard stated , in kilowatt hour ; 
+
+
+( c ) " Family of models " means the range of models of a particular brand , to which a single set of test reports is 
+acceptable and valid subject to the condition that each of the models has the same performance specifications and 
+where each of the models has the same relevant physical characteristics , annual energy consumption , star rating and 
+other performance characteristics ; 
+
+
+( d ) “ Food Freezer ” means a thermally insulated cabinet which is intended for storing of frozen food for storage 
+application when the food is brought in at same or lower temperature than -18 ° C ; 
+
+
+( e ) " Glass top Chest freezers " means the range of top access type deep freezer models , which have a hard glass 
+door ( sliding , hinged and curved ) enabling the customers to view the products without opening the door ; 
+
+
+( f ) " Hard top Chest freezers " means the range of top access type deep freezer models , which have an opaque door , 
+which is generally same as the material of the body ; 
+
+
+( g ) " Label Period " means the label validity period of the energy consumption standards provided under the star 
+rating plan as specified in the schedule ; 
+
+( h ) " Star Rating " means the number of stars displayed on the energy label including . - 
+
+( i ) The available stars are between a minimum of one and a maximum of five shown in one - star interval . 
+( ii ) The star rating is calculated from the Star Rating Band ; and 
+
+( iii ) The Star Rating determination shall vary for different models based on the storage volume . 
+
+( i ) " Star Rating Band " means the range of annual energy consumption ( kWh / Year ) which is arrived at by 
+calculations and is used for determining the number of stars to be displayed on the energy label ; 
+
+( j ) " Storage Volume ( V ) , in liters " means the total volume contained within interior walls of the freezer for storage 
+of food , which remains after deduction of the volume of components and spaces recognised as unusable for the 
+storage of food ( considering maximum storage limit line ) ; 
+
+
+( k ) " Top Access type Deep Freezer " means a food freezer in which the storage compartment is accessible from the 
+top ; 
+
+3. Star level or star rating plan.- ( 1 ) The star level or star rating of deep freezers shall be determined by 
+evaluating annual energy consumption which shall be obtained from star rating parameters Kde ( Constant 
+Multiplier ( kWh / litre / Year ) and Cdc ( Constant Fixed Allowance ( kWh / Year ) ) . Further Kde and Cae shall be obtained 
+from Table 3.1 or 3.2 depending on type of chest freezer i.e. Hard top or Glass top 
+
+
+TABLE 
+
+
+[ भाग II 
+
+
+S.No. 
+
+
+1 
+
+
+2 
+
+
+( 2 ) 
+
+
+-खण्ड 3 ( ii ) ] 
+
+
+( 3 ) 
+
+
+Type of Deep Freezer 
+
+
+Hard Top Chest Freezer 
+
+Glass Top Chest Freezer 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+The following equation shall be used to determine the Star Rating Bands for a particular model : 
+Star Rating Band ( SRB ) = Kde * V + Cac 
+
+Where , 
+
+
+Kde Constant Multiplier ( kWh / Liter / Year ) 
+
+V = Storage Volume ( Liter ) 
+
+Cdc = Constant Fixed Allowance ( kWh / Year ) 
+
+
+Star rating 
+
+1 Star * 
+
+2 Star * * 
+
+3 Star * * * 
+
+4 Star **** 
+
+5 Star ***** 
+
+
+Star rating 
+
+1 Star * 
+
+2 Star * * 
+
+3 Star * * * 
+
+4 Star **** 
+
+5 Star ** *** 
+
+
+Table to be used 
+
+
+3.1 
+
+
+3.2 
+
+
+Table 3.1 
+
+Star Rating Band for Hard Top type Chest Freezers 
+Valid from 1st July , 2023 to 30th June , 2025 
+
+
+Annual Energy Consumption ( E₁ ) in kWh / year at 38 ° C 
+
+4.23 * V + 126.65 ≤ AEC < 5.07 * V + 151.98 
+
+3.52 * V + 105.54 ≤AEC < 4.23 * V + 126.65 
+
+2.82 * V +84.43 ≤ AEC < 3.52 * V + 105.54 
+2.25 * V +67.55 < AEC < 2.82 * V +84.43 
+AEC < 2.25 * V + 67.55 
+
+
+Table 3.2 
+
+Star Rating Band for Glass Top type Chest Freezers 
+Valid from 1st July , 2023 to 30th June , 2025 
+
+
+Annual Energy Consumption ( E₁ ) in kWh / year at 38 ºC 
+7.68 * V +511.17 < AEC < 9.21 * V + 613.40 
+6.40 * V + 425.97 ≤ AEC < 7.68 * V + 511.17 
+
+5.12 * V + 340.78 ≤ AEC < 6.40 * V + 425.97 
+4.09 * V + 272.62 ≤ AEC < 5.12 * V + 340.78 
+AEC < 4.09 * V + 272.62 
+
+
+The star rating plan specified in the Tables shall be applicable for the type of deep freezer as specified 
+in paragraph 1 of clause 3 . 
+
+
+The star level chosen for the models shall be based on minimum and maximum limits of their relative 
+annual energy consumption of each star level band specified in Tables 3.1 and 3.2 . 
+
+
+There shall be no negative tolerance for the star rating levels and all tested equipment shall meet the 
+minimum threshold for each star rating level , and the scope for manufacturing tolerance and other 
+variations shall be accounted by the manufacturer when determining the star rating , keeping in view the 
+following points for rounding , namely : 
+
+
+( a ) the values of storage volume shall be rounded and recorded to two decimal places ; 
+
+( b ) the values of annual energy consumption shall be rounded and recorded to two decimal 1 
+places ; and 
+
+
+( c ) all the values shall be rounded off to respective significant figures , as per IS 2 : 1960 with all 
+amendments . 
+
+
+9 
+
+
+( 5 ) The star level or star rating plan shall be reviewed after every two years or before the expiry of the table 
+validity period whichever is earlier . 
+
+
+10 
+
+
+4 
+
+
+[ PART II - SEC . 3 ( ii ) ] 
+
+Testing methods . - ( 1 ) Every deep freezer shall be tested in accordance with the Indian Standard , 
+IS 7872 with all amendments . 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+( 2 ) The parameters for testing shall be pull down temperature , annual energy consumption , and storage 
+volume . 
+
+
+( 3 ) The methodology for calculating the annual energy consumption shall be in accordance with clause 
+11.2 of IS 7872 considering the following method from Indian standard , namely : - 
+
+
+6 . 
+
+
+( i ) the freezer shall be operated at no load in an ambient temperature of 38 ° C for at least for four hour 
+prior to commencement of the testing . After stable operating conditions ( no load ) have been 
+attained the test period shall start . It shall be operated for 6 hrs and calculated for twenty - four hour 
+duration . During this period the average temperature should be below -18 ° C . 
+
+
+( ii ) the energy consumption shall be determined either by one test at the target temperatures or by 
+interpolation from the results of two tests when target temperature is not achieved by one test . The 
+difference between the two temperatures used for the interpolating test shall not exceed 4 ° C . The 
+calculated energy consumption rate E , is given by the following equation 
+
+
+( iii ) 
+
+( iv ) 
+
+
+( tx - ħ₁ 
+
++ [ ( B₂ - E₂ ) » ] 
+
+
+Ex = E₁ + ( E₂ - E₁ ) x 
+
+
+Where , 
+
+E = calculated energy consumption rate of the appliance at the target temperature tx ; 
+
+E , = measured energy consumption rate of the appliance for point 1 ; 
+
+E₂ = measured energy consumption rate of the appliance for point 2 ; 
+
+t ; = measured compartment temperature for point 1 ( warm point ) ; 
+
+t₂ = measured compartment temperature for point 2 ( cold point ) ; and 
+tx = -18 ° C . 
+
+The test procedure for pull - down test shall be in accordance with clause 11.1 of IS 7872 . 
+
+The test for measurement of storage volume shall be in accordance with clause 8 of IS 
+
+
+7872 . 
+
+( v ) Safety requirements in respect of the following tests in accordance with IS / IEC 60335-2-89 , 
+namely. 
+
+
+( i ) leakage current ; 
+
+( ii ) creepage distance ; 
+
+( iii ) earthing connection ; 
+
+( iv ) high voltage ; 
+
+( v ) protection against electric shock ; and 
+
+
+( vi ) 
+
+all testing conditions shall be in accordance with clause 9 of IS 7872 with all amendments . 
+
+5 Tolerance . -The tolerance limits for the no load pull down and storage volume of deep freezers shall be in 
+accordance with IS 7872 with all amendments , that is 
+
+
+( i ) Volume : A tolerance of ± 3 % is allowed . 
+
+( ii ) Annual Energy Consumption : A tolerance of 10 % is allowed . Declared Annual Energy 
+Consumption shall be less than or equal to 1.1 * Measured Annual Energy Cons iption . 
+
+( iii ) Pull down : A pull down time of maximum two hundred minutes is allowed . 
+
+
+Test report . The result of test of each unit shall be reported in Annexure A. 
+
+Annexure A 
+
+( The results of tests shall be reported as per IS 7872 with all amendments with the relevant sections from the 
+mentioned appendix applicable ) 
+
+Form for reporting the result of test 
+
+
+Test report number : 
+
+1 Details of the chest freezer 
+
+( i ) Appliance : Deep Freezer 
+( ii ) Brand : 
+
+
+Date of test : 
+
+
+[ भाग II— खण्ड 3 ( ii ) ] 
+
+( iii ) 
+
+( iv ) 
+
+
+( v ) 
+
+( vi ) Rated Storage Volume ( Liters ) : 
+
+( vii ) Electricity Consumption per year ( KWh / year ) : 
+
+( viii ) Year of manufacture : 
+
+( ix ) Serial number of the product : 
+
+
+Type : Hard top or Glass top 
+
+Model name or number : 
+
+
+Parameters 
+
+
+2. Complete and attach a separate copy of the particulars below for each test type , as applicable : 
+
+( i ) 
+
+Date of test : 
+
+( ii ) 
+
+Test officer : 
+
+( iii ) Nature of Tests : 
+
+( iv ) Ambient test conditions : 
+
+( v ) Test Standard 
+
+
+3. Test summary 
+Safety Tests 
+
+
+Rated voltage and frequency and no . of phase : 
+
+
+Leakage Current test 
+
+Creepage distance 
+
+Earthing Connection 
+
+High voltage 
+
+Protection against electric shock 
+
+
+Parameters 
+
+
+Temperature of Freezer 
+
+compartment 1 ( Deg.C ) 
+
+Temperature 
+
+of 
+
+Compartment 2 ( Deg.C ) 
+
+Temperature 
+
+of 
+
+Freezer 
+
+Compartment if more than 2 
+( Deg.C ) 
+
+Average Temperature of 
+
+Freezer Compartment 
+
+Energy Meter Reading ( Wh ) 
+
+
+Performance tests 
+
+( i ) Energy consumption test ( to be submitted for each of 3 units tested ) 
+
+Specified value 
+
+Measured 
+
+( Rated value ) 
+
+
+Percentage running time 
+( Hrs . ) 
+
+Energy Consumption rate per 
+day ( Wh / Day ) 
+
+
+Parameters 
+
+
+Freezer 
+
+
+Measured Annual Energy 
+
+Consumption ( kWh / year ) 
+
+Declared Annual Energy 
+
+Consumption ( kWh / year ) 
+
+
+Temperature 
+Compartment ( F1 ) 
+Temperature 
+Compartment ( F2 ) 
+
+Temperature 
+Setting 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+of 
+
+
+of 
+
+
+( ii ) The Pull - down temperature test ( to be submitted for each of 3 unit tested ) : 
+Ambient test condition : 
+
+Observations and Results : 
+
+
+Freezer 
+
+
+Freezer 
+
+
+Specified value 
+
+( Rated value ) 
+
+
+Control / thermostat 
+
+
+Value 
+
+Unit 1 
+
+
+Measured value 
+
+
+Specified value 
+( Rated value ) 
+
+
+Measured Value 
+Unit 2 
+
+
+Measured Value Measured Value 
+Unit 1 Unit 2 
+
+
+11 
+
+
+Measured Value 
+Unit 3 
+
+
+Measured Value 
+
+Unit 3 
+
+
+12 
+
+
+Parameters 
+
+
+Pull down time ( Minutes ) 
+
+
+Gross Volume ( in Litre ) 
+
+Specified 
+
+value 
+
+( Rated value ) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+Measured value 
+
+Unit 1 
+
+
+Storage Volume ( in Litre ) 
+Specified 
+
+value 
+
+( Rated value ) 
+
+
+( iii ) The gross and storage volume test report ( to be submitted for each of 3 unit tested ) : 
+
+
+Specified value 
+( Rated value ) 
+
+
+Measured value 
+Unit 1 
+
+
+Measured Value Measured Value 
+Unit 1 Unit 2 
+
+
+[ PART II— SEC . 3 ( ii ) ] 
+
+Measured Value 
+Unit 3 
+
+
+Measured value 
+Unit 2 
+
+
+Measured value 
+Unit 2 
+
+
+Measured value 
+Unit 3 
+
+
+Measured value 
+Unit 3 
+
+
+[ F. No 10 / 6 / 2022 - EC ] 
+AJAY TEWARI , Addl . Secy . 
+
+
+अधिसूचना 
+
+नई दिल्ली , 2 फरवरी , 2023 
+
+का . आ . 482 ( अ ) . – केन्द्रीय सरकार , ऊर्जा संरक्षण अधिनियम , 2001 ( 2001 का 52 ) की धारा 14 के खंड ( ख ) 
+और खंड ( घ ) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए , ऊर्जा दक्षता ब्यूरो के परामर्श से एतद्वारा विनिर्दिष्ट करती है कि , 
+
+
+( क ) सभी संशोधनों सहित आईएस 7872 के कार्य क्षेत्र में यथाविनिर्दिष्ट , टॉप एक्सेस प्रकार के डीप फ्रीजर , 
+जिनका हार्ड टॉप और ग्लास टॉप ( स्लाइडिंग , हिंज्ड और कई ) दोनों के साथ , 1000 लीटर तक स्टोरेज वॉल्यूम हो और 
+उनका रेटेड वोल्टेज सिंगल फेज के लिए 250 वी एसी 50 हर्ट्ज और थ्री फेज एसी के लिए 415 वी एसी 50 हर्ट्ज से 
+अधिक नहीं हो ; और 
+
+
+( ख ) निदेश देती है कि भारत में विनिर्मित या बेचे या खरीदे या बिक्री के लिए आयात किए जा रहे ऐसे किसी भी 
+साधित्र या साधित्र की श्रेणी के लेबल पर विशिष्टियां भारत के राजपत्र , असाधारण , भाग- II , खंड 3 , उप - खंड ( ii ) में 
+प्रकाशित ऊर्जा दक्षता ब्यूरो ( डीप फ्रीजरों के लेबल पर उनके प्रदर्शन का विवरण और पद्धति ) विनियम , 2023 में विनिर्दिष्ट 
+पद्धति से प्रदर्शित किए जाएंगे । 
+
+
+[ फा . सं . 10 / 6 / 2022 - ईसी ] 
+अजय तिवारी , अपर सचिव 
+
+
+NOTIFICATION 
+
+New Delhi , the 2nd February , 2023 
+
+S.O. 482 ( E ) .— In exercise of the powers conferred by clauses ( b ) and ( d ) of section 14 of the Energy 
+Conservation Act , 2001 ( 52 of 2001 ) , the Central Government in consultation with the Bureau of Energy Efficiency , 
+hereby specifies that the , 
+
+
+( a ) deep freezers of top access type having a storage volume up to and including 1000 liters , with both hard 
+top and glass top ( sliding , hinged and curved ) and their rated voltage not exceeding 250 Vac 50 Hz for single phase 
+and 415 Vac 50 Hz for three phase ac , as specified under the scope of IS 7872 with all amendments ; and 
+
+
+( b ) direct that any such appliance or class of appliance being manufactured or sold or purchased or imported 
+for sale in India shall display particulars on labels in such manner as specified in the Bureau of Energy Efficiency 
+( Particulars and Manner of their Display on Labels of Deep Freezers ) Regulations , 2023 published in the Gazette of 
+India , Extraordinary , Part – II , Section 3 , sub - section ( ii ) . 
+
+
+[ E No. 10 / 6 / 2022 - EC ] 
+AJAY TEWARI , Addl . Secy . 
+
+
+Uploaded by Dte . of Printing at Government of India Press , Ring Road , Mayapuri , New Delhi - 110064 
+and Published by the Controller of Publications , Delhi - 110054 . SARVESH KUMAR KUMAR SRIVASTAVA 
+
+Digitally signed by SARVESH 
+
+Dale : 2023.020622-56307 
+
+SRIVASTAVA 
+
++05 : 30 
+
+
