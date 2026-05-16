@@ -19673,6 +19673,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2023-01-10.241838",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-10",
+      "ugid": "241838",
+      "title": "Extraordinary Gazette of India, 2023-01-10",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Exploration Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extraordinary Gazette of India under Cauvery Asset Pipeline Project in Thiruvarur and Koothanallur Taluk of Thiruvarur District State of Tamil Nadu.",
+      "gazette_id": "CG-DL-E-10012023-241838",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241838.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-10.241838/241838.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-10.241838",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-10/241838.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-01-10.241835",
       "category": "extraordinary",
       "type_letter": "e",
@@ -19719,7 +19742,7 @@
       "topics": []
     }
   ],
-  "count": 858,
+  "count": 859,
   "category": "central",
   "shard_index": 10
 }
