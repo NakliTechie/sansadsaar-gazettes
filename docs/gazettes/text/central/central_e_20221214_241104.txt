@@ -1,0 +1,137 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. D. L.-33004/99 
+
+
+Che Gazette of Jndia 
+
+
+सी.जी.-डी.एल.-अ.-15122022-241104 
+CG-DL-E-15122022-241104 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग 1---खण्ड ३---उप-खण्ड (ii) 
+PART IJ—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+a. 5616] नई दिल्ली, बुधवार, दिसम्बर 14, 2022/अग्रहायण 23, 1944 
+No. 5616] NEW DELHI, WEDNESDAY, DECEMBER 14, 2022/AGRAHAYANA 23, 1944 
+
+
+विद्युत मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 13 दिसम्बर, 2022 
+का.आ. 5852(अ).--- सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 21) की धारा 70 की उपधारा (1) द्वारा 
+
+
+प्रदत्‌ शक्तियों का प्रयोग करते हुए, केंद्र सरकार पावर ग्रिड कॉरपोरेशन ऑफ इंडिया लिमिटेड (पावरग्रिड) की महत्वपूर्ण 
+सूचना अवसंरचना होने के कारण, Gace की निम्नलिखित स्थलों पर संस्थापित सुपरवाइज़री कंट्रोल एंड डेटा 
+TPMT (स्काडा) प्रणाली और उनके संबद्ध अवलंबनों के कम्प्यूटर संसाधनों को उक्त अधिनियम के प्रयोजन के लिए 
+संरक्षित प्रणाली घोषित करती है:-- 
+
+
+(i) 
+(ii) 
+co 
+ख. 
+
+
+T. 
+
+
+7. 
+छल. 
+
+
+राष्ट्रीय पारेषण परिसंपत्ति प्रबंधन केंद्र (एनटीएएमसी), मानेसर 
+
+नीचे उल्लिखित क्षेत्रीय पारेषण परिसंपत्ति प्रबंधन केंद्र (आरटीएएमसी) 
+उत्तरी क्षेत्र - 1, मानेसर 
+
+उत्तरी क्षेत्र - 2, जम्मू 
+
+उत्तरी क्षेत्र 3, लखनऊ 
+
+पूर्वोत्तर क्षेत्र, शिलांग 
+
+
+डा. पूर्वी क्षेत्र 1, पटना 
+
+
+पूर्वी क्षेत्र 2, कोलकाता 
+पश्चिमी क्षेत्र - 1, नागपुर 
+
+
+8355 01/2022 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 301) | 
+
+
+पश्चिमी क्षेत्र 2, वडोदरा 
+दक्षिणी क्षेत्र - 1, हैदराबाद 
+दक्षिणी क्षेत्र - 2, बैंगलोर 
+ओडिशा, भुवनेश्वर 
+
+
+4a a4 A 
+
+
+2. यह अधिसूचना इसके राजपत्र में प्रकाशन की तिथि से प्रभावी होगी। 
+[फा. सं. 1/13/2021/आईटी] 
+अजय तिवारी, अतिरिक्त सचिव 
+
+
+MINISTRY OF POWER 
+NOTIFICATION 
+New Delhi, the 13th December, 2022 
+
+
+S.O. 5852(E).—In exercise of the powers conferred by sub-section (1) of Section 70 of the Information 
+Technology Act, 2000 (21 of 2000), the Central Government hereby declares the Supervisory Control and Data 
+Acquisition (SCADA) System installed at following locations of Power Grid Corporation of India Ltd. 
+(POWERGRID), being Critical Information Infrastructure of POWERGRID, and the computer resources of their 
+
+
+associated dependencies to be Protected Systems for the purpose of the said Act:— 
+
+
+(i) National Transmission Asset Management Centre (NTAMC), Manesar 
+(ii) Below mentioned Regional Transmission Asset Management Centres (RTAMC) 
+a. Northern Region - 1, Manesar 
+b. Northern Region - 2, Jammu 
+c. Northern Region - 3, Lucknow 
+d. North Eastern Region, Shillong 
+
+
+e. Eastern Region - 1, Patna 
+
+
+f. Eastern Region - 2, Kolkata 
+g. Western Region - 1, Nagpur 
+h. Western Region - 2, Vadodara 
+
+
+av 
+
+
+Southern Region - 1, Hyderabad 
+j. Southern Region - 2, Bangalore 
+k. Odisha, Bhubaneswar 
+
+
+2; This notification shall come into force on the date of its publication in Official Gazette. 
+
+
+[F. No. . 1/13/2021/IT] 
+AJAY TEWARI, Additional Secy. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054, 00000 ६; 
+
+
