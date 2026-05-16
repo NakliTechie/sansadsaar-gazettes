@@ -46,6 +46,14 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/gazettes/manifest.json docs/gazettes/meta.json docs/gazettes/texts-meta.json 'docs/gazettes/texts-*.json' docs/gazettes/audit.json \
                   docs/gazettes/search-bundle-*.json docs/gazettes/search-index-*.json
+          # Stage deletions of tracked files. write_text_shards bundles
+          # text/central/<fid>.txt into texts-NN.json shards and DELETES
+          # the on-disk text files. Without `git add -u`, those deletions
+          # aren't staged and on-main text/ files would accumulate
+          # forever. See CONV.md "Multi-corpus derive in one repo" for
+          # the same pattern applied to marker consolidation in
+          # parliamentwatch-data.
+          git add -u docs/gazettes/
           git diff --cached --quiet && echo "no derived changes" && exit 0
           git commit -m "Auto-rebuild gazettes derived files [$(date -u +%Y-%m-%dT%H:%MZ)]"
           for attempt in 1 2 3 4 5 6 7 8 9 10; do
@@ -59,6 +67,7 @@ jobs:
             BUILD_PHASE=derive python build_gazettes.py
             git add docs/gazettes/manifest.json docs/gazettes/meta.json docs/gazettes/texts-meta.json 'docs/gazettes/texts-*.json' docs/gazettes/audit.json \
                     docs/gazettes/search-bundle-*.json docs/gazettes/search-index-*.json
+            git add -u docs/gazettes/
             git diff --cached --quiet && echo "nothing to commit after retry" && exit 0
             git commit -m "Auto-rebuild gazettes derived files (retry $attempt) [$(date -u +%Y-%m-%dT%H:%MZ)]"
           done

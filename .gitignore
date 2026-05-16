@@ -3,5 +3,16 @@ __pycache__/
 .venv/
 .env
 *.DS_Store
-docs/gazettes/text/
 docs/gazettes/pdfs/
+
+# docs/gazettes/text/ is INTENTIONALLY NOT ignored — text files have
+# to be committed transiently so the gazettes-derive workflow can see
+# them on its fresh runner, bundle into texts-NN.json shards, and
+# delete the transient files (deletions captured via `git add -u` in
+# the derive's commit step). See parliamentwatch-data for the
+# canonical pattern of this split-phase + bundle-then-delete flow.
+#
+# Diagnosed 2026-05-15: the retry pass was writing text files but the
+# old gitignore here threw them away before derive could see them —
+# producing succeeded=N in commit MESSAGES while texts-meta.json
+# stayed at 3 bundled records forever.
