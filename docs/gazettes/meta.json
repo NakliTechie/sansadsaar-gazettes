@@ -1,19 +1,67 @@
 {
-  "phase": "extract",
-  "generated_at": "2026-05-16T12:28:20Z",
-  "elapsed_s": 3354.8,
-  "extracted": 909,
-  "failed": 0,
-  "djvu_retry": {
-    "attempted": 200,
-    "succeeded": 200,
-    "pending_total": 25719,
-    "budget": 200
+  "phase": "derive",
+  "generated_at": "2026-05-16T12:59:38Z",
+  "elapsed_s": 51.9,
+  "totals": {
+    "central": 27936
   },
-  "rate_limited": false,
-  "budget": {
-    "max_extractions": 2000,
-    "max_run_seconds": 3600,
-    "stop_after_known": 999999
+  "search_bundle": {
+    "shard_count": 5,
+    "shards": [
+      "search-bundle-00.json",
+      "search-bundle-01.json",
+      "search-bundle-02.json",
+      "search-bundle-03.json",
+      "search-bundle-04.json"
+    ],
+    "shard_sizes": {
+      "search-bundle-00.json": 22508700,
+      "search-bundle-01.json": 21948174,
+      "search-bundle-02.json": 21751318,
+      "search-bundle-03.json": 22406618,
+      "search-bundle-04.json": 677123
+    },
+    "total": 10072,
+    "truncated": 7257,
+    "head_chars": 5000,
+    "size_bytes": 89291933,
+    "max_shard_bytes": 22508700
+  },
+  "search_index": {
+    "shard_count": 5,
+    "shards": [
+      "search-index-00.json",
+      "search-index-01.json",
+      "search-index-02.json",
+      "search-index-03.json",
+      "search-index-04.json"
+    ],
+    "shard_sizes": {
+      "search-index-00.json": 19454123,
+      "search-index-01.json": 18317162,
+      "search-index-02.json": 22489137,
+      "search-index-03.json": 33825946,
+      "search-index-04.json": 2425000
+    },
+    "total": 10072,
+    "size_bytes": 96511368,
+    "max_shard_bytes": 33825946
+  },
+  "audit": {
+    "central_records": 27936,
+    "djvu_ok": 10072,
+    "djvu_pending": 17864,
+    "no_text": 0,
+    "topics_assigned": 0
+  },
+  "text_shards": {
+    "records_with_text": 10072,
+    "shards": 148,
+    "r2_fallback": 0,
+    "total_text_bytes": 160844361,
+    "missing_files": 0,
+    "skipped_oversize_no_r2": 0,
+    "from_existing_shards": 7658,
+    "txt_files_removed": 2414
   }
 }
