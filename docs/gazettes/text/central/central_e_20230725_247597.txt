@@ -1,0 +1,318 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 २८७0. No. 0. L.-33004/99 
+
+
+"रत = राजपत्र 
+Che Gazette of -_ऊवतात 
+
+
+सी.जी.-डी.एल.-अ.-25072023-247597 
+CG-DL-E-25072023-247597 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग फा---खण्ड 4 
+PART III—Section 4 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+a. 58] नई दिल्ली, मंगलवार, जुलाई 25, 2023/श्रावण 3, 945 
+No. 58] NEW DELHI, TUESDAY, JULY 25, 2023/SHRAVANA 3, 945 
+
+
+भारतीय दूरसंचार विनियामक प्राधिकरण 
+अधिसूचना 
+नई दिल्‍ली, 25 जुलाई, 2023 
+
+
+सं. आरपी-4/6/(24)/2024-क्यूओएस.--भारतीय दूरसंचार विनियामक प्राधिकरण अधिनियम, 7997 (997 
+का 24) की धारा 36 के तहत प्रदत्त शक्तियों का प्रयोग करते हुए, भारतीय दूरसंचार विनियामक प्राधिकरण कुछ विनियमों 
+को निरस्त करने के लिए निम्नलिखित विनियम बनाता है, अर्थात्‌: - 
+
+
+भारतीय दूरसंचार विनियामक प्राधिकरण निरसन विनियम, 2023 (2023 का 02) 
+4. संक्षिप्त शीर्षक और प्रारंभ- (() इन विनियमों को भारतीय दूरसंचार विनियामक प्राधिकरण निरसन विनियम, 2023 
+कहा जा सकता है। 
+(2) ये राजपत्र में इनके प्रकाशन की तारीख से लागू होंगे। 
+2. निरसन और बचत --- (4) इन विनियमों के लागू होने पर, निम्नलिखित विनियम निरस्त हो जाएंगे, अर्थात्‌:- 
+(ए) डायल-अप और लीज्ड लाइन इंटरनेट एक्सेस सेवा की सेवा गुणवत्ता पर विनियमन, 200/ (2004 का 4); 
+
+
+(2) इन विनियमों के पिछले संचालन और उसमें जारी किए गए किसी भी निर्देश या आदेश या बैधता, अमान्यता, प्रभाव 
+या पहले से की गई किसी भी कार्यवाही या की गई कार्रवाई, या किए जाने या किए जाने के लिए कथित, या किए जाने के 
+लिए छोड़े गए या उसमें परिणाम के भुगतने को, उक्त उप-विनियम (॥) में संदर्भित विनियमों का निरसन प्रभावित नहीं 
+करेगा। 
+
+
+4780 GI/2023 (.) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+वि. रघुनंदन, सचिव 
+[विज्ञापन-/4/असा./302/2023-24] 
+
+
+टिप्पणी : विवरणात्मक ज्ञापन "भारतीय दूरसंचार विनियामक प्राधिकरण निरसन विनियम, 2023" के उद्देश्यों और 
+कारणों की व्याख्या करता है। 
+
+
+विवरणात्मक ज्ञापन 
+
+
+. पृष्ठभूमि 
+4.4. डायल-अप और लीज्ड लाइन इंटरनेट Weta सेवा की सेवा गुणवत्ता पर विनियम, 200 (2004 का 4) ॥0 
+दिसंबर 2004 को अधिसूचित किया गया am यह विनियम सभी बुनियादी सेवा ऑपरेटरों और इंटरनेट सेवा प्रदाताओं 
+पर लागू था, जिसमें मौजूदा ऑपरेटर जैसे बीएसएनएल, एमटीएनएल और वीएसएनएल शामिल थे। सेवा मानकों की 
+गुणवत्ता निर्धारित करने के उद्देश्य थे:- 
+i. नेटवर्क निष्पादन के मानदंड निर्धारित करके ग्राहकों की संतुष्टि सुनिश्चित करना, जिसे सेवा प्रदाता को अपने 
+नेटवर्क के उचित आयाम द्वारा प्राप्त करना आवश्यक है। 
+i, समय-समय पर सेवा की गुणवत्ता को मापना और उसकी तुलना निर्दिष्ट मानदंडों के साथ करना ताकि 
+विभिन्न सेवा प्रदाताओं द्वारा प्रदान किए गए निष्पादन के स्तर की निगरानी की जा सके। 
+ii, आम तौर पर इंटरनेट सेवाओं के ग्राहकों के हितों की रक्षा करना। 
+4.2 इस विनियम के de-lV के विनियम 4 में आईएसपी ate तक डायल-अप पहुंच के लिए सेवा की गुणवत्ता के 
+बेंचमार्क परिभाषित किए गए हैं, जैसा कि नीचे बताया गया है: 
+
+
+डायल अप Waa के पैरामीटर/ सेवा संकेतक बेंचमार्क (6 महीने के भीतर 
+हासिल किया जाना है) 
+क. | सेवा सक्रियण का समय 6 घंटे 
+ख. | सेवा पहुंच 
+|) THAT करने का समय 30 सेकंड 
+॥) निम्न में आईएसपी नोड तक पहुँचने की संभावना: 
+क) पहला प्रयास 80% 
+ख) दूसरा प्रयास 90% 
+ग) तीसरा प्रयास 99% 
+HII Hal) ars की अनुपलब्धता एक महीने में अधिक नहीं होनी 30 मिनट 
+चाहिए 
+ग. | पीएसटीएन ate को आईएसपी ate से जोड़ने वाले लिंक पर सेवा का स्तर 400 में | 
+(जीओएस)। 
+
+
+जबकि 'क' और 'ख' के लिए आईएसपी जिम्मेदार होगा, ग” के लिए, आईएसपी और बीएसओ दोनों जिम्मेदार होंगे। 
+जहां आवश्यक होगा, ये दोनों पक्ष संयुक्त रूप से समस्या का समाधान करेंगे। 
+
+
+4.3 इस विनियम के खंड-४/ के विनियम 5 में लीज्ड लाइन एक्सेस सेवा के लिए सेवा की गुणवत्ता के बेंचमार्क परिभाषित 
+किए गए हैं। यह विनियम अधिदेशित करता है कि संबंधित पक्ष विलंबता, पैकेट हानि और सेवा उपलब्धता के संबंध में कुछ 
+न्यूनतम स्तर के निष्पादन की गारंटी देते हुए सेवा स्‍तर समझौते (एसएलए) में प्रवेश करें। 
+
+
+प्राधिकरण ने केवल, एसएलए में एम्बेड किए जाने वाले निम्नलिखित सांकेतिक निष्पादन मापदंडों के संबंध में अनुशंसा की: 
+
+
+ma. | मापदंड मानक 
+
+
+| विलंब ० भारत और विदेश में सबसे दूर के नोड के बीच ऑप्टिकल फाइबर कम्युनिकेशन 
+(ओएफसी) लिंक पर 300 मिली सेकंड से अधिक नहीं। 
+
+
+[भाग Wave 4] भारत का राजपत्र : असाधारण 3 
+
+
+*» भारत और विदेश में सबसे दूर के नोड के बीच उपग्रह लिंक पर 800 मिली 
+सेकंड से अधिक नहीं। 
+2 पैकेट हानि 4% से अधिक नहीं 
+3 उपलब्धता 99% से कम नहीं 
+
+
+2. डायल-अप और लीज्ड लाइन इंटरनेट एक्सेस सेवा की सेवा गुणवत्ता पर विनियम, 200 (200 का 4) को निरस्त 
+करने का APA: 
+
+
+2.4 डायल-अप और लीज्ड लाइन इंटरनेट एक्सेस सेवा की सेवा गुणवत्ता पर विनियम, , 2004, सेवा प्रदाताओं द्वारा 
+प्राप्त किए जाने वाले सेवा मानकों की गुणवत्ता निर्दिष्ट करने, नेटवर्क निष्पादन के साथ ग्राहकों की संतुष्टि सुनिश्चित करने 
+और इंटरनेट सेवा के ग्राहकों के हितों की रक्षा करने के प्राथमिक उद्देश्य के साथ अधिसूचित किया गया था। इन विनियमों के 
+तहत, सेवा प्रदाता द्वारा प्रस्तुत की जाने वाली कोई निष्पादन रिपोर्ट निर्धारित नहीं है। 
+
+
+2.2 ये नियम तब जारी किए गए थे जब कम गति वाले इंटरनेट तक पहुंचने के लिए डायल अप सेवा ही एकमात्र सेवा 
+थी। समय बीतने के साथ, दूरसंचार नेटवर्क, वायरलाइन और वायरलेस दोनों ही xDSL, FTTH, LTE आदि 
+प्रौद्योगिकियों पर उच्च गति ब्रॉडबैंड सेवा प्रदान करने के लिए विकसित हुए हैं। इसके अलावा, कोई भी सेवा प्रदाता डायल- 
+अप सेवा के लिए किसी भी ग्राहक की सुचना नहीं दे रहा Sl केवल बीएसएनएल मार्च 2024 तक डायल-अप ग्राहकों की 
+सुचना दे रहा था और उसके बाद बीएसएनएल भी किसी डायल-अप ग्राहकों की सुचना नहीं दे रहा था। बीएसएनएल ने 
+पत्र संखया-बीएसएनएलसीओ-आरजीएलएन/24(45)/4/2020-आरईजीएलएन दिनांक 43-04-2024 के माध्यम से 
+प्राधिकरण को एक प्रमाणपत्र भी प्रस्तुत किया है, जिसमें कहा गया है कि आज की तारीख में उनके नेटवर्क में कोई भी 
+डायल-अप ग्राहक मौजूद नहीं है। 
+
+23 he लाइन एक्सेस सेवाएं आम तौर पर आईएसपी लाइसेंस रखने वाले इंटरनेट गेटवे सर्विस प्रोवाइडर्स 
+(आईजीएसपी) द्वारा पेश की जाती हैं। इन सेवाओं की पेशकश या तो उद्यमों को उनके लोकल एरिया नेटवर्क (लैन) को 
+पॉइंट-टू-पॉइंट लीज्ड लाइनों द्वारा इंटरनेट से जोड़ने के लिए, या आईएसपी के लिए की जाती है, जिनके पास अपनी 
+अंतर्राष्ट्रीय गेटवे सुविधाएं नहीं हैं, ताकि उन्हें अंतर्राष्ट्रीय इंटरनेट तक पहुंच प्रदान की जा सके। यह सेवा सेवा प्रदाता और 
+ग्राहक के बीच एक सर्विस लेवल एग्रीमेंट (एसएलए) आधारित सेवा Sl इस सेवा के ग्राहक, सेवा प्रदाताओं के साथ एक-से- 
+एक समझौते के आधार पर और अपनी स्थिति के आधार पर प्रभुत्व की स्थिति रखते हुए, सेवा निष्पादन संबंधी मुद्दों के 
+संबंध में अपने हितों की रक्षा कर सकते हैं। सेवा प्रदाता उनकी परिवाद/शिकायतों को दूर करने को भी प्राथमिकता देते हैं, 
+ताकि प्रतिस्पर्धियों के साथ उनकी प्रतिस्पर्धात्मकता से बचा जा सके। 
+
+
+2.4. कोई डायल अप ग्राहक नहीं होने, वायरलाइन के साथ-साथ वायरलेस सेगमेंट में हाई स्पीड ब्रॉडबैंड सेवाओं की 
+उपलब्धता होने और लीज्ड लाइन सेवा दो अनुबंधित पक्षों के बीच सेवा स्तर के समझौते पर आधारित सेवा होने के कारण, 
+डायल-अप और लीज्ड लाइन इंटरनेट एक्सेस सेवा की सेवा गुणवत्ता पर विनियम, 200i, ada संदर्भ में अधिक 
+प्रासंगिक प्रतीत नहीं होता है। 
+
+इसलिए, प्राधिकरण ने डायल-अप और लीज्ड लाइन इंटरनेट एक्सेस सेवा की सेवा गुणवत्ता पर विनियमन, 2004 (2004 
+का 4) को आधिकारिक राजपत्र में इसकी अधिसूचना की तारीख से निरस्त करने का निर्णय लिया है। 
+
+अस्वीकरण: यह विनियमन मूल रूप से अंग्रेजी में लिखे गए विनियमन का हिंदी अनुवाद है। किसी भी विसंगति के मामले 
+में, विनियमन का अंग्रेजी लिखित संस्करण मान्य होगा। 
+
+
+TELECOM REGULATORY AUTHORITY OF INDIA 
+NOTIFICATION 
+New Delhi, the 25th July, 2023 
+
+
+No. RP-4/6/(24)/202-QoS.—In exercise of the powers conferred upon it under section 36 of the Telecom 
+Regulatory Authority of India Act, 997 (24 of 997), the Telecom Regulatory Authority of India hereby makes the 
+following regulations to repeal certain regulations, namely: - 
+
+
+TELECOM REGULATORY AUTHORITY OF INDIA REPEALING REGULATIONS, 2023 (02 of 2023) 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+l. Short title and commencement.— (|) These regulations may be called the Telecom Regulatory Authority of 
+India Repealing Regulations, 2023. 
+
+
+(2) They shall come into force from the date of their publication in the Official Gazette. 
+
+
+2. Repeal and Savings.— () On coming into force of these regulations, the following regulations shall stand 
+repealed, namely: - 
+
+
+(a) Regulation on Quality of Service of Dial-Up and Leased Line Internet Access Service, 200! (4 of 200); 
+
+
+(2) The repeal of the regulations, referred to in sub-regulation (), shall not affect the previous operation of the 
+said regulations and any directions or orders issued therein, or validity, invalidity, effect or consequences of anything 
+already done or any action taken, or purported to have been done or taken, or omitted to be done or suffered therein. 
+
+
+V. RAGHUNANDAN, Secy. 
+[ADVT.-ITI/4/Exty./302/2023-24] 
+
+
+Note : The Explanatory Memorandum explains the objects and reasons of the “Telecom Regulatory Authority of India 
+Repealing Regulations, 2023”. 
+
+
+EXPLANATORY MEMORANDUM 
+l. Background 
+
+
+l.l. The regulation on quality of service of dial-up and leased line internet access service, 200! (4 of 200) was 
+notified on 0" December 200. This regulation was applicable to all the Basic Service Operators and Internet 
+Service Providers, including the incumbent operators viz. BSNL, MTNL and VSNL. The purpose of laying down 
+Quality of Service Parameters was to 
+
+
+i. Ensure customer satisfaction by laying down norms of network performance, which the service provider is 
+required to achieve by proper dimensioning of his network. 
+
+
+ii. Measure the Quality of Service from time to time and to compare that with the specified norms so as to 
+monitor the level of performance, provided by various service providers. 
+
+
+iii. To generally protect the interests of subscribers of the Internet services. 
+
+
+.2. The regulation 4 of Section-IV of this regulation defines the Quality of Service benchmarks for Dial-up 
+access to the ISP Node, as mentioned below: 
+
+
+Parameters / Service Indicators of dial up access Benchmarks (to be 
+achieved within 6 
+months) 
+A Service Activation Time 6 hrs 
+| B | Service Accessibility 
+I) Time to access 30 sec 
+II) Probability of accessing the ISP node in the: 
+a) First attempt 80% 
+b) Second attempt 90% 
+c) Third attempt 99% 
+IID ISP node unavailability in a month not to exceed 30 min 
+C Grade of Service (GOS) on the link connecting PSTN node to the ISP node l in 00 
+
+
+While for A and B the ISP will be responsible, for C, both ISP and BSO will be responsible. Where necessary 
+both these parties will address the problem jointly. 
+
+
+.3 The regulation 5 of Section- V of this regulation defines the Quality of Service benchmarks for Leased Line 
+Access Service. This regulation mandates that the parties concerned enter into a Service Level Agreement (SLA), 
+guaranteeing some minimum level of performance in regard to Latency, Packet Loss and Service Availability. 
+
+
+The Authority made recommendation only, in respect of the following indicative performance parameters to be 
+embedded in the SLA: 
+
+
+[भाग Lave 4] भारत का राजपत्र : असाधारण 5 
+
+
+S.No. Parameters Benchmarks 
+
+
+] Latency * Not to exceed 300 msec on Optical Fibre Communication (OFC) links 
+between India and farthest node abroad. 
+
+
++ Not to exceed 800 msec on satellite links between India and farthest 
+node abroad. 
+
+
+2 Packet loss Not to exceed [% 
+3 Availability Not less than 99% 
+2. Justification for repeal of the regulation on quality of service of dial-up and leased line internet access 
+
+
+service, 200] (4 of 200) 
+
+
+22] The regulation on quality of service of dial-up and leased line internet access service, 200], was notified with 
+the primary aim of specifying the quality of service benchmarks to be achieved by the service providers, ensure 
+customer’s satisfaction with the network performance and to protect the interests of the subscribers of the internet 
+service. Under these regulation, no performance report submission by the service provider is prescribed. 
+
+
+2.2 These regulations were issued when the dial up service was the only service available for accessing low 
+speed internet. With the passage of the time, the telecommunication networks both wireline as well as wireless have 
+evolved to offer high speed broadband service on xDSL, FTTH, LTE etc, technologies. Further, none of the service 
+providers are reporting any subscriber for dial-up service. Only BSNL was reporting the dial-up subscribers until 
+March’202! and afterwards BSNL was also not reporting any dial up subscribers. BSNL vide letter no-BSNLCO- 
+RGLN/24(5)/I/2020-REGLN dated 3-04-202], has also submitted a certificate to the Authority, stating that no dial 
+up subscribers exist in their network, as on date. 
+
+
+2.3 The Leased line access services are generally offered by Internet Gateway Service Providers (IGSPs) holding 
+an ISP licence. These services are offered either to Enterprises to connect their Local Area Networks (LANs) to the 
+Internet by point-to-point leased lines, or to ISPs who do not have their own International gateway facilities, so as to 
+provide them access to International Internet Backbone abroad. This service is a Service Level Agreement (SLA) 
+based service between service provider and the customer. The customers to this service, holding dominating position 
+by virtue of one-to-one agreement with service providers and by virtue of his position, can safeguards its interests with 
+regard to service performance related issues. The service providers also assign priority in attending to their grievance/ 
+complaints, so as to avoid their churn out to the competitors. 
+
+
+2.4. In view of the existence of no dial up subscribers, availability of high speed broadband services in wireline as 
+well as wireless segment and leased line service being service level agreement based service between two contracting 
+parties, the Regulation on Quality of Service of Dial-up and Leased line internet access service, 200l, appears to be no 
+more relevant in the present context. 
+
+
+Hence, Authority decided to repeal the Regulation on quality of service of dial-up and leased line internet 
+access service, 200 (4 of 200) with effect from date of its notification in Official Gazette. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-!0064 
+and Published by the Controller of Publications, Delhi-!0054. MANS) KUNA ae 
+
+
