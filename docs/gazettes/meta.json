@@ -1,52 +1,12 @@
 {
   "phase": "derive",
-  "generated_at": "2026-05-16T14:01:56Z",
-  "elapsed_s": 51.2,
+  "generated_at": "2026-05-16T14:19:31Z",
+  "elapsed_s": 6.6,
   "totals": {
     "central": 28261
   },
-  "search_bundle": {
-    "shard_count": 5,
-    "shards": [
-      "search-bundle-00.json",
-      "search-bundle-01.json",
-      "search-bundle-02.json",
-      "search-bundle-03.json",
-      "search-bundle-04.json"
-    ],
-    "shard_sizes": {
-      "search-bundle-00.json": 22480335,
-      "search-bundle-01.json": 22090451,
-      "search-bundle-02.json": 21594276,
-      "search-bundle-03.json": 22287573,
-      "search-bundle-04.json": 3768225
-    },
-    "total": 10397,
-    "truncated": 7503,
-    "head_chars": 5000,
-    "size_bytes": 92220860,
-    "max_shard_bytes": 22480335
-  },
-  "search_index": {
-    "shard_count": 5,
-    "shards": [
-      "search-index-00.json",
-      "search-index-01.json",
-      "search-index-02.json",
-      "search-index-03.json",
-      "search-index-04.json"
-    ],
-    "shard_sizes": {
-      "search-index-00.json": 17687583,
-      "search-index-01.json": 19562739,
-      "search-index-02.json": 21261487,
-      "search-index-03.json": 29286937,
-      "search-index-04.json": 11027247
-    },
-    "total": 10397,
-    "size_bytes": 98825993,
-    "max_shard_bytes": 29286937
-  },
+  "search_bundle": null,
+  "search_index": null,
   "audit": {
     "central_records": 28261,
     "djvu_ok": 10397,
@@ -58,10 +18,10 @@
     "records_with_text": 10397,
     "shards": 154,
     "r2_fallback": 0,
-    "total_text_bytes": 22540656,
+    "total_text_bytes": 0,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 10027,
-    "txt_files_removed": 370
+    "from_existing_shards": 10397,
+    "txt_files_removed": 0
   }
 }
