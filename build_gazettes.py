@@ -685,6 +685,23 @@ def file_id_from_dict(r: dict) -> str:
 
 DOCS_PER_SHARD = 2500
 
+# Separate, smaller cap for the search-INDEX shards. The bundle shards
+# carry only `{key, title, head}` with HEAD=5000 chars/record (~8 KB/rec),
+# so 2,500/shard yields ~20 MB shards — fine. The index shards carry
+# the full tokenized text (vocab + postings), which is ~5× denser per
+# record. At 2,500/shard the index crossed Cloudflare Workers' 25 MiB
+# per-asset hard cap once the corpus grew past ~6k records-with-text
+# (CF deploy failed 2026-05-17 on search-index-03.json at 26.9 MiB,
+# see plan).
+#
+# 500/shard is conservative — at the failure-time per-record density,
+# that gives ~5-6 MB per shard. More HTTP requests at query time (the
+# app fetches all shards on first search), but well under the size cap
+# with headroom for further growth. Revisit at ~50k records by moving
+# shards to R2 (5 TiB per object) rather than chasing smaller and
+# smaller shard caps.
+SEARCH_INDEX_SHARD_SIZE = 500
+
 
 def _delete_legacy(path: Path) -> None:
     if path.exists():
@@ -1013,7 +1030,7 @@ def phase_derive() -> int:
     print(f"  bundled text shards: {text_meta['totals']}")
 
     bundle = build_search_bundle(reports)
-    index  = build_search_index(reports)
+    index  = build_search_index(reports, docs_per_shard=SEARCH_INDEX_SHARD_SIZE)
 
     meta = {
         "phase":         "derive",
