@@ -741,9 +741,17 @@ def _load_bundled_texts() -> dict[str, dict[str, str]]:
 def build_search_bundle(reports: dict[str, list[dict]],
                         docs_per_shard: int = DOCS_PER_SHARD) -> dict | None:
     """Subject + first 5K chars per record. Sharded by sorted report_key.
+
+    Source of truth is `_load_bundled_texts()` (texts-NN.json shards). The
+    on-disk `text/central/<fid>.txt` files are only used as a fallback for
+    records that haven't been bundled yet (the brief window between a fresh
+    scrape commit and the next derive run). On a fresh runner checkout the
+    transient `text/` dir typically doesn't exist at all — that's fine, we
+    can build the bundle entirely from bundled texts. Historically this
+    function early-returned `None` whenever TEXT_DIR was missing, which
+    silently disabled re-sharding on derive-only dispatches (e.g. after a
+    SHARD_SIZE change). Removed that early-return.
     """
-    if not TEXT_DIR.exists():
-        return None
     HEAD = 5000
     entries = []
     truncated = 0
@@ -820,9 +828,13 @@ def build_search_index(reports: dict[str, list[dict]],
                        docs_per_shard: int = DOCS_PER_SHARD) -> dict | None:
     """Full-body inverted token index, sharded. Bilingual: indexes
     both English (a-z0-9) and Devanagari tokens.
+
+    Source of truth is `_load_bundled_texts()` (texts-NN.json shards). See
+    build_search_bundle for the rationale behind not bailing when TEXT_DIR
+    is absent — same logic applies here, and the same historical bug (the
+    early-return silently disabled re-sharding on derive-only dispatches)
+    motivated the removal.
     """
-    if not TEXT_DIR.exists():
-        return None
     docs: list[tuple[str, str, str]] = []   # (fid, k, text)
     bundled = _load_bundled_texts()
     central_dir = TEXT_DIR / "central"
