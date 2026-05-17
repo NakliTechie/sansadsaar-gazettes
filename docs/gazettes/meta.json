@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-05-17T17:15:46Z",
-  "elapsed_s": 52.5,
+  "generated_at": "2026-05-17T17:48:14Z",
+  "elapsed_s": 54.2,
   "totals": {
     "central": 28300
   },
@@ -90,10 +90,10 @@
     "records_with_text": 10433,
     "shards": 154,
     "r2_fallback": 0,
-    "total_text_bytes": 7048481,
+    "total_text_bytes": 0,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 10383,
-    "txt_files_removed": 50
+    "from_existing_shards": 10433,
+    "txt_files_removed": 0
   }
 }
