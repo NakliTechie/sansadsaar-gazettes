@@ -970,15 +970,13 @@ def phase_extract() -> int:
     }
     if rate_limited:
         meta["rate_limited_at"] = meta["generated_at"]
-    # Idempotent write: skip the write entirely if only `generated_at`
-    # would change. The next derive run's meta.json fully replaces this
-    # one, so a no-op extract-meta write is pure CF-build noise.
-    # `elapsed_s` is timing-variant so ignore it too.
-    wrote_meta = write_json_idempotent(
-        META_JSON, meta, ignore_keys=("generated_at", "elapsed_s"),
-    )
-    if not wrote_meta:
-        print("  [skip] extract meta.json unchanged (besides timing) — no commit churn")
+    # Non-idempotent on purpose: always bump generated_at so the app's
+    # staleness indicator (which reads meta.generated_at) reflects "last
+    # successful run" rather than "last data change". A quiet upstream
+    # should not drift the indicator into "stale" — the actionable
+    # case is a stuck workflow, which still surfaces via meta commits
+    # stopping.
+    write_json_idempotent(META_JSON, meta, ignore_keys=())
 
     print(f"[phase_extract] done in {meta['elapsed_s']}s: "
           f"extracted={meta['extracted']}, "
@@ -1054,14 +1052,8 @@ def phase_derive() -> int:
         "audit":         audit["totals"],
         "text_shards":   text_meta["totals"],
     }
-    # Idempotent meta write — see manifest/audit above. `elapsed_s` is
-    # timing-variant per run so ignore it; the rest of meta is genuinely
-    # derived from disk state.
-    wrote_meta = write_json_idempotent(
-        META_JSON, meta, ignore_keys=("generated_at", "elapsed_s"),
-    )
-    if not wrote_meta:
-        print("  [skip] derive meta.json unchanged (besides timestamp)")
+    # Non-idempotent on purpose — see extract-phase comment above.
+    write_json_idempotent(META_JSON, meta, ignore_keys=())
 
     print(f"[phase_derive] done in {meta['elapsed_s']}s")
     return 0
