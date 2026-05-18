@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-12.249397",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-12",
+      "ugid": "249397",
+      "title": "Extraordinary Gazette of India, 2023-10-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-13102023-249397",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249397.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-12.249397/249397.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-12.249397",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-12/249397.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-12.249396",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58270,29 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-06-20.246725",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-06-20/246725.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-20.246721",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-20",
-      "ugid": "246721",
-      "title": "Extraordinary Gazette of India, 2023-06-20",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary  Gazette of India under Section 6(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Pipeline(MPPL) project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in the State of Rajasthan Tehsil Ahore, Distt Jalore",
-      "gazette_id": "CG-DL-E-21062023-246721",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246721.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-20.246721/246721.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-20.246721",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-20/246721.pdf",
       "topics": []
     }
   ],

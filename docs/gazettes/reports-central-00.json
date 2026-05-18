@@ -369,6 +369,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-05-14.272643",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-14",
+      "ugid": "272643",
+      "title": "Extrordinary Gazette of India, 2026-05-14",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification regarding hours of work for establishment under the OSH and WC Code 2020",
+      "gazette_id": "CG-DL-E-17052026-272643",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272643.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-14.272643/272643.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-14.272643",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-14/272643.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-14.272642",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57525,29 +57548,6 @@
       "ia_identifier": "in.gazette.central.w.2026-02-07.269912",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-02-07/269912.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2026-02-07.269911",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2026-02-07",
-      "ugid": "269911",
-      "title": "Weekly Gazette of India, 2026-02-07",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-07022026-269911",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269911.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-02-07.269911/269911.pdf",
-      "ia_identifier": "in.gazette.central.w.2026-02-07.269911",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/w/2026-02-07/269911.pdf",
       "topics": []
     }
   ],

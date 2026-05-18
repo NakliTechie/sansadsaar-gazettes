@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-13.252095",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-13",
+      "ugid": "252095",
+      "title": "Extraordinary Gazette of India, 2024-02-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-15022024-252095",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252095.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-13.252095/252095.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-13.252095",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-13/252095.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-13.252094",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57875,29 +57898,6 @@
       "ia_identifier": "in.gazette.central.e.2023-10-12.249398",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-10-12/249398.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-12.249397",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-12",
-      "ugid": "249397",
-      "title": "Extraordinary Gazette of India, 2023-10-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-13102023-249397",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249397.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-12.249397/249397.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-12.249397",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-12/249397.pdf",
       "topics": []
     }
   ],

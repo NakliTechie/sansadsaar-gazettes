@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-01-31.260714",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-31",
+      "ugid": "260714",
+      "title": "Extraordinary Gazette of India, 2025-01-31",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Under clause (7A) of section 2 of the Railways Act, 1989 is being issued for publication of appointment of Special Officer for the land being acquired in the District of Peddapalli in the State of Telangana for Construction of Road Over Bridge in lieu of Level Crossing.",
+      "gazette_id": "CG-TL-E-03022025-260714",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260714.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-31.260714/260714.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-31.260714",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-31/260714.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2025-01-31.260708",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57627,30 +57650,6 @@
       "mirror_path": "pdf/central/e/2024-10-16/258107.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258107/258107_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-16.258086",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-16",
-      "ugid": "258086",
-      "title": "Extraordinary Gazette of India, 2024-10-16",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules,",
-      "gazette_id": "CG-DL-E-21102024-258086",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258086.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258086/258086.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-16.258086",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-16/258086.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258086/258086_djvu.txt"
     }
   ],
   "count": 2500,

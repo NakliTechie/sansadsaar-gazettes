@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2025-09-27.266802",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-09-27",
+      "ugid": "266802",
+      "title": "Weekly Gazette of India, 2025-09-27",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-09102025-266802",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266802.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-09-27.266802/266802.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-09-27.266802",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-09-27/266802.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2025-09-27.266728",
       "category": "weekly",
       "type_letter": "w",
@@ -57475,29 +57498,6 @@
       "ia_identifier": "in.gazette.central.e.2025-05-30.263592",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2025-05-30/263592.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-30.263590",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-30",
-      "ugid": "263590",
-      "title": "Extraordinary Gazette of India, 2025-05-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-04062025-263590",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263590.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-30.263590/263590.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-30.263590",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-30/263590.pdf",
       "topics": []
     }
   ],

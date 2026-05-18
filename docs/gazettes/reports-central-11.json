@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-10.240176",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-10",
+      "ugid": "240176",
+      "title": "Extraordinary Gazette of India, 2022-11-10",
+      "ministry": "Ministry of External Affairs",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section  2 of section 1 of the Weapons of Mass Destruction and their Delivery Systems Prohibition of Unlawful Activities Amendment Act",
+      "gazette_id": "CG-DL-E-10112022-240176",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240176.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-10.240176/240176.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-10.240176",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-10/240176.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-10.240169",
       "category": "extraordinary",
       "type_letter": "e",
@@ -18988,7 +19011,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 822,
+  "count": 823,
   "category": "central",
   "shard_index": 11
 }
