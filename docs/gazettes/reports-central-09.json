@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-20.246720",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-20",
+      "ugid": "246720",
+      "title": "Extraordinary Gazette of India, 2023-06-20",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary  Gazette of India under Section 6(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Pipeline(MPPL) project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in the State of Rajasthan Tehsil Lakshmangarh, Distt Sikar",
+      "gazette_id": "CG-DL-E-21062023-246720",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246720.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-20.246720/246720.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-20.246720",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-20/246720.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-20.246714",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-20",
+      "ugid": "246714",
+      "title": "Extraordinary Gazette of India, 2023-06-20",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary  Gazette of India under Section 3(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Pipeline(MPPL) project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in the State of Rajasthan  Tehsil Dhod, Lakshmangarh, Distt. Sikar Tehsil Jhunjhunu,  Malsisar,  Mandawa,  Nawalgarh, Surajgarh Distt Jhunjhunu Tehsil Degana,  Didwana,  Medta,  Sanju Distt Nagaur",
+      "gazette_id": "CG-DL-E-21062023-246714",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246714.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-20.246714/246714.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-20.246714",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-20/246714.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-20.246713",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-20",
+      "ugid": "246713",
+      "title": "Extraordinary Gazette of India, 2023-06-20",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-21062023-246713",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246713.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-20.246713/246713.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-20.246713",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-20/246713.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-20.246712",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57802,75 +57871,6 @@
       "ia_identifier": "in.gazette.central.e.2023-02-23.243851",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-02-23/243851.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-23.243850",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-23",
-      "ugid": "243850",
-      "title": "Extraordinary Gazette of India, 2023-02-23",
-      "ministry": "Indian Nursing Council",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act,",
-      "gazette_id": "CG-DL-E-23022023-243850",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243850.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243850/243850.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-23.243850",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-23/243850.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-23.243849",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-23",
-      "ugid": "243849",
-      "title": "Extraordinary Gazette of India, 2023-02-23",
-      "ministry": "Indian Nursing Council",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act",
-      "gazette_id": "CG-DL-E-23022023-243849",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243849.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243849/243849.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-23.243849",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-23/243849.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-23.243848",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-23",
-      "ugid": "243848",
-      "title": "Extraordinary Gazette of India, 2023-02-23",
-      "ministry": "Indian Nursing Council",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act,",
-      "gazette_id": "CG-DL-E-23022023-243848",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243848.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243848/243848.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-23.243848",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-23/243848.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-05-30.263589",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-30",
+      "ugid": "263589",
+      "title": "Extraordinary Gazette of India, 2025-05-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of corrigendum under Section 3a",
+      "gazette_id": "CG-DL-E-04062025-263589",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263589.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-30.263589/263589.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-30.263589",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-30/263589.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-05-30.263588",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-30",
+      "ugid": "263588",
+      "title": "Extraordinary Gazette of India, 2025-05-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of corrigendum under Section 3a",
+      "gazette_id": "CG-DL-E-04062025-263588",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263588.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-30.263588/263588.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-30.263588",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-30/263588.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-05-30.263587",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-30",
+      "ugid": "263587",
+      "title": "Extraordinary Gazette of India, 2025-05-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-04062025-263587",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263587.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-30.263587/263587.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-30.263587",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-30/263587.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2025-05-30.263586",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57429,75 +57498,6 @@
       "ia_identifier": "in.gazette.central.e.2025-01-31.260714",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2025-01-31/260714.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-31.260708",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-31",
-      "ugid": "260708",
-      "title": "Extraordinary Gazette of India, 2025-01-31",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-03022025-260708",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260708.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-31.260708/260708.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-31.260708",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-31/260708.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-31.260707",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-31",
-      "ugid": "260707",
-      "title": "Extraordinary Gazette of India, 2025-01-31",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-03022025-260707",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260707.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-31.260707/260707.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-31.260707",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-31/260707.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-31.260706",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-31",
-      "ugid": "260706",
-      "title": "Extraordinary Gazette of India, 2025-01-31",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in Extra Ordinary Gazette of India under clause (a) of section 2 of the petroleum and Minerals Pipelines (Acquisition of  Right of User in Land) Act, 1962 relating to notification of Shri Vadala Ramulu, Deputy Collector (Land Acquisition),  as  Competent Authority(CA)  for HPCLs Hassan Cherlapalli LPG Pipeline(HCPL)  on Deputation basis of in Telangana State",
-      "gazette_id": "CG-DL-E-03022025-260706",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260706.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-31.260706/260706.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-31.260706",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-31/260706.pdf",
       "topics": []
     }
   ],

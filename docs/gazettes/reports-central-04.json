@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-01-31.260708",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-31",
+      "ugid": "260708",
+      "title": "Extraordinary Gazette of India, 2025-01-31",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-03022025-260708",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260708.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-31.260708/260708.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-31.260708",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-31/260708.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-01-31.260707",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-31",
+      "ugid": "260707",
+      "title": "Extraordinary Gazette of India, 2025-01-31",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-03022025-260707",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260707.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-31.260707/260707.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-31.260707",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-31/260707.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-01-31.260706",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-31",
+      "ugid": "260706",
+      "title": "Extraordinary Gazette of India, 2025-01-31",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in Extra Ordinary Gazette of India under clause (a) of section 2 of the petroleum and Minerals Pipelines (Acquisition of  Right of User in Land) Act, 1962 relating to notification of Shri Vadala Ramulu, Deputy Collector (Land Acquisition),  as  Competent Authority(CA)  for HPCLs Hassan Cherlapalli LPG Pipeline(HCPL)  on Deputation basis of in Telangana State",
+      "gazette_id": "CG-DL-E-03022025-260706",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260706.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-31.260706/260706.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-31.260706",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-31/260706.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2025-01-31.260705",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57582,78 +57651,6 @@
       "mirror_path": "pdf/central/e/2024-10-16/258086.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258086/258086_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-16.258074",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-16",
-      "ugid": "258074",
-      "title": "Extraordinary Gazette of India, 2024-10-16",
-      "ministry": "Uttarbanga Kshetriya Gramin Bank",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by Section 30 read with sub section 1 of section 17 of the Regional Rural Banks Act",
-      "gazette_id": "CG-BR-E-19102024-258074",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258074.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258074/258074.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-16.258074",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-16/258074.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258074/258074_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-16.258057",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-16",
-      "ugid": "258057",
-      "title": "Extraordinary Gazette of India, 2024-10-16",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
-      "gazette_id": "CG-DL-E-18102024-258057",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258057.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258057/258057.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-16.258057",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-16/258057.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258057/258057_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-16.258042",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-16",
-      "ugid": "258042",
-      "title": "Extraordinary Gazette of India, 2024-10-16",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Imposition of Minimum Import Price on Synthetic Knitted Fabrics up to 31st December 2024",
-      "gazette_id": "CG-DL-E-18102024-258042",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258042.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258042/258042.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-16.258042",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-16/258042.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-16.258042/258042_djvu.txt"
     }
   ],
   "count": 2500,

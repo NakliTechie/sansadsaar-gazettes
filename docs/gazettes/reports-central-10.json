@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-02-23.243850",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-23",
+      "ugid": "243850",
+      "title": "Extraordinary Gazette of India, 2023-02-23",
+      "ministry": "Indian Nursing Council",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act,",
+      "gazette_id": "CG-DL-E-23022023-243850",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243850.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243850/243850.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-23.243850",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-23/243850.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-23.243849",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-23",
+      "ugid": "243849",
+      "title": "Extraordinary Gazette of India, 2023-02-23",
+      "ministry": "Indian Nursing Council",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act",
+      "gazette_id": "CG-DL-E-23022023-243849",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243849.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243849/243849.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-23.243849",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-23/243849.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-23.243848",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-23",
+      "ugid": "243848",
+      "title": "Extraordinary Gazette of India, 2023-02-23",
+      "ministry": "Indian Nursing Council",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act,",
+      "gazette_id": "CG-DL-E-23022023-243848",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243848.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243848/243848.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-23.243848",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-23/243848.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-02-23.243847",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57778,75 +57847,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-10.240176",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-10/240176.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-10.240169",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-10",
-      "ugid": "240169",
-      "title": "Extraordinary Gazette of India, 2022-11-10",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Amendment in Export Policy of Broken Rice under HS code 10064000",
-      "gazette_id": "CG-DL-E-10112022-240169",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240169.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-10.240169/240169.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-10.240169",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-10/240169.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-09.240194",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-09",
-      "ugid": "240194",
-      "title": "Extraordinary Gazette of India, 2022-11-09",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-11112022-240194",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240194.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-09.240194/240194.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-09.240194",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-09/240194.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-09.240193",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-09",
-      "ugid": "240193",
-      "title": "Extraordinary Gazette of India, 2022-11-09",
-      "ministry": "Ministry of Railways",
-      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
-      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
-      "subject": "Publication of E gazette Notification for Declare intention to acquire land under Section 20A for land acquisition for Pachora Jamner with Extension upto Malkapur Narrow Gauge to Broad Gauge",
-      "gazette_id": "CG-MH-E-11112022-240193",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240193.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-09.240193/240193.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-09.240193",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-09/240193.pdf",
       "topics": []
     }
   ],

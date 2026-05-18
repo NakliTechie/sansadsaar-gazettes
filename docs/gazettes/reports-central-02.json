@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2025-09-27.266728",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-09-27",
+      "ugid": "266728",
+      "title": "Weekly Gazette of India, 2025-09-27",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-08102025-266728",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266728.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-09-27.266728/266728.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-09-27.266728",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-09-27/266728.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-09-27.266578",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-27",
+      "ugid": "266578",
+      "title": "Extrordinary Gazette of India, 2025-09-27",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "ADD CALCIUM CARBONATE FILLER MASTERBATCH FROM VIETNAM",
+      "gazette_id": "CG-DL-E-01102025-266578",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266578.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-27.266578/266578.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-27.266578",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-27/266578.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-09-27.266547",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-27",
+      "ugid": "266547",
+      "title": "Extrordinary Gazette of India, 2025-09-27",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "ADD Normal Butanol exported from Taiwan Saudi Arabia",
+      "gazette_id": "CG-DL-E-30092025-266547",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266547.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-27.266547/266547.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-27.266547",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-27/266547.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2025-09-27.266543",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57429,75 +57498,6 @@
       "ia_identifier": "in.gazette.central.e.2025-05-30.263590",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2025-05-30/263590.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-30.263589",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-30",
-      "ugid": "263589",
-      "title": "Extraordinary Gazette of India, 2025-05-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of corrigendum under Section 3a",
-      "gazette_id": "CG-DL-E-04062025-263589",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263589.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-30.263589/263589.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-30.263589",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-30/263589.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-30.263588",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-30",
-      "ugid": "263588",
-      "title": "Extraordinary Gazette of India, 2025-05-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of corrigendum under Section 3a",
-      "gazette_id": "CG-DL-E-04062025-263588",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263588.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-30.263588/263588.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-30.263588",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-30/263588.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-30.263587",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-30",
-      "ugid": "263587",
-      "title": "Extraordinary Gazette of India, 2025-05-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-04062025-263587",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263587.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-30.263587/263587.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-30.263587",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-30/263587.pdf",
       "topics": []
     }
   ],

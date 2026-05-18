@@ -346,6 +346,75 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-05-14.272644",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-14",
+      "ugid": "272644",
+      "title": "Extrordinary Gazette of India, 2026-05-14",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification regarding Appellate Authority in case of CLC under the OSH and WC Code 2020",
+      "gazette_id": "CG-DL-E-17052026-272644",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272644.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-14.272644/272644.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-14.272644",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-14/272644.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-14.272642",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-14",
+      "ugid": "272642",
+      "title": "Extrordinary Gazette of India, 2026-05-14",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification regarding hours of work for mines under the OSH and WC Code 2020",
+      "gazette_id": "CG-DL-E-17052026-272642",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272642.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-14.272642/272642.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-14.272642",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-14/272642.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-14.272641",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-14",
+      "ugid": "272641",
+      "title": "Extrordinary Gazette of India, 2026-05-14",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Amendment in the Central Motor Vehicles Rules 1989",
+      "gazette_id": "CG-DL-E-17052026-272641",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272641.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-14.272641/272641.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-14.272641",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-14/272641.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-14.272625",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57479,75 +57548,6 @@
       "ia_identifier": "in.gazette.central.w.2026-02-07.269911",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-02-07/269911.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-06.270162",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-06",
-      "ugid": "270162",
-      "title": "Extrordinary Gazette of India, 2026-02-06",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Department of Commerce",
-      "office": "EPZ Section",
-      "subject": "Publication of notification of SIPCOT at Erode District, Tamil Nadu",
-      "gazette_id": "CG-DL-E-16022026-270162",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270162.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-06.270162/270162.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-06.270162",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-06/270162.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-06.270161",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-06",
-      "ugid": "270161",
-      "title": "Extrordinary Gazette of India, 2026-02-06",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Department of Commerce",
-      "office": "EPZ Section",
-      "subject": "Publication of notification in SEZs rules",
-      "gazette_id": "CG-DL-E-16022026-270161",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270161.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-06.270161/270161.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-06.270161",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-06/270161.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-06.270153",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-06",
-      "ugid": "270153",
-      "title": "Extrordinary Gazette of India, 2026-02-06",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-16022026-270153",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270153.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-06.270153/270153.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-06.270153",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-06/270153.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-13.252094",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-13",
+      "ugid": "252094",
+      "title": "Extraordinary Gazette of India, 2024-02-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-15022024-252094",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252094.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-13.252094/252094.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-13.252094",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-13/252094.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-13.252089",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-13",
+      "ugid": "252089",
+      "title": "Extraordinary Gazette of India, 2024-02-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-15022024-252089",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252089.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-13.252089/252089.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-13.252089",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-13/252089.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-13.252088",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-13",
+      "ugid": "252088",
+      "title": "Extraordinary Gazette of India, 2024-02-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-15022024-252088",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252088.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-13.252088/252088.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-13.252088",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-13/252088.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-13.252087",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57829,75 +57898,6 @@
       "ia_identifier": "in.gazette.central.e.2023-10-12.249397",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-10-12/249397.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-12.249396",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-12",
-      "ugid": "249396",
-      "title": "Extraordinary Gazette of India, 2023-10-12",
-      "ministry": "Ministry of Railways",
-      "department": "Construction",
-      "office": "Chief Administrative Officer (Construction)",
-      "subject": "Publication of notification of extraordinary gazette under Part II section 3 Sub Section ii Notification under clause 20A of section 2 of the Railway Act 1989 24 of 1989 for the land being acquired in connection with Gauge Conversion of Ratlam Indore Dr Ambedkar Nagar Khandwa 299 Km in Indore district of Madhya Pradesh State",
-      "gazette_id": "CG-MH-E-13102023-249396",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249396.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-12.249396/249396.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-12.249396",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-12/249396.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-12.249395",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-12",
-      "ugid": "249395",
-      "title": "Extraordinary Gazette of India, 2023-10-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-13102023-249395",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249395.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-12.249395/249395.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-12.249395",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-12/249395.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-12.249394",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-12",
-      "ugid": "249394",
-      "title": "Extraordinary Gazette of India, 2023-10-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-13102023-249394",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249394.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-12.249394/249394.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-12.249394",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-12/249394.pdf",
       "topics": []
     }
   ],
