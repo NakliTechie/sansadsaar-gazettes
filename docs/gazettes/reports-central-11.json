@@ -1,6 +1,213 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-11.240214",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240214",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "The Institute of CharteredAccountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In terms of the provisions of Section 21B 3 of the Chartered Accountants Act, 1949 read with Rules 18 17  and 19 1  of the Chartered Accountants",
+      "gazette_id": "CG-DL-E-11112022-240214",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240214.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240214/240214.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240214",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240214.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-11.240213",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240213",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "The Institute of CharteredAccountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In terms of the provisions of Section 21B 3 of the Chartered Accountants Act, 1949 read with Rules 18 17 and 19 1 of the Chartered Accountants Procedure of Investigations of Professional and Other Misconduct and Conduct of Cases Rules",
+      "gazette_id": "CG-DL-E-11112022-240213",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240213.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240213/240213.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240213",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240213.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-11.240212",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240212",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "The Institute of CharteredAccountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In terms of the provisions of Section 21B 3  of the Chartered Accountants Act, 1949 read with Rules 18 17 and 19 1 of the Chartered Accountants  Procedure of Investigations of Professional and Other Misconduct and Conduct of Cases  Rules",
+      "gazette_id": "CG-DL-E-11112022-240212",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240212.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240212/240212.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240212",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240212.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-11.240211",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240211",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "The Institute of CharteredAccountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In terms of the provisions of Section 21B 3 of the Chartered Accountants Act, 1949 read with Rules 18 17  and 19 1 of the Chartered Accountants",
+      "gazette_id": "CG-DL-E-11112022-240211",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240211.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240211/240211.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240211",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240211.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-11.240210",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240210",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "The Institute of CharteredAccountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In terms of the provisions of Section 21B 3 of the Chartered Accountants Act, 1949 read with Rules 18 17 and 19 1 of the Chartered Accountants  Procedure of Investigations of Professional and Other Misconduct and Conduct of Cases  Rules",
+      "gazette_id": "CG-DL-E-11112022-240210",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240210.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240210/240210.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240210",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240210.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-11.240209",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240209",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "PandM file in the State Arunachal Pradesh",
+      "gazette_id": "CG-DL-E-11112022-240209",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240209.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240209/240209.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240209",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240209.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-11.240208",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240208",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "Ministry of Civil Aviation",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification of draft Aircraft (Security) Rules, 2022.",
+      "gazette_id": "CG-DL-E-11112022-240208",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240208.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240208/240208.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240208",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240208.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-11.240207",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240207",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "The Institute of CharteredAccountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In terms of the provisions of Section 21B 3 of the Chartered Accountants Act, 1949 read with Rules 18 17  and 19 1 of the Chartered Accountants Procedure of Investigations of Professional and Other Misconduct and Conduct of Cases  Rules, 2007, the Disciplinary Committee has held",
+      "gazette_id": "CG-DL-E-11112022-240207",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240207.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240207/240207.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240207",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240207.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-11.240206",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240206",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "The Institute of CharteredAccountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In terms of the provisions of Section 21B 3 of the Chartered Accountants Act, 1949 read with Rules 18 17 and 19 1 of the Chartered Accountants Procedure of Investigations of Professional and Other Misconduct and Conduct of Cases Rules,",
+      "gazette_id": "CG-DL-E-11112022-240206",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240206.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240206/240206.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240206",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240206.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-11.240205",
       "category": "extraordinary",
       "type_letter": "e",
@@ -19586,7 +19793,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 848,
+  "count": 857,
   "category": "central",
   "shard_index": 11
 }
