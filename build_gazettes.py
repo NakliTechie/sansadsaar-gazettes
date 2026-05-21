@@ -479,12 +479,32 @@ def retry_djvu_pending(reports: dict[str, list[dict]], *,
     text_dir = TEXT_DIR / "central"
     text_dir.mkdir(parents=True, exist_ok=True)
 
-    # Build the pending list — records with no text file on disk.
+    # Load bundled record IDs so we don't re-extract records that are
+    # already in texts-NN.json shards. write_text_shards deletes the
+    # on-disk text file after bundling, so without this check every
+    # bundled record looks "pending" forever — the retry budget gets
+    # burned re-fetching the same oldest records every run while the
+    # actual djvu_pending backlog never advances. Same source of truth
+    # as compute_audit (bundled_ids from texts-meta.record_to_shard).
+    bundled_ids: set = set()
+    texts_meta_path = DOCS / "texts-meta.json"
+    if texts_meta_path.exists():
+        try:
+            with open(texts_meta_path, "r", encoding="utf-8") as f:
+                tm = json.load(f)
+            bundled_ids = set((tm.get("record_to_shard") or {}).keys())
+        except (OSError, json.JSONDecodeError):
+            pass
+
+    # Build the pending list — records not yet bundled and no text file on disk.
     pending: list[dict] = []
     for r in reports.get("central", []):
         fid = file_id_from_dict(r)
-        if not (text_dir / f"{fid}.txt").exists():
-            pending.append(r)
+        if f"central|{fid}" in bundled_ids:
+            continue
+        if (text_dir / f"{fid}.txt").exists():
+            continue
+        pending.append(r)
 
     if not pending:
         return {"attempted": 0, "succeeded": 0, "pending_total": 0,
