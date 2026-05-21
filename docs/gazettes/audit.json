@@ -1,9 +1,9 @@
 {
-  "audited_at": "2026-05-21T10:04:37Z",
+  "audited_at": "2026-05-21T13:34:51Z",
   "totals": {
     "central_records": 28357,
-    "djvu_ok": 10534,
-    "djvu_pending": 17823,
+    "djvu_ok": 10584,
+    "djvu_pending": 17773,
     "no_text": 0,
     "topics_assigned": 0
   }
