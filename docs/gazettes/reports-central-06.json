@@ -57115,7 +57115,8 @@
       "ia_identifier": "in.gazette.central.e.2024-02-15.252224",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2024-02-15/252224.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-15.252224/252224_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2024-02-15.252162",
@@ -57884,7 +57885,8 @@
       "ia_identifier": "in.gazette.central.e.2024-02-14.252117",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2024-02-14/252117.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-14.252117/252117_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2024-02-14.252116",
@@ -57907,7 +57909,8 @@
       "ia_identifier": "in.gazette.central.e.2024-02-14.252116",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2024-02-14/252116.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-14.252116/252116_djvu.txt"
     }
   ],
   "count": 2500,
