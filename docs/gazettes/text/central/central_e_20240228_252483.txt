@@ -1,0 +1,1024 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+LISTUA 
+
+
+Che Gazette of Jndia 
+
+
+सी.जी.-जे.के.-अ.-29022024-252483 
+CG-JK-E-29022024-252483 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग पा--खण्ड 4 
+PART 11--8€टांणा 4 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+सं. 128] नई दिल्ली, बुधवार, फरवरी 28, 2024/फाल्गुन 9, 1945 
+No. 128] NEW DELHI, WEDNESDAY, FEBRUARY 28, 2024/PHALGUNA 9, 1945 
+संयुक्त विद्युत विनियामक आयोग 
+
+
+(केंद्र शासित प्रदेश जम्मू और कश्मीर व केंद्र शासित प्रदेश लद्दाख) 
+अधिसूचना 
+
+
+जम्मू, 12 फरवरी, 2024 
+क्रमांक जेईआरसी-जेकेएल/रेग/2024/7.--विद्युत अधिनियम, 2003 (2003 का 36) की धारा 86 (1) (=) के साथ 
+
+
+पठित धारा 181 द्वारा प्रदत्त शक्तियों और इस संबंध में इसे सक्षम करने वाली अन्य सभी शक्तियों का प्रयोग करते हुए, संयुक्त 
+
+
+विद्युत विनियामक आयोग केंद्र शासित प्रदेश जम्मू और कश्मीर व केंद्र शासित प्रदेश लद्दाख एतद द्वारा नवीकरणीय ऊर्जा स्रोतों 
+से बिजली उत्पादन के विकास और वितरण लाइसेंसधारी द्वारा नवीकरणीय स्रोतों से ऊर्जा की खरीद के लिए निम्नलिखित 
+विनियम बनाता है। 
+
+
+1. संक्षिप्त शीर्षक, प्रारंभ और आवेदन की सीमा: 
+
+1.1.इन विनियमों को संयुक्त विद्युत विनियामक आयोग केंद्र शासित प्रदेश जम्मू और कश्मीर व केंद्र शासित प्रदेश लद्दाख (स्मार्ट 
+ग्रिड) विनियम, 2024 कहा जाएगा। 
+
+1.2.ये नियम आधिकारिक राजपत्र में उनके प्रकाशन की तिथि से लागू होंगे। 
+
+1.3.ये नियम पूरे केंद्र शासित प्रदेश जम्मू और कश्मीर व केंद्र शासित प्रदेश लद्दाख पर लागू होंगे। 
+
+2. परिभाषाएँ 
+
+2.1.इन विनियमों में, जब तक कि संदर्भ से अन्यथा अपेक्षित न हो: 
+
+
+1376 01/2024 (1) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+(7) "अधिनियम" का अर्थ विद्युत अधिनियम, 2003 (2003 का 36) और उसके बाद के संशोधन हैं। 
+
+(ख) “उन्नत मीटर्रिंग इन्फ्रास्ट्रक्चर (एएमआई)” सहित "एडवांस्ड मीटर्रिंग इंफ्रास्ट्रलूचर (एएमआई)" का अर्थ है वितरण 
+लाइसेंसधारी को उपभोक्ताओं से वास्तविक समय की खपत डेटा को सटीक रूप से एकत्र करने, निगरानी करने और 
+विश्लेषण करने, उपभोक्ताओं को मूल्य संकेतों को संचारित करने और जहां अनुमत भार नियंत्रित किया जाता है, को 
+सक्षम करने के लिए एक आवश्यक बुनियादी ढांचा; 
+
+(ग) "एग्रीगेटर" एक नियंत्रण क्षेत्र के भीतर मांग प्रतिक्रिया तंत्र, वितरित उत्पादन, ऊर्जा भंडारण, आदि के तहत मांग 
+प्रतिक्रिया सेवाओं जैसी एक या अधिक सेवाओं का एकत्रीकरण प्रदान करने के लिए वितरण लाइसेंसधारी के साथ 
+पंजीकृत एक इकाई है; 
+
+(घ) "ब्यूरो" का अर्थ भारतीय मानक ब्यूरो अधिनियम, 2016 की धारा 3 के तहत स्थापित भारतीय मानक ब्यूरो 
+(बीआईएस) है; 
+
+(=) "केंद्रीय विद्युत प्राधिकरण (सीईए)" का अर्थ अधिनियम की धारा 70 की उपधारा (1) F निर्दिष्ट प्राधिकरण है; 
+
+(च) "आयोग" का अर्थ है संयुक्त विद्युत विनियामक आयोग केंद्र शासित प्रदेश जम्मू और कश्मीर व केंद्र शासित प्रदेश लद्दाख; 
+
+(छ) "साइबर सुरक्षा" का अर्थ है सूचना, उपकरण, यंत्र, कंप्यूटर, कंप्यूटर संसाधन, नेटवर्क, प्रोग्राम, डेटा, संचार उपकरण 
+और उसमें संग्रहीत जानकारी को अनधिकृत या अनपेक्षित पहुंच, उपयोग, प्रकटीकरण, व्यवधान, संशोधन या विनाश से 
+बचाना; 
+
+(ज) "वितरित उत्पादन" का अर्थ है उपभोग के बिंदु पर बिजली उत्पादन; 
+
+(a) "वितरण लाइसेंसधारी" का अर्थ अपने आपूर्ति क्षेत्र में उपभोक्ताओं को बिजली की आपूर्ति के लिए वितरण प्रणाली को 
+संचालित करने और बनाए रखने के लिए अधिकृत लाइसेंसधारी है। इस परिभाषा में मानित वितरण लाइसेंसधारियों 
+और वितरण लाइसेंस प्राप्त करने से छूट प्राप्त लोगों को शामिल किया गया है; 
+
+(ज) "इलेक्ट्रिक ऊर्जा भंडारण" का अर्थ हैं प्रौद्योगिकियों का एक सेट जो पहले उत्पन्न ऊर्जा को संग्रहीत करने और बाद में 
+ग्रिड में बिजली प्रवाहित करने के लिए ऊर्जा जारी करने में सक्षम है। विद्युत भंडारण प्रौद्योगिकियाँ ऊर्जा को संभावित, 
+गतिज, रासायनिक या तापीय ऊर्जा के रूप में संग्रहीत कर सकती हैं, और इसमें विभिन्न प्रकार की बैटरी, फ्लाईव्हील, 
+इलेक्ट्रोकेमिकल, कैपेसिटर, संपीड़ित वायु भंडारण, थर्मल भंडारण उपकरण और पंप जलविद्युत शक्ति शामिल हैं और 
+बिजली उत्पन्न करने में सक्षम हैं; 
+
+(ट) "इंटरऑपरेबिलिटी" का अर्थ कार्यात्मक लक्ष्य प्राप्त करने के लिए दो प्रणालियों या सॉफ्टवेयर घटकों के बीच एकीकरण 
+में आसानी का माप है; 
+
+(5) "मुख्य प्रदर्शन संकेतक (केपीआई)" अपनी सफलता का मूल्यांकन करने के लिए, या किसी विशेष गतिविधि के परिणाम 
+का मूल्यांकन करने के लिए एक प्रकार का प्रदर्शन माप है जिसमें वह कार्यरत है; 
+
+(ड) "माइक्रोग्रिड" एक बुद्धिमान बिजली वितरण प्रणाली है जो मुख्य ग्रिड के संबंध में एकल नियंत्रणीय इकाई के रूप में 
+कार्य करने के लिए स्पष्ट रूप से परिभाषित विद्युत सीमाओं के भीतर भार, वितरित ऊर्जा संसाधनों और भंडारण को 
+आपस में जोड़ती है। एक माइक्रोग्रिड प्रणाली की वितरित आपूर्ति और मांग संसाधनों को नियंत्रित और समन्वित तरीके 
+से संचालित करने के लिए सूचना, संचार और नियंत्रण प्रौद्योगिकियों का उपयोग करता है, चाहे वह मुख्य ग्रिड से जुड़ा 
+हो या अलग हो। एक माइक्रोग्रिड ग्रिड से कनेक्ट और डिस्कनेक्ट हो सकता है ताकि यह ग्रिड-कनेक्टेड या आइलैंड मोड 
+दोनों में काम कर सके; 
+
+(ढ) "प्रोज्यूमर" का अर्थ एक उपभोक्ता है जो ग्रिड से बिजली का उपभोग करता है और आपूर्ति के समान बिंदु का उपयोग 
+करके वितरण लाइसेंसधारी के लिए ग्रिड में बिजली प्रवाहित कर सकता है; 
+
+(ण) "स्मार्ट ग्रिड" एक बिजली नेटवर्क है जो इससे जुड़े सभी उपयोगकर्ताओं के व्यवहार और कार्यों को लागत-कुशलता से 
+एकीकृत कर सकता है - जनरेटर, उपभोक्ता, और वे जो कम नुकसान और उच्च स्तर की गुणवत्ता और आपूर्ति और सुरक्षा 
+के साथ आर्थिक रूप से कुशल, टिकाऊ बिजली प्रणालियों को सुनिश्चित करने के लिए दोनों करते हैं। 
+
+(a) "स्मार्ट मीटर" का अर्थ आईएस 16444 में निर्दिष्ट और समय-समय पर संशोधित मीटर है; 
+
+
+[भाग पा---खण्ड 4] भारत का राजपत्र : असाधारण 3 
+
+
+(थ) “args एरिया मेजरमेंट सिस्टम (डब्ल्यूएएमएस)" एक उन्नत माप प्रौद्योगिकी, सूचना उपकरण और परिचालन 
+बुनियादी ढांचा है जो सुरक्षित और विश्वसनीय ग्रिड संचालन के लिए सिस्टम ऑपरेटर की "स्थितिजन्य जागरूकता" को 
+बढ़ाने हे लिए बड़ी बिजली प्रणालियों द्वारा प्रदर्शित बढ़ते जटिल व्यवहार की समझ और प्रबंधन की सुविधा प्रदान 
+करता है। 
+
+2.2.इस विनियमन में प्रयुक्त और परिभाषित नहीं किए गए लेकिन अधिनियम में परिभाषित शब्दों और अभिव्यक्तियों के वही 
+अर्थ होंगे जो उन्हें अधिनियम में दिए गए हैं। 
+3. स्मार्ट ग्रिड उद्देश्य 
+3.1. इस विनियमन का उद्देश्य अर्थव्यवस्था, उत्पादन, पारेषण और वितरण लाइसेंसधारी संचालन में दक्षता में सुधार लाने के 
+लिए विभिन्न स्मार्ट ग्रिड प्रौद्योगिकियों और उपायों के एकीकरण को सक्षम करना, पारेषण और वितरण नेटवर्क को प्रभावी 
+ढंग से प्रबंधित करना, नेटवर्क सुरक्षा बढ़ाना, नवीकरणीय और स्वच्छ ऊर्जा को ग्रिड और माइक्रो ग्रिड में एकीकृत करना है। 
+3.2. उद्देश्यों में नेटवर्क दृश्यता और पहुंच को बढ़ाना, इष्टतम परिसंपत्ति उपयोग को बढ़ावा देना और उपभोक्ता सेवा के स्तर में 
+
+
+सुधार करना जिससे बिजली क्षेत्र और विशेष रूप से पारेषण और वितरण खंडों में मूल्य श्रृंखला में अधिक प्रौद्योगिकी 
+अपनाने के माध्यम से पारेषण लाइसेंसधारियों और वितरण लाइसेंसधारियों के संचालन में भागीदारी की अनुमति मिल 
+सके शामिल है। 
+
+
+4. स्मार्ट ग्रिड प्रक्रिया 
+
+4.1. स्मार्ट ग्रिड प्रक्रिया में निम्नलिखित गतिविधियाँ शामिल होंगी, लेकिन इन्हीं तक सीमित नहीं होंगी: 
+(क) स्मार्ट ग्रिड कार्यक्रमों का निर्माण; 
+(ख) स्मार्ट ग्रिड कार्यक्रमों का कार्यान्वयन: 
+(ग) स्मार्ट ग्रिड कार्यक्रमों की लागत प्रभावशीलता का आकलन: 
+(घ) स्मार्ट ग्रिड योजनाओं और कार्यक्रमों की निगरानी और रिपोर्टिंग; 
+(ड) स्मार्ट ग्रिड कार्यक्रमों के लिए अपेक्षित शर्तें; 
+(च) ग्राहक सहभागिता और भागीदारी; 
+(छ) ग्राहक डेटा सुरक्षा; 
+(ज) प्रशिक्षण और क्षमता निर्माण; 
+
+(A) स्मार्ट ग्रिड योजना और फंडिंग स्तर निर्धारित करने की पद्धति; 
+
+(ज) डेटाबेस विकास ढांचा और सूचना प्रणाली आवश्यकताएँ; 
+
+
+5. स्मार्ट ग्रिड सेल का गठन, इसकी भूमिकाएं और कार्य जिम्मेदारियां 
+
+5.1.प्रत्येक पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी को इस विनियमन की अधिसूचना के तीन (3) महीने के भीतर एक 
+स्मार्ट ग्रिड सेल का गठन करना होगा। 
+
+5.2.इस प्रकार गठित स्मार्ट ग्रिड सेल के पास इस विनियम के तहत सौंपे गए कार्यों को निष्पादित करने के लिए प्राधिकार और 
+आवश्यक संसाधन हों। 
+
+5.3.स्मार्ट ग्रिड सेल निम्नलिखित के लिए जिम्मेदार होगा; 
+(क) डेटा का आधारभूत अध्ययन और विकास; 
+(ख) स्मार्ट ग्रिड योजनाओं, कार्यक्रमों और परियोजनाओं का निर्माण; 
+(ग) लागत-लाभ विश्लेषण, कार्यान्वयन की योजना, निगरानी और रिपोर्टिंग, और माप और सत्यापन सहित स्मार्ट ग्रिड 
+
+परियोजनाओं का डिजाइन और विकास; 
+
+(घ) स्मार्ट ग्रिड योजनाओं, कार्यक्रमों और परियोजनाओं के लिए आवश्यक अनुमोदन मांगना; 
+(ड) स्मार्ट ग्रिड कार्यक्रमों का कार्यान्वयन; 
+(च) कोई अन्य अतिरिक्त कार्य जो आयोग द्वारा समय-समय पर सौंपा जा सकता है; 
+
+5.4.पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी एक ही सेल के भीतर ऊर्जा दक्षता, मांग पक्ष प्रबंधन और स्मार्ट ग्रिड 
+कार्यान्वयन से संबंधित गतिविधियों को जोड़ सकते हैं। 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+6. डेटा का आधारभूत अध्ययन और विकास 
+
+6.1.पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी स्मार्ट ग्रिड परियोजना कार्यक्रमों के लक्ष्यों और अंतिम परिणामों की 
+पहचान करने के लिए एक आधारभूत अध्ययन करेंगे। पारेषण लाइसेंसधारी, और वितरण लाइसेंसधारी भी आवश्यक 
+डेटाबेस का निर्माण करेंगे। 
+
+6.2.पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी विशिष्ट दक्षता प्रौद्योगिकियों और अनुप्रयोगों के रोजगार की क्षमता का 
+अनुमान लगाने, प्रमुख प्रदर्शन संकेतक स्थापित करने और मौजूदा आधारभूत तकनीकी स्थितियों का निर्धारण करने के लिए 
+एक अध्ययन करेंगे। 
+
+6.3.बेसलाइन अध्ययन के परिणामों के आधार पर, पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी अपने आपूर्ति क्षेत्र के लिए 
+एक स्मार्ट ग्रिड कार्यक्रम विकसित करेंगे। 
+
+7. स्मार्ट ग्रिड योजना, कार्यक्रम, परियोजना का निर्माण 
+
+7.1.पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी को आयोग के अनुमोदन के लिए बहु-वर्षीय टैरिफ याचिका या एआरआर 
+याचिका के साथ अपने संबंधित लाइसेंस क्षेत्रों के लिए आवश्यक स्मार्ट ग्रिड योजना प्रस्तुत करनी होगी। 
+
+7.2.स्मार्ट ग्रिड परियोजनाओं के लिए पूंजी निवेश की मंजूरी हेतु आवेदन लागू एमवाईटी विनियमों के तहत उल्लिखित 
+प्रावधानों के अनुसार लाइसेंसधारियों द्वारा आयोग को प्रस्तुत किया जाए। 
+
+7.3.स्मार्ट ग्रिड परियोजनाओं के प्रस्ताव में निम्नलिखित शामिल होंगे: 
+(क) विस्तृत परियोजना रिपोर्ट: 
+(ख) ग्राहक सहभागिता और भागीदारी योजना, जैसा लागू हो: 
+(ग) प्रशिक्षण और क्षमता निर्माण योजना; और 
+(घ) कोई अन्य जानकारी जो आयोग द्वारा समय-समय पर निर्धारित की जा सकती है। 
+
+7.4.बशर्ते कि विस्तृत परियोजना रिपोर्ट में परियोजना के उद्देश्य और परियोजना के औचित्य का विवरण, तकनीकी व्यवहार्यता 
+अध्ययन, अनुमानित वित्तीय निहितार्थ, लक्ष्य हितधारक, प्रकृति में गुणात्मक और मात्रात्मक सभी लागतों का विवरण देने 
+वाला विस्तृत लागत-लाभ विश्लेषण, आयोग द्वारा जारी लागत-प्रभावशीलता दिशानिर्देशों के अनुरूप परियोजना का 
+मूल्यांकन,लागत की वसूली के लिए प्रस्तावित तंत्र, वितरण रणनीति, कार्यान्वयन तंत्र, कार्यान्वयन अनुसूची, प्रदर्शन 
+प्रोत्साहन यदि कोई हो, निगरानी और मूल्यांकन योजना, हितधारकों के बीच जागरूकता बढ़ाने की योजना शामिल होगी। 
+
+7.5.आयोग लाइसेंस द्वारा प्रस्तुत विशिष्ट योजना के आधार पर, लाइसेंसधारी की कुल राजस्व अपेक्षाओं, यदि कोई हो, में स्मार्ट 
+ग्रिड परियोजनाओं के क्षेत्र में अनुसंधान और विकास गतिविधियों के प्रावधानों के निर्माण की अनुमति देगा। लाइसेंसधारी 
+2९५५ आयोग की मंजूरी के बाद लाइसेंसधारियों द्वारा की गई गतिविधियों पर एक विस्तृत रिपोर्ट प्रस्तुत करना आवश्यक 
+
+| 
+
+7.6.स्मार्ट ग्रिड परियोजनाओं के सांकेतिक घटकों की सूची इस प्रकार है: 
+(क) उन्नत मीटरिंग इंफ्रास्ट्रक्चर (एएमआई); 
+
+ख) मांग प्रतिक्रिया; 
+
+ग) माइक्रो-ग्रिड; 
+
+a) वितरण स्काडा/वितरण प्रबंधन; 
+
+) वितरित उत्पादन; 
+
+च) पीक लोड प्रबंधन; 
+
+छ) आउटेज प्रबंधन; 
+
+ज) परिसंपत्ति प्रबंधन; 
+
+झ) विस्तृत क्षेत्र मापन प्रणालियाँ; 
+
+ञ) ऊर्जा भंडारण परियोजनाएं; 
+
+ट) नवीकरणीय ऊर्जा का ग्रिड एकीकरण; 
+
+3) ग्रिड से वाहन (जी2वी) और वाहन से ग्रिड (वी2जी) इंटरैक्शन सहित इलेक्ट्रिक वाहन; 
+
+ड) स्मार्ट ग्रिड डेटा संग्रह और विश्लेषण; 
+
+
+डः 
+
+
+( 
+( 
+( 
+( 
+( 
+( 
+( 
+( 
+( 
+( 
+( 
+( 
+
+
+[भाग पा--खण्ड 4] भारत का राजपत्र : असाधारण 5 
+
+
+(ढ) टैरिफ तंत्र जिसमें व्यवधानशील और गतिशील टैरिफ, उपयोग का समय, महत्वपूर्ण पीक मूल्य निर्धारण, वास्तविक 
+समय मूल्य निर्धारण आदि शामिल हैं। 
+
+
+8. स्मार्ट ग्रिड योजना, कार्यक्रम, परियोजना दस्तावेज का अनुमोदन 
+
+8.1 यदि यह इस विनियमन के खंड 3 में निर्धारित उद्देश्यों के अनुरूप है तो आयोग एक स्मार्ट ग्रिड कार्यक्रम या परियोजना को 
+मंजूरी देगा। 
+
+8.2 पारेषण लाइसेंसधारी, वितरण लाइसेंसधारी द्वारा प्रस्तुत प्रस्ताव की जांच के लिए आयोग ऐसे विशेषज्ञों की सहायता और 
+सलाह ले सकता है जैसा वह आवश्यक समझे। 
+
+8.3 प्रस्तावों को मंजूरी देते समय आयोग, कार्यक्रम और परियोजना से संबंधित लागतों, यदि कोई हो, की पहचान कर सकता है 
+और ऐसी लागतों की वसूली के लिए पद्धति, कार्यविधि और प्रक्रिया तय कर सकता है। 
+
+
+बशर्ते कि आयोग परियोजना के अवधि के दौरान निष्पादन, कार्यान्वयन और प्रदर्शन से जुड़े पारेषण लाइसेंसधारी और 
+वितरण लाइसेंसधारी के लिए प्रोत्साहन/हतोत्साहन तंत्र प्रदान कर सकता है। स्मार्ट ग्रिड कार्यक्रमों में सक्रिय और प्रभावी 
+भागीदारी को प्रोत्साहित करने के लिए आयोग भाग लेने वाले उपभोक्ताओं को वित्तीय प्रोत्साहन/हतोत्साहन भी निर्दिष्ट कर 
+सकता है। 
+बशर्ते कि समग्र उद्देश्यों के साथ इसकी स्थिरता सुनिश्चित करने के लिए आयोग प्रस्ताव को उचित समझे जाने पर उसे 
+संशोधित कर सकता है। 
+
+9. स्मार्ट ग्रिड कार्यक्रमों, परियोजना का निष्पादन 
+
+9.1 पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी आयोग द्वारा दिए गए अनुमोदन और समय-समय पर आयोग द्वारा 
+
+जारी किए गए अन्य निर्देशों के अनुरूप परियोजना और कार्यक्रम का निष्पादन करेंगे। 
+
+
+9.2 पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी को आमतौर पर सीईए द्वारा अधिसूचित विनियमों के अनुसार सिस्टम 
+मानकों को अपनाना होगा। 
+
+
+ऐसे मामलों में जहां सीईए द्वारा कोई मानक या नियम अधिसूचित नहीं किए गए हैं, आयोग द्वारा अधिसूचित उचित 
+मानक और नियम लागू होंगे। 
+नेटवर्क, संचार, उत्पाद, अंतरसंचालनीयता और साइबर सुरक्षा के संबंध में, बीआईएस या ऐसे उपयुक्त प्राधिकारी द्वारा 
+प्रदान किए गए मानकों को अपनाया जाएगा। जहां ये मानक अभी तक लागू नहीं हैं, वहां प्रासंगिक 
+आईईसी/आईईईई/एएनएसआई मानकों का उसी क्रम में पालन किया जाएगा; 
+
+9.3 आयोग द्वारा अधिसूचित प्रदर्शन के मानकों (एसओपी) से संबंधित विनियम लागू होंगे। 
+पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी के प्रदर्शन को प्रोत्साहित/दंडित करने के लिए स्मार्ट ग्रिड परियोजनाओं 
+के प्रदर्शन का आकलन किया जाएगा। 
+
+
+आयोग स्मार्ट ग्रिड प्रदर्शन मानकों और प्रस्तावित लाभों के अनुपालन को अधिकतम करने और सुनिश्चित करने के लिए 
+प्रदर्शन के अतिरिक्त मानकों के कार्यान्वयन को निर्दिष्ट और अपेक्षित कर सकता SI 
+
+
+94 पारेषण लाइसेंसधारी, वितरण लाइसेंसधारी और स्मार्ट ग्रिड कार्यक्रमों और परियोजनाओं के कार्यान्वयन के लिए 
+जिम्मेदार अन्य एजेंसियां यह सुनिश्चित करेंगी कि उपभोक्ता डेटा और उपभोक्ता गोपनीयता की सुरक्षा को सर्वोच्च 
+प्राथमिकता दी जाए। 
+
+10. लागत वसूली के लिए तंत्र 
+
+10.1 पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी कार्यक्रमों की योजना, डिजाइन और कार्यान्वयन से जुड़ी निवल 
+वृद्धिशील लागत, यदि कोई हो, की पहचान करेंगे। 
+
+10.2 पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी टैरिफ या किसी अन्य तंत्र के माध्यम से निवल वृद्धिशील लागत की 
+वसूली के लिए किसी पद्धति का प्रस्ताव कर सकते हैं। 
+
+10.3 लागत वसूली के लिए ASAT IT करने के लिए, प्रत्येक कार्यक्रम को निम्नलिखित होना चाहिए: 
+
+(क) कार्यान्वयन से पहले अनुमोदित; और 
+(ख) अनुमोदित कार्यक्रम योजना के अनुसार कार्यान्वित; 
+10.4 आयोग विवेकपूर्ण जांच के अधीन कुल राजस्व अपेक्षाओं (एआरआर) में ऐसे व्यय की वसूली की अनुमति देगा। 
+
+
+6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+11. स्मार्ट ग्रिड कार्यक्रम, परियोजना समापन रिपोर्ट 
+
+11.1 पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी एक विस्तृत कार्यक्रम और परियोजना समापन रिपोर्ट तैयार करेंगे और 
+ऐसे कार्यक्रम के पूरा होने के एक (1) महीने के भीतर आयोग को प्रस्तुत करेंगे। 
+
+11.2 रिपोर्ट में कार्यक्रम, परियोजना व्यय, भौतिक उपलब्धियाँ, बाधाएँ और कठिनाइयाँ, और विचलन, यदि कोई हो, शामिल 
+होंगे। 
+
+11.3 पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी अपनी वेबसाइट के माध्यम से पूर्णता रिपोर्ट सार्वजनिक डोमेन पर 
+प्रस्तुत करेंगे। 
+
+12. स्मार्ट ग्रिड कार्यक्रम, परियोजना के निष्पादन और प्रदर्शन की निगरानी, मूल्यांकन, मापन और सत्यापन। 
+
+12.1 स्मार्ट ग्रिड कार्यक्रम, परियोजना की निगरानी और मूल्यांकन प्रत्येक व्यक्तिगत कार्यक्रम और परियोजनाओं के लिए 
+पहचाने गए उपयुक्त मापन और सत्यापन प्रोटोकॉल का उपयोग करके आयोग द्वारा तय किए गए प्रमुख प्रदर्शन संकेतक 
+(केपीआई) सहित उचित पद्धति के आधार पर किया जाएगा। 
+
+12.2 पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी भी आयोग को एक मूल्यांकन रिपोर्ट प्रस्तुत करेंगे, जिसमें अन्य बातों के 
+साथ-साथ परिणाम, लाभ, सीखे गए सबक और आगे की योजना शामिल होगी। 
+
+
+13. जागरूकता एवं क्षमता निर्माण 
+
+13.1. स्मार्ट ग्रिड कार्यक्रमों के विकास चरण में, ग्राहक/उपभोक्ता शिक्षा और आउटरीच की महत्वपूर्ण आवश्यकताएं 
+होंगी।पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी प्रत्येक स्मार्ट ग्रिड परियोजना के लिए परियोजना लागत का 1% 
+उपभोक्ता जागरूकता और क्षमता निर्माण के लिए निर्धारित करेंगे। 
+
+13.2. विस्तृत परियोजना रिपोर्ट के भाग के रूप में, पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी एक स्पष्ट आंतरिक और 
+बाह्य संचार रणनीति को परिभाषित करेंगे जो महत्वपूर्ण संचार अपेक्षाओं की पहचान करती है और उन्हें प्रमुख 
+परियोजना घटकों से जोड़ती है।यदि आवश्यक हो तो आयोग परियोजना प्रस्तावों को अस्वीकार कर सकता है या संचार 
+रणनीति में संशोधन की अपेक्षा कर सकता है। 
+
+
+14. स्मार्ट ग्रिड से संबंधित सुरक्षा एवं मानक 
+
+14.1. सिस्टम मानक: पारेषण लाइसेंसधारी और वितरण लाइसेंसधारी को आमतौर पर सीईए द्वारा अधिसूचित विनियमों के 
+अनुसार सिस्टम मानकों को अपनाना होगा। जहां सीईए या बीआईएस मानक अभी तक लागू नहीं हैं, वहां प्रासंगिक 
+आईईसी/आईईईई/एएनएसआई मानकों का उसी क्रम में पालन किया जाना चाहिए। ऐसे मामलों में जहां सीईए द्वारा 
+कोई मानक या नियम अधिसूचित नहीं किए गए हैं, उचित आयोग द्वारा अधिसूचित उचित मानक और नियम लागू होंगे। 
+
+14.2. नेटवर्क और संचार मानक: नेटवर्क, संचार और उत्पादों के संबंध में, बीआईएस या ऐसे उपयुक्त प्राधिकारी द्वारा प्रदान 
+किए गए मानकों को अपनाया जाएगा। 
+जहां ये मानक अभी तक लागू नहीं हैं, वहां प्रासंगिक आईईसी/आईईईई/एएनएसआई मानकों का उसी क्रम में पालन किया 
+जाना चाहिए। 
+
+14.3. उत्पाद मानक: जहां उपलब्ध हो वहां स्मार्ट ग्रिड से संबंधित सभी उपकरणों और प्रौद्योगिकी के लिए बीआईएस मानकों 
+का अनुपालन किया जाना चाहिए। 
+जहां बीआईएस मानक अभी तक लागू नहीं हैं, वहां प्रासंगिक आईईसी/आईईईई/एएनएसआई मानकों का उसी क्रम में 
+पालन किया जाना चाहिए। 
+
+14.4. प्रदर्शन मानक: लागू सीमा तक, स्मार्ट ग्रिड परियोजनाओं के प्रदर्शन का आकलन करने के लिए प्रदर्शन विनियमन के 
+मानक लागू होंगे। आयोग लाभों को अधिकतम करने और प्रस्तावित स्मार्ट ग्रिड निवेशों का अनुपालन सुनिश्चित करने के 
+लिए प्रदर्शन के अतिरिक्त मानकों के कार्यान्वयन को निर्दिष्ट और अपेक्षित कर सकता है। 
+स्मार्ट ग्रिड परियोजना कार्यान्वयन क्षेत्र में प्रदर्शन के सभी मानकों को मापन, विज़ुअलाइज़ेशन और विश्लेषण सुविधाओं के 
+माध्यम से मापा जाएगा जो स्मार्ट ग्रिड परियोजना डिजाइन का एक अभिन्न अंग होने के लिए आवश्यक हैं। 
+आदेश के माध्यम से, आयोग को विशिष्ट रिपोर्टिंग व्यवस्था लागू करने और अपेक्षित मानकों के विरुद्ध वास्तविक प्रदर्शन 
+पर आयोग को समय-समय पर रिपोर्ट प्रस्तुत करने की आवश्यकता हो सकती है। 
+
+
+[भाग व---खण्ड 4] भारत का राजपत्र : असाधारण हैं 
+
+
+14.5. उपभोक्ता डेटा सुरक्षा मानक: पारेषण लाइसेंसधारी, वितरण लाइसेंसधारी और स्मार्ट ग्रिड परियोजनाओं/कार्यक्रमों के 
+अन्य कार्यान्वयनकर्ता यह सुनिश्चित करेंगे कि स्मार्ट ग्रिड परियोजनाओं और संबंधित निवेश योजनाओं के डिजाइन में 
+उपभोक्ता गोपनीयता की सुरक्षा को सर्वोच्च स्तर की प्राथमिकता दी जाए। 
+उपभोक्ता डेटा को एन्क्रिप्शन और एक्सेस नियंत्रण के उचित स्तरों के माध्यम से संरक्षित किया जाए और आमतौर पर 
+आयोग के स्पष्ट प्राधिकरण के बिना या वैधानिक अधिकारियों या कानून की अदालतों द्वारा अपेक्षित होने तक बाहरी 
+एजेंसियों के साथ साझा नहीं किया जाएगा। 
+
+14.6. परीक्षण और प्रमाणन: आयोग को लाइसेंसधारी को स्थापित स्मार्ट ग्रिड उपकरण के लिए राष्ट्रीय स्‍तर पर नामित नोडल 
+प्राधिकारी से विशिष्ट मानकों के अनुपालन का प्रमाण पत्र प्रदान करने की आवश्यकता हो सकती है। 
+
+
+15. संशोधन करने की शक्ति 
+
+15.1. आयोग, किसी भी समय इस विनियमन के किसी भी प्रावधान को जोड़, बदल, परिवर्तित, संशोधित या सुधारा जा सकता 
+है। 
+
+16. निर्देश देने की शक्ति 
+
+
+16.1. आयोग, समय-समय पर, विनियमों और पालन की जाने वाली प्रक्रियाओं के कार्यान्वयन के संबंध में आदेश और अभ्यास 
+निर्देश जारी कर सकता है। 
+
+
+17. ढील देने की शक्ति - 
+आयोग, सामान्य या विशेष आदेश द्वारा, कारणों को लिखित रूप में दर्ज करके, और छूट दिए जाने से प्रभावित होने वाले 
+
+
+संभावित पक्षों को सुनवाई का अवसर प्रदान करने के बाद, इन विनियमों के किसी भी प्रावधान को स्वप्रेरणा से या किसी 
+इच्छुक व्यक्ति द्वारा उसके समक्ष किए गए आवेदन पर ढील दे सकता है। 
+
+
+18. कठिनाइयों को दूर करने की शक्ति 
+यदि इन विनियमों के प्रावधानों को प्रभावी करने में कोई कठिनाई उत्पन्न होती है, तो आयोग, सामान्य या विशिष्ट आदेश 
+
+
+द्वारा, ऐसे प्रावधान बना सकता है जो अधिनियम के प्रावधानों के साथ असंगत न हों जो ऐसी कठिनाई को दूर करने के 
+लिए आवश्यक प्रतीत हों। 
+आयोग के आदेश द्वारा। 
+
+
+वी. के. धर, सचिव 
+[विज्ञापन-ा/4/असा./782/2023-24] 
+
+
+JOINT ELECTRICITY REGULATORY COMMISSION 
+(For the UT of J&K and the UT of Ladakh) 
+
+
+NOTIFICATION 
+Jammu, the 12th February, 2024 
+
+
+No. JERC-JKL/Reg/2024/7.—In exercise of powers conferred under sections 86 (1) (०) and 181 of the 
+Electricity Act, 2003 and all powers enabling it in this behalf, the Joint Electricity Regulatory Commission for the UT 
+of Jammu & Kashmir and the UT of Ladakh hereby makes the following regulations for the development of power 
+generation from renewable energy sources and for procurement of energy from renewable sources by distribution 
+licensee. 
+
+
+1. Short title, commencement, and extent of application: 
+
+1.1. These regulations shall be called the Joint Electricity Regulatory Commission for the UT of Jammu & 
+Kashmir and the UT of Ladakh (Smart Grid) Regulations, 2024. 
+
+1.2... These regulations shall come into force from the date of their publication in the official gazette. 
+
+1.3. These regulations shall apply to the whole of the UT of Jammu & Kashmir and the UT of Ladakh. 
+
+
+2. Definition 
+2.1 गा these Regulations, unless the context otherwise requires: 
+(a) “Act” means the Electricity Act, 2003 (36 of 2003) and subsequent amendments thereof. 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+3.2 
+
+
+(b) 
+
+
+(c) 
+
+
+(d) 
+
+
+(e) 
+
+
+(f) 
+
+
+(g) 
+
+
+(h) 
+(i) 
+
+
+Q) 
+
+
+(k) 
+
+
+(1) 
+
+
+(m 
+
+
+ma 
+
+
+(n) 
+
+
+(0) 
+
+
+(p) 
+(q) 
+
+
+“Advanced Metering Infrastructure (AMI)” including ‘Smart Meters’ means the infrastructure required to 
+enable the distribution licensee to accurately collect, monitor, and analyze real-time consumption data from 
+consumers, communicate price signals to consumers and where permitted loads are controlled; 
+
+
+“Aggregator” is an entity registered with the distribution licensee to provide aggregation of one or more of 
+the services like demand response services under the demand response mechanism, Distributed Generation, 
+Energy Storage, etc. within a control area; 
+
+
+“Bureau” means Bureau of Indian Standards (BIS) established under section 3 of the Bureau of Indian 
+Standards Act, 2016; 
+
+
+“Central Electricity Authority (CEA)” means the Authority referred to in sub-section (1) of Section 70 of 
+the Act; 
+
+
+“Commission” means the Joint Electricity Regulatory Commission for the UT of Jammu & Kashmir and the 
+UT of Ladakh; 
+
+“Cyber Security” means protecting information, equipment, devices, computers, computer resources, 
+networks, programmes, data, communication devices, and information stored therein from unauthorized or 
+unintended access, use, disclosure, disruption, modification, or destruction; 
+
+
+“Distributed Generation” means power generation at the point of consumption; 
+
+
+“Distribution Licensee” means a licensee authorized to operate and maintain a distribution system for 
+supplying electricity to the consumers in his area of supply. This definition covers deemed distribution 
+licensees and those exempted from obtaining distribution licenses; 
+
+
+“Electric Energy Storage” means a set of technologies capable of storing previously generated energy and 
+releasing energy at a later time to feed electricity into the grid. Electric storage technologies may store energy 
+as potential, kinetic, chemical, or thermal energy, and include various types of batteries, flywheels, 
+electrochemical, capacitors, compressed air storage, thermal storage devices, and pumped hydroelectric 
+power and able to generate electricity; 
+
+
+“Interoperability” means the measure of ease of integration between two systems or software components 
+to achieve a functional goal; 
+
+
+“Key Performance Indicator (KPI)” is a type of performance measurement to evaluate its success, or to 
+evaluate the outcome of a particular activity in which it is engaged; 
+
+
+“Microgrid” is an intelligent electricity distribution system that interconnects loads, distributed energy 
+resources, and storage within clearly defined electrical boundaries to act as a single controllable entity with 
+respect to the main grid. A microgrid uses information, communications, and control technologies to operate 
+the system’s distributed supply and demand resources in a controlled and coordinated way either while 
+connected to the main grid or while islanded. A microgrid can connect and disconnect from the grid to enable 
+it to operate in both grid-connected or island mode; 
+
+
+“Prosumer” means a consumer who consumes electricity from the grid and can also inject electricity into the 
+grid for distribution licensee, using the same point of supply; 
+
+
+“Smart Grid” is an electricity network that can cost-efficiently integrate the behaviour and actions of all 
+users connected to it - generators, consumers, and those that do both in order to ensure economically 
+efficient, sustainable power systems with low losses and high levels of quality and security of supply and 
+safety. 
+
+“Smart Meter” means a meter as specified in IS16444 and as amended from time to time; 
+
+
+“Wide Area Measurement Systems (WAMS)” is advanced measurement technology, information tools, 
+and operational infrastructure that facilitate the understanding and management of the increasingly complex 
+behaviour exhibited by large power systems to enhance the system operator’s “situational awareness” for safe 
+and reliable grid operation. 
+
+
+Words and expressions used and not defined in this Regulation but defined in the Act shall have the meanings 
+assigned to them in the Act. 
+
+
+Smart Grid Objective 
+
+
+The objectives of this Regulation are to enable the integration of various smart grid technologies and measures 
+to bring about the economy, efficiency improvement in generation, transmission and distribution licensee 
+operations, manage the transmission and distribution networks effectively, enhance network security, integrate 
+renewable and clean energy into the grid and micro grids. 
+
+
+The objectives also include enhancing network visibility and access, promoting optimal asset utilization, and 
+improving consumer service levels thereby allowing for participation in operations of transmission licensees, 
+and distribution licensees through greater technology adoption across the value chain in the electricity sector 
+and particularly in the transmission and distribution segments. 
+
+
+Smart Grid Process 
+
+
+The Smart Grid process shall constitute the activities including but not limited to the following: 
+
+
+[भाग व---खण्ड 4] भारत का राजपत्र : असाधारण 9 
+
+
+(a) Formulation of Smart Grid programmes; 
+
+(b) Implementation of Smart Grid programmes: 
+
+(c) Cost Effectiveness Assessment of Smart Grid programmes: 
+
+(d) Monitoring and Reporting of Smart Grid Plans and programmes; 
+
+(९) Essential requisites for Smart Grid programmes; 
+
+(f) Customer engagement and participation; 
+
+(g) Customer data protection; 
+
+(h) Training and capacity building; 
+
+(i) Methodology for setting Smart Grid plans and funding levels; 
+
+(j) Database development framework and information system requirements; 
+
+
+5. Constitution of Smart Grid Cell, its roles & responsibilities 
+
+
+5.1 
+
+
+5.2 
+
+
+5.3 
+
+
+5.4 
+
+
+6.2 
+
+
+6.3 
+
+
+#2; 
+
+
+7.3. 
+
+
+7A. 
+
+
+75. 
+
+
+7.6. 
+
+
+Every transmission licensee, and distribution licensee shall constitute a Smart Grid Cell within three (3) 
+months of notification of this Regulation. 
+
+
+The Smart Grid Cell so constituted shall have the authority and necessary resources to execute the functions 
+assigned to it under this Regulation. 
+
+
+The Smart Grid Cell shall be responsible for. 
+
+(a) Baseline study and development of data; 
+
+(b) Formulation of Smart Grid Plans, Programmes and Projects; 
+
+(c) Design and Development of Smart Grid Projects including cost-benefit analysis, plans for implementation, 
+
+monitoring & reporting, and for measurement & verification; 
+
+(d) Seeking necessary approvals for Smart Grid Plans, Programmes, and Projects; 
+
+(९) Implementation of Smart Grid Programmes; 
+
+(f) Any other additional function that may be assigned by the Commission from time to time; 
+The transmission licensee and distribution licensee may combine activities related to energy efficiency, 
+demand side management, and Smart Grid implementation within the same cell. 
+
+Baseline study and development of data 
+
+The transmission licensee and distribution licensee shall undertake a baseline study to identify the targets and 
+final outcomes for Smart Grid project programmes. The transmission licensee, and distribution licensee shall 
+also build the necessary database. 
+The transmission licensee and distribution licensee shall undertake a study to estimate the potential for 
+employment of specific efficiency technologies and applications, establish key performance indicators, and 
+determine existing baseline technical conditions. 
+On the basis of the results of the baseline study, the transmission licensee and distribution licensee shall 
+develop a Smart Grid Programme for its area of supply. 
+
+Formulation of Smart Grid Plan, Programmes, Project 
+The transmission licensee and distribution licensee shall submit the necessary Smart Grid Plan for their 
+respective Licence areas along with Multi-Year Tariff Petition or ARR Petition, for the approval of the 
+Commission. 
+Application for approval of capital investment for Smart Grid Projects shall be submitted by the Licensees to 
+the Commission as per provisions mentioned under MYT Regulations, in force. 
+The proposal for Smart Grid Projects shall include: 
+
+a) Detailed Project Report: 
+
+b) Customer Engagement and Participation Plan as applicable: 
+
+c) Training and Capacity Building plan; and 
+
+d) any other information that may be stipulated by the Commission from time to time. 
+Provided that the Detailed Project Report would include inter alia description of the project objective and 
+rationale for the project, technical feasibility study, projected financial implications, target stakeholders, 
+detailed cost-benefit analysis detailing all costs qualitative and quantitative in nature, assessment of the project, 
+in line with the cost-effectiveness guidelines issued by the Commission, the proposed mechanism for recovery 
+of costs, delivery strategy, implementation mechanism, implementation schedule, performance incentives if 
+any, monitoring and evaluation plan, plan for increasing awareness among the stakeholders. 
+The Commission shall allow the creation of provisions for Research and development activities in the field of 
+Smart Grid projects in the Aggregate Revenue Requirement of the licensee, if any, based on the specific plan 
+submitted by the License. The licensee shall be required to submit a detailed report on the activities carried out 
+by the Licensees, after approval of the Commission. 
+A list of indicative components of Smart Grid Projects are as under: 
+
+
+10 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+(a) Advanced Metering Infrastructure (AMI); 
+
+
+) Demand Response; 
+
+
+(c) Micro-Grids; 
+
+
+) Distribution SCADA/Distribution Management; 
+
+
+(e) Distributed Generation; 
+
+
+Peak Load Management; 
+
+
+(g) Outage Management; 
+
+
+(h) Asset Management; 
+
+
+(i) 
+() 
+
+
+Wide Area Measurement Systems; 
+Energy Storage Projects; 
+
+
+(k) Grid Integration of Renewables; 
+
+
+(1) 
+
+
+Electric Vehicle including Grid to Vehicle (G2V) and Vehicle to Grid (४20) Interactions; 
+
+
+(m) Smart Grid Data collection and analysis; 
+
+
+(n) Tariff Mechanism including interruptible and dynamic tariffs, time of use, critical peak pricing, real time 
+
+
+pricing, etc. 
+
+
+8. Approval of Smart Grid Plan, Programme, Project Document 
+
+
+8.1. 
+
+
+8.2. 
+
+
+8.3. 
+
+
+The Commission shall approve a Smart Grid Programme or Project if it is in line with the Objectives set out in 
+clause 3 of this Regulation. 
+
+The Commission may take the assistance and advice of such experts as it deems necessary for examining the 
+proposal submitted by the transmission licensee distribution licensee. 
+
+The Commission while giving approval to the proposals, may identify costs, if any, relating to the programme, 
+and project and decide the methodology, procedure, and process for recovery of such costs. 
+
+Provided that the Commission may provide the incentive/disincentive mechanism for the transmission licensee, 
+and distribution licensee linked to the execution, implementation, and performance during the life of the 
+project. The Commission may also specify financial incentives/disincentives to participating consumers to 
+encourage active and effective participation in the Smart Grid programs. 
+
+Provided that the Commission may modify the proposal as deemed fit in order to ensure its consistency with 
+overall objectives. 
+
+
+9. Execution of Smart Grid Programmes, Project 
+
+
+9.1. 
+
+
+9.2. 
+
+
+9.3. 
+
+
+9.4. 
+
+
+The transmission licensee and distribution licensee shall undertake the execution of the project, and programme 
+in line with the approval given by the Commission and other directions issued by the Commission from time to 
+time. 
+
+The transmission licensee and distribution licensee shall normally adopt the system standards as per 
+Regulations notified by the CEA. In such cases where no standards or regulations are notified by the CEA the 
+appropriate standards, and regulations notified by the Commission shall be applicable. In respect of network, 
+communication, products, interoperability, and cyber security, the standards as provided by BIS or such 
+appropriate authority shall be adopted. Where these standards are not yet in place, relevant IEC/IEEE/ANSI 
+Standards shall be followed in that order; 
+
+
+The Regulations relating to Standards of Performance (SoP) as notified by the Commission shall apply. 
+Assessment of the performance of the Smart Grid projects shall be carried out for incentivizing/penalizing the 
+performance of the transmission licensee, and distribution licensee. The Commission may specify and require 
+the implementation of additional standards of performance to maximize and ensure compliance of the Smart 
+Grid performance standards and the benefits proposed. 
+
+The transmission licensee, distribution licensee, and other agencies responsible for the implementation of the 
+Smart Grid programmes, and projects shall ensure that the protection of consumer data and consumer privacy 
+is accorded the highest levels of priority. 
+
+
+10. Mechanism for Cost Recovery 
+
+
+10.1. 
+
+
+10.2. 
+
+
+10.3. 
+
+
+The transmission licensee, and distribution licensee shall identify the net incremental costs, if any, associated 
+with the planning, design, and implementation of programmes. 
+
+
+The transmission licensee, and distribution licensee may propose methodology for recovery of net incremental 
+costs through tariff or any other mechanism. 
+
+
+In order to qualify for cost recovery, each program must be: 
+
+
+(a) Approved prior to implementation; and 
+
+
+(b) Implemented in accordance with the approved program plan; 
+
+
+10.4. 
+
+
+The Commission shall allow the recovery of such expenditure in the Aggregate Revenue Requirement (ARR) 
+subject to prudence check 
+
+
+[भाग गा---खण्ड 4] भारत का राजपत्र : असाधारण 11 
+
+
+11. Smart Grid Programme, Project Completion Report 
+11.1. The Transmission licensee and distribution licensee will prepare and submit a detailed programme, and project 
+completion report and submit the same to the Commission within one (1) month of completion of such 
+programme 
+11.2. The Report shall cover the programme, project expenses, physical achievements, constraints and difficulties 
+faced, and deviations, if any, 
+11.3. The transmission licensee and distribution licensee shall place the completion report in the public domain 
+through its website. 
+12. Monitoring, Evaluation, Measurement, and Verification of execution and performance of the Smart 
+Grid Programme, Project 
+12.1. The Smart Grid programme, project shall be monitored and evaluated based on appropriate methodology 
+including Key Performance Indicators (KPI) as decided by the Commission using suitable measurement and 
+verification protocols identified for each of the individual programmes, and projects. 
+12.2. The transmission licensee and distribution licensee shall also submit an evaluation report to the Commission, 
+which inter alia will include outcomes. benefits, lessons learned, and the way forward. 
+13. Awareness and Capacity Building 
+13.1. In the development phase of Smart Grid programs, there would be significant needs for customer/prosumer 
+education and outreach. The transmission licensee and distribution licensee shall earmark 1% of the project 
+cost for each Smart Grid project towards consumer awareness and capacity building. 
+
+
+13.2. As part of the detailed project reports, the transmission licensee, and distribution licensee shall define a clear 
+internal and external communication strategy that identifies the critical communication needs and links the 
+same to the key project components. The Commission may reject project proposals or may require revisions to 
+the communication strategy if required. 
+
+14. Safety and Standards related to Smart Grid 
+
+14.1. System standards: The transmission licensee and distribution licensee shall normally adopt the system 
+standards as per Regulations notified by the CEA Where CEA or BIS standards are not yet in place, relevant 
+TEC/TEEE/ANSI Standards should be followed in that order. In such cases where no standards or regulations 
+are notified by the CEA the appropriate standards, and regulations notified by the appropriate Commission 
+shall be applicable. 
+
+14.2. Network and communication standards: In respect of network, communication, and products, the standards 
+provided by BIS or such appropriate authority shall be adopted. Where these standards are not yet in place, 
+relevant IEC/IEEE/ANSI Standards should be followed in that order. 
+
+14.3. Product standards: Where available BIS standards shall be complied with for all equipment and technology 
+related to Smart Grid. Where BIS standards are not yet in place, relevant IEC/IEEE/ANSI Standards should be 
+followed in that order. 
+
+14.4. Performance standards: To the extent applicable, the Standards of Performance Regulation shall apply for 
+assessing the performance of smart grid projects. The Commission may specify and require the implementation 
+of additional Standards of Performance to maximize the benefits and ensure compliance of the Smart Grid 
+investments proposed. All Standards of Performance to be met in the Smart Grid project implementation area 
+shall be measurable through the measurement, visualization, and analytics facilities that are required to be an 
+integral part of the Smart Grid project design. The Commission, through Order, may require specific reporting 
+arrangements to be implemented and periodic reports to be furnished to the Commission on actual performance 
+against the required standards. 
+
+14.5. Consumer data protection standards: The transmission licensee, distribution licensee and other 
+implementers of the Smart Grid projects/programs shall ensure that protection of consumer privacy is accorded 
+the highest levels of priority in the design of the Smart Grid projects and the corresponding investment plans. 
+Consumer data shall be protected through appropriate levels of encryption and access controls and shall 
+ordinarily not be shared with external agencies without the explicit authorization of the Commission or unless 
+required by statutory authorities or by courts of law. 
+
+14.6. Testing and certification: The Commission may require the licensee to provide the certificate of compliance 
+to specific standards from the designated nodal authority at the national level for the Smart Grid equipment 
+installed. 
+
+
+15. Power to Amend 
+15.1. The Commission may, at any time add, vary, alter, modify, or amend any provisions of this Regulation. 
+16. Power to give Directions 
+
+
+16.1. The Commission may, from time to time, issue orders and practice directions in regard to the implementation 
+of the Regulations and procedures to be followed. 
+
+
+12 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+17. Power to Relax 
+The Commission may by general or special order, for reasons to be recorded in writing and after giving an 
+opportunity of hearing to the parties likely to be affected, may relax any of the provisions of this Regulation on 
+its own motion or on an application made before it by an interested person 
+
+18. Power to Remove Difficulties 
+If any difficulty arises in giving effect to the provisions of this Regulation, the Commission may, by general or 
+special order, make such provisions not inconsistent with the provisions of the Act, as may appear to be 
+necessary for removing the difficulty. 
+
+By Order of the Commission. 
+
+
+V.K. DHAR, Secy. 
+[ADVT.-III/4/Exty./782/2023-24] 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. Digitally signed by AMIT 
+AMIT KUMAR iumarsaiswat 
+
+
+JAISWAL Date: 2024.02.29 
+
+
+22:24:48 +05'30' 
+
+
