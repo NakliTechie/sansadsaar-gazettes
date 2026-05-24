@@ -1,0 +1,996 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Fiitd a VistGa 
+Che Gazette of Jndia 
+
+
+सी.जी.-डी.एल.-अ.-10042024-253 633 
+CG-DL-E-10042024-253633 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग ता---खण्ड 4 
+PART वा--.8ल्‍लांगा 4 
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 250] नई दिल्ली, मंगलवार, अप्रैल 9, 2024/चैत्र 20, 1946 
+No. 250] NEW DELHI, TUESDAY, APRIL 9, 2024/CHAITRA 20, 1946 
+
+
+भारतीय मानक ब्यूरो 
+(उपभोक्ता मामले विभाग) 
+अधिसूचना 
+नई दिल्‍ली, 2 अप्रैल, 2024 
+संदर्भ: ।10-208013/1/2020-208-815 (846).--भारतीय मानक ब्यूरो नियम, 2018 के नियम 15 के 
+उपनियम (1) के अनुसरण में भारतीय मानक ब्यूरो एतदद्वारा अधिसूचित करता है की जिन भारतीय मानकों के विवरण 
+इसमें संलग्न अनूसूची के द्वितीय स्तंभ में दिये गये हैं, तीसरे स्तंभ में इंगित तिथि को स्थापित हो गये हैं| चौथे स्तंभ में दिये 
+गये मानकों के विवरण, यदि कोई हो तो वे भी साथ-साथ लागू रहेंगे जब तक वे पाँचवें स्तंभ में इंगित तिथि को वापस लिए 
+जाने हैं | 
+
+
+अनुसूची 
+रे स्थापित भारतीय मानकों की संख्या, | प्रतिस्थापन तिथि | भारतीय मानकों, यदि वापस [| वापस होने की 
+सं. वर्ष तथा शीर्षक लिए जाने हैं, की संख्या, वर्ष तिथि 
+तथा शीर्षक 
+(1) (2) (3) (4) (5) 
+आई एस/आई एस ओ/आई ई सी 8183 : 26 मार्च 2024 लागू नहीं लागू नहीं 
+1 2023 
+
+
+सूचना प्रौद्योगिकी — आर्टिफिशियल 
+इंटेलिजेंस — डेटा लाइफ साइकिल फ्रेमवर्क 
+
+
+2486 GI/2024 (1) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEc.4] 
+
+
+आई एस/आई एस ओ/आई = सी 11801-3 | 26 मार्च 2024 लागू नहीं 
+2 : 2021 लागू नहीं 
+सूचना प्रौद्योगिकी -- ग्राहक परिसर के 
+लिए सामान्य केबलिंग 
+भाग 3 औद्योगिक परिसर 
+आई एस/आई एस ओ/आई ई सी 11801-5 | 26 मार्च 2024 लागू नहीं लागू नहीं 
+3 : 2017 
+सूचना प्रौद्योगिकी -- ग्राहक परिसर के 
+लिए सामान्य केबलिंग 
+भाग 5 डेटा केंद्र 
+आई एस/आई एस ओ/टी आर 17302 : लागू नहीं 
+4 2015 26 मार्च 2024 लागू नहीं 
+नैनोप्रौद्योगिकी -- मानव स्वास्थ्य 
+देखभाल में नैनोटेनोलॉजी अनुप्रयोगों के 
+लिए शब्दावली विकास की पहचान करने 
+के लिए रूपरेखा 
+आई एस 18065 : 2024 लागू नहीं 
+5 | रेडियोधर्मी सामग्री को संभालने के लिए 26 मार्च 2024 लागू नहीं 
+Tara बॉक्स -- विशिष्टि 
+आई एस 18468 (भाग 5) : 2024 आई एस/आई एस ओ/टी एस 
+] धोनेवाले-कीटाणुशो धक 26 मार्च 2024 15883-5 : 2005 26 अप्रैल 2024 
+भाग 5 सफाई प्रभावकारिता को प्रदर्शित धोनेवाले-कीटाणुशोधक 
+करने के लिए प्रदर्शन अपेक्षाएँ और परीक्षण भाग 5 परीक्षण मिट्टी और सफाई 
+पद्धति मानदंड प्रभावकारिता प्रदर्शन के लिए पद्धति 
+(150 15883-5 : 2021, संशोधित) 
+आई एस 18470 : 2024 आई एस/आई ई सी 61689 : 26 अप्रैल 2024 
+7 अल्ट्रासोनिक्स — भौतिक चिकित्सा 26 मार्च 2024 2013 अल्ट्रासोनिक्स — भौतिक 
+प्राणालियाँ -- 0.5 मेगाहटज से 5 चिकित्सा प्राणालियाँ — फील्ड 
+मेगाहटर्ज आवृत्ति श्रेणी में फील्ड विनिर्देश विनिर्देशों और आवृति रेंज 0,5 
+और मापन की पद्धतियाँ MHz से 5 MHz में माप के तरीके 
+(IEC 61689 : 2022, संशोधित) 
+आई एस 18554 : 2024 लागू नहीं लागू नहीं 
+हे आई एस ओ 20251 : 2016 26 मार्च 2024 
+वस्त्रादि फर्श आवरण --- जल अप्रवेश्यता 
+परीक्षण 
+आई एस 18565 (भाग 2) : 2024 
+हे आई एस ओ/टी एस 19157-2 : 2016 26 मार्च 2024 लागू नहीं लागू नहीं 
+भौगोलिक सूचना -- डेटा गुणवत्ता 
+भाग 2 एक्स एम एल स्कीमा कार्यान्वयन 
+आई एस 18575 : 2024 26 मार्च 2024 लागू नहीं लागू नहीं 
+10 आई एस ओ 18189 : 2016 
+
+
+नेत्र प्रकाशिकी -- संपर्क लेंस और संपर्क 
+लेंस संरक्षण उत्पाद — लेंस।/विलयन की 
+परस्पर क्रिया के मूल्यांकन के लिए संरक्षण 
+उत्पाद के संयोजन में संपर्क लेंस का 
+साइटोटॉक्सिसिटी परीक्षण 
+
+
+[भागवता--खण्ड 4] भारत का राजपत्र : असाधारण 
+
+
+आई एस 18576 : 2024 26 मार्च 2024 लागू नहीं लागू नहीं 
+
+11 नेत्र प्रकाशिकी -- चश्मा फ्रेम -- 
+अपेक्षाएँ और परीक्षण पद्धतियाँ 
+
+(50 12870 : 2016, संशोधित) 
+
+
+आई एस 18577 : 2024 26 मार्च 2024 लागू नहीं लागू नहीं 
+12 आई एस ओ/टी आर 21958 : 2019 
+नेत्र प्रकाशिकी -- चश्मे के लेंस की खरोंच 
+और घर्षण प्रतिरोध का आंकलन करने के 
+लिए उपयोग की जाने वाली परीक्षण 
+पद्धतियों की समीक्षा 
+
+
+आई एस 18583 (भाग 1) : 2024 26 मार्च 2024 लागू नहीं लागू नहीं 
+13 आई एस ओ 9342-1 : 2023 
+प्रकाशिकी और प्रकाश संबंधी उपकरण -- 
+फॉसीमीटर के अंशांकन के लिए परीक्षण 
+लेंस 
+भाग 1 चश्मा लेंस को मापने के लिए 
+उपयोग किए जाने वाले फॉसीमीटर के 
+लिए संदर्भ लेंस 
+
+
+आई एस 18583 (भाग 2) : 2024 26 मार्च 2024 लागू नहीं लागू नहीं 
+14 | प्रकाशिकी और प्रकाश संबंधी उपकरण -- 
+फॉसीमीटर के अंशांकन के लिए परीक्षण 
+लेंस 
+
+भाग 2 संस्पर्श लेंस को मापने के लिए 
+
+उपयोग किए जाने वाले फॉसीमीटर के 
+लिए परीक्षण लेंस 
+(ISO 9342-2 : 2005, संशोधित) 
+
+
+आई एस 18607 : 2024 26 मार्च 2024 लागू नहीं लागू नहीं 
+
+15 आई एस ओ 24421 : 2023 
+
+जैव प्रौद्योगिकी — जैविक नमूनों के लिए 
+
+फोटोमेट्रिक तरीकों में प्रकाशीय संकेत माप 
+के लिए न्यूनतम अपेक्षाएँ 
+
+
+आई एस 18617 : 2024 26 मार्च 2024 लागू नहीं लागू नहीं 
+16 आई एस ओ 23033 : 2021 
+जैव प्रौद्योगिकी — विश्लेषणात्मक 
+पद्धतियाँ — सेलुलर चिकित्सीय उत्पादों 
+के परीक्षण और लक्षण वर्णन के लिए 
+सामान्य अपेक्षाएँ और विचार 
+
+
+आई एस/आई एस at 20391-1 : 2018 | 26 मार्च 2024 लागू नहीं लागू नहीं 
+
+17 जैव प्रौद्योगिकी --- कोशिका गणना 
+
+भाग 1 कोशिका गणना पद्धतियों पर 
+सामान्य मार्गदर्शन 
+
+
+आई एस/आई एस at 20391-2 : 2019 | 26 मार्च 2024 लागू नहीं लागू नहीं 
+18 जैव प्रौद्योगिकी --- कोशिका गणना 
+भाग 2 गणना पद्धति के प्रदर्शन को मापने 
+के लिए प्रायोगिक डिज़ाइन और 
+सांख्ियिकीय विश्लेषण 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEc.4] 
+
+
+आई एस/आई एस Al 20397-1 : 2022 
+जैव प्रौद्योगिकी -- व्यापक रूप से 
+समानांतर अनुक्रमण 
+भाग 1 न्‍्यूक्लिक एसिड और लाइब्रेरी 
+प्रिपरेशन 
+
+
+26 मार्च 2024 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+20 
+
+
+आई एस/आई एस ओ 20397-2 : 2021 
+जैव प्रौद्योगिकी -- व्यापक रूप से 
+समानांतर अनुक्रमण 
+भाग 2 अनुक्रमण डेटा का गुणवत्ता 
+मूल्यांकन 
+
+
+26 मार्च 2024 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+21 
+
+
+आई एस/आई एस ओ 20404 : 2023 
+जैव प्रौद्योगिकी -- जैव प्रसंस्करण -- 
+चिकित्सीय उपयोग के लिए कोशिकाओं को 
+शामिल करने के लिए पैकेजिंग के डिज़ाइन 
+के लिए सामान्य अपेक्षाएँ 
+
+
+26 मार्च 2024 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+22 
+
+
+आई एस/आई एस ओ/टी एस 23367-1: 
+2022 
+नैनोप्रौद्योगिकी — रासायनिक और जैव 
+अणु अनुसन्धान के लिए नैनोसेंसर की 
+प्रदर्शन विशेषताएँ 
+भाग 1 अनुसन्धान प्रदर्शन 
+
+
+26 मार्च 2024 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+23 
+
+
+आई एस/आई एस ओ/आई ई सी 24029-2 
+: 2023 
+आर्टिफ़िश्यल इंटेलिजेंस (एआई) -- न्यूरल 
+नेटवर्क की रोबस्ट्नेस का मूल्यांकन 
+भाग 2 औपचारिक पद्धतियों के उपयोगार्थ 
+कार्य-पद्धति 
+
+
+26 मार्च 2024 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+24 
+
+
+आई एस/आई एस ओ/आई ई सी 25059 : 
+2023 
+सॉफ्टवेयर अभियांत्रिकी -- सॉफ्टवेयर 
+उत्पाद की गुणवत्ता हेतु अपेक्षाएँ एवं 
+मूल्यांकन (SQuaRE) — vars प्रणाली 
+के लिए गुणवत्ता मांडल 
+
+
+26 मार्च 2024 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+25 
+
+
+आई एस/आई ई सी 60519-8 : 2020 
+विद्युत-तापन और विद्युत-चुम्बकीय 
+प्रसंस्करण के लिए संस्थापन में सुरक्षा 
+भाग 8 इलेक्ट्रोस्लैग रीमेल्टिंग फर्नेस के 
+लिए विशेष अपेक्षाएँ 
+
+
+26 मार्च 2024 
+
+
+आई एस 11712 - 1986 
+सुरक्षा इलेक्ट्रोस्लैग रीमेल्टिंग फनेर्स 
+के लिए विशेष अपेक्षाएँ 
+
+
+26 अप्रैल 2024 
+
+
+26 
+
+
+आई एस/आई ई सी 60667-2 : 2020 
+विद्युत प्रयोजनों के लिए वल्कनीकृत 
+फाइबर 
+भाग 2 परीक्षण पद्धतियाँ 
+
+
+26 मार्च 2024 
+
+
+आई एस 4820 - 1968 
+विधुत प्रयोजनों के लिए वल्कनीकृत 
+फाइबर के लिए परीक्षण पद्धतियाँ 
+
+
+26 अप्रैल 2024 
+
+
+[भाग ave 4] 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+27 
+
+
+आई एस/आई ई सी 61400-21-1 : 
+2019 
+पवन ऊर्जा उत्पादन प्रणाली 
+भाग 21 विद्युत विशेषताओं का मापन और 
+मूल्यांकन 
+अनुभाग 1 पवन टरबाइन 
+
+
+26 मार्च 2024 
+
+
+आई एस/आई ई सी 61400-21 : 
+2008 
+वायु टरबाइन 
+भाग 21 ग्रिड से जुड़ी वायु टरबाइन 
+के पॉवर गुणता का मापन और 
+मूल्याँकन 
+
+
+26 अप्रैल 2024 
+
+
+पी राजेश, वैज्ञानिक जी एवं उप महानिदेशक (आई टी एस, पी आर टी एवं टी एन एम) 
+[विज्ञापन-11/4/असा./019/2024-25] 
+
+
+BUREAU OF INDIAN STANDARDS 
+
+
+(Department of Consumer Affairs) 
+NOTIFICATION 
+
+New Delhi, the 2nd April, 2024 
+Ref: HQ-PUB013/1/2020-PUB-BIS (846).—In pursuance of Sub-rule (1) of Rule (15) of the Bureau of 
+Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards, particulars of 
+which are given in the second column of the schedule hereto annexed have been established on the date indicated 
+
+
+against it in third column. The particulars of the standards, if any which are given in the fourth column shall also 
+remain in force concurrently till they are withdrawn on the date indicated against them in the fifth column. 
+
+
+SCHEDULE 
+
+
+No., Year & Title of the Indian 
+Standards Established 
+
+
+Date of 
+Establishment 
+
+
+No. , Year & Title of the 
+Indian Standards to be 
+withdrawn, if any 
+
+
+Date of 
+withdrawal 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+18/80/1706 8183 : 2023 
+Information Technology — Artificial 
+Intelligence — Data Life Cycle 
+Framework 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+18/80/1706 11801-3 : 2021 
+Information Technology — Generic 
+Cabling for Customer Premises 
+Part 3 Industrial Premises 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+IS/AISO/IEC 11801-5 : 2017 
+Information Technology — Generic 
+Cabling for Customer Premises 
+Part 5 Data Centres 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+IS/ISO/TR 17302 : 2015 
+Nanotechnologies — Framework for 
+Identifying Vocabulary Development 
+for Nanotechnology Applications in 
+
+Human Healthcare 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+IS 18065 : 2024 
+Glove Box for Handing Radioactive 
+Material — Specification 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEc.4] 
+
+
+IS 18468 (Part 5) : 2024 
+Washer-Disinfectors 
+Part 5 Performance Requirements and 
+Test Method Criteria for Demonstrating 
+Cleaning Efficacy 
+(SO 15883-5 : 2021, MOD) 
+
+
+26 March 2024 
+
+
+IS/ISO/TS 15883-5 : 2005 
+Washer-Disinfectors 
+Part 5 Test Soils and Methods 
+for Demonstrating Cleaning 
+Efficacy 
+
+
+26 April 2024 
+
+
+IS 18470 : 2024 
+Ultrasonics — Physiotherapy Systems 
+— Field Specifications and Methods of 
+Measurement in the Frequency Range 
+0.5 MHz to 5 MHz 
+(IEC 61689 : 2022, MOD) 
+
+
+26 March 2024 
+
+
+IS/TEC 61689 : 2013 
+Ultrasonics — Physiotherapy 
+Systems — Field 
+Specifications and Methods of 
+Measurement in the 
+Frequency Range 0,5 MHz to 
+5 MHz 
+
+
+26 April 2024 
+
+
+IS 18554 : 2024 
+ISO 20251 : 2016 
+Textile Floor Coverings — Water 
+Impermeability Test 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+IS 18565 (Part 2) : 2024 
+ISO/TS 19157-2 : 2016 
+Geographic Information — Data 
+Quality 
+Part 2 XML Schema Implementation 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+10 
+
+
+IS 18575 : 2024 
+ISO 18189 : 2016 
+Ophthalmic Optics — Contact Lenses 
+and Contact Lens Care Products — 
+Cytotoxicity Testing of Contact Lenses 
+in Combination with Lens Care Solution 
+to Evaluate Lens/Solution Interactions 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+11 
+
+
+IS 18576 : 2024 
+Ophthalmic Optics — Spectacle 
+Frames — Requirements and Test 
+Methods 
+(SO 12870 : 2016, MOD) 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+12 
+
+
+IS 18577 : 2024 
+ISO/TR 21958 : 2019 
+Ophthalmic Optics — Review of the 
+Test Methods Used to Assess Scratch 
+and Abrasion Resistance of Spectacle 
+Lenses 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+13 
+
+
+IS 18583 (Part 1) : 2024 
+ISO 9342-1: 2023 
+Optics and Optical Instruments — Test 
+Lenses for Calibration of Focimeters 
+Part | Reference Lenses for Focimeters 
+Used for Measuring Spectacle Lenses 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+14 
+
+
+IS 18583 (Part 2) : 2024 
+Optics and Optical Instruments — Test 
+Lenses for Calibration of Focimeters 
+Part 2 Test Lenses for Focimeters Used 
+for Measuring Contact Lenses 
+(ISO 9342-2 : 2005, MOD) 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+भारत का राजपत्र 
+
+
+> असाधारण 
+
+
+[भाग ave 4] 
+
+
+15 
+
+
+Biotechnology — Minimum 
+Requirements for Optical Signal 
+Measurements in Photometric Methods 
+
+
+IS 18607 : 2024 
+ISO 24421 : 2023 
+
+
+for Biological Samples 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+16 
+
+
+Biotechnology — Analytical Methods 
+
+
+Considerations for the Testing and 
+Characterization of Cellular Therapeutic 
+
+
+IS 18617 : 2024 
+ISO 23033 : 2021 
+
+
+—General Requirements and 
+
+
+Products 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+NA 
+
+
+Biotechnology — Cell Counting 
+
+
+IS/AISO 20391-1 : 2018 
+
+
+Part 1 General Guidance on Cell 
+Counting Methods 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+18 
+
+
+IS/ISO 20391-2 : 2019 
+
+Biotechnology — Cell Counting 
+Part 2 Experimental Design and 
+Statistical Analysis to Quantify 
+Counting Method Performance 
+
+
+26 March 2024 
+
+
+NA 
+
+
+19 
+
+
+IS/ISO 20397-1 : 2022 
+Biotechnology — Massively Parallel 
+Sequencing 
+Part 1 Nucleic Acid and Library 
+Preparation 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+NA 
+
+
+2 
+
+
+0 
+
+
+IS/ISO 20397-2 : 2021 
+Biotechnology — Massively Parallel 
+Sequencing 
+Part 2 Quality Evaluation of Sequencing 
+Data 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+21 
+
+
+IS/ISO 20404 : 2023 
+Biotechnology — Bioprocessing — 
+General Requirements for the Design of 
+Packaging to Contain Cells for 
+Therapeutic Use 
+
+
+26 March 2024 
+
+
+NA 
+
+
+22 
+
+
+IS/ISO/TS 23367-1 : 2022 
+Nanotechnologies — Performance 
+Characteristics of Nanosensors for 
+
+Chemical and Biomolecule Detection 
+Part 1 Detection Performance 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+23 
+
+
+IS/AISO/IEC 24029-2 : 2023 
+Artificial Intelligence (AT) — 
+Assessment of the Robustness of Neural 
+
+Networks 
+Part 2 Methodology for the Use of 
+Formal Methods 
+
+
+26 March 2024 
+
+
+NA 
+
+
+NA 
+
+
+NA 
+
+
+IS/ISO/TEC 25059 : 2023 
+Software Engineering —— Systems and 
+Software Quality Requirements and 
+
+
+26 March 2024 
+
+
+24 
+Evaluation (SQuaRE) — Quality Model 
+
+
+for AI Systems 
+
+
+NA 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEc.4] 
+
+
+25 
+
+
+IS/TEC 60519-8 : 2020 
+Safety in Installations for Electroheating 
+and Electromagnetic Processing 
+Part 8 Particular Requirements for 
+Electroslag Remelting Furnaces 
+
+
+26 March 2024 
+
+
+IS 11712 - 1986 
+Safety Requirements for 
+Electro-slag Remelting 
+
+Furnaces 
+
+
+26 April 2024 
+
+
+26 
+
+
+IS/TEC 60667-2 : 2020 
+Vulcanized Fiber for Electrical Purposes 
+Part 2 Methods of Test 
+
+
+26 March 2024 
+
+
+IS 4820 - 1968 
+Specification for Vulcanized 
+Fiber Sheets for Electrical 
+Purposes 
+
+
+26 April 2024 
+
+
+27 
+
+
+IS/IEC 61400-21-1 : 2019 
+Wind Energy Generation Systems 
+Part 21 Measurement and Assessment of 
+Electrical Characteristics 
+Section 1 Wind Turbines 
+
+
+26 March 2024 
+
+
+IS/IEC 61400-21 : 2008 
+Wind Turbines 
+Part 21 Measurement and 
+Assessment of Power Quality 
+Characteristics of Grid 
+Connected Wind Turbines 
+
+
+26 April 2024 
+
+
+P. Rajesh, Scientist G & DDG (ITS, PRT & TNM) 
+
+
+[ADVT.-HI/4/Exty./019/2024-25] 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+
+
+and Published by the Controller of Publications, Delhi-110054 
+
+
+MANOJ 
+KUMAR 
+VERMA 
+
+
