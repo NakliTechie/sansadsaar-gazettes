@@ -1,6 +1,121 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-17.240367",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-17",
+      "ugid": "240367",
+      "title": "Extraordinary Gazette of India, 2022-11-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-17112022-240367",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240367.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-17.240367/240367.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-17.240367",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-17/240367.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-17.240366",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-17",
+      "ugid": "240366",
+      "title": "Extraordinary Gazette of India, 2022-11-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MORTH",
+      "gazette_id": "CG-DL-E-17112022-240366",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240366.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-17.240366/240366.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-17.240366",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-17/240366.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-17.240365",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-17",
+      "ugid": "240365",
+      "title": "Extraordinary Gazette of India, 2022-11-17",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land  schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB limited  for acquisition of ROU  Tehsil Kurwai Distt Vidisha  in the state of Madhya Pradesh",
+      "gazette_id": "CG-DL-E-17112022-240365",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240365.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-17.240365/240365.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-17.240365",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-17/240365.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-17.240364",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-17",
+      "ugid": "240364",
+      "title": "Extraordinary Gazette of India, 2022-11-17",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Export of Red Sanders wood by Forest Environment and Climate Change Department Government of Odisha  Extension of time regarding",
+      "gazette_id": "CG-DL-E-17112022-240364",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240364.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-17.240364/240364.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-17.240364",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-17/240364.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-17.240363",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-17",
+      "ugid": "240363",
+      "title": "Extraordinary Gazette of India, 2022-11-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-17112022-240363",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240363.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-17.240363/240363.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-17.240363",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-17/240363.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-17.240362",
       "category": "extraordinary",
       "type_letter": "e",
@@ -23085,7 +23200,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1000,
+  "count": 1005,
   "category": "central",
   "shard_index": 11
 }
