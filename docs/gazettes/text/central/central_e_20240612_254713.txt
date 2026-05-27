@@ -1,0 +1,1261 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+VWita = राजपत्र 
+
+
+Che Gazette of Jndia 
+
+
+O.GHN..-Wa. 3M. -37.-4062024-25473 
+CG-HR-E-4062024-25473 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग पा--खण्ड 4 
+PART I]—Section 4 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 4i4] नई दिल्ली, बुधवार, जून 2, 2024/ज्येष्ठ 22, 946 
+No. 4] NEW DELHI, WEDNESDAY, JUNE 2, 2024/JYAISHTHA 22, 946 
+
+
+संयुक्त विद्युत विनियामक आयोग 
+(गोवा राज्य और संघ राज्य क्षेत्र) 
+अधिसूचना 
+गुरुग्राम, 27 मई, 2024 
+संयुक्त विद्युत विनियामक आयोग, गोवा राज्य और संघ राज्य क्षेत्र (वितरण लाइसेंसधारियों के लिए प्रदर्शन हेतु 
+मानक) (पहला संशोधन) विनियम, 2024 
+
+
+जेईआरसी सं. 79/20/205/4680- विद्युत अधिनियम, 2003 की धारा 784(4) और 484 (2) (जेडए और जेडबी) के 
+अन्तर्गत प्रदान की गई शक्तियों का प्रयोग करते हुए संयुक्त विद्युत विनियामक आयोग, गोवा राज्य और संघ राज्य क्षेत्र 
+(वितरण लाइसेंसधारियों के लिए प्रदर्शन हेतु मानक) विनियम, 2045 (जिसे आगे मूल विनियम कहा जाएगा) में 
+निम्नलिखित संशोधन किया गया है। 
+4) संक्षिप्त शीर्षक, प्रारंभ और विस्तार 
+(i) संयुक्त विद्युत विनियामक आयोग, गोवा राज्य और संघ राज्य क्षेत्र (वितरण लाइसेंसधारियों के लिए 
+प्रदर्शन हेतु मानक) (पहला संशोधन) विनियम, 2024 कहा जाएगा। 
+(ii) ये विनियम आधिकारिक राजपत्र में प्रकाशन की तिथि से लागू होंगे। 
+(ii) ये विनियम संपूर्ण गोवा राज्य, अंडमान और निकोबाद द्वीप समूह, चंडीगढ़, दादरा और नगर हवेली और 
+दमन और दीव, लक्षद्वीप और पुडुचेरी के संघ राज्य क्षेत्रों पर लागू होंगे। 
+
+
+3493 GI/2024 (4) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+2) मूल विनियमों के विनियम 4 में संशोधन: 
+() विनियम 4. (जी) के बाद निम्नलिखित को शामिल किया जाता है: 
+
+
+जी(ए) ग्राहक औसत व्यवधान अवधि सूचकांक (सीएआईडीआई) का अर्थ है, रिपोर्टिंग अवधि के दौरान व्यवधान का 
+अनुभव करने वालों के लिए निरंतर व्यवधानों (प्रत्येक 3 मिनट से अधिक) की औसत व्यवधान अवधि, जैसा कि 
+आयोग द्वारा निर्दिष्ट किया गया है। 
+जी(बी) ग्राहक औसत व्यवधान आवृत्ति सूचकांक (सीएआईएफआई) का अर्थ है, रिपोर्टिंग अवधि के दौरान व्यवधान का 
+अनुभव करने वालों के लिए निरंतर व्यवधानों (प्रत्येक 3 मिनट से अधिक) की औसत व्यवधान आवृत्ति, जैसा कि 
+आयोग द्वारा निर्दिष्ट किया गया है। 
+(ii) विनियम 4.4 (एल) के बाद निम्नलिखित को शामिल किया जाता है: 
+
+
+एल (ए) अस्थायी औसत व्यवधान आवृत्ति सूचकांक (एमएआईएफआई) का अर्थ है, रिपोर्टिंग अवधि के दौरान प्रति 
+उपभोक्ता को होने वाले अस्थायी व्यवधानों (प्रत्येक 3 मिनट से कम या बराबर) की औसत संख्या, जैसा कि आयोग 
+द्वारा निर्दिष्ट किया गया है। 
+(#)विनियमन 4.4 (पी) के बाद निम्नलिखित को शामिल किया जाता है: 
+
+
+पी(ए) प्रणाली औसत व्यवधान अवधि सूचकांक (एसएआईडीआई) का अर्थ है, रिपोर्टिंग अवधि के दौरान प्रति उपभोक्ता 
+को होने वाले निरंतर व्यवधानों (प्रत्येक 3 मिनट से अधिक) की औसत अवधि, जैसा कि आयोग द्वारा निर्दिष्ट किया 
+गया है। 
+
+पी(बी) प्रणाली औसत व्यवधान आवृत्ति सूचकांक (एसएआईएफआई) का अर्थ है, रिपोर्टिंग अवधि के दौरान प्रति उपभोक्ता 
+को होने वाली निरंतर व्यवधानों (प्रत्येक 3 मिनट से अधिक) की औसत आवृत्ति, जैसा कि आयोग द्वारा निर्दिष्ट किया 
+गया है। 
+
+3) मूल विनियम के विनियम 8 में संशोधन: 
+(i) विनियम 8. को निम्नानुसार प्रतिस्थापित किया जाता है: 
+
+
+यदि लाइसेंसधारी निर्दिष्ट प्रदर्शन मानकों को पूरा करने में विफल रहता है, तो उन्हें इन विनियमों की अनुसूची-ै। 
+के अनुसार प्रभावित उपभोक्ता को मुआवजा देना होगा। 
+
+
+(ii) विनियम 8.3 को निम्नानुसार प्रतिस्थापित किया जाता है : 
+
+
+प्रभावित उपभोक्ताओं को इन विनियमों की अनुसूची ॥ के अंतर्गत निर्दिष्ट दरों के अनुसार, निर्दिष्ट मानकों के 
+उल्लंघन की तिथि से 90 दिनों के भीतर विद्युत आपूर्ति से वर्तमान और/या भविष्य के बिलों के लिए समायोजन के 
+माध्यम से मुआवजे का भुगतान किया जाता है। 
+
+(iii) विनियम 8.3 के बाद निम्नलिखित शामिल किया जाता है: 
+
+
+8.3ए यदि लाइसेंसधारी इन विनियमों की अनुसूची-॥॥ में निर्धारित मुआवजे की राशि का भुगतान करने में विफल रहता 
+
+है, तो पीड़ित उपभोक्ता ऐसे मुआवजे की मांग के लिए संबंधित उपभोक्ता शिकायत निवारण फोरम 
+(सीजीआरएफ) से संपर्क कर सकता है। 
+
+8.3बी उपभोक्ता को उन मापदंडों के लिए स्वचालित रूप से मुआवजा दिया जाएगा, जिनकी दूर से निगरानी की जा सकती 
+
+
+है और यह तभी दिया जाएगा, जब यह सफलतापूर्वक स्थापित किया जा सके कि वितरण लाइसेंसधारी के प्रदर्शन में 
+कोई चूक हुई है। 
+
+
+[भाग व[---खण्ड 4] भारत का राजपत्र : असाधारण 3 
+
+
+8.3सी वितरण लाइसेंसधारी को इन विनियमों की अधिसूचना की तिथि से छह महीने के भीतर ऑनलाइन की व्यवस्था 
+करनी होगी, जिस पर उपभोक्ता अपनी शिकायत दर्ज कर सके और मुआवज़े की मांग कर सके। इस संबंध में सूचना 
+को जनसंचार माध्यमों, बिलों, एसएमएस, ई-मेल या लाइसेंसधारी की वेबसाइट पर अपलोड करके उचित माध्यमों 
+से उपभोक्ताओं के बीच व्यापक रूप से प्रसारित किया जाएगा।” 
+4) मूल विनियमों के विनियम 9 में संशोधन 
+() विनियम 9.5 के बाद निम्नलिखित को शामिल किया जाता है: 
+9.5ए लाइसेंसधारियों को सभी सेवाएँ एक सामान्य ग्राहक संबंध प्रबंधक (सीआरएम) प्रणाली के माध्यम से प्रदान करने 
+का प्रयास करना होगा, ताकि बेहतर निगरानी और विश्लेषण के लिए अंतिम छोर (बैक-एंड) पर अनुरोधित और 
+लंबित सभी सेवाओं का एकीकृत दृश्य प्राप्त हो सके। 
+
+9.5बी सीआरएम में एसएमएस, ईमेल अलर्ट, आवेदन प्राप्ति, सेवा पूर्ण होने, आवेदन की स्थिति में परिवर्तन आदि के लिए 
+
+उपभोक्ताओं और अधिकारियों के लिए अधिसूचनाएं, ऑनलाइन स्थिति की ट्रैकिंग की सुविधा होगी और यदि 
+निर्दिष्ट समय अवधि के भीतर सेवाएं प्रदान नहीं की जाती हैं तो उच्च स्तर पर स्वचालित वृद्धि करने की 
+सुविधाएं होंगी। 
+
+(ii) विनियम 9.6 के अंत में निम्नलिखित शामिल किया जाता है: 
+वितरण लाइसेंसधारियों को उपभोक्ता अधिकारों, कार्य-निष्पादन के मानकों, क्षतिपूर्ति प्रावधानों, शिकायत 
+निवारण, ऊर्जा दक्षता के उपायों तथा वितरण लाइसेंसधारी की अन्य योजनाओं के बारे में जागरूकता लाने के 
+लिए मीडिया, टी.वी., समाचार-पत्रों, वेबसाइट के माध्यम से तथा उपभोक्ता सेवा से संबंधित कार्यालयों में बोर्ड 
+लगाकर उचित प्रचार-प्रसार की व्यवस्था करनी होगी। 
+
+(iii) विनियम 9.7 के बाद निम्नलिखित को शामिल किया जाता है 
+
+9.8 वितरण लाइसेंसधारी को अपने प्रत्येक कार्यालय में उपभोक्ताओं के लिए सामान्य सेवाएं प्रदान करने तथा ग्राहक की 
+शिकायतों के निपटान के लिए कार्यप्रणाली नियमावली उपलब्ध कराना होगा, जिसे वितरण लाइसेंसधारी की 
+वेबसाइट से डाउनलोड किया जा सकेगा। 
+
+9.9 वितरण लाइसेंसधारी को फीडर-वार आउटेज डेटा, आउटेज को न्यूनतम करने के लिए किए गए प्रयास, बिजली की 
+चोरी या अनाधिकृत उपयोग या छेड़छाड़ की रोकथाम, विद्युत संयंत्र, विद्युत लाइनों या मीटर को होने वाली 
+डा या क्षति तथा वर्ष के दौरान प्राप्त परिणामों को अपनी वेबसाइट पर प्रदर्शित करने की व्यवस्था करनी 
+
+9.40 जब भी मौजूदा मीटरों को किसी नई तकनीक वाले मीटर से बदला जाएगा, तब वितरण लाइसेंसधारी को मौजूदा 
+मीटरों को बदले जाने के लाभ के बारे में उपभोक्ताओं में जागरूकता पैदा करने के लिए पर्याप्त उपाय करने होंगे। 
+वितरण लाइसेंसधारी को कम से कम चार दैनिक समाचार पत्रों में सार्वजनिक सूचना जारी करनी होगी। ऐसी सूचना 
+
+
+वितरण लाइसेंसधारी की वेबसाइट पर भी प्रदर्शित की जाएगी और वितरण लाइसेंसधारी को ऐसे मीटरों को बदलने 
+के लिए क्षेत्रवार तिथियों की अनुसूची दर्शानी होगी। 
+
+
+5) मूल विनियमों की “अनुसूची-। गारंटीकृत प्रदर्शन मानक” में संशोधन 
+अनुसूची-। के खंड 5 के बाद निम्नलिखित को शामिल किया जाता है: 
+5(): जारी किये गये नये बिजली कनेक्शन 
+अनुरोध के प्रकार समय सीमा 
+
+
+i . | नया कनेक्शन/अतिरिक्त लोड जहां मौजूदा | मेट्रो शहर: आवेदन प्राप्त होने के 3 दिनों के भीतर सभी 
+नेटवर्क से आपूर्ति प्रदान की जा सकती है मामलों को उपयुक्त रुप से पूरा करें। 
+
+
+हए 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+शहरी/ नगरपालिका क्षेत्र: आवेदन प्राप्त होने के 7 दिनों के 
+भीतर सभी मामलों को उपयुक्त रुप से पूरा करें। 
+
+
+ग्रामीण क्षेत्र: आवेदन प्राप्त होने के 5 दिनों के भीतर सभी 
+मामलों को उपयुक्त रुप से पूरा करें। 
+
+द्वीप समूह का ग्रामीण क्षेत्र: आवेदन प्राप्त होने के 30 दिनों 
+के भीतर सभी मामलों को उपयुक्त रुप से पूरा करें। 
+
+
+fo . | विस्तार कार्य या ट्रांसफार्मर क्षमता में वृद्धि | | वितरण लाइसेंसधारी ऐसे विस्तार या कमीशनिंग के तुरंत 
+वितरण मेन्स का विस्तार, या नए सबस्टेशनों | बाद 90 दिनों से अधिक की अवधि के भीतर ऐसे परिसरों 
+की स्थापना की आवश्यकता | को बिजली की आपूर्ति करेगा। 
+
+
+6) मूल विनियमों की "अनुसूची-॥ प्रदर्शन के समग्र मानक" में संशोधन 
+
+
+(i) निम्नलिखित को अनुसूची-|| के खंड 8 के बाद शामिल किया जाता है: 
+जारी किये गये नये बिजली कनेक्शन: 
+
+
+लाइसेंसधारी को इन विनियमों की अनुसूची-। के क्रम संख्या (5U में निर्दिष्ट कार्यनिष्पादन के मानकों को प्राप्त करना 
+होगा। 
+(ii) अनुसूची-॥ के खंड 45 को निम्नानुसार प्रतिस्थापित किया जाता है: 
+
+
+45ए वितरण लाइसेंसधारी को सभी उपभोक्ताओं के लिए 24X7 बिजली की आपूर्ति करनी होगी। हालांकि, आयोग कृषि 
+क्षेत्र में व्यवसाय योजना/टैरिफ आदेश जैसे कुछ श्रेणियों के उपभोक्ताओं के लिए आपूर्ति के कम घंटे निर्धारित कर 
+सकता है। 
+
+
+sat वितरण प्रणाली विश्वसनीयता प्रदर्शन की रिकॉर्डिंग और रिपोर्टिंग की एक समान प्रणाली होगी। सभी 
+लाइसेंसधारियों पर समान विश्वसनीयता सूचकांक लागू किए जाएंगे। आयोग द्वारा निर्धारित प्रदर्शन लक्ष्य स्तर 
+प्रत्येक लाइसेंसधारी के लिए अद्वितीय होगा जो आरंभ में लाइसेंसधारी के ऐतिहासिक प्रदर्शन पर आधारित होगा और 
+इसे व्यवसाय योजना में निर्धारित किया जाएगा। 
+
+
+(iii) अनुसूची-॥ का खंड (7 निम्नानुसार प्रतिस्थापित किया जाता है: 
+
+
+लाइसेंसधारी इस अनुसूची में क्रम संख्या 48 में निर्दिष्ट सूत्र और कार्यप्रणाली के अनुसार शहरी क्षेत्र और ग्रामीण 
+क्षेत्र के लिए वितरण विश्वसनीयता सूचकांक अर्थात एसएआईएफआई, एसएआईडीआई, एमएआईएफआई, 
+सीएआईएफआई और सीएआईडीआई के मूल्य की गणना अलग-अलग करेगा। 
+
+वितरण लाइसेंसधारी को आउटेज की निगरानी और बहाली के लिए यथासंभव स्वचालित उपकरणों के साथ एक 
+प्रक्रिया स्थापित करनी होगी। 
+(iv) अनुसूची-॥ के खंड (8 को निम्नानुसार प्रतिस्थापित किया जाता है: 
+
+48. लाइसेंसधारक के लिए सूचकांक की गणना प्रत्येक महीने आपूर्ति क्षेत्र में सभी 7 केवी फीडरों को cee करके 
+तथा प्रत्येक फीडर के लिए उस महीने में सभी रुकावटों की संखया और अवधि को जोड़कर की जाएगी। उसके बाद 
+सूचकांक की गणना निम्नलिखित सूत्रों का उपयोग करके की जाएगी: 
+
+a. SAIFI= ४१ (0 x Ni)/N; 
+
+0. SAIDI= >= {Bi x Ni)/N: 
+
+
+०. MAIFI=¥7,(C; x ND/N: 
+
+
+[भाग पा--खण्ड 4] भारत का राजपत्र : असाधारण 5 
+
+
+0. CAIFI= ४? (0५ x Ni)/Na 
+
+6. CAIDI= 8.7. {Bi x Ni)/N, 
+अर्थात्‌, 
+A= माह के दौरान ith फीडर पर लगातार व्यवधानों की कुल संख्या (प्रत्येक 3 मिनट से अधिक)। 
+Bi= माह के दौरान ith फीडर पर सभी निरंतर व्यवधानों (प्रत्येक 3 मिनट से अधिक) की कुल अवधि। 
+Ci= माह के दौरान फीडर पर अस्थायी व्यवधानों की कुल संख्या (प्रत्येक 3 मिनट से कम या बराबर)। 
+|॥- प्रत्येक व्यवधान के कारण प्रभावित ith फीडर के उपभोक्ताओं की संख्या। 
+३-८ लाइसेंसधारी के आपूर्ति क्षेत्र में 7 केवी (kV) फीडरों पर उपभोक्ताओं की कुल संख्या। 
+
+
+Na= लाइसेंसधारी के आपूर्ति क्षेत्र में 4 केवी (kV) फीडरों पर कुल उपभोक्ताओं की संख्या, जिन्होंने रिपोर्ट की गई 
+अवधि के दौरान व्यवधान का अनुभव किया है 
+
+
+n= लाइसेंसधारी के आपूर्ति क्षेत्र में 7 केवी (kV) फीडरों की संख्या (कृषि फीडरों को छोड़कर) 
+नोट: 
+
+
+i, फीडरों को शहरी क्षेत्र और ग्रामीण क्षेत्र में विभाजित किया जाना चाहिए तथा सूचकांकों का मूल्य प्रत्येक माह के 
+लिए अलग से रिपोर्ट किया जाना चाहिए। 
+
+॥.  लाइसेंसधारियों को एआरआर जमा करते समय प्रत्येक वर्ष इन सूचकांकों के लक्ष्य स्तर का प्रस्ताव करना होगा। 
+उसके बाद आयोग इन सूचकांकों को अधिसूचित करेगा। 
+
+
+(५) अनुसूची-|| के खंड 8 के बाद निम्नलिखित को सम्मिलित किया जाता है 
+49. बढ़ते प्रदूषण स्तर को देखते हुए, विशेष रूप से महानगरों और 00,000 और उससे अधिक आबादी वाले शहरों 
+
+
+में, वितरण लाइसेंसधारी सभी उपभोक्ताओं को 24x7 निर्बाध बिजली आपूर्ति सुनिश्चित करने का प्रयास करेगा, 
+ताकि डीजल जनरेटर सेट चलाने से बचा जा सके। 
+20. जो उपभोक्ता डीजल जनरेटर सेटों का उपयोग आवश्यक बैकअप पावर के रूप में कर रहे हैं, उन्हें इन विनियमों के 
+लागू होने की तिथि से पाँच वर्ष के भीतर स्वच्छ तकनीकी, जैसे बैटरी भंडारण के साथ नवीकरणीय ऊर्जा आदि को 
+अपनाने का प्रयास करना होगा। 
+
+
+24. निर्माण गतिविधियों या किसी अस्थायी उपयोग आदि के लिए उपभोक्ताओं को अस्थायी कनेक्शन देने की प्रक्रिया को 
+वितरण लाइसेंसी द्वारा सरल बनाया जाएगा और अड्तालीस घंटों के भीतर कनेक्शन प्रदान किया जायेगा और 
+जहाँ वितरण प्रणाली के विस्तार की आवश्यकता हो, वहाँ सात दिनों के भीतर कनेक्शन प्रदान किया जायेगा। 
+
+22. अस्थायी कनेक्शन पूर्व-भुगतान मीटर या उपभोक्ता मीटर के माध्यम से होगा जैसा कि समय-समय पर संशोधित 
+केन्द्रीय विद्युत प्राधिकरण (मीटरों की स्थापना और संचालन) विनियमों में परिभाषित किया गया है। 
+
+7) मूल विनियमों की “अनुसूची-॥| मुआवजा” में संशोधन 
+
+() अनुसूची-॥ को निम्नानुसार प्रतिस्थापित किया जाता है: 
+इन विनियमों की अनुसूची-ै में निर्दिष्ट प्रदर्शन के गारंटीकृत मानकों को पूरा करने में लाइसेंसधारी की विफलता के 
+मामले में, उपभोक्ता को मुआवजा देय होगा, जैसा कि नीचे दी गई तालिका में दर्शाया गया है: 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART HI—SEc.4] 
+
+
+मानक के उल्लंघन 
+के मामले में 
+व्यक्तिगत उपभोक्ता 
+WN) cate पेरामील्स मानक को. Se aaa स्वचालित/नियमावली 
+(उपभोक्ता. द्वारा 
+शिकायत करने के 
+समय से डिफ़ॉल्ट 
+माना जाएगा) 
+्य्ँ ' उपभोक्ताओं का बिलिंग 
+अंतिम बिल की प्रस्तुती 2 बिलिंग चक्रों के भीतर बिल राशि का 
+- 40%, अधिकतम 
+500/- रु. होगा 
+y यदि उपभोक्ता के अनुरोध प्रत्येक मामले के 
+' पर कनेक्शन काटने के बाद लिए 500/- रु. 
+भी बिल जारी किया जाता 
+है 
+मु बिलिंग संबंधी शिकायतों | यदि कोई अतिरिक्त जानकारी की | चूक होने पर प्रत्येक 
+- का समाधान आवश्यकता नहीं है, तो शिकायत | दिन के लिए t00/- | स्वचालित 
+प्राप्त होने के 7 दिनों के भीतर | ९. 
+समाधान करें। यदि आवश्यक हो, 
+तो अतिरिक्त जानकारी प्राप्त होने 
+के 7 दिनों के भीतर समाधान करें। 
+i उपभोक्ता को नवीनतम | लाइसेंसधारक को विशिष्ट रीडिंग | चूक होने पर प्रत्येक 
+बिल की आवश्यकता होने | करने के 7 दिनों के भीतर अंतिम | दिन के लिए 400/- 
+पर बिल तैयार करना होगा हे 
+| |. उपभोक्ता के कनेक्शन का स्थानांतरण एवं सेवाओं का परिवर्तन 
+ह संपत्ति के | आवेदन स्वीकार करने के 2 
+' स्वामित्व/अधिभोग में | nr चक्रों के भीतर 
+परिवर्तन के कारण 
+उपभोक्ता के नाम में 
+परिवर्तन 
+= | उपभोक्ता के नाम का | आवेदन स्वीकार करने के 2 
+कानूनी उत्तराधिकारी को | तब्रिलिंग चक्रों के भीतर चूक होने पर प्रत्येक 
+स्थानांतरण न तक ee 
+7 भार (लोड) में कमी आवेदन प्राप्ति के 30 दिन बाद हे स्वचालित 
+a श्रेणी में परिवर्तन आवेदन स्वीकार होने के 0 दिनों 
+के भीतर 
+a मीटर/सर्विस लाइन आदि | उपभोक्ता द्वारा अनुमानित राशि 
+
+
+का स्थानांतरण। 
+
+
+जमा कराने के 30 दिन के भीतर, 
+
+
+जिसके लिए लाइसेंसधारी को 30 
+दिन का समय दिया जाता है। 
+
+
+नये बिजली कनेक्शन जारी करना 
+
+
+[भाग पा--खण्ड 4] 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+0. 
+
+
+नया कनेक्शन/अतिरिक्त 
+लोड जहां 
+
+मौजूदा नेटवर्क से आपूर्ति 
+प्रदान की जा सकती है 
+
+
+Hal Met: आवेदन प्राप्त होने के 
+3 दिनों के भीतर सभी मामलों 
+में उपयुक्त प्रपत्र में पूरा करें। 
+शहरी/ नगरपालिका क्षेत्र: 
+आवेदन प्राप्त होने के 7 दिनों के 
+भीतर सभी मामलों में उपयुक्त 
+प्रपत्र में पूरा करें। 
+
+ग्रामीण क्षेत्र: आवेदन प्राप्त होने 
+के 45 दिनों के भीतर सभी 
+मामलों में उपयुक्त प्रपत्र में पूरा 
+करें। 
+
+द्वीप क्षेत्रों के ग्रामीण क्षेत्र: 
+आवेदन प्राप्त होने के 30 दिनों के 
+भीतर सभी मामलों में उपयुक्त 
+प्रपत्र में पूरा करें। 
+
+
+विस्तार कार्य या ट्रांसफार्मर 
+क्षमता में वृद्धि की 
+आवश्यकता है / वितरण 
+
+
+eq का विस्तार, या नए 
+सबस्टेशनों की श्ूरुआत 
+
+
+वितरण लाइसेंसधारी ऐसे विस्तार 
+या चालू होने के तुरंत बाद 90 
+दिनों की अवधि के भीतर ऐसे 
+परिसरों को बिजली की आपूर्ति 
+करेगा। 
+
+
+चूक होने पर प्रत्येक 
+दिन के लिए 200/- 
+रु. 
+
+
+नियमावली 
+
+
+आपूर्ति का विच्छेदन/पुन: संयोजन 
+
+
+पुनः कनेक्शन हेतु अनुरोध 
+
+
+यदि उपभोक्ता डिस्कनेक्शन के 
+बाद छह महीने की अवधि के 
+भीतर पुनः कनेक्शन के लिए 
+अनुरोध करता है, तो 
+लाइसेंसधारी को पिछले बकाया 
+और पुनः कनेक्शन शुल्क के 
+भुगतान के 7 दिनों के भीतर 
+उपभोक्ता के कनेक्शन को पुनः 
+इंस्टॉल करना होगा। 
+
+
+चूक होने पर प्रत्येक 
+दिन के लिए 400/- 
+रु. 
+
+
+स्वचालित 
+
+
+मीटर संबंधी शिकायतें 
+
+
+मीटर का परीक्षण 
+
+
+शिकायत प्राप्त होने के 30 दिनों के 
+भीतर 
+
+
+जले हुए मीटर को बदलना 
+
+
+जले हुए मीटर को बाईपास करके 
+6 घंटे के भीतर आपूर्ति बहाल 
+करनी होगी। मीटर को i5 दिनों 
+
+
+स्वचालित 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART IHI—SEc.4] 
+
+
+के भीतर बदलना होगा। 
+
+
+ख़राब मीटर को बदलना 
+
+
+परीक्षण के बाद मीटर को ख़राब 
+घोषित करने  5 दिन के भीतर 
+
+
+चूक होने पर प्रत्येक 
+दिन के लिए 400/- 
+रु. 
+
+
+Vi. 
+
+
+बिजली आपूर्ति विफलता 
+
+
+फ्यूज उड़ गया या एमसीबी 
+ट्रिप हो गया (यदि फ्यूज या 
+एमसीबी लाइसेंसधारी का 
+है, जैसे पोल या फीडर 
+
+
+पिलर फ्यूज) 
+
+
+शहरी क्षेत्रों के लिए 4 घंटे के 
+भीतर तथा दूरदराज के क्षेत्रों में 
+42 घंटे के भीतर। 
+
+
+टूटी हुई सर्विस लाइन पोल 
+से टूटी सर्विस लाइन 
+
+
+शहरी क्षेत्रों के लिए 6 घंटे के 
+भीतर तथा ग्रामीण क्षेत्रों के लिए 
+(2 घंटे के भीतर 
+
+
+वितरण लाइन/प्रणाली में 
+खराबी 
+
+
+खराबी को ठीक करना और उसके 
+बाद 72 घंटे के भीतर सामान्य 
+बिजली आपूर्ति बहाल करना 
+
+
+भूमिगत केबल का टूटना 
+
+
+24 घंटे के भीतर सुधार 
+
+
+प्रत्येक घंटे की चूक 
+के लिए 40/- रु. 
+
+
+स्वचालित 
+
+
+वितरण ट्रांसफार्मर 
+
+
+खराब/जला हुआ 
+
+
+शहरी क्षेत्रों में 24 घंटे के भीतर 
+खराब ट्रांसफार्मर को बदलना; 
+ग्रामीण क्षेत्रों में 48 घंटे के भीतर; 
+दूरदराज के क्षेत्रों में 60 घंटे के 
+भीतर। 
+
+
+चूक होने पर प्रत्येक 
+दिन के लिए 300/- 
+रु. 
+
+
+2. 
+
+
+एचटी मेन विफल हो जाने 
+पर 
+
+
+42 घंटे के भीतर खराबी का 
+सुधार 
+
+
+22. 
+
+
+ग्रिड (44/४५ या 33kV या 
+66 kV) सबस्टेशन में 
+समस्या 
+
+
+48 घंटे के भीतर मरम्मत एवं 
+आपूर्ति की बहाली 
+
+
+चूक होने पर प्रत्येक 
+दिन के लिए 400/- 
+रु. 
+
+
+23. 
+
+
+पावर ट्रांसफार्मर की 
+
+
+खराबी 
+
+
+अनुसूची-। के अनुच्छेद 75.8 के 
+अनुसार 
+
+
+चूक होने पर प्रत्येक 
+दिन के लिए 
+
+
+000/- रु. 
+
+
+स्वचालित 
+
+
+[भाग पा---खण्ड 4] 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+mi वोल्टेज में उतार-चढ़ाव 
+on ट्रांसफार्मर पर स्थानीय | 3 दिन के भीतर चूक होने पर प्रत्येक 
+| समस्या दिन के लिए 400/- 
+रु 
+25 यदि वितरण नेटवर्क एलटी सिस्टम के लिए 45 दिनों चूक होने पर प्रत्येक 
+' समस्या जहां नेटवर्क के | के भीतर एचटी सिस्टम के लिए | दिन के लिए 
+विस्तार या संवर्धन पर दिनो के आर eee 
+कोई ध्यान नहीं दिया जाता दा जे स्वचालित 
+oe यदि वितरण नेटवर्क | 490 दिनों के भीतर 
+- समस्या, यदि सब-स्टेशन के चूक होने पर प्रत्येक 
+निर्माण और/या क्षमता दिन के लिए 500/- 
+बढ़ाने सहित वितरण शी 
+प्रणाली के उन्नयन की न्‍ 
+आवश्यकता है 
+8) मूल विनियमों के “अनुलग्नरक-|॥॥” में संशोधन 
+(।) अनुलग्नक-॥॥ की क्रम संख्या 3 को निम्नानुसार प्रतिस्थापित किया जाएगा: 
+क. एसएआईएफआई 
+N tr 
+Ni= = (५ त्माहके | लाइसेंसधारी | =D(Ai xNi) 
+iia दौरान ith फीडर की आपूर्ति में hs 
+क्रसं. | माह | प्रभाविताए कक realest भी ० एसएआईएफआई =(2)/(7) 
+बटर कि रुकावटों की कुल पर x सभी 77kV 
+st संख्या (प्रत्येक 3 उपभोक्ता फीडरों के 
+की संख्या | free अधिक) की कुल संख्या | लिए (2) 
+() 
+पिन 
+एन 
+कुल 
+ख. एसएआईडीआई 
+N t= 
+Bi = के 
+Ni - प्रत्येक = फीडिए लाइसेंसधारी | =2(Bi Ni) 
+व्यवधान के | Seti की आपूर्ति में | कृषि फीडरों 
+कारण प्रभावित | '* सभी निरंतर | syed | को छोड़कर re 
+PA माह Gas रुकावटों (प्रत्येक एसए -(2)() 
+ith फीडर के पर सभी 44kV 
+उपभोक्ताओं की |. O™ मिनटसे | उपभोक्ताओं | फीडरों के 
+संख्या ) की कुल की कुल संख्या लिए (2) 
+अवधि () 
+aa 
+
+
+0 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART HI—SEc.4] 
+
+
+एन 
+कुल 
+ग. एमएआईएफआई 
+N tr 
+nie = ‘ = महीने के | retest | =E(Ci xN) 
+व्यवधान के | दौरान फीडर पर | क्री आपूर्ति में | कृषि फीडरों 
+कारण afore aay | ३ फीडरों | को छोड़कर 
+ea.) माह | प्रभावित|/ | की कुल संख्या ह सभी ky | एआईएफआई =(2)/ 
+ech | (त्येक 3 मिनट | उपभोक्ताओं | फीडरों के लिए 
+उपभोक्ताओं सेकमया | os कुल संख्या 2 
+की संख्या बराबर) (4) (2) 
+| 
+एन 
+कुल 
+घ. सीएआईएफआई 
+Na= 
+लाइसेंसधारी के 
+= A= माह के आपूर्ति क्षेत्र में | i ५, 
+५ प्रत्येक के फीडरों =2(Ai xNi) 
+कारण प्रभावित oo A cba 
+wa. | माह किक की रुकावटों की | उपभोक्ताओं की ey सीएआईएफआई =(2)/ 
+संख्या aL Gea ee फीडरों के 
+interruption (Tes 3 Tae | Peete की गई लिए (2) 
+से अधिक) अवधि के दौरान 
+व्यवधान का 
+अनुभव हुआ () 
+एन 
+कुल 
+ऊ.. सीएआईडीआई 
+= yas = TE | |॥- लाइसेंसधारी 
+a ia दौरान फीडर आप aa =2,(Bi कली) 
+व्यवधान के के के आपूर्ति क्षेत्र में 4 कृषि फीडरों 
+ु कारण ee केवी फीडरों पर कुल | को छोड़कर 
+क्रसं. | माह | प्रभावित" | रुकावटों उपभोक्ताओं की | aap ay | टिआईडीआई =(2)/ 
+फीडर के a (प्रत्येक 3 संख्या, जिन्हें रिपोर्ट फीडरों के लिए 
+उपभोक्ता a की गई अवधि के (2) 
+की संख्या अधिक) की दौरान व्यवधान का 
+
+
+[भाग गा---खण्ड 4] भारत का राजपत्र : असाधारण |] 
+
+
+कुल अवधि अनुभव हुआ (4) 
+
+
+N 
+
+
+कुल 
+
+
+नोट: वितरण लाइसेंसधारी को ऐसी रिपोर्ट अपनी वेबसाइट पर भी अपलोड करनी होगी। 
+एस डी शर्मा, सचिव 
+[वविज्ञापन-/4/असा./480/2024-25] 
+
+
+JOINT ELECTRICITY REGULATORY COMMISSION 
+(For the State of Goa and Union Territories) 
+NOTIFICATION 
+
+Gurugram, the 27th May, 2024 
+
+
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Standard of 
+Performance for Distribution Licensees) (First Amendment) Regulations, 2024 
+
+
+No. 9/20/20i5-JERC/680-In exercise of the powers conferred under Section 8l(l) and 8] (2) (za & 
+zb) of the Electricity Act, 2003, the Joint Electricity Regulatory Commission (for the State of Goa & Union 
+Territories) hereby makes the following amendments in the Joint Electricity Regulatory Commission for the State of 
+Goa and UTs (Standards of Performance for Distribution Licensees) Regulations, 20!5 (hereinafter referred to as the 
+Principal Regulations). 
+
+
+|) Short Title, Commencement and Extent 
+
+
+(a) These Regulations may be called the Joint Electricity Regulatory Commission for the State of Goa and Union 
+Territories (Standard of Performance for Distribution Licensees) (First Amendment) Regulations, 2024. 
+
+
+(b) These Regulations shall come into force from the date of their publication in the Official Gazette. 
+
+
+(c) These Regulations shall extend to the State of Goa and the Union Territories of Andaman & Nicobar Islands, 
+Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, Puducherry and Chandigarh. 
+
+
+2) AMENDMENT IN REGULATION 4 OF THE PRINCIPAL REGULATIONS: 
+(i) Following shall be inserted after Regulation 4.] (g): 
+
+
+A g(a) Customer Average Interruption Duration Index (CAIDI) means the average interruption duration of the 
+sustained interruptions (each longer than 3 minutes) for those who experienced interruptions during the reporting 
+period, as specified by the commission. 
+
+
+20) CUSTOMER AVERAGE INTERRUPTION FREQUENCY INDEX (CAIFI) MEANS THE AVERAGE 
+INTERRUPTION FREQUENCY OF THE SUSTAINED INTERRUPTIONS (EACH LONGER THAN 3 
+MINUTES) FOR THOSE WHO EXPERIENCED INTERRUPTIONS DURING THE REPORTING PERIOD, AS 
+SPECIFIED BY THE COMMISSION. 
+
+(ii) Following shall be inserted after Regulation 4. 0): 
+
+
+l(a) Momentary Average Interruption Frequency Index (MAIFI) means the average number of momentary 
+interruptions (each less than or equal to 3 minutes) per consumer occurring during the reporting period, as specified by 
+the commission. 
+
+
+(iii) Following shall be inserted after Regulation 4. (9): 
+
+
+p(a) System Average Interruption Duration Index (SAIDI) means the average duration of the sustained interruptions 
+(each longer than 3 minutes) per consumer occurring during the reporting period, as specified by the commission. 
+
+
+p(b) System Average Interruption Frequency Index (SAIFI) means the average frequency of the sustained 
+interruptions (each longer than 3 minutes) per consumer occurring during the reporting period, as specified by the 
+commission. 
+
+
+3) AMENDMENT IN REGULATION 8 OF THE PRINCIPAL REGULATIONS: 
+(i) Regulation 8. shall be substituted as under: 
+
+
+L2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+If the licensee fails to meet the specified standards of performance, the licensee shall pay compensation to the affected 
+consumer as per in Schedule-I of these Regulations. 
+
+
+(ii) Regulation 8.3 shall be substituted as under: 
+
+
+The payment of compensation shall be made to the affected consumers as per the rates specified under Schedule वा of 
+these Regulations by way of adjustment against current and/or for future bills from supply of electricity within 90 day 
+from the date of violation of specified standards. 
+
+
+(iii) Following shall be inserted after Regulation 8.3: 
+
+
+8.3a In case, the licensee fails to pay the compensation amount as laid down in Schedule-II of these Regulations, 
+the aggrieved consumer(s) may approach the respective Consumer Grievances Redressal Forum (CGRF) to seek such 
+compensation. 
+
+
+8.3b CONSUMER SHALL BE AUTOMATICALLY COMPENSATED FOR THOSE PARAMETERS WHICH 
+CAN BE MONITORED REMOTELY WHEN IT CAN BE SUCCESSFULLY ESTABLISHED THAT THERE IS 
+A DEFAULT IN PERFORMANCE OF THE DISTRIBUTION LICENSEE. 
+
+8.3८ The distribution licensee, within six months from the date of notification of these Regulations shall create an 
+online facility on which consumers may register their complaints and claim the compensation. The information in this 
+regard shall be widely circulated amongst consumers through appropriate means including mass media, bills, SMS, e- 
+mails or by uploading on licensee’s website.” 
+
+
+4) AMENDMENT IN REGULATION 9 OF THE PRINCIPAL REGULATIONS 
+(i) Following shall be inserted after Regulation 9.5: 
+
+
+9.5a The licensees shall endeavour to provide all services through a common Customer Relation Manager (CRM) 
+System to get a unified view of all the services requested, attended and pending, at the back end for better monitoring 
+and analysis. 
+
+
+9.5b The CRM shall have facilities for SMS, email alerts, notifications to consumers and officers for receipt of 
+application, completion of service, change in status of application, etc; online status tracking and auto escalation to 
+higher level, if services are not provided within the specified time period. 
+
+
+(ii) Following shall be inserted at the end of Regulation 9.6: 
+
+
+The distribution licensee shall arrange to give due publicity through media, TV, newspapers, website and by 
+displaying in boards at consumer service related offices to bring awareness for consumer rights, standards of 
+performance, compensation provisions, grievance redressal, measures for energy efficiency and any other schemes of 
+the distribution licensee. 
+
+(iii) | Following shall be inserted after Regulation 9.7 
+
+9.8 The distribution licensee shall make available manual of procedure for providing common services and 
+handling customer grievances for reference of consumers at every office of the distribution licensee and downloadable 
+from its website. 
+
+9.9 The distribution licensee shall arrange to display feeder wise outage data, efforts made for minimising 
+outages, prevention of theft or unauthorised use of electricity or tampering, distress or damage to electrical plant, 
+electric lines or meter and results obtained during the year, on its website. 
+
+9.0 whenever the existing meters are to be replaced by any new technology meters, the distribution licensee shall 
+take adequate measures to create consumer awareness regarding the advantages of replacement of the existing meters. 
+distribution licensee shall issue a public notice in at least four daily newspapers. such information shall also be 
+displayed on the distribution licensee’s website and the distribution licensee shall indicate the area wise schedule of 
+dates for replacement of such meters. 
+
+5) Amendment in “Schedule-I Guaranteed Standards of Performance” of the Principal Regulations 
+Following shall be inserted after Clause I5 of Schedule-I: 
+
+
+5(a): Release of new electricity connection 
+
+
+Nature of request Timeline 
+i. New connection/additional load where Metro Cities: within 3 days from receipt of application 
+supply can be provided from existing | complete in all respect in the appropriate form. 
+
+
+network 
+
+
+Urban/Municipal areas: within 7 days from receipt of 
+application complete in all respect in the appropriate form. 
+
+
+Rural area: within I5 days from receipt of application 
+complete in all respect in the appropriate form. 
+Rural area of Islands: 30 days from receipt of application 
+complete in all respect in the appropriate form. 
+
+
+[भाग पा--खण्ड 4] भारत का राजपत्र : असाधारण 3 
+
+
+ii. | Extension work or enhancement of | The distribution licensee shall supply the electricity to such 
+transformer capacity is  required/ | premises immediately after such extension 0 
+extension of distribution mains, or | commissioning within a period not exceeding 90 days.” 
+
+commissioning of new substations. 
+
+
+6) Amendment in “Schedule—II Overall Standards of Performance” of the Principal Regulations 
+(i) Following shall be inserted after Clause 8 of Schedule-II: 
+
+
+8 a Release of new electricity connection: 
+
+
+The Licensee Shall Achieve the Standards of Performance as Specified at sl. No. l5a of Schedule-I of these 
+Regulations. 
+
+
+(ii) Clause 5 of Schedule-II shall be substituted as under: 
+
+
+5a the distribution licensee shall supply 24x7 power to all consumers. however, the commission may prescribe lower 
+hours of supply for some categories of consumers like agriculture in business plan/tariff order. 
+
+
+i5b there shall be a uniform system of recording and reporting of distribution system reliability performance. the 
+same reliability indices shall be imposed on all licensees. the performance target levels set by the Commission 
+shall be unique to each licensee to be based initially on the historical performance of licensee and the same shall 
+be set in the Business Plan. 
+
+
+(iii) Clausel7 of Schedule-II shall be substituted as under: 
+
+
+The licensee shall compute value of the distribution reliability indices viz. SAIFI, SAIDI, MAIFI, CAIFI and 
+CAIDI separately for the Urban Area, Rural area as per the formula and methodology as specified at SI. No. 
+8 in this Schedule. 
+
+
+The distribution licensee shall put in place a mechanism, preferably with automated tools to the extent possible 
+for monitoring and restoring outages. 
+
+
+(iv) Clause 8 of Schedule-II shall be substituted as under: 
+
+
+8. The indices shall be computed for licensee as a whole by stacking, for each month all the !lkV feeders in 
+the supply area and then aggregating the number and duration of all interruptions in that month for each 
+feeder. The indices would then be computed using the following formulae: 
+
+
+a, SAIFI = १४ (७५ x N;)/N, 
+b. SAIDI = १४ (9 xN,)/N, 
+c. MAIFI=E?_,(G xN)/N, 
+
+
+d. CAIFI = 57_,(4; x Ni) /N, 
+e. CAIDI = E7_,(B; x NN, 
+where, 
+
+
+A:= Total number of sustained interruptions (each longer than 3 minutes) on i" Feeder for the month. 
+
+Bi= Total duration of all sustained interruptions (each longer than 3 minutes) on i Feeder for the month. 
+
+Ci= Total number of momentary interruptions (each less than or equal to 3 minutes) on i" Feeder for the month. 
+N;=Number of Consumers of i" feeder affected due to each interruption. 
+
+N-=Total number of Consumers at llkV feeders in licensee's supply area. 
+
+
+N= Total number of Consumers at llkV feeders in licensee's supply area who experience interruptions during 
+the reported period 
+
+
+n= Number of | kV feeders in licensee's supply area (excluding agricultural feeders) 
+
+
+Note: 
+
+
+(a) The feeders must be segregated into Urban area and Rural area and the value of the indices must be reported 
+separately for each month. 
+
+
+(b) Licensee shall propose the target level of these indices annually at the time of submitting ARR. The 
+
+
+4 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+Commission would thereafter notify these indices. 
+
+
+(v) Following shall be inserted after Clause 8 of Schedule-II 
+
+
+9. In view of the increasing pollution level particularly in the metros and the cities with a population !00,000 
+and above, the distribution licensee shall endeavor to ensure 24x7 uninterrupted power supply to all the 
+consumers, to avoid running the diesel generator sets. 
+
+20. The consumers, who are using the diesel generator sets as essential back up power, shall endeavor to shift to 
+cleaner technology such as renewable energy with battery storage etc., within five years from the date of 
+commencement of these Regulations. 
+
+2l. The process of giving temporary connections to the consumers for construction activities or any temporary 
+usage and the like shall be simplified by the distribution licensee and connection shall be provided not later 
+than forty-eight-hours and within seven days in case augmentation of the distribution system is required. This 
+shall avoid any use of diesel generator sets for temporary activities in the area of the distribution licensee. 
+
+22. The temporary connection shall be through a pre-payment meter or through consumer meters as defined in the 
+Central Electricity Authority (Installation and Operation of Meters) Regulations as amended from time to 
+time. 
+
+7) AMENDMENT IN “SCHEDULE-III COMPENSATION” OF THE PRINCIPAL REGULATIONS 
+
+(i) Schedule-III shall be substituted as under: 
+In case of failure of licensee to meet the guaranteed Standards of Performance as specified in Schedule-I of 
+these Regulations, compensation shall be payable to the consumer, as shown in the table below: 
+Compensation payable 
+to individual 
+consumer in case of 
+BNO: Performance Parameters Standard violaion: of Standard Automatic/Manual 
+(default shall be 
+considered from the 
+time consumer has 
+made complaint) 
+Billing of Consumers 
+Raising of Final Bill Within 2 Billing Cycles 0% of the Billed 
+: amount subject to 
+maximum of Rs. 500/- 
+2 In case Bills are raised Rs 500/- for each case 
+; even after disconnection 
+on consumer's request 
+Resolution of Billing | Resolve within 7 days of | Rs [00/- for each day of : 
+35 C : : ८ ६ Automatic 
+omplaints receipt of complaint, if no | default 
+additional information is 
+required. If required, within 7 
+days of receipt of additional 
+information 
+4 Consumer requiring upto | Licensee to carry out special | Rs [00/- for each day of 
+: date bill reading and prepare final bill | default 
+within 7 days 
+Il. Transfer of consumer's connection and conversion of services 
+5 Change of consumer's | Within 2 Billing Cycles of 
+ह name due to change in | acceptance of application 
+ownership/ occupancy for 
+property fi f 
+Transfer of consumer's | Within 2 Billing cycles of SS f AON HOE GRE AY F 
+om : f rer default Automatic 
+name to legal heir acceptance of application 
+4 Load Reduction 30 days after receipt of the 
+‘ application 
+aa Change of Category Within l0 days of acceptance 
+: of application 
+
+
+[भाग पा--खण्ड 4] 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+5 
+
+
+Shifting of Meter/Service 
+
+
+Within 30 days of consumer 
+
+
+a Line etc. depositing the — estimated 
+amount for which the licensee 
+is allowed 30 days. 
+II. Release of new electricity connection 
+0 New Metro Cities: within 3 days 
+: connection/additional from receipt of application 
+load where complete in all respect in the 
+supply can be provided | appropriate form. 
+popes suns Deby ors Urban/Municipal areas: 
+within 7 days from receipt of 
+application complete in all 
+respect in the appropriate 
+form. 
+Rural area: within |5 days 
+from receipt of application 
+complete in all respect in the 
+appropriate form. 
+Rural area of Islands: 30 
+days from _ receipt of 
+application complete in all 
+respect in the appropriate 
+form. 
+i Extension work or | The distribution licensee shall | Rs.200/- for. Each day | Manual 
+/ enhancement of | supply the electricity to such | of default 
+transformer capacity is | premises immediately after 
+required/ extension of | such extension or 
+distribution mains, or | commissioning within a 
+commissioning of new | period not exceeding 90 days. 
+substations 
+IV. ; | : fs 
+Disconnection/Reconnection of Supply 
+2 Request for reconnection In case consumer requests for 
+: reconnection within a period 
+of six months after dis- 
+connection, the Licensee shall | Rs 00/- for each day of Automatic 
+reconnect the consumer's | default 
+installation within 7 days of 
+payment of past dues and 
+reconnection charges. 
+Me Meter Complaints 
+3 Testing of Meter Within 30 days of receipt of 
+: complaint 
+4 Replacement of burnt | Within 6 hours of restoration 
+, meter supply by bypassing the burnt | Rs l00/- for each day of Automatic 
+meter. Meter to be replaced default 
+within I5 days. 
+5 Replacement of defective | Within I5 days of declaring 
+: meter Meter defective after testing 
+VE Power Supply failure 
+6 Fuse blown out or MCB | Within 4 hours for Urban 
+: Tripped (in case fuse or | areas Within l2 hours in 
+MCB belongs to Licensee | Remote areas. Rs 40/- for each hour of F 
+५ : f Automatic 
+i.e. pole or feeder pillar default 
+fuse) 
+7 Service line broken service | Within 6 hours for Urban 
+
+
+line snapped from the Pole 
+
+
+areas within l2 hours for 
+
+
+6 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART HI—SEc.4] 
+
+
+Rural areas 
+I8 Fault in distribution line/ | Rectification of fault and 
+ह system thereafter Restoration of 
+normal power supply within 
+2 hours 
+Breakdown of | Rectification within 24 hours 
+9. Cc 
+underground Cables 
+20 Distribution transformer | Replacement of failed 
+: failed/burnt transformer within 24 hours in 
+Urban areas; Rs 300/- for each day of 
+Within 48 hours in rural areas; default 
+Within 60 hours in Remote 
+areas. Automatic 
+4 HT mains failed Rectification of fault within 2 
+; hours Rs 400/- for each day of 
+22 Problem in grid (IkV or | Repair and_ restoration of default 
+; 33kV or 66 kV) substation | supply within 48 hours 
+23 Failure of Power | As per 5.8 of Schedule-I Rs 000/- for each day 
+‘ Transformer of default 
+VIL. : 
+Voltage fluctuation 
+Local problem on | Within 3 days Rs 00/- for each day of 
+24. Transfi f. 
+Transformer default 
+25 Distribution network | Within I5 days for LT System | Rs 200/- for each day of 
+: problem where no | Within 30 days for HT System | default 
+expansion on enhancement 
+of network is involved Automatic 
+Distribution network | Within l80 days Rs 500/- for each day of 
+26. : : 
+problem, if upgradation of default 
+distribution system 
+including erection and/or 
+enhancing capacity of sub- 
+station is required 
+8) AMENDMENT IN “ANNEXURE- III” OF THE PRINCIPAL REGULATIONS 
+(I) S.No. 3 of Annexure-III shall be substituted as under: 
+(a) SAIFI 
+Aj = Total number T 
+Ni = Number . N= Total =) (Ai xNi) 
+of sustained F 
+of Consumers : . number of or all LIkV 
+Ai interruptions (each C 
+5 of i feeder onsumers at feeders SAIF 
+l.No. Month longer than 3 है : AIFI=(2)/() 
+affected due to : ns llkV feeders in excluding 
+minutes) oni हि हु 
+each licensee's agriculture 
+हि हि feeder for the 
+interruption supply (l) feeders (2) 
+month 
+I 
+N 
+Total 
+
+
+[भाग पा--खण्ड 4] 
+
+
+भारत का राजपत्र : असाधारण [7 
+(0) SAIDI 
+N; = Number of a 80077 N,= Total =(B; xN;) 
+wyteeder ptions (each | consumers at | feeders 
+SENG: Mou affected due to cere oi llkV feeders excluding SADE) 
+each in licensee's agriculture 
+: : feeder for the f 
+interruption Gah supply (l) eeders (2) 
+I 
+N 
+Total 
+(c) MAIFI 
+C; = Total 
+Ni = Number ance! N.= Total me 
+of Consumers eee number of PAGE) 
+of i" feeder interruptions Casnnncoat For all /kV 
+S.No. Month Fy every ता० (० (each less than or LIKV feeders feeders excluding MAIFI=(2)/() 
+ees equal to 3 falieennce’s agriculture 
+pe aes minutes) on i” supply C0) feeders (2) 
+P feeder for the PPly 
+month 
+I 
+N 
+Total 
+(d) CAIFI 
+N.= Total number 
+A= Total of Consumers at 
+Ni=Number of number of lIkV feeders in =) (Ai xNi) 
+Consumers of sustained licensee's supply For all LkV 
+5 i” feeder interruptions area who feeders CAIF 
+aol Mom affected due to (each longer experience excluding 2265 22, 
+each than 3 minutes) interruptions agriculture 
+interruption on i" feeder for during the feeders (2) 
+the month reported period 
+() 
+| 
+N 
+Total 
+(e) CAIDI 
+Ni=Number B; = Total N= Total number of =) (3 xNi) 
+of Consumers | duration of all | Consumers at llkV For all LkV 
+f sth f ¢ f हे न ' fe 
+SLNo. Month ह i feeder sustained eeders in licensee's eeders CAIDI=(2)/() 
+affected due interruptions supply area who excluding 
+to each (each longer experience agriculture 
+interruption than 3 interruptions during feeders (2) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+minutes) on i" | the reported period 
+
+
+feeder for the (l) 
+month 
+] 
+N 
+Total 
+
+
+Note: The Distribution Licensee shall also upload such report on its website. 
+S.D.SHARMA, Secy. (I/C), JERC 
+[ADVT.-III/4/Exty./80/2024-25] 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-0054. 
+
+
+AMIT KUMAR awirxuman saisWwaL 
+JAISWAL Date: 2024.06.4 
+
+
+22:27:23 +05'30' 
+
+
