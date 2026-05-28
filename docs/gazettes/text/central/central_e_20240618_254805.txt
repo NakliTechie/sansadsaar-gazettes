@@ -1,0 +1,653 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 २८७0. No. 0. L.-33004/99 
+
+
+WRa < राजजपत्र 
+Che Gazette of India 
+
+
+सी.जी.-डी.एल.-अ.-19062024-254805 
+CG-DL-E-19062024-254805 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग —avs 3----उप-खण्ड (i) 
+PART II—Section 3—Sub-section (i) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+सं. 310] नई दिल्ली, मंगलवार, जून 18, 2024/ज्येष्ठ 28, 1946 
+No. 310] NEW DELHI, FRIDAY, JUNE 18, 2024/JYAISHTHA 28, 1946 
+
+
+पत्तन, पोत परिवहन और जलमार्ग मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली 18 जून, 2024 
+
+
+सा.का.नि. 333(अ).---अंतर्देशीय जलयान अधिनियम, 2021 (2021 का अधिनियम संख्या 24) की धारा 3 के 
+खंड (एफ); धारा 106 की धारा (2) के खंड (ए); धारा 22; धारा 106 और धारा 108 की धारा (2) के खंड (ओ); धारा 
+106 की धारा (2) के खंड (जेडजेडए) के तहत प्रदत्त शक्तियों का प्रयोग करते हुए, केंद्र सरकार अधिनियम के प्रावधानों को 
+प्रभावी रूप से प्रशासित करने और इसके प्रावधानों का प्रभावी कार्यान्वयन सुनिश्चित करने के लिए निम्नलिखित नियम 
+बनाती है, अर्थात; अंतर्देशीय जलयान [केंद्रीय डेटाबेस और संबद्ध मामले] नियम 2024 का मसौदा, जिसे केंद्र सरकार 
+अंतर्देशीय जलयान अधिनियम 2021 (2021 का 24) की धारा 106 की उप-धारा (1) द्वारा प्रदत्त शक्तियों के प्रयोग में 
+बनाने का प्रस्ताव करती है, इसके द्वारा प्रभावित होने वाले सभी व्यक्तियों की जानकारी के लिए प्रकाशित किया जाता है; 
+और इसके द्वारा यह सूचना दी जाती है कि उक्त प्रारूप पर उस तारीख से तीस दिन की अवधि की समाप्ति के पश्चात विचार 
+किया जाएगा, जिसको आधिकारिक राजपत्र में प्रकाशित इस अधिसूचना की प्रतियां जनता को उपलब्ध करा दी जाएंगी; 
+
+
+इन मसौदा नियमों पर आपत्तियां या सुझाव, ऊपर निर्दिष्ट अवधि के भीतर यदि कोई हों, निदेशक (आईडब्ल्यूटी), पत्तन, 
+पोत परिवहन और जलमार्ग मंत्रालय, कमरा नंबर 439, परिवहन भवन, 1-संसद मार्ग, नई दिलली-110001 को या 
+ajay.sirohi@nic.in और uttam.mishra27 @gov.in पर; ईमेल द्वारा भेजे जा सकते हैं। 
+
+
+3624 01/2024 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+मसौदा नियम 
+1. संक्षिप्त शीर्षक और प्रारंभ 
+(1) इन नियमों को अंतर्देशीय जलयान (केंद्रीय डेटाबेस और संबद्ध मामले) नियम 2024 कहा जाएगा। 
+(2) वे आधिकारिक राजपत्र में उनके अंतिम प्रकाशन की तारीख से प्रवृत होंगे। 
+2. परिभाषा।- 
+(1) इन नियमों में, जब तक कि संदर्भ से अन्यथा अपेक्षित न हो - 
+(क) "अधिनियम" का अर्थ अंतर्देशीय जलयान अधिनियम 2021 (2021 का अधिनियम संख्या 24) होगा। 
+(ख) "सक्षम प्राधिकारी" का अर्थ अधिनियम की धारा 6 के तहत गठित प्राधिकरण है। 
+हा " नामित प्राधिकारी" का अर्थ अधिनियम की धारा 5 की उपधारा (3) के तहत राज्य द्वारा नियुक्त नामित प्राधिकारी 
+| 
+"नोडल अधिकारी" - का अर्थ है अधिनियम की धारा 6 के तहत गठित सक्षम प्राधिकारी द्वारा नामित कार्यालय है। 
+
+
+(घ) "नोडल अधिकारी" - का अर्थ है नोडल कार्यालय का प्रशासन करने और नियम 5 के तहत कर्तव्यों का पालन करने के 
+लिए सक्षम प्राधिकारी द्वारा नियुक्त कोई भी अधिकारी। 
+
+
+(ड) "पोर्टल" का अर्थ है एक वेब या इलेक्ट्रॉनिक आधारित प्रणाली जो नोडल अधिकारी और नियम 5 के उप-नियम (4) के 
+तहत नियुक्त अधिकारियों या व्यक्तियों द्वारा स्थापित और अनुरक्षित की जाती है. 
+
+
+1. जहाजों के सर्वेक्षण और पंजीकरण, जहाजों के संबंध में प्रमाण पत्र जारी करने और चालक दल को 
+योग्यता प्रमाण पत्र जारी करने से संबंधित प्रक्रियाओं को सुविधाजनक बनाना 
+
+
+1. मशीन को संरक्षित करना, बनाए रखना और उस तक पहुंच प्रदान करना, 
+
+
+पठनीय, मुद्रण योग्य, साझा करने योग्य, सत्यापन योग्य और सुरक्षित इलेक्ट्रॉनिक रिकॉर्ड; के लिए 
+मशीन को सभी इलेक्ट्रॉनिक अभिलेखों का रखरखाव राज्य में पंजीकृत जहाजों से संबंधित सभी विवरण; 
+को रखने के लिए 
+
+
+४ चालक दल को जारी किए गए योग्यता प्रमाणपत्रों के डेट और सभी वाले इलेक्ट्रॉनिक रिकॉर्ड का रख- 
+रखाव। 
+
+
+(2) “थर्ड पार्टी एक्सेस" का अर्थ इन नियमों के अनुसार जहाज के किसी मालिक या जहाज या चालक दल या प्रशिक्षण 
+संस्थानों के मालिक के अधिकृत प्रतिनिधियों द्वारा केंद्रीय डेटाबेस तक पहुंच है, लेकिन इसमें अधिनियम या 
+नियमों के तहत प्रशासनिक या वैधानिक प्राधिकरण शामिल नहीं हैं। इन नियमों में प्रयुक्त और परिभाषित नहीं 
+किए गए लेकिन अधिनियम में परिभाषित शब्दों और अभिव्यक्तियों के वही अर्थ होंगे जो उन्हें अधिनियम में दिए 
+गए हैं। 
+
+3. सेंट्रल डेटाबेस का स्वरूप. - 
+
+
+अधिनियम की धारा 3 के खंड (एफ) में निर्दिष्ट केंद्रीय डेटाबेस में इलेक्ट्रॉनिक रूप में निम्नलिखित डेटा और विवरण शामिल 
+होंगे- 
+(1) जहाज का सर्वेक्षण करने के लिए आवेदन, सर्वेक्षक द्वारा जारी किया जाने वाला घोषणापत्र, उपकरण और 
+जहाज की जानकारी का रिकॉर्ड, सर्वेक्षण के अनंतिम प्रमाण पत्र के लिए आवेदन, सर्वेक्षण का अनंतिम प्रमाण पत्र, 
+सर्वेक्षण का प्रमाण पत्र, उन जहाजों के सर्वेक्षण के लिए प्रस्तुत किए जाने वाले विवरण जिनका पहली बार सर्वेक्षण 
+किया जाना है, अंतर्देशीय जलयान (सर्वेक्षण और प्रमाणन) नियम, 2022 के प्रपत्र 1 से 9 में निहित सर्वेक्षण 
+प्रमाणपत्र में जलयान के नाम में परिवर्तन के लिए आवेदन ; 
+
+
+(2) अंतर्देशीय जलयानों के रजिस्ट्रार द्वारा रखी जाने वाली पंजीकरण की पुस्तक, जहाज के पंजीकरण के लिए 
+आवेदन, जहाज के स्वामित्व की घोषणा, पंजीकरण प्राधिकारी द्वारा अंतर्देशीय जहाज के निरीक्षण की तारीख और 
+समय निश्चित करना, नक्काशी और अंकन नोट, संशोधन के पंजीकरण के लिए आवेदन (मार्टगेज), रजिस्ट्री के 
+
+
+[भाग --खण्ड 3(i)] भारत का राजपत्र : असाधारण 3 
+
+
+हस्तांतरण के लिए आवेदन, पंजीकरण का प्रमाण पत्र, बंधक बनाने वाला उपकरण, बंधक का हस्तांतरण करने 
+वाला उपकरण, बंधक का निर्वहन करने वाला उपकरण, पंजीकरण के अनंतिम प्रमाण पत्र के लिए आवेदन, 
+पंजीकरण का अनंतिम प्रमाण पत्र, जैसा कि अंतर्देशीय जलयानों के फॉर्म 1 से 13 में निहित है (पंजीकरण और अन्य 
+तकनीकी मुद्दे) नियम, 2022; 
+
+
+(3) चालक दल को जारी किए गए योग्यता प्रमाण पत्र, योग्यता प्रमाण पत्र के लिए परीक्षा में शामिल होने के लिए 
+चिकित्सा प्रमाण पत्र, सेवा का प्रमाण पत्र, योग्यता प्रमाण पत्र के लिए परीक्षा में शामिल होने के लिए आवेदन पत्र, 
+जैसा कि अंतर्देशीय जलयान (मैनिंग नियम), 2022 के फॉर्म 1 से 3 में निहित है। ; 
+
+
+(4) प्रदूषण के निवारण और रोकथाम के लिए अनुपालन का प्रमाण पत्र, जैसा कि अंतर्देशीय जलयान (प्रदूषण की 
+रोकथाम और रोकथाम) नियम, 2022 की तीसरी अनुसूची में निहित है, जैसा कि अंतर्देशीय जलयान (बीमा, 
+दायित्व की सीमा और) में निहित बीमा के प्रमाण पत्र पर फॉर्म 2 में निहित है। सेवा प्रदाताओं और सेवा 
+उपयोगकर्ताओं के दायित्व) नियम, 2022; 
+
+
+(5) रिसेप्शन सुविधाओं का डेटा और विवरण; 
+(6) ऐसे अन्य प्रपत्र जो विनिर्दिष्ट किये जायें। 
+4... निर्देश जारी करने की शक्तियाँ। - 
+
+
+सक्षम प्राधिकारी इन नियमों के प्रयोजनों के लिए नोडल अधिकारी के चयन और नियुक्ति के लिए योग्यता, मानदंड 
+और ऐसे अन्य नियमों और शर्तों के संबंध में निर्देश जारी करेगा। 
+
+
+5. नोडल अधिकारी के कर्तव्य: 
+
+
+(1) नोडल अधिकारी केंद्रीय डेटाबेस की निगरानी, प्रशासन और रखरखाव करेगा और यह सुनिश्चित करेगा कि वेब पोर्टल 
+में दर्ज और उपलब्ध जानकारी सुरक्षित और कार्यात्मक है। 
+
+
+(2) नोडल अधिकारी नियम 9 के तहत प्रत्येक राज्य के नामित प्राधिकारियों से डेटा और विवरण एकत्र करने के लिए 
+जिम्मेदार होगा। 
+
+
+(3) नियम 9 के तहत नामित प्राधिकारियों से प्राप्त प्रदर्शन और डेटा की एक रिपोर्ट नोडल अधिकारी द्वारा सक्षम 
+प्राधिकारी को उस नियमित अंतराल पर प्रदान की जाएगी, जैसा सक्षम प्राधिकारी द्वारा निर्देशित किया जाएगा। 
+
+
+(4) उपर्युक्त उपनियम (1) में दिए गए कर्तव्यों के पालन के प्रयोजनों के लिए सक्षम प्राधिकारी की पूर्व अनुमति के अधीन, 
+नोडल अधिकारी ऐसे अधिकारियों या व्यक्तियों को नियुक्त कर सकता है, जो सूचना प्रौद्योगिकी, डाटा हैंडलिंग और संरक्षण 
+तथा सॉफ्टवेयर या हार्डवेयर विकास या ऐसे अन्य प्रयोजनों के क्षेत्र में विशेषज्ञ हों; और ऐसी नियुक्ति समय-समय पर 
+केंद्रीय सरकार द्वारा अनिवार्य दिशा-निर्देशों, नियमों और शर्तों के अनुसार होगी। 
+
+
+(5) नोडल अधिकारी अपने अधीन नियुक्त अधिकारियों या व्यक्तियों को प्रशिक्षण प्रदान करेगा, ताकि डेटाबेस का उचित 
+उपयोग और उसमें निहित सूचना का प्रबंधन सुनिश्चित किया जा सके। नोडल अधिकारी नामित प्राधिकरणों के 
+अधिकारियों, अन्य अधीनस्थ अधिकारियों और हितधारकों को डेटाबेस और सूचना के प्रबंधन पर प्रशिक्षण भी प्रदान 
+करेगा। 
+
+
+(6) नोडल अधिकारी और नियम 5 के उप-नियम (4) के तहत नियुक्त अधिकारी या व्यक्ति निम्नलिखित तरीके से केंद्रीय 
+डेटाबेस का रखरखाव करेंगे: 
+
+
+i, डेटा की प्रामाणिकता, सुरक्षा, मानक और गुणवत्ता सुनिश्चित करना; 
+1. मापनीयता और प्रदर्शन अनुकूलन सुनिश्चित करना; 
+
+iii, बैकअप और रिकवरी के लिए ata तंत्र बनाना; 
+
+iv. डेटा की एकरूपता सुनिश्चित करना; 
+
+५. दस्तावेज़ीकरण और मेटाडेटा बनाए रखना ; 
+
+४. प्रदर्शन निगरानी और अनुकूलन सुनिश्चित करना; 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+vii. जीडीपीआर, पीसीआइ डी एसएस, मेटी दिशानिर्देश जैसे प्रासंगिक डेटा संरक्षण विनियमों का अनुपालन 
+सुनिश्चित करना ; 
+
+
+शा. परिवर्तन प्रबंधन और नियमित रखरखाव सुनिश्चित करना 
+
+
+ix, और डेटाबेस के रखरखाव के लिए मानक संचालन प्रक्रियाओं और दिशानिर्देशों का अनुपालन करना होगा, 
+जैसा कि समय-समय पर सक्षम प्राधिकारी द्वारा जारी किया जा सकता है। 
+
+
+केंद्रीय डाटाबेस को बनाए रखने के लिए मानक और प्रक्रियाएं: 
+
+(1) नियम 5 के अधीन रहते हुए, नोडल अधिकारी यह सुनिश्चित करेगा कि इन नियमों के अंतर्गत डाटाबेस को 
+बनाए रखने के लिए निम्नलिखित मानकों और प्रक्रियाओं का कार्यान्वयन निम्नलिखित तरीके से किया जाए: 
+
+1. डेटाबेस के प्रबंधन के लिए जिम्मेदारी का स्पष्ट निर्धारण | 
+
+1. . डेटा की गुणवत्ता, प्रामाणिकता और सुरक्षा के लिए जिम्मेदार व्यक्तियों या टीमों की पहचान | 
+
+ii, . डेटा निर्माण, भंडारण, पुनर्प्राप्ति और संग्रहण या विलोपन के लिए प्रक्रियाओं को परिभाषित करना। 
+
+
+iv. व्यवस्थापक , उपयोगकर्ता, अतिथि जैसी भूमिकाएं परिभाषित करना और प्रत्येक भूमिका के संबंध में 
+अधिकार निर्दिष्ट करना। 
+
+
+सुरक्षित लॉगिन तंत्र का कार्यान्वयन और यह निर्धारित करना कि कौन किस डेटा तक पहुंच सकता है । 
+५. पता लगाने और जवाबदेही के लिए सभी डाटाबेस गतिविधियों की लॉगिंग सुनिश्चित करना। 
+शो. डेटा की गंभीरता और अद्यतन के आधार पर लगातार बैकअप लेना। 
+
+
+शा. अनुपालन सुनिश्चित करने और भंडारण उपयोग को अनुकूलित करने के लिए बैकअप डेटा के लिए 
+अवधारण नीतियों को परिभाषित करना। 
+
+
+ix, डेटा को अक्षुण्ण और सुरक्षित रखने के लिए एक समर्पित डेटाबेस बनाना, 
+अधिनियम की धारा 3 के खंड (एफ) या धारा 41 या अधिनियम के तहत बनाए गए ऐसे अन्य नियमों में अनिवार्य 
+
+
+विवरणों को रिकॉर्ड करना ; 
+
+xi, रिकॉर्ड की गई और रखी गई सूचना या डेटा का स्रोत उपलब्ध कराना जो संबंधित प्राधिकारियों द्वारा 
+सत्यापन के लिए उपलब्ध है; 
+
+31. प्रशासन और/या तीसरे पक्ष के लिए उपयोगकर्ता मैनुअल, प्रतिबंध, प्रक्रियाएं और पहुंच के नियम व शर्तें 
+प्रदान करना; 
+
+
+31. खातों का पंजीकरण, उपयोगकर्ता पहचान और उपयोगकर्ता इंटरफ़ेस के लिए पासवर्ड निर्दिष्ट करना; 
+
+xiv. सूचना अपलोड करने के लिए प्रक्रिया प्रदान करना ; 
+
+xv. गोपनीयता नीतियां, देयताएं और कॉपीराइट प्रदान करना; 
+
+xvi. डेटाबेस को समय-समय पर अद्यतन करना; 
+
+xvii, खोजों का इतिहास बनाए रखना; 
+
+शा. आवश्यक अस्वीकरण प्रदान करना; और 
+
+xix, ऐसे अन्य मामले जिन्हें सक्षम प्राधिकारी द्वारा समय-समय पर शामिल करने का निर्देश दिया जा सकता 
+है। 
+
+XX. डेटाबेस अनुकूलन, पैच प्रबंधन और सॉफ़्टवेयर अपडेट जैसे नियमित रखरखाव कार्यों को सूची बद्ध करना। 
+
+xxi. डेटाबेस हितधारकों के बीच प्रभावी संचार के लिए सहभागिता प्लेटफार्मों का उपयोग करना। 
+
+xxii, डेटाबेस सुधार के लिए उपयोगकर्ताओं को फीडबैक और सुझाव देने के लिए चैनल स्थापित करना। 
+
+xxiii. विकसित हो रही आवश्यताओं और प्रौद्योगिकियों को संबोधित करने के लिए डेटाबेस दिशानिर्देशों, 
+नीतियों और प्रक्रियाओं की नियमित समीक्षा करना। 
+
+xxiv. प्रतिक्रिया मांगकर और पिछले अनुभवों से सीखे गए सबक को शामिल करके निरंतर सुधार की संस्कृति को 
+बढ़ावा दें। 
+
+xxv. विरासत डेटा की स्कैनिंग और केंद्रीय डेटाबेस में अपलोड्डिंग। 
+
+
+[भाग --खण्ड 3(i)] भारत का राजपत्र : असाधारण 5 
+
+
+(2) केंद्रीय डाटाबेस के उपयोगकर्ता यह सुनिश्चित करेंगे कि उपयोग या खोज इन नियमों के तहत प्रदान किए गए 
+मानकों और प्रक्रियाओं के पूर्ण अनुरूप है। 
+
+7. पहुंच: 
+(1) नोडल अधिकारी और नियम 5 के उप-नियम (4) के अधीन नोडल अधिकारी द्वारा नियुक्त अधिकारियों और 
+व्यक्तियों को डाटाबेस तक पूर्ण पहुंच होगी। 
+(2) उपनियम (1) में निहित किसी बात के होते हुए भी, सक्षम प्राधिकारी द्वारा जारी नियमों और शर्तों के अनुपालन 
+में, जेनेरिक डेटा तक सीमित थर्ड पार्टी को पहुंच प्रदान की जा सकती है। 
+(3) जहाजों के मालिकों को केवल उनके स्वामित्व वाले जहाजों से संबंधित जानकारी तक ही पहुंच होगी। 
+(4) चालक दल को केवल अपने प्रोफाइल तक ही सीमित पहुंच होगी। 
+(5) इस नियम के प्रयोजन के लिए, सक्षम प्राधिकारी केंद्र सरकार की पूर्व मंजूरी के साथ थर्ड पार्टी की पहुंच के नियम 
+और शर्तों को प्रदान करने के लिए ऐसे निर्देश या दिशानिर्देश जारी कर सकता है। 
+
+8. गोपनीयता: 
+(1) केंद्रीय डेटाबेस पर खोज से प्राप्त किसी भी जानकारी को गोपनीय माना जाएगा और सक्षम प्राधिकारी द्वारा 
+अनुमत घोषित उद्देश्य के अलावा इसका खुलासा नहीं किया जाएगा। 
+(2) इस नियम के प्रयोजन के लिए, सक्षम प्राधिकारी, निर्देश द्वारा, ऐसे नियम और शर्तें प्रदान कर सकता है जिनके 
+अधीन उपयोगकर्ता द्वारा जानकारी का खुलासा किया जा सकता है। 
+
+9. निर्दिष्ट प्राधिकारी का कर्तव्य. - 
+(1) प्रत्येक राज्य का नामित प्राधिकारी नियम 3 में निहित डेटा और विवरण नोडल अधिकारी को इलेक्ट्रॉनिक रूप 
+में तीस दिनों से अधिक के नियमित अंतराल पर उपलब्ध कराने के लिए जिम्मेदार होगा । 
+(2) प्रत्येक राज्य का नामित प्राधिकारी नियम 3 में निहित डेटा और विवरण के वास्तविक समय में नए इलेक्ट्रॉनिक 
+रिकॉर्ड बनाने के लिए जिम्मेदार होगा। 
+
+[फा. सं. IWT-11011/114/2021-IWT] 
+
+
+राजेश कुमार सिन्हा, अपर सचिव 
+
+
+MINISTRY OF PORTS, SHIPPING AND WATERWAYS 
+NOTIFICATION 
+New Delhi, the 18th June, 2024 
+
+
+G.S.R. 333(E).—In exercise of powers conferred under the clause (f) of sections 3; clause (a) of section (2) 
+of section 106; section 22; clause (0) of section (2) of section 106); clause (zza) of section (2) of section 106and 
+section 108 of the Inland Vessels Act, 2021 (Act no 24 of 2021), the Central Government hereby makes the following 
+tules to effectively administer the provisions of the Act and to ensure effective implementation of its provisions 
+namely; The draft of the Inland Vessels [Central Database and Allied Matters] Rules 2024, which the Central 
+Government proposes to make, in the exercise of the powers conferred by sub-section (1) of section 106 of the Inland 
+Vessels Act of 2021(24 of 2021), is hereby published for the information of all persons likely to be affected thereby; 
+and notice is hereby given that the said draft shall be taken into consideration after the expiry of a period of thirty days 
+from the date on which the copies of this notification as published in the Official Gazette are made available to the 
+public; 
+
+Objections or suggestions, if any, to these draft rules may be sent to the Director (IWT), Ministry of Ports, 
+Shipping & Waterways, Room No. 439, Transport Bhawan, 1-Parliament Street, New Delhi-110001, or by email at 
+ajay.sirohi @nic.in and uttam.mishra27 @ gov.in within the period specified above; 
+
+
+DRAFT RULES 
+1. Short Title and Commencement 
+(1) These Rules shall be called the Inland Vessels (Central Database & Allied Matters) Rules 2024. 
+
+
+(2) They shall come into force on the date of their final publication in Official Gazette. 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+25 Definition.- 
+
+
+(1) In these Rules, unless the context otherwise requires — 
+
+
+(a) 
+(b) 
+
+
+(c) 
+
+
+(d) 
+
+
+(e) 
+
+
+(2) 
+
+
+“Act” shall mean the Inland Vessels Act 2021(Act no 24 of 2021). 
+“Competent Authority” means authority constituted under section 6 of the Act. 
+
+
+(c) “Designated Authority” means the designated authorities appointed by the State under sub- 
+section (3) of Section 5 of the Act. 
+
+
+“Nodal office” — means office designated by the competent authority constituted under Section 6 of 
+the Act. 
+
+
+“Nodal officer” — means any officer appointed by the Competent Authority to administer the nodal 
+office and to perform duties under Rule5. 
+
+
+“Portal” means a web or electronic based system set up and maintained by the Nodal officer and the 
+officers or persons appointed under sub-rule (4) of rule 5 for- 
+
+
+ili. facilitating the processes relating to survey and registration of vessels, issuance of certificates in 
+respect of vessels and the issuance of certificates of competency to the crew; 
+
+
+iv. preserving, retaining and granting access to machine readable, 
+printable, shareable, verifiable and secure electronic records; 
+
+v. maintaining a repository of electronic records containing all 
+particulars pertaining to vessels registered in the state; 
+
+
+iv maintaining a repository of electronic records containing all details and data of the 
+certificates of competency issued to the crew 
+
+
+“Third party access” means access of Central Database in accordance with these Rules, by any 
+
+
+owner of vessel or authorized representatives of the owner of vessel or crew or training institutes but does not 
+include administrative or statutory authorities under the Act or the Rules. | Words and expressions used and 
+not defined in these rules, but defined in the Act, shall have the meanings respectively assigned to them in the 
+
+
+Act. 
+
+
+3. Form of Central Database. - 
+
+
+The Central Database referred to in clause (f) of section 3 of the Act shall contain the following data and details 
+in electronic form- 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+(6) 
+
+
+application for conducting survey of vessel, declaration to be issued by the Surveyor, record of 
+Equipment and vessel Information, application for provisional certificate of survey, provisional 
+certificate of survey, certificate of survey, particulars to be furnished for survey of vessels which are to 
+be surveyed for the first time, application for change of name of the vessel on certificate of survey, as 
+contained in Form 1 10 9 of the Inland Vessels (Survey and Certification) Rules, 2022; 
+
+
+book of registration to be maintained by the Registrar of Inland Vessels, application for registration of 
+vessel, declaration of ownership of vessel, appointment of date and time of inspection of the inland 
+vessel by the Registering Authority, carving and marking note, application for registration of alteration, 
+application for transfer of registry, certificate of registration, instrument creating mortgage, instrument 
+creating transfer of mortgage, instrument creating discharge of mortgage application for provisional 
+certificate of registration, provisional certificate of registration, as contained in Form 1 to 13 of the 
+Inland Vessels (Registration and Other Technical Issues) Rules, 2022; 
+
+
+certificates of competency issued to crew, medical certificate for appearing in examination for certificate 
+of competency, certificate of service, application form for appearing in examination for certificate of 
+competency, as contained in Form 1 to 3 of the Inland Vessels (Manning Rules), 2022; 
+
+
+certificate of compliance for prevention and containment of pollution, as contained in Third Schedule of 
+Inland Vessels (Prevention and Containment of Pollution) Rules, 2022, as contained in Form 2 on 
+certificate of insurance as contained in Inland Vessels (Insurance, Limitation of Liability and Obligations 
+of Service Providers and Service Users) Rules, 2022; 
+
+
+Data and details of reception facilities; 
+
+
+Such other forms as may be specified. 
+
+
+4. Powers to issue directions. - 
+
+
+The Competent Authority shall issue directions regarding the qualifications, criteria and such other terms and 
+conditions for selection and appointment of nodal officer for the purposes of these Rules. 
+
+
+[भाग II—ave 3(i)] भारत का राजपत्र : असाधारण 7 
+
+
+5. Duties of Nodal Officer: 
+
+
+(1) The nodal officer shall monitor, administer and maintain the Central Database and shall ensure that the 
+information recorded and available in the web portal is secured and functional. 
+
+
+(2) The nodal officer shall be responsible for collecting the data and details from the Designated Authorities of 
+each state under Rule 9. 
+
+
+(3) A report of performance and data received from the Designated Authorities under Rule 9 shall be provided 
+by the nodal officer to the Competent authority at such regular intervals, as may be directed by the Competent 
+Authority 
+
+
+(4) Subject to prior permission of Competent Authority for the purposes of performing the duties provided in 
+sub-rule (1) above, nodal officer may appoint officers or persons, who are experts in the field of information 
+technology, data handling and protection and software or hardware development or such other purposes; and 
+such appointment shall be in accordance with the guidelines, terms and conditions as mandated by the Central 
+Government from time to time 
+
+
+(5) The nodal officer shall provide for training of officers or persons appointed under him, to ensure 
+appropriate utilization of the database and the management of information contained therein. The nodal officer 
+shall also provide training of officials of Designated Authorities, other sub-ordinate officers and stakeholders 
+on database and management of information. 
+
+
+(6) The nodal officer and the officers or persons appointed under sub-rule (4) of Rule Sshall maintain the 
+central database in the following manner 
+
+
+i. ensure the integrity, security, standards and quality of data; 
+
+ii. ensure scalability and performance optimisation; 
+
+iii. make sufficient mechanisms for backup and recovery; 
+
+iv. ensure consistency of data; 
+
+v. maintain documentation and metadata; 
+
+vi. ensure performance monitoring and optimisation; 
+
+vii. ensure compliance with relevant data protection regulations such as GDPR, PCI DSS, Meity Guidelines; 
+viii ensure change management and regular maintenance 
+
+
+ix and comply with standard operating procedures and guidelines for maintenance of the database, as may be 
+issued by the Competent Authority from time to time. 
+
+
+6. Standards and procedures for maintaining the Central Database: 
+
+
+(1) Subject to rule 5, the nodal officer shall ensure that the following standards and procedures are 
+implemented for maintaining the database under these rules in the following manner: 
+
+
+1. clear designation of responsibility for managing the database. 
+
+ii. identification of individuals or teams responsible for data quality, integrity, and security. 
+
+iii. defining processes for data creation, storage, retrieval, and archiving or deletion. 
+
+iv. defining roles such as admin, user, guest and specify access rights for each role. 
+
+v. | implementation of secure login mechanisms and determine who can access what data. 
+
+vi. ensure logging of all database activities for traceability and accountability. 
+
+vii. performing frequent backups based on data criticality and frequency of updates. 
+
+viii. defining retention policies for backup data to ensure compliance and optimize storage usage. 
+ix. forming a dedicated database to keep the data intact and secured, 
+
+
+Xx. recording the details mandated in clause (f) of section 3), section 41 of the Act or in such other 
+Rules made under the Act; 
+
+
+x1. providing source of information or data that has been recorded and maintained is available for 
+verification by authorities concerned; 
+
+
+Xli. providing user manual, restrictions, procedures and terms and conditions of accessibility to 
+administration and / or third-party access; 
+
+
+जा, assigning registration of accounts, user identity and passwords for user interface; 
+
+
+8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+xlv. providing procedures for uploading of information; 
+
+Xv. providing privacy policies, liabilities and copy rights; 
+
+XVi. updating the database periodically; 
+
+XVii. maintaining history of searches; 
+
+XViii. providing necessary disclaimers; and 
+
+xix. such other matters as may be directed to be included by the Competent Authority from time to time. 
+
+
+xx. scheduling routine maintenance tasks such as database optimization, patch management, and 
+software updates. 
+
+
+xxi. utilizing collaboration platforms for effective communication among database stakeholders. 
+Xxli. establishing channels for users to provide feedback and suggestions for database improvement. 
+
+
+Xxiii. conduct regular reviews of database guidelines, policies, and procedures to address evolving needs 
+and technologies. 
+
+
+xxiv. foster a culture of continuous improvement by soliciting feedback and incorporating lessons learned 
+from past experiences. 
+
+
+xxv. scanning of legacy data and uploading in Central database. 
+
+
+(2) The users of the Central Database shall ensure that use or search is fully in conformity with the standards 
+and procedures provided under these Rules. 
+
+
+7. Accessibility: 
+
+
+(1) The nodal officer and the officers and persons appointed by the nodal officer under sub-rule (4) of rule 5, 
+shall have complete access to the database. 
+
+
+(2) Notwithstanding anything contained in sub-rule (1) above, in compliance with terms and conditions issued 
+by the Competent Authority, limited third party access to generic data may be provided. 
+
+
+(3) Owners of vessels shall have access only to the information relating to the vessels owned by them. 
+(4) Crew shall have limited access only to their profiles. 
+
+
+(5) For the purpose of this Rule, Competent Authority with the prior approval of Central Government may 
+issue such directions or guidelines to provide for the terms and conditions of third-party access. 
+
+
+8. Confidentiality: 
+
+
+(1) Any information obtained from the search on the Central Database shall be treated as confidential and shall 
+not be disclosed except for a purpose declared as permitted by the Competent Authority. 
+
+
+(2) For the purpose of this rule, Competent Authority may, by direction, provide for such terms and conditions 
+subject to which information could be disclosed by the user. 
+
+
+9. Duty of the Designated Authority. - 
+
+
+(1) The Designated Authority of each state shall be responsible for providing the data and details contained in 
+Rule 3 to the Nodal Officer in electronic form at regular intervals of not more than thirty days. 
+
+
+(2) The Designated Authority of each state shall be responsible for creating new electronic records in real time 
+of the data and details contained in Rule 3. 
+
+
+[F. No. IWT-11011/114/2021-IWT] 
+RAJESH KUMAR SINHA, Addl. Secy. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. manos cia 
+
+
+Signed by 
+MANOJ KUMAR VERMA 
+KUMAR Date: 2024.06.19 
+
+
+VERMA 22:33:43 +05'30' 
+
+
