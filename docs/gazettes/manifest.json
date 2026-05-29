@@ -1,3 +1,206 @@
 {
-  "texts": {}
+  "texts": {
+    "central": {
+      "central_e_20240708_255267": {
+        "size": 6735,
+        "url": "text/central/central_e_20240708_255267.txt"
+      },
+      "central_e_20240708_255268": {
+        "size": 6976,
+        "url": "text/central/central_e_20240708_255268.txt"
+      },
+      "central_e_20240708_255271": {
+        "size": 10264,
+        "url": "text/central/central_e_20240708_255271.txt"
+      },
+      "central_e_20240708_255272": {
+        "size": 15963,
+        "url": "text/central/central_e_20240708_255272.txt"
+      },
+      "central_e_20240708_255273": {
+        "size": 377464,
+        "url": "text/central/central_e_20240708_255273.txt"
+      },
+      "central_e_20240708_255274": {
+        "size": 384878,
+        "url": "text/central/central_e_20240708_255274.txt"
+      },
+      "central_e_20240708_255275": {
+        "size": 3008,
+        "url": "text/central/central_e_20240708_255275.txt"
+      },
+      "central_e_20240710_255358": {
+        "size": 30768,
+        "url": "text/central/central_e_20240710_255358.txt"
+      },
+      "central_e_20240711_255355": {
+        "size": 11619,
+        "url": "text/central/central_e_20240711_255355.txt"
+      },
+      "central_e_20240711_255356": {
+        "size": 13203,
+        "url": "text/central/central_e_20240711_255356.txt"
+      },
+      "central_e_20240711_255359": {
+        "size": 5180,
+        "url": "text/central/central_e_20240711_255359.txt"
+      },
+      "central_e_20240711_255360": {
+        "size": 12092,
+        "url": "text/central/central_e_20240711_255360.txt"
+      },
+      "central_e_20240711_255361": {
+        "size": 13144,
+        "url": "text/central/central_e_20240711_255361.txt"
+      },
+      "central_e_20240711_255363": {
+        "size": 12640,
+        "url": "text/central/central_e_20240711_255363.txt"
+      },
+      "central_e_20240711_255364": {
+        "size": 10348,
+        "url": "text/central/central_e_20240711_255364.txt"
+      },
+      "central_e_20240711_255365": {
+        "size": 4701,
+        "url": "text/central/central_e_20240711_255365.txt"
+      },
+      "central_e_20240711_255366": {
+        "size": 12374,
+        "url": "text/central/central_e_20240711_255366.txt"
+      },
+      "central_e_20240711_255372": {
+        "size": 4495,
+        "url": "text/central/central_e_20240711_255372.txt"
+      },
+      "central_e_20240711_255374": {
+        "size": 3209,
+        "url": "text/central/central_e_20240711_255374.txt"
+      },
+      "central_e_20240711_255379": {
+        "size": 9611,
+        "url": "text/central/central_e_20240711_255379.txt"
+      },
+      "central_e_20240711_255383": {
+        "size": 20387,
+        "url": "text/central/central_e_20240711_255383.txt"
+      },
+      "central_e_20240712_255406": {
+        "size": 23401,
+        "url": "text/central/central_e_20240712_255406.txt"
+      },
+      "central_e_20240715_255475": {
+        "size": 25624,
+        "url": "text/central/central_e_20240715_255475.txt"
+      },
+      "central_e_20240715_255488": {
+        "size": 8818,
+        "url": "text/central/central_e_20240715_255488.txt"
+      },
+      "central_e_20240716_255491": {
+        "size": 5376,
+        "url": "text/central/central_e_20240716_255491.txt"
+      },
+      "central_e_20240716_255492": {
+        "size": 4690,
+        "url": "text/central/central_e_20240716_255492.txt"
+      },
+      "central_e_20240716_255493": {
+        "size": 3511,
+        "url": "text/central/central_e_20240716_255493.txt"
+      },
+      "central_e_20240716_255494": {
+        "size": 4701,
+        "url": "text/central/central_e_20240716_255494.txt"
+      },
+      "central_e_20240716_255495": {
+        "size": 6440,
+        "url": "text/central/central_e_20240716_255495.txt"
+      },
+      "central_e_20240716_255496": {
+        "size": 5423,
+        "url": "text/central/central_e_20240716_255496.txt"
+      },
+      "central_e_20240716_255497": {
+        "size": 9701,
+        "url": "text/central/central_e_20240716_255497.txt"
+      },
+      "central_e_20240716_255499": {
+        "size": 2852,
+        "url": "text/central/central_e_20240716_255499.txt"
+      },
+      "central_e_20240716_255500": {
+        "size": 3514,
+        "url": "text/central/central_e_20240716_255500.txt"
+      },
+      "central_e_20240716_255501": {
+        "size": 7789,
+        "url": "text/central/central_e_20240716_255501.txt"
+      },
+      "central_e_20240716_255502": {
+        "size": 7787,
+        "url": "text/central/central_e_20240716_255502.txt"
+      },
+      "central_e_20240716_255503": {
+        "size": 8211,
+        "url": "text/central/central_e_20240716_255503.txt"
+      },
+      "central_e_20240716_255505": {
+        "size": 4415,
+        "url": "text/central/central_e_20240716_255505.txt"
+      },
+      "central_e_20240716_255506": {
+        "size": 28050,
+        "url": "text/central/central_e_20240716_255506.txt"
+      },
+      "central_e_20240716_255508": {
+        "size": 14511,
+        "url": "text/central/central_e_20240716_255508.txt"
+      },
+      "central_e_20240716_255509": {
+        "size": 95029,
+        "url": "text/central/central_e_20240716_255509.txt"
+      },
+      "central_e_20240716_255513": {
+        "size": 211166,
+        "url": "text/central/central_e_20240716_255513.txt"
+      },
+      "central_w_20240713_255387": {
+        "size": 16482,
+        "url": "text/central/central_w_20240713_255387.txt"
+      },
+      "central_w_20240713_255388": {
+        "size": 124605,
+        "url": "text/central/central_w_20240713_255388.txt"
+      },
+      "central_w_20240713_255389": {
+        "size": 67439,
+        "url": "text/central/central_w_20240713_255389.txt"
+      },
+      "central_w_20240713_255390": {
+        "size": 427776,
+        "url": "text/central/central_w_20240713_255390.txt"
+      },
+      "central_w_20240713_255391": {
+        "size": 403199,
+        "url": "text/central/central_w_20240713_255391.txt"
+      },
+      "central_w_20240713_255431": {
+        "size": 21609,
+        "url": "text/central/central_w_20240713_255431.txt"
+      },
+      "central_w_20240713_255458": {
+        "size": 15802,
+        "url": "text/central/central_w_20240713_255458.txt"
+      },
+      "central_w_20240713_255512": {
+        "size": 175464,
+        "url": "text/central/central_w_20240713_255512.txt"
+      },
+      "central_w_20240713_255789": {
+        "size": 459333,
+        "url": "text/central/central_w_20240713_255789.txt"
+      }
+    }
+  }
 }
