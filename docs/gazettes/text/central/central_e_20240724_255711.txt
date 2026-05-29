@@ -1,0 +1,942 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+AIX = राज्जपन्र 
+
+
+Che Gazette of India 
+
+
+सी.जी.-डी.एल.-अ.-24072024-255711 
+CG-DL-E-24072024-255711 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग प1---खण्ड 3---उप-खण्ड (i) 
+PART II—Section 3—Sub-section (i) 
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+a. 407] नई दिल्‍ली बुधवार, जुलाई 24, 2024/ श्रावण 2, 1946 
+No. 407] NEW DELHI, WEDNESDAY, JULY 24, 2024/ SHRAVANA 2, 1946 
+
+
+संचार मंत्रालय 
+(दूरसंचार विभाग) 
+
+
+अधिसूचना 
+नई दिल्‍ली, 24 जुलाई, 2024 
+
+
+सा.का.नि. 446(अ).--निम्नलिखित प्रारूप नियम जिसे केंद्र सरकार दूरसंचार अधिनियम, 2023 (2023 का 44) की 
+धारा 56 की उप-धारा (2) के खंड (जेडएच) के साथ पठित धारा 46 के तहत प्रदत्त शक्तियों का प्रयोग करते हुए बनाने का 
+
+
+प्रस्ताव करती है, को इससे प्रभावित होने वाले सभी व्यक्तियों की सूचना के लिए एतद्दवारा प्रकाशित किया जाता है तथा 
+एतद्वारा नोटिस दिया जाता है कि उक्त प्रारूप नियम पर उस तारीख से तीस दिन की अवधि की समाप्ति के पश्चात्‌ विचार 
+किया जाएगा जिस तारीख से सरकारी राजपत्र में यथाप्रकाशित इस अधिसूचना की प्रतियां सर्वसाधारण को उपलब्ध 
+
+
+कराई जाएगी; 
+
+
+यदि कोई आपत्ति या सुझाव हो तो उसे संयुक्त सचिव (दूरसंचार), दूरसंचार विभाग, संचार मंत्रालय, भारत 
+सरकार, संचार भवन, 20, अशोक रोड, नई दिल्‍ली 110001 को भेजा सकता है; 
+
+
+केंद्र सरकार द्वारा उक्त अवधि की समाप्ति से पूर्व उक्त प्रारूप नियम के संबंध में किसी भी व्यक्ति से प्राप्त आपत्ति 
+या सुझाव पर विचार किया जाएगा। 
+
+
+4555 GI/2024 (1) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+संक्षिप्त शीर्षक और प्रारंभ 
+(1) इन नियमों को दूरसंचार (वैश्विक समुद्री संकट और सुरक्षा प्रणाली के प्रचालन के लिए वाणिज्यिक रेडियो 
+ऑपरेटर का प्रवीणता प्रमाणपत्र) नियम, 2024 कहा जा सकता है। 
+(2) ये राजपत्र में अपने प्रकाशन की तारीख से प्रवृत्त होंगे। 
+परिभाषाएं 
+(1) ga नियमों में जब तक कि संदर्भ से अन्यथा अपेक्षित न हो: 
+क) "अधिनियम" से दूरसंचार अधिनियम, 2023 (2023 का 44) afer है; 
+
+
+ख) "जीएमडीएसएस" या " वैश्विक समुद्री संकट और सुरक्षा प्रणाली " से समुद्री सुरक्षा के लिए सुरक्षा 
+प्रक्रियाओं, फ़रिक्रेंसी, उपकरणों के प्रकार और संचार प्रोटोकॉल का अंतरराष्ट्रीय स्तर पर सहमत सेट 
+जो जहाज और तट दोनों ही स्थानों पर स्थलीय और उपग्रहीय रेडियो प्रौद्योगिकियों का उपयोग 
+करते हुए प्रचालन ALAA है; 
+
+ग) "जीएमडीएसएस प्रमाणपत्र" प्रमाण पत्र की दो श्रेणियों में से कोई भी, अर्थात्‌, जीएमडीएसएस 
+जीओसी और जीएमडीएसएस आरओसी, जैसा कि नियम 4 के उप-नियम (1) के तहत निर्दिष्ट से 
+अभिप्रेत है और " जीएमडीएसएस प्रमाणपत्र धारक" या "धारक" से अभिप्राय वह व्यक्ति जिसे 
+नियम 8 के तहत ऐसा प्रमाणपत्र दिया गया है; 
+
+
+घ) "भअंतर्राष्ट्रीय दूरसंचार सम्मेलन" से 1992 में जिनेवा में हस्ताक्षरित अंतर्राष्ट्रीय दूरसंचार संघ का 
+सम्मेलन या उसके बाद का कोई संशोधन या सुधार अभिप्रेत है जिसे भारत सरकार ने 
+अनुसमर्थित या स्वीकार किया है; 
+
+
+Ss) "पोर्टल" से वह पोर्टल अभिप्रेत है जिसे इन नियमों के नियम 15 के तहत केंद्र सरकार द्वारा 
+अधिसूचित किया जा सकता है; 
+
+
+a) “fear विनियमन” से विश्व रेडियो संचार सम्मेलन (जिनेवा 1995) द्वारा अपनाए गए 
+विनियमन और इसमें प्रत्येक संशोधन या सुधार शामिल हैं जिसे भारत सरकार द्वारा अनुसमर्थित 
+या स्वीकार किया गया अभिश्रेत है; 
+
+
+छ) "नियम" से दूरसंचार (वैश्विक समुद्री संकट और सुरक्षा प्रणाली के प्रचालन के लिए वाणिज्यिक 
+रेडियो ऑपरेटर का प्रवीणता प्रमाणपत्र) नियम, 2024अभिप्रेत है; 
+ज) "डब्ल्यूपीसी विंग" से दूरसंचार विभाग, भारत सरकार का बेतार आयोजना एवं समन्वय विंग 
+अभिद्रेत है। 
+(2) वे शब्द और पद जो इसमें प्रयुक्त हैं और परिभाषित नहीं है परंतु इस अधिनियम में परिभाषित हैं उनके वही 
+अर्थ होंगे जो उनके लिए उस अधिनियम में हैं। 
+कार्यक्षेत्र 
+
+
+कोई भी व्यक्ति इन नियमों के तहत प्रदान किए गए जीएमडीएसएस प्रमाणपत्र के निबंधन और शर्तों के तहत और 
+उनके अनुसार ही जीएमडीएसएस का प्रचालन करेगा। 
+
+
+जीएमडीएसएस प्रमाणपत्रों की श्रेणियाँ और पात्रता 
+(1) जीएमडीएसएस प्रमाण पत्र की दो श्रेणियां होंगी जो नियम 8 के तहत केंद्र सरकार द्वारा प्रदान की जा सकती 
+हैं, अर्थात्‌: 
+
+
+[भाग ave 30)] 
+
+
+भारत का राजपत्र : असाधारण 3 
+
+
+क) 
+
+
+ख) 
+
+
+जीएमडीएसएस - सामान्य ऑपरेटर का प्रमाणपत्र, या जीएमडीएसएस - जीओसी; 
+
+
+जीएमडीएसएस - सीमित ऑपरेटर का प्रमाणपत्र, या जीएमडीएसएस -आरओसी. 
+
+
+(2) संबंधित श्रेणी के तहत जीएमडीएसएस प्रमाणपत्र नियम 8 के अनुसार उस व्यक्ति को दिया जाएगा जो नीचे 
+दिए गए पात्रता मानदंडों को पूरा करता है और नियम 7 के तहत निर्दिष्ट परीक्षा उत्तीर्ण करता है: 
+
+
+जीएमडीएसएस-जीओसी 
+
+
+जीएमडीएसएस-आरओसी 
+
+
+भारत का नागरिक 
+
+
+भारत का नागरिक 
+
+
+परीक्षा की तिथि को अठारह वर्ष से अधिक आयु। 
+
+
+परीक्षा की तिथि को अठारह वर्ष से अधिक आयु। 
+
+
+क) 
+
+
+q 
+
+
+~~ 
+
+
+ग) 
+
+
+अखिल भारतीय उच्च माध्यमिक विद्यालय 
+प्रमाण-पत्र परीक्षा (12 वीं कक्षा) या भारत में 
+
+
+किसी मान्यता प्राप्त बोर्ड या विश्वविद्यालय 
+द्वारा आयोजित गणित और भौतिक विज्ञान 
+
+
+विषयों के साथ समकक्ष परीक्षा उत्तीर्ण की है; 
+अथवा 
+
+वाणिज्य पोत परिवहन अधिनियम, 1958 
+(1958 का 44) के प्रावधानों के अंतर्गत पोत 
+परिवहन महानिदेशक, भारत सरकार द्वारा 
+जारी या मान्यता प्राप्त योग्यता या इसके 
+समकक्ष का विधिमान्य प्रमाण-पत्र रखता है; 
+अथवा 
+
+डब्ल्यूपीसी विंग द्वारा जारी प्रवीणता या इसके 
+समकक्ष कोई विधिमान्य प्रमाण-पत्र रखता है। 
+
+
+क) माध्यमिक विद्यालय प्रमाण-पत्र परीक्षा (10 वीं कक्षा) 
+या भारत में किसी मान्यता प्राप्त बोर्ड या 
+विश्वविद्यालय द्वारा आयोजित समकक्ष परीक्षा उत्तीर्ण 
+की है या केंद्र सरकार या राज्य सरकार के समुद्री या 
+मत्स्य पालन विभागों के सांविधिक निकायों द्वारा 
+
+
+जारी विधिमान्य प्रमाण-पत्र रखता है; अथवा 
+
+
+मर्चेट नौवहन अधिनियम, 1958 (1958 का 44) के 
+प्रावधानों के तहत नौवहन महानिदेशालय, भारत 
+सरकार द्वारा जारी या मान्यता प्राप्त योग्यता या इसके 
+समकक्ष का विधिमान्य प्रमाण-पत्र रखता है; अथवा 
+
+
+gq 
+
+
+~— 
+
+
+ग) डब्ल्यूपीसी विंग द्वारा जारी प्रवीणता या इसके 
+
+
+समकक्ष कोई विधिमान्य प्रमाण-पत्र रखता है। 
+
+
+समय-समय पर केंद्र सरकार द्वारा अनुमोदन प्राप्त किसी 
+भी संस्थान में वैश्विक समुद्री संकट और सुरक्षा प्रणाली 
+उपकरण पर व्यावहारिक प्रशिक्षण प्राप्त किया हो जिसकी 
+अवधि लगातार दो सप्ताह (न्यूनतम छियानबे घंटे) के 
+
+
+लिए हो। 
+
+
+समय-समय पर केंद्र सरकार द्वारा अनुमोदन प्राप्त किसी भी 
+संस्थान में वैश्विक समुद्री संकट और सुरक्षा प्रणाली उपकरण 
+पर व्यावहारिक प्रशिक्षण प्राप्त किया हो जिसकी अवधि कम 
+से कम एक सप्ताह (न्यूनतम चालीस घंटे) के लिए हो। 
+
+
+(3) इन नियमों में समाविष्ट किसी बात के होते हुए केन्द्रीय सरकार, ऐसी शर्तों के अधीन रहते हुए जो वह समय- 
+समय पर लागू करे, किसी ऐसे व्यक्ति को जो भारत का नागरिक नहीं है नियम 7 के तहत संबंधित श्रेणी के 
+अंतर्गत जीएमडीएसएस प्रमाणपत्र प्रदान करने के प्रयोजन से आयोजित परीक्षा में बैठने की अनुमति दे सकती 
+
+
+5. 
+
+
+al 
+
+
+जीएमडीएसएस जीओसी प्रदान करने के लिए परीक्षा हेतु आवेदन 
+
+
+(1) नियम 4 के उप-नियम (2) के तहत निर्धारित पात्रता मानदंडों को पूरा करने वाला कोई भी व्यक्ति 
+जीएमडीएसएस जीओसी प्राप्त करने के लिए केंद्र सरकार को परीक्षा हेतु इस उद्देश्य के लिए निर्दिष्ट प्रपत्र में 
+आवेदन कर सकता है और एक हजार रुपये की फीस का भुगतान कर सकता है। 
+
+
+(2) 
+क) 
+
+
+ख) 
+70 अंक होंगे। 
+
+
+जीएमडीएसएस जीओसी को प्रदान करने के लिए परीक्षा में निम्नलिखित दो भाग होंगे: 
+भाग-। में 60 अंकों के लिए लिखित परीक्षा है, जिसके लिए उत्तीर्णांक 36 अंक होंगे; 
+भाग-॥ में 100 अंकों के लिए व्यावहारिक और मौखिक परीक्षा शामिल है, जिसके लिए उत्तीर्णाक 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+(3) परीक्षा के antl को सफलतापूर्वक उत्तीर्ण करने के बाद भाग-॥ को करना केवल उन आवेदकों के लिए 
+अनिवार्य होगी जिन्होंने पहले जीएमडीएसएस जीओसी नहीं किया है और जो ऐसे प्रमाण-पत्र की समाप्ति के 
+पांच साल से अधिक समय बाद जीएमडीएसएस जीओसी के लिए आवेदन कर रहे हैं। नियम 9 के उप नियम 
+(1), (2) और (3) के तहत आवेदक परीक्षा के भाग-॥ के लिए सीधे आवेदन कर सकते हैं। 
+
+
+जीएमडीएसएस आरओसी प्रदान करने के लिए परीक्षा के लिए आवेदन 
+
+
+(1) 
+
+
+(2) 
+
+
+नियम 4 के उप-नियम (2) के तहत निर्धारित पात्रता मानदंडों को पूरा करने वाला कोई भी व्यक्ति केंद्र 
+सरकार को जीएमडीएसएस आरओसी प्राप्त करने के लिए परीक्षा हेतु इस उद्देश्य के लिए निर्दिष्ट प्रपत्र में 
+आवेदन कर सकता है और एक हजार रुपये की फीस का भुगतान कर सकता है। 
+
+जीएमडीएसएस आरओसी प्रदान करने के लिए परीक्षा दो भागों में होगी भाग-। लिखित परीक्षा होगी और 
+भाग-॥ में व्यावहारिक और मौखिक परीक्षा होगी परीक्षा के प्रत्येक भाग के लिए 50 अंक होगा। सफल होने 
+के लिए आवेदक को भाग-| और भाग-| दोनों में संयुक्त रूप से कुल 50 अंक प्राप्त करने होंगे। 
+
+
+जीएमडीएसएस प्रमाण-पत्र प्रदान करने के लिए परीक्षा का आयोजन 
+
+
+(1) 
+
+
+(2) 
+
+
+केन्द्र सरकार क्रमशः जीएमडीएसएस जीओसी और जीएमडीएसएस आरओसी प्राप्त करने के लिए परीक्षा 
+का पाठ्यक्रम, स्थान, तरीका, तिथि और समय तथा ऐसी परीक्षा के परिणाम की घोषणा की तिथि 
+प्रकाशित करेगी। 
+
+
+ऐसी परीक्षा की भाषा अंग्रेजी होगी। 
+
+
+जीएमडीएसएस प्रमाण-पत्र प्रदान करना और वैधता 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+केंद्र सरकार परिणाम घोषित होने के तुरंत बाद सफल उम्मीदवारों को अनंतिम (प्रोविजनल) प्रमाण-पत्र 
+जारी करेगी जो छह माह तक वैध होगा। ऐसे प्रमाण-पत्रों की निबंधन और शर्तें अंतर्राष्ट्रीय दूरसंचार 
+सम्मेलन और रेडियो विनियमों के अंतर्गत विनिर्दिष्ट की जाएंगी। 
+
+अनंतिम (प्रोविजनल) प्रमाण-पत्र धारक को प्रोविजनल प्रमाण-पत्र जारी होने की तिथि से छह माह की 
+अवधि के भीतर संबंधित श्रेणी के जीएमडीएसएस प्रमाण-पत्र के लिए आवेदन करना होगा। 
+
+कोई भी अनंतिम (प्रोविजनल) प्रमाण-पत्र धारक जो छह माह की अवधि के बाद और प्रोविजनल प्रमाण-पत्र 
+जारी करने की तिथि से दो वर्ष तक जीएमडीएसएस प्रमाण-पत्र हेतु आवेदन करता है, उसे उप-नियम (5) 
+के अंतर्गत देय शुल्क के अलावा एक हजार रुपए के विलंब शुल्क का भुगतान करना होगा। 
+
+उप-नियम (1) के अंतर्गत अनंतिम (प्रोविजनल) प्रमाण-पत्र जारी करने की तिथि से दो वर्ष की अवधि 
+समाप्त होने पर जीएमडीएसएस प्रमाण-पत्र प्रदान नहीं किया जाएगा। 
+
+निम्नलिखित श्रेणियों में से किसी भी श्रेणी के अंतर्गत जीएमडीएसएस प्रमाण-पत्र निम्नलिखित तालिका में 
+विनिर्दिष्ट शुल्क के भुगतान के अधीन जारी किया जाएगा: 
+
+
+प्रमाण पत्र की श्रेणी 
+
+
+Ie 
+
+
+(i) 
+
+
+जीएमडीएसएस जीओसी 
+
+
+बीस वर्ष की वैधता अवधि के लिए दस हजार रुपये 
+
+
+आजीवन वैधता के लिए पंद्रह हजार रुपये 
+
+
+(ii) 
+
+
+जीएमडीएसएस आरओसी 
+
+
+आजीवन THAT के लिए पांच हजार रुपये 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण 5 
+
+
+9. 
+
+
+(6) 
+
+
+इस उप-नियम के प्रयोजनों के लिए "आजीवन" शब्द का तात्पर्य जीएमडीएसएस प्रमाण-पत्र धारक द्वारा 
+
+
+अस्सी वर्ष की आयु प्राप्त करने से है। 
+
+
+जीएमडीएसएस प्रमाण-पत्र की वैधता अवधि नियम 7 के अंतर्गत आयोजित परीक्षा के परिणाम की घोषणा 
+की तिथि से शुरू होगी। जीएमडीएसएस प्रमाण-पत्र की प्रत्येक श्रेणी अंतर्राष्ट्रीय दूरसंचार सम्मेलन और 
+रेडियो विनियमों के अंतर्गत विनिर्दिष्ट निबंधन और शर्तों के अधीन होगी। 
+
+
+जीएमडीएसएस जीओसी का नवीकरण 
+
+
+(1) 
+
+
+(2) 
+
+
+(4) 
+
+
+बीस वर्ष की प्रारंभिक अवधि के लिए aa जीएमडीएसएस जीओसी का नवीकरण ऐसे जीएमडीएसएस 
+जीओसी की समाप्ति से एक वर्ष पूर्व किए गए आवेदन के आधार पर इस प्रयोजन के लिए केन्द्र सरकार 
+द्वारा विनिर्दिष्ट प्रारूप में नियम 8 के उप-नियम (5) के अंतर्गत निर्धारित किए गए शुल्क का भुगतान करने 
+पर और निम्नलिखित निर्धारित मानदंडों में से किसी एक मानदंड को पूरा करने पर आगे बीस वर्ष की 
+अवधि के लिए अथवा आजीवन के लिए नवीकृत किया जा सकता है: 
+
+
+क) जीएमडीएसएस जीओसी की समाप्ति की तिथि से ठीक पूर्व पांच वर्ष की अवधि के भीतर कम से कम 
+छह माह के कुल अनुभव का प्रमाण प्रस्तुत करना; अथवा 
+
+ख) नियम 5 के उप-नियम (2) के उप-पैरा (ख) के अंतर्गत विनिर्दिष्ट परीक्षा के भाग-॥| को सफलतापूर्वक 
+उत्तीर्ण करना। 
+
+जीएमडीएसएस जीओसी की समाप्ति की तिथि से दो वर्ष की अवधि के भीतर नवीकरण के लिए आवेदन 
+
+उप-नियम (1) के अंतर्गत विनिर्दिष्ट मानदंडों की पूर्ति और एक हजार रुपये की दर से विलंब शुल्क के 
+
+भुगतान के अधीन होगा। 
+
+जीएमडीएसएस जीओसी की समाप्ति की तिथि से दो वर्ष के बाद नवीकरण के लिए आवेदन पर नियम 8 के 
+
+उप-नियम (5) के अंतर्गत निर्धारित किए गए शुल्क के भुगतान तथा एक हजार रुपये के विलंब शुल्क का 
+
+भुगतान भी करने के अतिरिक्त नियम 5 के अंतर्गत विनिर्दिष्ट परीक्षा के भाग-॥ को आवेदक द्वारा 
+
+सफलतापूर्वक उत्तीर्ण करने पर ही विचार किया जाएगा। 
+
+
+जीएमडीएसएस जीओसी की समाप्ति की तिथि से पांच वर्ष की अवधि समाप्त होने के बाद किसी भी 
+जीएमडीएसएस जीओसी का नवीकरण नहीं किया जाएगा। 
+
+
+डुप्लीकेट जीएमडीएसएस प्रमाण-पत्र जारी करना 
+
+
+(1) 
+
+
+(2) 
+
+
+जीएमडीएसएस प्रमाण-पत्र की डुप्लीकेट प्रति के लिए केंद्र सरकार को इस प्रयोजन के लिए विनिर्दिष्ट 
+प्रारूप में एक हजार रुपये की शुल्क के भुगतान के साथ आवेदन करना होगा। यदि जीएमडीएसएस प्रमाण- 
+पत्र खो गया है तो आवेदन के साथ स्थानीय पुलिस स्टेशन में प्रमाण-पत्र खोने के संबंध में दर्ज कराई गई 
+रिपोर्ट संलग्न करनी होगी। 
+
+
+केन्द्र सरकार ऐसे आवेदन के आधार पर डुप्लीकेट जीएमडीएसएस प्रमाण-पत्र जारी कर सकती है। 
+
+
+जीएमडीएसएस प्रमाण-पत्र धारकों पर लागू सामान्य दायित्व 
+
+
+(1) 
+
+
+केन्द्र सरकार इन नियमों के अंतर्गत किसी भी समय जीएमडीएसएस प्रमाण-पत्र धारक से प्रमाण-पत्र को 
+प्रस्तुत करने की मांग कर सकती है और प्रमाण-पत्र धारक को ऐसी मांग का अनुपालन करना होगा। 
+
+
+(2) जीएमडीएसएस प्रमाण-पत्र धारक ऐसे जीएमडीएसएस प्रमाण-पत्र प्रदान करने की प्रक्रिया को नियंत्रित 
+
+
+करने वाली किसी भी शर्त में किए गए संशोधन, परिवर्तन, प्रतिसंहरण अथवा निलबंन से बाध्य होगा। 
+नियम 15 के अंतर्गत अधिसूचित होने पर ऐसे परिवर्तनों को आधिकारिक वेबसाइट और इसके साथ-साथ 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+पोर्टल पर पर प्रकाशन के माध्यम से उपलब्ध कराया जाएगा और जीएमडीएसएस प्रमाण-पत्र के लिए 
+आवेदक द्वारा आवेदन में दिए गए ईमेल पते पर ईमेल भी भेजा जाएगा। 
+
+(3) यदि कोई संदेश जिसे प्राप्त करने का अधिकार जीएमडीएसएस प्रमाण-पत्र धारक को नहीं है, फिर भी उसे 
+वह संदेश प्राप्त होता है तो ऐसा जीएमडीएसएस प्रमाण-पत्र धारक इसके विषयों, इसके स्रोत अथवा 
+गंतव्य, इसके अस्तित्व अथवा इसकी प्राप्ति के तथ्य किसी भी व्यक्ति को ज्ञात नहीं करेगा अथवा ज्ञात करने 
+की अनुमति नहीं देगा, (केंद्र सरकार अथवा किसी न्यायालय द्वारा इस प्रयोजन के लिए विधिवत रूप से 
+
+
+प्राधिकृत अधिकारी के अलावा किसी अन्य को), और ऐसे संदेश की लिखित में प्रतिकृति नहीं बनाएगा, 
+उसकी प्रतिलिपि नहीं बनाएगा अथवा ऐसे संदेश का कोई उपयोग नहीं करेगा अथवा उस संदेश को 
+लिखित में प्रतिकृति बनाने, प्रतिलिपि बनाने अथवा उसका उपयोग किए जाने की अनुमति प्रदान नहीं 
+करेगा। 
+
+
+अन्य देशों द्वारा जारी किए गए प्रमाण-पत्रों की मान्यता 
+
+
+केन्द्र सरकार समय-समय पर यथाविनिर्दिष्ट शर्तों के अधीन नियम 8 के अंतर्गत प्रदान किए गए प्रमाण-पत्रों की 
+तर्ज पर किसी अन्य देश में सक्षम प्राधिकारी द्वारा जारी किए गए प्रमाण-पत्रों को मान्यता दे सकती Sl 
+
+
+जीएमडीएसएस प्रमाण-पत्र को निलंबित अथवा CE करना 
+
+केन्द्र सरकार जीएमडीएसएस प्रमाण-पत्र को निलंबित अथवा रद्द कर सकती है यदि उसके विचार में 
+जीएमडीएसएस प्रमाण-पत्र धारक ने: 
+
+क) ऐसे जीएमडीएसएस प्रमाण-पत्र के लिए लागू अंतर्राष्ट्रीय दूरसंचार सम्मेलन और रेडियो विनियमों के 
+
+
+प्रावधानों अथवा रेडियो उपकरण के प्रचालन के संबंध में ऐसे जीएमडीएसएस प्रमाण-पत्र धारक पर लागू 
+नियमों का पालन करने में विफल रहा हो अथवा 
+
+
+ख) जानबूझकर केन्द्र सरकार को गलत अथवा AAA सूचना दी हो; 
+
+
+aad कि इस उप-नियम के अंतर्गत निलंबित अथवा रद्द करने का कोई आदेश तब तक नहीं दिया जाएगा 
+जब तक जीएमडीएसएस प्रमाण-पत्र धारक को केंद्र सरकार के समक्ष प्रमाण-पत्र निलंबित अथवा रह करने 
+
+
+के विरुद्ध अभ्यावेदन देने का उचित अवसर नहीं दिया गया हो। 
+फीस वापस नहीं की जाएगी 
+किसी भी कारण से जीएमडीएसएस प्रमाण-पत्र को निलंबित अथवा te करने अथवा जीएमडीएसएस प्रमाण-पत्र 
+के निबंधन और शर्तों के किसी भी संशोधन, परिवर्तन, रद्द करने अथवा प्रतिसंहरण के परिणामस्वरूप कोई 
+मुआवजा नहीं दिया जाएगा अथवा शुल्क वापस नहीं किया जाएगा। 
+इन नियमों का डिजिटल कार्यान्वयन 
+
+
+केंद्र सरकार इस अधिनियम की धारा 53 के अनुक्रम में इन नियमों के डिजिटल कार्यान्वयन के लिए को पोर्टल 
+अधिसूचित कर सकती है जिसमें आवेदन प्रस्तुत करना, पाठ्यक्रम का प्रकाशन, परीक्षा का स्थान, तरीका, तिथि 
+और समय, परीक्षा के परिणामों की घोषणा, जीएमडीएसएस प्रमाण-पत्र प्रदान करना, निबंधन और शर्तों में 
+संशोधन, जीएमडीएसएस प्रमाण-पत्रों के संचालन के लिए यथा अपेक्षित कोई अन्य अनुमति, अनुदेश अथवा 
+निर्देश शामिल हैं। 
+
+
+[फा. सं. 24-03/2024-यूबीबी] 
+देवेंद्र कुमार राय, संयुक्त सचिव 
+
+
+[भाग [ave 3(i)] 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+MINISTRY OF COMMUNICATIONS 
+(Department of Telecommunications) 
+NOTIFICATION 
+New Delhi, the 24th July, 2024 
+
+
+G.S.R. 446(E).—The following draft rules, which the Central Government proposes to make in exercise of the powers 
+conferred under section 46, read with clause (zh) of sub-section (2) of section 56 of the Telecommunications Act, 
+2023 (44 of 2023), are hereby published for the information of all persons likely to be affected thereby and notice is 
+hereby given that the said draft rules shall be taken into consideration after the expiry of a period of thirty days from 
+the date on which copies of this notification as published in the Official Gazette, are made available to the public; 
+
+
+Objections or suggestions, if any, may be addressed to the Joint Secretary (Telecom), Department of 
+Telecommunications, Ministry of Communications, Government of India, Sanchar Bhawan, 20, Ashoka Road, New 
+
+
+Delhi - 110001; 
+
+
+The objections or suggestions which may be received from any person with respect to the said draft rules 
+before the expiry of the aforesaid period shall be taken into consideration by the Central Government. 
+
+
+1. Short title and commencement 
+
+
+(1) These rules may be called the Telecommunications (Commercial Radio Operator’s Certificate of 
+Proficiency to Operate Global Maritime Distress and Safety System) Rules, 2024. 
+
+
+(2) They shall come into force on the date of their publication in the Official Gazette. 
+
+
+2. Definitions 
+(1) In these rules, unless the context otherwise requires: 
+
+a) “Act” means the Telecommunications Act, 2023 (44 of 2023); 
+
+b) “GMDSS” or “Global Maritime Distress and Safety System” means an internationally 
+agreed set of safety procedures, frequencies, types of equipment, and communication 
+protocols for maritime safety, which operates using terrestrial and satellite radio technologies, 
+both onboard ships and onshore; 
+
+c) “GMDSS Certificate” means either of the two categories of certificates, namely, GMDSS 
+GOC and GMDSS ROC, as specified under sub-rule (1) of rule 4, and a “GMDSS 
+Certificate holder” or “holder” means the person who has been granted such certificate 
+under rule 8; 
+
+d) “International Telecommunication Convention” means the Convention of the International 
+Telecommunication Union signed at Geneva in 1992 or any subsequent revision or 
+modification thereof which the Government of India has ratified or accepted; 
+
+e) “portal” means the portal which may be notified by the Central Government under rule 15 of 
+these rules; 
+
+f) “Radio Regulations” means the regulations adopted by the World Radiocommunication 
+Conference (Geneva 1995) and includes every revision or modification thereof which the 
+Government of India has ratified or accepted; 
+
+g) “rules” means the Telecommunications (Commercial Radio Operator’s Certificate of 
+Proficiency to operate Global Maritime Distress and Safety System) Rules, 2024; 
+
+h) “WPC Wing” means the Wireless Planning and Co-ordination Wing of the Department of 
+
+
+Telecommunications, Government of India. 
+
+
+(2) Words and expressions used and not defined herein but defined in the Act shall have the meaning 
+assigned to them in the Act. 
+
+
+3. Scope 
+
+
+No person shall operate GMDSS except under and in accordance with the terms and conditions of aGMDSS 
+Certificate granted under these rules. 
+
+
+4. Categories of GMDSS certificates and eligibility 
+
+
+(1) There shall be two categories of GMDSS Certificates which may be granted by the Central 
+Government under rule 8, namely: 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEc. 3(4)] 
+
+
+a) GMDSS - General Operator’s Certificate, or GMDSS- GOC; 
+b) GMDSS - Restricted Operator’s Certificate, or GMDSS- ROC. 
+
+
+(2) AGMDSS Certificate under the relevant category shall be granted in accordance with rule 8 to a person 
+who satisfies the eligibility criteria as set forth below, and qualifies the examination specified 
+
+
+under rule 7: 
+
+
+GMDSS - GOC 
+
+
+GMDSS - ROC 
+
+
+Citizen of India 
+
+
+Citizen of India 
+
+
+Above the age of eighteen years, as on the date of 
+examination. 
+
+
+Above the age of eighteen years, as on the date of 
+examination. 
+
+
+(a) 
+
+
+(b) 
+
+
+Passed the All India Senior Secondary School 
+Certificate Examination (12" standard) or 
+equivalent examination conducted by a 
+recognized Board or University in India with 
+Mathematics and Physics as subjects; or 
+
+
+Holds a valid Certificate of Competency or its 
+equivalent issued or recognized by 16 
+Directorate General of Shipping, Government of 
+India, under the provisions of the Merchant 
+Shipping Act, 1958 (44 of 1958); or 
+
+
+(a) Passed the Secondary School Certificate 
+Examination or an equivalent examination (10" 
+standard) conducted by a recognized Board or 
+University in India or holds a valid certificate 
+issued by statutory bodies of maritime or fisheries 
+departments of the Central Government or State 
+Government; or 
+
+(b) Holds a valid Certificate of Competency or its 
+equivalent issued or recognized by the Directorate 
+General of Shipping, Government of India, under 
+the provisions of the Merchant Shipping Act, 1958 
+
+
+(44 of 1958); or 
+(c) Holds a valid certificate of proficiency or its 
+equivalent issued by the WPC Wing. (c) Holds a valid certificate of proficiency or its 
+
+
+equivalent issued by the WPC Wing. 
+
+
+Has undergone practical training on Global Maritime 
+Distress and Safety System equipment, in any of the 
+institutes approved by the Central Government from 
+time to time, for a period not less than two continuous 
+weeks (minimum ninety-six hours). 
+
+
+Has undergone practical training on Global Maritime 
+Distress and Safety System equipment, in any of the 
+institutes approved by the Central Government from time 
+to time, for a period not less than one week (minimum 
+forty hours). 
+
+
+(3) Notwithstanding anything contained in these rules, the Central Government may, subject to such 
+conditions as it may impose from time to time, permit a person, not being a citizen of India, to take the 
+examination held under rule 7, for the purpose of grant of the GMDSS Certificate under the relevant 
+category. 
+
+
+5. Application for examination for grant of GMDSS GOC 
+(1) Any person satisfying the eligibility criteria set forth under sub-rule (2) of rule 4 may make an 
+application for the examination for obtaining the GMDSS GOC to the Central Government, in the 
+form as may be specified for this purpose and pay fees of one thousand rupees. 
+
+
+(2) Examination for grant of GMDSS GOC shall consist of the following two parts: - 
+(a) Part-I comprising of a written examination for 60 marks, for which the passing marks shall be 
+36 marks; and 
+
+
+(b) Part-II comprising of a practical and oral examination, for 100 marks, for which the passing 
+marks shall be 70 marks. 
+
+
+(3) The successful completion of Part-I of the examination shall be a mandatory requisite for undertaking 
+Part-II only for applicants who have previously not held GMDSS GOC, and those applying for 
+GMDSS GOC more than five years after the expiry of such certificate. Applicants under sub rules (1), 
+(2) and (3) of rule 9 can apply directly for the Part-II examination. 
+
+
+6. Application for examination for grant of GMDSS ROC 
+(1) Any person satisfying the eligibility criteria set forth under sub-rule (2) of rule 4 may make an 
+application for the examination for obtaining GMDSS ROC to the Central Government, in the form as 
+may be specified for this purpose and pay fees of one thousand rupees. 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण 9 
+
+
+(2) 
+
+
+Examination for grant of GMDSS ROC shall consist of Part-I comprising of a written examination and 
+Part-II comprising of practical and oral examination, each part having 50 marks. A successful applicant 
+shall be required to obtain a total combined score of 50 marks in Part I and Part II together. 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+7: Conduct of examination for grant of GMDSS Certificate 
+(1) The Central Government shall publish the syllabus, place, manner, date and time for the examination 
+for obtaining the GMDSS GOC and GMDSS ROC respectively, and the date of announcement of the 
+results of such examination. 
+(2) The language of such examination shall be English. 
+8. Grant and validity of GMDSS Certificate 
+(1) The Central Government shall issue a provisional certificate with a validity of six months to the 
+successful candidates immediately on declaration of the results. The terms and conditions for such 
+certificates shall be as specified under the International Telecommunication Convention and the Radio 
+Regulations. 
+(2) A provisional certificate holder shall apply for GMDSS Certificate of the relevant category, within a 
+period of six months from the date of issue of the provisional certificate. 
+(3) Any provisional certificate holder who applies for the GMDSS Certificate beyond a period of six 
+months and up to two years from date of issue of provisional certificate, shall be required to make a 
+payment of late fees of one thousand rupees in addition to the fees payable under sub-rule (5). 
+(4) The GMDSS Certificate shall not be granted upon lapse of two years from the date of issue of 
+provisional certificate under sub-rule (1). 
+(5) GMDSS Certificate under any of the following categories shall be issued subject to payment of fees as 
+specified below: 
+Category of Certificate Fee 
+(i) GMDSS GOC Ten thousand rupees for validity period of twenty years 
+Fifteen thousand rupees for lifetime validity 
+(ii) GMDSS ROC Five thousand rupees for lifetime validity 
+
+For the purposes of this sub-rule, the expression “lifetime” means till the GMDSS Certificate holder attains the 
+
+age of eighty years. 
+
+(6) The validity period of the GMDSS Certificate shall commence from the date of declaration of the result 
+of the examination conducted under rule 7. Each category of GMDSS Certificate shall be subject to terms 
+and conditions as specified under the International Telecommunication Convention and the Radio 
+Regulations. 
+
+9. Renewal of GMDSS GOC 
+
+
+A GMDSS GOC which is valid for an initial period of twenty years, may be renewed for another twenty 
+years or for lifetime, based on an application made within one year prior to the expiry of such GMDSS 
+GOC, in the form as may be specified by the Central Government for this purpose, on payment of fee as 
+provided under sub-rule (5) of rule 8, and fulfilment of either of the criteria set forth below: 
+
+
+a) submission of proof of total experience of not less than six months, within a period of five years 
+immediately preceding the date of expiry of the GMDSS GOC; or 
+
+b) — successful completion of Part-II of the examination as specified under sub-paragraph (b) of sub- 
+rule (2) of rule 5. 
+
+
+An application for renewal within two years after the date of expiry of the GMDSS GOC, subject to the 
+fulfilment of the criteria specified under sub-rule (1) above and payment of late fees at the rate of one 
+thousand rupees. 
+
+
+An application for renewal after two years of the date of expiry of the GMDSS GOC, shall be considered 
+only upon successful completion by the applicant of Part-II of the examination as specified under rule 5, 
+in addition to payment of fee as provided under sub-rule (5) of rule 8, as well as payment of late fee of 
+one thousand rupees. 
+
+
+No GMDSS GOC shall be renewed after a lapse of five years from the date of expiry of the GMDSS 
+GOC. 
+
+
+10 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+10. 
+
+
+11. 
+
+
+12. 
+
+
+13. 
+
+
+14. 
+
+
+15. 
+
+
+Issue of duplicate GMDSS Certificate 
+
+
+(1) An application for duplicate GMDSS Certificate shall be made to the Central Government in the form 
+as specified for this purpose, along with payment of fees of one thousand rupees. In case the GMDSS 
+Certificate has been lost, the application shall be accompanied with the report filed with the local 
+police regarding such loss. 
+
+
+(2) The Central Government may issue a duplicate GMDSS Certificate based on such application. 
+General obligations applicable to GMDSS certificate holders 
+
+
+(1) The Central Government may under these rules at any time require the GMDSS Certificate holder to 
+produce the same and the holder shall comply with such requisition. 
+
+
+(2) The GMDSS Certificate holder shall be bound by modification, variation, cancellation or revocation 
+of any of the conditions governing the grant of such GMDSS Certificate. Such changes shall be made 
+available through publication on the official website, as well as on the portal as and when notified 
+under rule 15, and an email shall also be sent to the email address provided by the applicant in his 
+application for GMDSS Certificate. 
+
+(3) If any message which a GMDSS Certificate holder is not entitled to receive is, nevertheless received, 
+such GMDSS Certificate holder shall not make known or allow to be made known its contents, its 
+origin or destination, its existence or the fact of its receipt to any person, (other than to an officer duly 
+authorised for this purpose by the Central Government or a court of law), and shall not reproduce in 
+writing, copy or make any use of such message or allow the same to be reproduced in writing, copied 
+or made use of. 
+
+
+Recognition of certificates issued by other countries 
+
+
+The Central Government may recognize, subject to conditions as it may specify from time to time, 
+certificates similar to those granted under rule 8, issued by a competent authority in any other country. 
+Suspension or cancellation of GMDSS Certificate 
+
+The Central Government may suspend or cancel the GMDSS Certificate if in its opinion, the GMDSS 
+
+Certificate holder has: 
+
+(a) failed to comply with the provisions of the International Telecommunication Convention and the 
+Radio Regulations as applicable for such GMDSS Certificate, or rules applicable to such GMDSS 
+Certificate holder in respect of operation of radio equipment, or 
+
+(b) wilfully furnished incorrect or false information to the Central Government; 
+
+Provided that no order of suspension or cancellation under this sub-rule shall be made unless the 
+GMDSS Certificate holder has been given a reasonable opportunity of making a representation against 
+such suspension or cancellation to the Central Government. 
+
+No refund of fees 
+
+
+No compensation or refund of fees shall be applicable as a result of any suspension or cancellation of the 
+GMDSS Certificate, for any reason whatsoever, or for any modification, variation, cancellation or 
+revocation of terms and conditions of the GMDSS Certificate. 
+
+
+Digital Implementation of these Rules 
+
+
+The Central Government, in furtherance of section 53 of the Act, may notify a portal for the digital 
+implementation of these rules, including for submission of applications, publication of syllabus, place, 
+manner, date and time of examination, declaration of results of examinations, grant of GMDSS Certificate, 
+modification of terms and conditions, any other permission, instruction or direction as may be required for 
+the operation of the GMDSS Certificates. 
+
+
+[F. No. 24-03/2024-UBB] 
+DEVENDRA KUMAR RAL, Jt. Secy. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. Sa®véstkuma 
+
+
+SRIVASTAVA 
+
+
