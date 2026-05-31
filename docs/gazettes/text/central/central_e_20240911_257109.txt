@@ -1,0 +1,639 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Jiitd = राज्जपतनत्र 
+Che Gazette of Jndia 
+
+
+OG. -Wa. 3M. -37.-2092024-25709 
+CG-HR-E-2092024-25709 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग Wi—ave 4 
+PART IJ—Section 4 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 77] नई दिल्ली, बुधवार, सितम्बर , 2024/भाद्र 20, 946 
+No. 77] NEW DELHI, WEDNESDAY, SEPTEMBER II, 2024/BHADRA 20, 946 
+संयुक्त विद्युत विनियामक आयोग 
+(गोवा राज्य और संघ राज्य क्षेत्र) 
+अधिसूचना 
+गुरुग्राम, । अगस्त, 2024 
+गोवा राज्य और संघ राज्य क्षेत्र के लिए संयुक्त विद्युत विनियामक आयोग 
+(नेट मीटर्रिंग और ग्रॉस मीटर्रिंग पर आधारित सोलर पीवी ग्रिड इंटरएक्टिव सिस्टम) 
+(प्रथम संशोधन) विनियम, 2024 
+
+
+सं. जेईआरसी -24/2049.--विद्युत अधिनियम, 2003 की धारा 484 की उप-धारा (॥) के अंतर्गत प्रदत्त शक्तियों 
+और इस संबंध में इसे सक्षम करने वाली अन्य सभी शक्तियों का प्रयोग करते हुए, और पिछले प्रकाशन के बाद, संयुक्त 
+विद्युत विनियामक आयोग (गोवा राज्य और संघ राज्य क्षेत्र) UE अपने मौजूदा (नेट मीटर्रिंग पर आधारित सोलर 
+पीवी ग्रिड इंटरएक्टिव सिस्टम) विनियमों 2049, में संशोधन करता है (इसके बाद मूल विनियम के रूप में संदर्भित)। 
+
+
+5837 GI/2024 (4) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+विनियम 
+संक्षिप्त शीर्षक, प्रारंभन और सीमा: 
+
+
+4.4 इन विनियमों को संयुक्त विद्युत विनियामक आयोग (गोवा राज्य और संघ राज्य क्षेत्र) (नेट मीटर्रिंग और 
+ara मीटरिंग पर आधारित सौर पीवी ग्रिड इंटरएक्टिव सिस्टम) (प्रथम संशोधन) विनियम, 2024 (इसके बाद 
+"नेट मीटरिंग और ग्रॉस मीटर्रिंग (प्रथम संशोधन) विनियम, 2024" के रूप में संदर्भित) कहा जाएगा। 
+
+
+4.2 ये विनियम आधिकारिक राजपत्र में प्रकाशन की तिथि से लागू होंगे। 
+4.3 ये विनियम गोवा राज्य और संघ राज्य क्षेत्र अंडमान और निकोबार द्वीप समूह, चंडीगढ़, दादरा और 
+नगर हवेली और दमन और दीव, लक्षद्वीप और पुदुचेरी पर लागू होंगे। 
+
+
+4.4 ये विनियम केवल ग्रिड कनेक्टेड रूफटॉप माउंटेड, ग्राउंड माउंटेड और फ्लोटिंग सौर ऊर्जा परियोजनाओं 
+पर लागू होंगे। 
+
+
+मूल विनियमों के विनियम 2 में संशोधन: 
+(i) मूल विनियमों के विनियम 2.4 (9) को निम्नानुसार प्रतिस्थापित किया जाता है: 
+
+
+“उपभोक्ता' का अर्थ है कोई भी व्यक्ति जो किसी लाइसेंसधारी या सरकार द्वारा या इस अधिनियम या किसी 
+अन्य कानून के तहत जनता को बिजली की आपूर्ति करने के व्यवसाय में लगे किसी अन्य व्यक्ति द्वारा अपने स्वयं 
+के उपयोग के लिए बिजली की आपूर्ति की जाती है और इसमें कोई भी व्यक्ति शामिल है जिसका परिसर 
+फिलहाल किसी लाइसेंसधारी, सरकार या ऐसे अन्य व्यक्ति, जैसा भी मामला हो, के संयंत्र से बिजली प्राप्त करने 
+के उद्देश्य से जुड़ा हुआ है।” 
+
+
+(0) मूल विनियमों के विनियम 2.4 (3) के बाद निम्नलिखित को शामिल किया जाता है: 
+“(43) (क) feat का अर्थ है स्पष्ट कार्य दिवस।” 
+(iii) मूल विनियमों के विनियम 2.4 (8) के बाद निम्नलिखित शामिल किया जाता है: 
+
+
+“(48) (क) ‘ate मीटर्रिंग” का अर्थ है एक ऐसी प्रणाली जिससे किसी प्रोज्यूमर की ग्रिड इंटरएक्टिव रूफटॉप 
+सोलर फोटोवोल्टिक प्रणाली से उत्पादित कुल सौर ऊर्जा और प्रोज्यूमर द्वारा खपत की गई कुल ऊर्जा का उपयुक्त 
+मीटरिंग व्यवस्थाओं के माध्यम से अलग से हिसाब रखा जाता है और बिलिंग उद्देश्य के लिए, प्रोज्यूमर द्वारा 
+खपत की गई कुल ऊर्जा की गणना लागू खुदरा टैरिफ पर की जाती है और कुल उत्पादित सौर विद्युत की गणना 
+आयोग द्वारा निर्धारित फीड-इन टैरिफ पर की जाती है। 
+
+
+(8) (ख) ‘ate मीटर्रिंग कनेक्शन ate’ का अर्थ है वितरण लाइसेंसधारी और योग्य उपभोक्ता के बीच 
+निष्पादित एक समझौता।” 
+
+
+(iv) मूल विनियमों के विनियम 2.4 (23) को निम्नानुसार प्रतिस्थापित किया जाता है: 
+
+
+“नेट मीटर्रिंग” का अर्थ है एक ऐसी प्रणाली जिसके तहत प्रोज्यूमर के ग्रिड इंटरएक्टिव रूफटॉप सोलर 
+फोटोवोल्टिक प्रणाली से ग्रिड को निर्यात की गई सौर ऊर्जा को ग्रिड से आयातित ऊर्जा से इकाइयों (किवा घं) में 
+घटाया जाता है, जिससे शुद्ध आयातित या निर्यातित ऊर्जा प्राप्त होती है और शुद्ध ऊर्जा आयात या निर्यात को 
+वितरण लाइसेंसधारी द्वारा आपूर्ति के बिंदु पर नेट-मीटरिंग के लिए एकल द्वि-दिशात्मक ऊर्जा मीटर का उपयोग 
+करके लागू खुदरा टैरिफ के आधार पर बिल या जमा या अग्रेनीत किया जाता है।” 
+
+
+(५) मूल विनियमों के विनियम 2.4 (23) के बाद निम्नलिखित को शामिल किया जाता है: 
+
+
+“(23) (क) 'नेट-बिलिंग या नेट फीड-इन' का अर्थ है आपूर्ति बिंदु पर नेट-बिलिंग या नेट फीड-इन के लिए उपयोग 
+किया जाने वाला एकल द्वि-दिशात्मक ऊर्जा मीटर, जिसमें ग्रिड से आयातित ऊर्जा और प्रोज्यूमर के ग्रिड 
+इंटरएक्टिव रूफटॉप सोलर फोटोवोल्टिक प्रणाली से निर्यातित ऊर्जा का मूल्यांकन दो अलग-अलग टैरिफ पर 
+किया जाता है, जहां - 
+
+(0) आयातित ऊर्जा का मौद्रिक मूल्य लागू खुदरा टैरिफ पर आधारित है; 
+
+(0) निर्यातित सौर ऊर्जा का मौद्रिक मूल्य आयोग द्वारा निर्धारित फीड-इन टैरिफ पर आधारित है; 
+
+
+[भाग ता--खण्ड 4] भारत का राजपत्र : असाधारण 3 
+
+
+(iii) . निर्यातित ऊर्जा के मौद्रिक मूल्य को आयातित ऊर्जा के मौद्रिक मूल्य से घटाया जाता है ताकि बिल की 
+जाने वाली (या जमा की जाने वाली/ अग्रेनीत की जाने वाली) शुद्ध राशि प्राप्त की जा सके।” 
+
+
+(vi) मूल विनियमों के विनियम 2.4 (25) के बाद निम्नलिखित शामिल किया जाता है: 
+
+
+“(25) (क) अधिभोगी' का अर्थ उस परिसर के मालिक, किरायेदार या अधिभोगी व्यक्ति से है जहां बिजली का 
+उपयोग किया जाता है या उपयोग किए जाने का प्रस्ताव है।” 
+
+
+(vii) मूल विनियमों के विनियम 2.4 (27) के बाद निम्नलिखित शामिल किया जाता है: 
+“(27) (क) 'मालिक/कानूनी उत्तराधिकारी' का अर्थ वह व्यक्ति है जिसका संपत्ति पर पूर्ण अधिकार है।” 
+(viii) मूल विनियमों के विनियम 2.4 (29) को निम्नानुसार प्रतिस्थापित किया जाता है: 
+
+
+“प्रोज्यूमर' का अर्थ है एक व्यक्ति जो ग्रिड से बिजली की खपत करता है और आपूर्ति के उसी बिंदु का उपयोग 
+करके वितरण लाइसेंसधारी के लिए ग्रिड में बिजली भी डाल सकता है।” 
+
+
+(ix) मूल विनियमों के विनियम 2.4 (34) के बाद निम्नलिखित को शामिल किया जाता है: 
+
+
+“34 (क) रेजिडेंट वेलफेयर एसोसिएशन' (एसोसिएशन के रूप में संदर्भित) का अर्थ है सहकारी समूह आवास 
+सोसायटी, बहुमंजिला इमारत, आवासीय कॉलोनी या राज्य सरकार के साथ पंजीकृत किसी समान निकाय 
+के सभी संपत्ति मालिकों और किरायेदारों से मिलकर बना एक एसोसिएशन।” 
+
+
+(x) मूल विनियमों के विनियम 2.4 (43) के बाद निम्नलिखित को शामिल किया जाता है: 
+
+
+“43 (क) 'भंडारण' का अर्थ है ऊर्जा भंडारण प्रणाली, जिसमें ठोस अवस्था बैटरी, प्रवाह बैटरी, पंप भंडारण, 
+संपीड़ित वायु, ईंधन सेल, हाइड्रोजन भंडारण या किसी अन्य तकनीक जैसी विधियों और प्रौद्योगिकियों का 
+उपयोग करके विभिन्न प्रकार की ऊर्जा को संग्रहीत किया जाता है तथा संग्रहीत ऊर्जा को बिजली के रूप में 
+वितरित किया जाता है।” 
+
+
+3. मूल विनियमों के विनियम 4 में संशोधन: 
+(i) मूल विनियमों के विनियम 4. को निम्नानुसार प्रतिस्थापित किया जाता है: 
+
+
+“एमएनआरई द्वारा अनुमोदित प्रौद्योगिकियों पर आधारित एक परिसर में 500 किवापी तक की क्षमता की सौर 
+परियोजनाएं इन विनियमों के अंतर्गत परियोजना को ग्रिड से जोड़ने के लिए पात्र हैं। ग्रुप नेट मीटरिंग या वर्चुअल 
+नेट मीटर्रिंग फ्रेमवर्क के अंतर्गत संस्थापित की जाने वाली सौर परियोजना की क्षमता 500 किवापी तक या 
+स्वीकृत भार तक, इनमें से जो भी कम हो, होगी। 
+
+
+बशर्ते कि 500 किवापी से अधिक की सौर परियोजना क्षमता नेट-बिलिंग या नेट फीड-इन के अंतर्गत होगी। 
+
+
+इसके अलावा यह भी प्रावधान किया गया है कि नेट-बिलिंग या नेट फीड-इन का लाभ उठाने वाले प्रोज्यूमर्स के 
+मामले में, टाइम-ऑफ-द-डे टैरिफ शुरू किए जा सकते हैं, जिसके तहत प्रोज्यूमर्स को उनके द्वारा संग्रहीत सौर 
+ऊर्जा के उपयोग के लिए ऊर्जा भंडारण स्थापित करने या शिखर घंटों के दौरान ग्रिड में फीड करने के लिए 
+प्रोत्साहित किया जाता है, जिससे वितरण लाइसेंसधारी की मांग प्रतिक्रिया में भाग लेकर ग्रिड की मदद की जा 
+सके।: 
+
+
+इसके अलावा यह भी प्रावधान किया गया है कि नेट-मीटरिंग या नेट-बिलिंग या नेट फीड-इन के मामले में, 
+वितरण लाइसेंसधारी नवीकरणीय ऊर्जा खरीद दायित्व क्रेडिट, यदि कोई हो, के प्रयोजन के लिए ग्रिड इंटरएक्टिव 
+रूफटॉप सौर फोटोवोल्टिक प्रणाली से उत्पन्न सकल सौर ऊर्जा को मापने के लिए सौर ऊर्जा मीटर स्थापित कर 
+सकता है।: 
+
+इसके अलावा यह भी प्रावधान किया गया है कि ग्रॉस-मीटर्रिंग की अनुमति उन प्रोज्यूमरों को दी जा सकती है जो 
+नेट-मीटर्रिंग, नेट-बिलिंग या नेट फीड-इन सुविधा का लाभ उठाने के बजाय वितरण लाइसेंसधारी को सभी 
+उत्पादित सौर ऊर्जा बेचना चाहते हैं और ग्रॉस-मीटरिंग के लिए जेनेरिक टैरिफ या फीड-इन टैरिफ का निर्धारण 
+आयोग द्वारा जेईआरसी (नवीकरणीय ऊर्जा स्रोतों से टैरिफ निर्धारण के लिए नियम और शर्तें) विनियम, 2079 
+(समय-समय पर संशोधित) के अनुसार किया जाएगा।” 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+4. मूल विनियमों के विनियम 44 A संशोधन: 
+मूल विनियमों के विनियम 7.8 के बाद निम्नलिखित विनियम को शामिल किया जाता है: 
+“44.9 नेट बिलिंग या नेट फीड-इन के मामले में, बिलिंग और ऊर्जा लेखांकन निम्नानुसार किया जाएगा: 
+
+
+(क) नेट बिलिंग की अनुमति उन पात्र प्रोज्यूमर को दी जाती है जो पृथक सर्किट के माध्यम से विद्युत कनेक्शन के 
+तहत उपभोक्ता के रूप में विद्युत ऊर्जा का उपभोग करते हुए समस्त उत्पादित सौर ऊर्जा को वितरण 
+लाइसेंसधारी को बेचने का विकल्प चुनते हैं। 
+
+(ख) नेट बिलिंग अथवा नेट फीड-इन तंत्र के अंतर्गत पात्र प्रोज्यूमर ग्रिड इंटरएक्टिव सोलर पीवी संयंत्र से वितरण 
+लाइसेंसी की वितरण प्रणाली में वितरण लाइसेंसी की वितरण प्रणाली को वितरण लाइसेंसी द्वारा उपयुक्त रूप 
+से तैयार किए गए विद्युत क्रय करार के अंतर्गत उसी वोल्टता के निकटतम वितरण नेटवर्क में डालेगा। 
+
+
+(ग) उपभोक्ता द्वारा उत्पादित विद्युत की संपूर्ण मात्रा की खरीद आयोग द्वारा निर्धारित फीड-इन टैरिफ पर 
+वितरण लाइसेंसी द्वारा उपयुक्त रूप से तैयार किए गए विद्युत क्रय करार के अंतर्गत की जाएगी। 
+
+
+(घ) वितरण लाइसेंसधारी, उत्पादित विद्युत की सम्पूर्ण मात्रा के क्रय एवं विक्रय के लिए उपभोक्ता के साथ 
+वितरण लाइसेंसधारी द्वारा उपयुक्त रूप से तैयार किया गया विद्युत क्रय करार तथा वितरण लाइसेंसधारी 
+द्वारा उपयुक्त रूप से तैयार किया गया विद्युत विक्रय करार करेगा। 
+
+
+(ड) उपभोक्ता को बिजली की बिक्री की दर लागू खुदरा टैरिफ के समान होगी। 
+
+(च) आयातित ऊर्जा के मौद्रिक मूल्य की गणना लागू खुदरा टैरिफ के आधार पर की जाती है; 
+
+(छ) यदि उपभोक्ता टाइम ऑफ डे टैरिफ के अधीन है, तो आयातित ऊर्जा के मौद्रिक मूल्य की गणना तदनुसार की 
+जाएगी; 
+
+(ज)  निर्यातित ऊर्जा के मौद्रिक मूल्य की गणना आयोग द्वारा निर्धारित फीड-इन टैरिफ के आधार पर की जाती 
+है; 
+
+(a) . निर्यातित ऊर्जा के मौद्रिक मूल्य को आयातित ऊर्जा के Atlee मूल्य से घटा दिया जाता है, जिससे प्रोज्यूमर 
+को बिल की जाने वाली शुद्ध राशि प्राप्त होती है।; 
+
+(ज) यदि किसी बिलिंग चक्र में शुद्ध राशि ऋणात्मक हो जाती है, तो उसे 'बिलिंग क्रेडिट' के रूप में अगले बिलिंग 
+चक्र में ले जाया जाएगा।; 
+
+(ट) निपटान अवधि के अंत में, यदि कोई बिलिंग क्रेडिट बकाया है, तो प्रोज्यूमर के पास शुद्ध क्रेडिट शेष राशि, 
+यदि कोई हो, का भुगतान प्राप्त करने या ऐसे क्रेडिट शेष को अगली निपटान अवधि में ले जाने का विकल्प होता 
+al 
+
+7.40 ग्रॉस-मीटरिंग के मामले में, बिलिंग और ऊर्जा लेखांकन को निम्नानुसार निपटाया जाएगा: 
+
+
+(क)ग्रॉस-मीटरिंग की अनुमति उन पात्र उपभोक्ता या उत्पादक को दी जाती है जो उत्पादित समस्त सौर ऊर्जा को 
+वितरण लाइसेंसधारी को बेचने का विकल्प चुनते Sl 
+
+
+(ख) ग्रॉस-मीटरिंग योजना के अंतर्गत पात्र उपभोक्ता या उत्पादक ग्रिड इंटरएक्टिव सौर पीवी ऊर्जा उत्पादन संयंत्र 
+से उत्पादित सम्पूर्ण बिजली को वितरण लाइसेंसधारी की वितरण प्रणाली में, वितरण लाइसेंसधारी द्वारा 
+उपयुक्त रूप से तैयार किए गए विद्युत क्रय समझौते के अंतर्गत समान वोल्टता के निकटतम वितरण नेटवर्क में 
+डालेगा। 
+
+
+cn frac लाइसेंसधारी उत्पादित बिजली की सम्पूर्ण मात्रा की खरीद के लिए विद्युत क्रय समझौता (वितरण 
+लाइसेंसधारी द्वारा उपयुक्त रूप से तैयार किया गया) उत्पादक के साथ करेगा। 
+
+
+(घ) निर्यातित सौर ऊर्जा का भुगतान उत्पादक को आयोग द्वारा निर्धारित फीड-इन टैरिफ पर किया जाता है। 
+
+
+(ड)विद्युत क्रय समझौते के अंतर्गत विद्युत क्रय की अन्य शर्तें व नियम वही होंगे जो नेट मीटररिंग के लिए उल्लिखित 
+ar 
+
+
+[भाग ता--खण्ड 4] भारत का राजपत्र : असाधारण 5 
+
+
+5. 
+
+
+मूल विनियमों के विनियम i6 में संशोधन: 
+विनियमन 6.7 के बाद निम्नलिखित विनियमन को जोड़ा जाता है: 
+
+
+“46.8 BH टॉप सोलर फोटो वोल्टाइक प्रणालियों की स्थापना के लिए, तकनीकी व्यवहार्यता अध्ययन पंद्रह दिनों 
+की अवधि के भीतर पूरा किया जाएगा और अध्ययन के परिणाम आवेदक को सूचित किया जाएगा, अन्यथा यह 
+माना जाएगा कि प्रस्ताव तकनीकी रूप से व्यवहार्य है। 
+
+
+46.9 सभी प्रकार से पूर्ण 40 किलोवाट क्षमता तक की SH टॉप सोलर फोटो वोल्टाइक प्रणालियों के लिए 
+
+
+आवेदनों को तकनीकी व्यवहार्यता अध्ययन की आवश्यकता के बिना स्वीकार कर लिया गया माना जाएगा और 
+उपभोक्ता के स्वीकृत भार में किसी भी आनुपातिक वृद्धि, जैसा भी अपेक्षित हो, वितरण लाइसेंसी द्वारा आवेदन 
+किए जाने पर किया जाएगा। 
+
+
+6.40 विनियमन (46.9) के अधीन, व्यवहार्यता अध्ययन या आवेदन की स्वीकृत माने जाने से लेकर स्थापना के 
+पूरा होने तक की अवधि के दौरान, यदि छत पर रूफ टॉप सोलर फोटो वोल्टाइक प्रणालियों की अपेक्षित क्षमता 
+की स्थापना के लिए वितरण अवसंरचना के उन्नयन जैसे सेवा लाइन का विस्तार, वितरण ट्रांसफार्मर क्षमता, आदि 
+की आवश्यकता होती है, तो इसे वितरण लाइसेंसधारी या उपभोक्ता द्वारा, जैसा भी मामला हो, किया जाएगा।: 
+
+
+बशर्ते कि 5 किलोवाट या उससे अधिक क्षमता तक की छत पर रूफ टॉप सोलर फोटो वोल्टाइक प्रणालियों की 
+स्थापना को सुगम बनाने के लिए, आवश्यकतानुसार वितरण ट्रांसफार्मर सहित वितरण अवसंरचना को सुदृढ़ करने 
+की लागत को वितरण लाइसेंसधारी की राजस्व आवश्यकता में शामिल किया जाएगा। 
+
+
+46.44 रूफ टॉप सोलर फोटो वोल्टाइक प्रणाली की स्थापना के बाद, उपभोक्ता को वितरण लाइसेंसधारी को 
+स्थापना प्रमाण-पत्र प्रस्तुत करना होगा और वितरण लाइसेंसधारी को स्थापना प्रमाण-पत्र प्रस्तुत करने की तिथि 
+से पंद्रह दिनों के भीतर कनेक्शन अनुबंध पर हस्ताक्षर, मीटर की स्थापना और रूफ टॉप सोलर फोटो वोल्टाइक 
+प्रणाली को सफलतापूर्वक चालू करना होगा। 
+
+
+6.42 कनेक्शन अनुबंध और स्थापना प्रमाणपत्र के प्रारूप वितरण लाइसेंसधारी के वेब-पोर्टल पर उपलब्ध कराए 
+जाएंगे।” 
+
+
+आयोग के आदेशानुसार, 
+एस. डी. शर्मा, सचिव (प्रभारी) 
+
+
+[विज्ञापन-/4/असा./487/2024-25] 
+
+
+JOINT ELECTRICITY REGULATORY COMMISSION 
+(For the State of Goa and Union Territories) 
+NOTIFICATION 
+Gurugram, the Ist August, 2024 
+
+
+Joint Electricity Regulatory Commission for the State of Goa and Union Territories (Solar PV Grid Interactive 
+
+
+System based on Net Metering & Gross Metering) (First Amendment) Regulations, 2024 
+No. JERC-24/209.—In exercise of the powers conferred under Sub-Section (l) of Section 8] of the 
+
+
+Electricity Act, 2003 and all other powers enabling it in this behalf, and after previous publication, the Joint 
+Electricity Regulatory Commission (for the State of Goa and Union Territories) hereby amends its prevailing 
+(Solar PV Grid Interactive System based on Net Metering) Regulations, 209 (hereinafter referred to as the Principal 
+Regulations). 
+
+
+REGULATIONS 
+
+
+Short title, commencement, and extent of application: 
+
+
+l.l These Regulations may be called the Joint Electricity Regulatory Commission for the State of Goa & 
+
+
+Union Territories (Solar PV Grid Interactive System based on Net Metering & Gross Metering) (First 
+Amendment) Regulations, 2024 (hereinafter referred to as “Net Metering & Gross Metering (First 
+Amendment) Regulations, 2024”). 
+
+
+.2 These Regulations shall come into force from the date of publication in the Official Gazette. 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+.3 
+
+
+.4 
+
+
+These Regulations shall extend and apply to the State of Goa and the Union Territories of Andaman & 
+Nicobar Islands, Chandigarh, Dadra & Nagar Haveli and Daman & Diu, Lakshadweep and Puducherry. 
+
+
+These Regulations shall apply only to the Grid Connected Rooftop mounted, ground mounted and floating 
+Solar Power Projects. 
+
+
+Amendment in Regulation 2 of the Principal Regulations: 
+
+
+(i) 
+
+
+(ii) 
+
+
+(iii) 
+
+
+(iv) 
+
+
+(v) 
+
+
+(vi) 
+
+
+(vii) 
+
+
+(viii) 
+
+
+(ix) 
+
+
+Regulation 2.! (9) of the Principal Regulations shall be substituted as under: 
+
+
+“Consumer means any person who is supplied with electricity for his own use by a licensee or the 
+Government or by any other person engaged in the business of supplying electricity to the public 
+under this Act or any other law for the time being in force and includes any person whose premises 
+are for the time being connected for the purpose of receiving electricity with the works of a licensee, 
+the Government or such other person, as the case may be.” 
+
+
+Following shall be inserted after Regulation 2.! (3) of the Principal Regulations: 
+“(/3) (a) Days means clear working days.” 
+Following shall be inserted after Regulation 2.! (8) of the Principal Regulations: 
+
+
+“(8) (a) Gross-metering means a mechanism whereby the total solar energy generated from Grid 
+Interactive rooftop Solar Photovoltaic system of a Prosumer and the total energy consumed by the 
+Prosumer are accounted separately through appropriate metering arrangements and for the billing 
+purpose, the total energy consumed by the Prosumer is accounted at the applicable retail tariff and 
+total solar power generated is accounted for at feed-in tariff determined by the Commission. 
+
+
+(8) (b) Gross Metering Connection Agreement means an agreement executed between a 
+Distribution Licensee and an Eligible Consumer.” 
+
+
+Regulation 2.! (23) of the Principal Regulations shall be substituted as under: 
+
+
+“Net Metering means a mechanism whereby solar energy exported to the Grid from Grid 
+Interactive rooftop Solar Photovoltaic system of a Prosumer is deducted from energy imported from 
+the Grid in units (kWh) to arrive at the net imported or exported energy and the net energy import or 
+export is billed or credited or carried-over by the distribution licensee on the basis of the applicable 
+retail tariff by using a single bi-directional energy meter for net-metering at the point of supply.” 
+
+
+Following shall be inserted after Regulation 2.] (23) of the Principal Regulations: 
+
+
+“(23) (a) Net-billing or Net feed-in means a single bidirectional energy meter used for net-billing 
+or net feed in at the point of supply wherein the energy imported from the Grid and energy exported 
+from Grid Interactive rooftop Solar photovoltaic system of a Prosumer are valued at two different 
+tariffs, where- 
+
+
+(i) the monetary value of the imported energy is based on the applicable retail tariff; 
+
+
+(ii) the monetary value of the exported solar energy is based on feed-in tariff determined by the 
+Commission; 
+
+
+(iii) | the monetary value of the exported energy is deducted from the monetary value of the 
+imported energy to arrive at the net amount to be billed (or credited/ carried-over).” 
+
+
+Following shall be inserted after Regulation 2.] (25) of the Principal Regulations: 
+
+
+“(25) (a) Occupier means the owner, tenant or person in occupation of the premises where 
+electricity is used or proposed to be used.” 
+
+
+Following shall be inserted after Regulation 2.] (27) of the Principal Regulations: 
+“ (27) (a) Owner/legal heirs means the person who is having absolute right over the property.” 
+Regulation 2.! (29) of the Principal Regulations shall be substituted as under: 
+
+
+“Prosumer means a person who consumes electricity from the grid and can also inject electricity 
+into the grid for distribution licensee, using same point of supply.” 
+
+
+Following shall be inserted after Regulation 2.] (3]) of the Principal Regulations: 
+
+
+#+३] (a) Resident Welfare Association (referred as the Association) means an association 
+comprising all the property owners and tenants within a Co-operative Group Housing Society, Multi 
+storied Building, Residential Colony, or a similar body registered with the State Government.” 
+
+
+[भागवता--खण्ड 4] भारत का राजपत्र : असाधारण 7 
+
+
+(x) Following shall be inserted after Regulation 2. (43) of the Principal Regulations: 
+
+
+“43 (a) Storage means an energy storage system utilizing methods and technologies like solid state 
+batteries, flow batteries, pumped storage, compressed air, fuel cells, hydrogen storage or any other 
+technology to store various forms of energy and to deliver the stored energy in the form of 
+electricity.” 
+
+
+3. Amendment in Regulation 4 of the Principal Regulations: 
+(i) Regulation 4.! of the Principal Regulations shall be substituted as under: 
+
+
+“Solar Projects of capacity up to 500 kWp at one premise based on the technologies approved by MNRE are 
+eligible for connecting the project with the Grid under these Regulations. The capacity of the Solar Project 
+to be installed under Group Net Metering or Virtual Net Metering framework shall be up to 500 kWp or up 
+to the sanctioned load, whichever is lower. 
+
+
+Provided that the Solar Project capacity higher than 500 kWp shall be under net-billing or net feed-in. 
+
+
+Provided further that in the case of Prosumers availing net-billing or net feed-in, the time-of-the-day tariffs 
+may be introduced whereby Prosumers are incentivised to install energy storage for utilization of stored 
+solar energy by them or feeding into the grid during peak hours thus helping the grid by participating in 
+demand response of the Distribution Licensee: 
+
+
+Provided also that in case of net-metering or net-billing or net feed-in, the distribution licensee may install a 
+solar energy meter to measure the gross solar energy generated from the Grid Interactive rooftop Solar 
+Photovoltaic system for the purpose of renewable energy purchase obligation credit, if any: 
+
+
+Provided also that the gross-metering may be permitted for Prosumers who would like to sell all the 
+generated solar energy to the distribution licensee instead of availing the net-metering, net-billing or net 
+feed-in facility and the generic tariff or feed-in tariff for gross-metering shall be determined by the 
+Commission as per the JERC (Terms and Conditions for Tariff determination from Renewable Energy 
+Sources) Regulations, 209 (as amended from time to time).” 
+
+
+4. Amendment in Regulation 44 of the Principal Regulations: 
+Following Regulations shall be inserted after Regulation .8 of the Principal Regulations: 
+“| |.9 In case of Net billing or Net feed-in, the billing and energy accounting shall be dealt with as under: 
+
+
+a) Net Billing is permitted for eligible prosumer who opt to sell all generated solar energy to the 
+distribution licensee while availing consumption of electrical energy as a consumer under an electric 
+connection through separate circuit. 
+
+
+b) The eligible prosumer under the Net billing or Net feed-in mechanism shall inject the entire power 
+from the Grid Interactive Solar PV plant to the distribution system of the distribution licensee to the 
+nearest distribution network of the same voltage under the Power Purchase Agreement as suitably 
+devised by the distribution licensee. 
+
+
+c) Entire quantum of electricity generated by the prosumer shall be procured under the Power Purchase 
+Agreement as suitably devised by the distribution licensee at feed-in tariff determined by the 
+Commission. 
+
+
+d) The distribution licensee shall enter into a Power Purchase Agreement as suitably devised by the 
+distribution licensee and a Power Sale Agreement as suitably devised by the distribution licensee with 
+the consumer for purchase and sale of entire quantum of power generated. 
+
+
+e) Rate of sale of power to the consumer shall be same as applicable retail tariff. 
+f) The monetary value of the imported energy is computed based on the applicable retail tariff; 
+
+
+g) Incase, the prosumer is subjected to Time of Day tariff, the monetary value of the imported energy 
+shall be computed accordingly; 
+
+
+h) The monetary value of the exported energy is computed based on the feed-in tariff determined by the 
+Commission; 
+
+i) The monetary value of the exported energy is deducted from the monetary value of the imported 
+energy to arrive at the net amount to be billed to the prosumer; 
+
+
+jp If the net amount in a billing cycle comes to negative, the same shall be carried over to the next billing 
+cycle as ‘Billing Credit’; 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+k) At the end of the settlement period, if there is any outstanding Billing Credit, the prosumer has the 
+option to receive payment of the net credit balance, if any, or have such credit balance carried over to 
+the next settlement period. 
+
+
+.0 In case of Gross-metering, the billing and energy accounting shall be dealt with as under: 
+
+
+(a) Gross metering is permitted for eligible consumer or generator who opt to sell all generated solar energy to 
+the distribution licensee. 
+
+
+(b) The eligible consumer or generator under the Gross Metering scheme shall inject the entire power 
+generated from the grid interactive Solar PV Energy Generating Plant to the distribution system of the 
+distribution licensee to the nearest distribution network of same voltage under Power Purchase Agreement 
+as suitably devised by the distribution licensee. 
+
+
+(c) The distribution licensee shall enter into a Power Purchase Agreement (as suitably devised by the 
+distribution licensee) with the generator for purchase of entire quantum of power generated. 
+
+
+(d) The exported solar energy is paid to the generator at the feed-in tariff determined by the Commission. 
+
+
+(e) The other terms and conditions of power purchase under the Power Purchase Agreement shall be same as 
+mentioned for the Net Metering.” 
+
+
+Amendment in Regulation 6 of the Principal Regulations: 
+Following Regulation shall be added after Regulation 6.7: 
+
+
+#|6,8 For installation of roof top solar photo voltaic systems, the technical feasibility study shall be completed 
+within a period of fifteen days and the outcome of the study shall be intimated to the applicant, failing which it 
+shall be presumed that the proposal is technically feasible. 
+
+
+6.9 The applications for roof top solar photo voltaic systems up to 0 kW capacity, complete in all respects 
+shall be deemed to have been accepted without requiring technical feasibility study and any commensurate 
+enhancement of the sanctioned load of the consumer, as may be required, shall be carried out by the 
+distribution licensee on application by the Prosumer. 
+
+
+6.l0 Subject to Regulation (6.9), during the time period from the feasibility study or deemed acceptance of 
+the application till the completion of installation, in case, there is any requirement of upgradation of 
+distribution infrastructure like augmentation of service line, distribution transformer capacity, and the like for 
+installation of the required capacity of roof top solar photo voltaic system, the same shall be carried out by the 
+distribution licensee or consumer, as the case may be: 
+
+
+Provided that the cost of strengthening the distribution infrastructure, including distribution transformer, as 
+necessary, to facilitate the installation of roof top solar photovoltaic systems up to a capacity of 5 kW ora 
+higher capacity, shall be included in the revenue requirement of the distribution licensee. 
+
+
+6.ll After installation of roof top solar photovoltaic system, the consumer shall submit the installation 
+certificate to such distribution licensee and such distribution licensee shall complete signing of connection 
+agreement, installation of meter and successful commissioning of the roof top solar photovoltaic system within 
+fifteen days from the date of submission of the installation certificate. 
+
+
+6.2 The Formats of connection agreement and installation certificate shall be placed on web-portal of the 
+distribution licensee. 
+
+
+By Order of the Commission, 
+S. D. SHARMA, Secy. (I/c) 
+[ADVT.-III/4/Exty./487/2024-25 | 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-0054. saavest kumar 
+
+
+SRIVASTAVA. 
+
+
