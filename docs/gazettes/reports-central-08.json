@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-02.249851",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-02",
+      "ugid": "249851",
+      "title": "Extraordinary Gazette of India, 2023-11-02",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Forest Conservation Division",
+      "office": "",
+      "subject": "Forest (Conservation) Amendment Act, 2023",
+      "gazette_id": "CG-DL-E-02112023-249851",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249851.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-02.249851/249851.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-02.249851",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-02/249851.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-02.249850",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-02",
+      "ugid": "249850",
+      "title": "Extraordinary Gazette of India, 2023-11-02",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
+      "office": "",
+      "subject": "Plant Quarantine",
+      "gazette_id": "CG-DL-E-02112023-249850",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249850.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-02.249850/249850.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-02.249850",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-02/249850.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-02.249849",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-02",
+      "ugid": "249849",
+      "title": "Extraordinary Gazette of India, 2023-11-02",
+      "ministry": "Lok Sabha Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Suspension of Disqualification of Sh. Md. Faizal P.P., MP",
+      "gazette_id": "CG-DL-E-02112023-249849",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249849.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-02.249849/249849.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-02.249849",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-02/249849.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-02.249848",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58224,75 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-07.247211",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-07/247211.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247209",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247209",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Railways",
-      "department": "North Western Railway",
-      "office": "",
-      "subject": "sabarkanatha",
-      "gazette_id": "CG-RJ-E-11072023-247209",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247209.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247209/247209.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247209",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247209.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247208",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247208",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Railways",
-      "department": "Central Organization for Railway Electrification (CORE)",
-      "office": "",
-      "subject": "Laying of 66 kV 630 SQMM AI Corrugated sheathed XLPE UG Cable line along with erection of Tower and stringing of conductor from 66 KV Dhareshwar SS to Switch Yard of Jetalsar TSS for catering 5MW new power demand on 66KV system",
-      "gazette_id": "CG-GJ-E-11072023-247208",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247208.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247208/247208.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247208",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247208.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247205",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247205",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under section 6(4) of the PMP Act, 1962 (50 of 1962)  for sharing of existing ROU of GAIL (India) Limiteds  Barauni Guwahati Natural Gas Pipeline(BGPL) with Numaligarh Refinery  Limiteds  Paradip Numaligarh Crude Oil Pipeline project(PNCPL) for laying of pipeline inDistrictKishanganj (69.29km) in Bihar State",
-      "gazette_id": "CG-DL-E-11072023-247205",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247205.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247205/247205.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247205",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247205.pdf",
       "topics": []
     }
   ],

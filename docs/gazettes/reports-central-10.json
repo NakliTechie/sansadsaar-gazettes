@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-10.244319",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-10",
+      "ugid": "244319",
+      "title": "Extraordinary Gazette of India, 2023-03-10",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-11032023-244319",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244319.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244319/244319.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-10.244319",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-10/244319.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244319/244319_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-10.244318",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-10",
+      "ugid": "244318",
+      "title": "Extraordinary Gazette of India, 2023-03-10",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-11032023-244318",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244318.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244318/244318.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-10.244318",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-10/244318.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244318/244318_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-10.244317",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-10",
+      "ugid": "244317",
+      "title": "Extraordinary Gazette of India, 2023-03-10",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D nhai",
+      "gazette_id": "CG-DL-E-11032023-244317",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244317.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244317/244317.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-10.244317",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-10/244317.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244317/244317_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-10.244316",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58111,75 +58183,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-28.240625",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-28/240625.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-28.240624",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-28",
-      "ugid": "240624",
-      "title": "Extraordinary Gazette of India, 2022-11-28",
-      "ministry": "Ministry of Communications",
-      "department": "Department of Telecommunications",
-      "office": "",
-      "subject": "Amendment to the Rules of Engineering Service Examination (ESE 2023) notified on 14/09/2022",
-      "gazette_id": "CG-DL-E-28112022-240624",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240624.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-28.240624/240624.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-28.240624",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-28/240624.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-28.240623",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-28",
-      "ugid": "240623",
-      "title": "Extraordinary Gazette of India, 2022-11-28",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "20A Valsad",
-      "gazette_id": "CG-DL-E-28112022-240623",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240623.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-28.240623/240623.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-28.240623",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-28/240623.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-28.240622",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-28",
-      "ugid": "240622",
-      "title": "Extraordinary Gazette of India, 2022-11-28",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Economic Affairs",
-      "office": "Budget Division",
-      "subject": "Auction for Sale (re issue) of (i) 6.69pc GS 2024 (ii) 7.10pc GS 2029 (iii) 7.54pc GS 2036 (iv) 7.40pc GS 2062",
-      "gazette_id": "CG-DL-E-28112022-240622",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240622.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-28.240622/240622.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-28.240622",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-28/240622.pdf",
       "topics": []
     }
   ],

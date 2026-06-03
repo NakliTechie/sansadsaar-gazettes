@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-24.264091",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-24",
+      "ugid": "264091",
+      "title": "Extraordinary Gazette of India, 2025-06-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24062025-264091",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264091.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264091/264091.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-24.264091",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-24/264091.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-24.264087",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-24",
+      "ugid": "264087",
+      "title": "Extraordinary Gazette of India, 2025-06-24",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "ADD on Potassium Tertiary Butoxide and Sodium Tertiary Butoxide for 5 years",
+      "gazette_id": "CG-DL-E-24062025-264087",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264087.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264087/264087.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-24.264087",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-24/264087.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-24.264084",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-24",
+      "ugid": "264084",
+      "title": "Extraordinary Gazette of India, 2025-06-24",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "MTR of Anti dumping duty on Decor Paper",
+      "gazette_id": "CG-DL-E-24062025-264084",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264084.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264084/264084.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-24.264084",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-24/264084.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-23.264153",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57429,75 +57498,6 @@
       "ia_identifier": "in.gazette.central.e.2025-02-17.261145",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2025-02-17/261145.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-17.261136",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-17",
-      "ugid": "261136",
-      "title": "Extraordinary Gazette of India, 2025-02-17",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "ESZ Division",
-      "office": "",
-      "subject": "Amendment in the final notification of Cauvery Wildlife Sanctuary in the State of Karnataka",
-      "gazette_id": "CG-DL-E-18022025-261136",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261136.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261136/261136.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-17.261136",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-17/261136.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-17.261135",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-17",
-      "ugid": "261135",
-      "title": "Extraordinary Gazette of India, 2025-02-17",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Department of Commerce",
-      "office": "EP (Agri) Division",
-      "subject": "Appointment of 3 Official Members in APEDA",
-      "gazette_id": "CG-DL-E-18022025-261135",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261135.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261135/261135.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-17.261135",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-17/261135.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-17.261134",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-17",
-      "ugid": "261134",
-      "title": "Extraordinary Gazette of India, 2025-02-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-18022025-261134",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261134.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261134/261134.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-17.261134",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-17/261134.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-07.247209",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-07",
+      "ugid": "247209",
+      "title": "Extraordinary Gazette of India, 2023-07-07",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "sabarkanatha",
+      "gazette_id": "CG-RJ-E-11072023-247209",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247209.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247209/247209.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-07.247209",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-07/247209.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-07.247208",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-07",
+      "ugid": "247208",
+      "title": "Extraordinary Gazette of India, 2023-07-07",
+      "ministry": "Ministry of Railways",
+      "department": "Central Organization for Railway Electrification (CORE)",
+      "office": "",
+      "subject": "Laying of 66 kV 630 SQMM AI Corrugated sheathed XLPE UG Cable line along with erection of Tower and stringing of conductor from 66 KV Dhareshwar SS to Switch Yard of Jetalsar TSS for catering 5MW new power demand on 66KV system",
+      "gazette_id": "CG-GJ-E-11072023-247208",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247208.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247208/247208.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-07.247208",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-07/247208.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-07.247205",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-07",
+      "ugid": "247205",
+      "title": "Extraordinary Gazette of India, 2023-07-07",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under section 6(4) of the PMP Act, 1962 (50 of 1962)  for sharing of existing ROU of GAIL (India) Limiteds  Barauni Guwahati Natural Gas Pipeline(BGPL) with Numaligarh Refinery  Limiteds  Paradip Numaligarh Crude Oil Pipeline project(PNCPL) for laying of pipeline inDistrictKishanganj (69.29km) in Bihar State",
+      "gazette_id": "CG-DL-E-11072023-247205",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247205.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247205/247205.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-07.247205",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-07/247205.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-07.247202",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57473,78 +57542,6 @@
       "mirror_path": "pdf/central/e/2023-03-10/244320.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244320/244320_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-10.244319",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-10",
-      "ugid": "244319",
-      "title": "Extraordinary Gazette of India, 2023-03-10",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-11032023-244319",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244319.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244319/244319.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-10.244319",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-10/244319.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244319/244319_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-10.244318",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-10",
-      "ugid": "244318",
-      "title": "Extraordinary Gazette of India, 2023-03-10",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-11032023-244318",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244318.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244318/244318.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-10.244318",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-10/244318.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244318/244318_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-10.244317",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-10",
-      "ugid": "244317",
-      "title": "Extraordinary Gazette of India, 2023-03-10",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D nhai",
-      "gazette_id": "CG-DL-E-11032023-244317",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244317.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244317/244317.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-10.244317",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-10/244317.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244317/244317_djvu.txt"
     }
   ],
   "count": 2500,

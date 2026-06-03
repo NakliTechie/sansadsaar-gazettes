@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-07-04.255176",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-04",
+      "ugid": "255176",
+      "title": "Extraordinary Gazette of India, 2024-07-04",
+      "ministry": "Ministry of Communications",
+      "department": "Department of Telecommunications",
+      "office": "",
+      "subject": "Notification of draft Telecommunications (Digital Bharat Nidhi) Rules, 2024",
+      "gazette_id": "CG-DL-E-04072024-255176",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255176.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255176/255176.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-04.255176",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-04/255176.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255176/255176_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-07-04.255175",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-04",
+      "ugid": "255175",
+      "title": "Extraordinary Gazette of India, 2024-07-04",
+      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
+      "department": "Department of Personnel and Training",
+      "office": "",
+      "subject": "IAS Nagaland Pay Regulation 2024",
+      "gazette_id": "CG-DL-E-04072024-255175",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255175.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255175/255175.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-04.255175",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-04/255175.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255175/255175_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-07-04.255174",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-04",
+      "ugid": "255174",
+      "title": "Extraordinary Gazette of India, 2024-07-04",
+      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
+      "department": "Department of Personnel and Training",
+      "office": "",
+      "subject": "IAS Nagaland Fixation of Cadre Strength Regulation 2024",
+      "gazette_id": "CG-DL-E-04072024-255174",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255174.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255174/255174.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-04.255174",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-04/255174.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255174/255174_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-07-04.255173",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-29/252535.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252535/252535_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-29.252534",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-29",
-      "ugid": "252534",
-      "title": "Extraordinary Gazette of India, 2024-02-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-01032024-252534",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252534.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252534/252534.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-29.252534",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-29/252534.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252534/252534_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-29.252527",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-29",
-      "ugid": "252527",
-      "title": "Extraordinary Gazette of India, 2024-02-29",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in  the State of Uttar Pradesh",
-      "gazette_id": "CG-DL-E-01032024-252527",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252527.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252527/252527.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-29.252527",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-29/252527.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252527/252527_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-29.252522",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-29",
-      "ugid": "252522",
-      "title": "Extraordinary Gazette of India, 2024-02-29",
-      "ministry": "Ministry of Science and Technology",
-      "department": "Department of Scientific and Industrial Research",
-      "office": "",
-      "subject": "Extraordinary gazette notification in respect of Technology Development and Utilization Programme for Women(TDUPW) program of DSIR.",
-      "gazette_id": "CG-DL-E-01032024-252522",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252522.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252522/252522.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-29.252522",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-29/252522.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252522/252522_djvu.txt"
     }
   ],
   "count": 2500,

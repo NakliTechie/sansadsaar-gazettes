@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-06.258483",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-06",
+      "ugid": "258483",
+      "title": "Extraordinary Gazette of India, 2024-11-06",
+      "ministry": "Ministry of Power",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of Shri Ramesh Babu V, former Director (Operations), NTPC as Member, Central Electricity Regulatory Commission (CERC)",
+      "gazette_id": "CG-DL-E-06112024-258483",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258483.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-06.258483/258483.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-06.258483",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-06/258483.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-06.258482",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-06",
+      "ugid": "258482",
+      "title": "Extraordinary Gazette of India, 2024-11-06",
+      "ministry": "Supreme Court of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Amendment to the Supreme Court Rules, 2013",
+      "gazette_id": "CG-DL-E-07112024-258482",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258482.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-06.258482/258482.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-06.258482",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-06/258482.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-05.258504",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-05",
+      "ugid": "258504",
+      "title": "Extraordinary Gazette of India, 2024-11-05",
+      "ministry": "Maharashtra Gramin Bank",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by Section 30 read with sub section (1) of section 17 of the Regional Rural Banks Act, 1976 (21 of 1976) the Board of Directors of Maharashtra Gramin Bank",
+      "gazette_id": "CG-MH-E-07112024-258504",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258504.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258504/258504.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-05.258504",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-05/258504.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-05.258487",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59661,78 +59730,6 @@
       "mirror_path": "pdf/central/e/2024-07-04/255177.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255177/255177_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-04.255176",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-04",
-      "ugid": "255176",
-      "title": "Extraordinary Gazette of India, 2024-07-04",
-      "ministry": "Ministry of Communications",
-      "department": "Department of Telecommunications",
-      "office": "",
-      "subject": "Notification of draft Telecommunications (Digital Bharat Nidhi) Rules, 2024",
-      "gazette_id": "CG-DL-E-04072024-255176",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255176.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255176/255176.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-04.255176",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-04/255176.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255176/255176_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-04.255175",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-04",
-      "ugid": "255175",
-      "title": "Extraordinary Gazette of India, 2024-07-04",
-      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
-      "department": "Department of Personnel and Training",
-      "office": "",
-      "subject": "IAS Nagaland Pay Regulation 2024",
-      "gazette_id": "CG-DL-E-04072024-255175",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255175.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255175/255175.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-04.255175",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-04/255175.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255175/255175_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-04.255174",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-04",
-      "ugid": "255174",
-      "title": "Extraordinary Gazette of India, 2024-07-04",
-      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
-      "department": "Department of Personnel and Training",
-      "office": "",
-      "subject": "IAS Nagaland Fixation of Cadre Strength Regulation 2024",
-      "gazette_id": "CG-DL-E-04072024-255174",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255174.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255174/255174.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-04.255174",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-04/255174.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255174/255174_djvu.txt"
     }
   ],
   "count": 2500,

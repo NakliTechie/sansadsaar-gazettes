@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-24.270532",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-24",
+      "ugid": "270532",
+      "title": "Extrordinary Gazette of India, 2026-02-24",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire land under Section 20(A) for land acquisition for the villages Lanjud Part 1 and Lanjud Part 2 of Buldhana District in connection with Bhusawal Badnera Wardha 3rd and 4th Line (313 Kms).",
+      "gazette_id": "CG-MH-E-27022026-270532",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270532.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270532/270532.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-24.270532",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-24/270532.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-24.270526",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-24",
+      "ugid": "270526",
+      "title": "Extrordinary Gazette of India, 2026-02-24",
+      "ministry": "Ministry of Power",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification in respect of M/s Korba Power Limited.",
+      "gazette_id": "CG-DL-E-26022026-270526",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270526.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270526/270526.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-24.270526",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-24/270526.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-24.270513",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-24",
+      "ugid": "270513",
+      "title": "Extrordinary Gazette of India, 2026-02-24",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
+      "gazette_id": "CG-DL-E-26022026-270513",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270513.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270513/270513.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-24.270513",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-24/270513.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-24.270507",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57429,75 +57498,6 @@
       "ia_identifier": "in.gazette.central.e.2025-10-17.267020",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2025-10-17/267020.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-17.267019",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-17",
-      "ugid": "267019",
-      "title": "Extrordinary Gazette of India, 2025-10-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-18102025-267019",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267019.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267019/267019.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-17.267019",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-17/267019.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-17.267018",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-17",
-      "ugid": "267018",
-      "title": "Extrordinary Gazette of India, 2025-10-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-18102025-267018",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267018.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267018/267018.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-17.267018",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-17/267018.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-17.267017",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-17",
-      "ugid": "267017",
-      "title": "Extrordinary Gazette of India, 2025-10-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-18102025-267017",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267017.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267017/267017.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-17.267017",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-17/267017.pdf",
       "topics": []
     }
   ],

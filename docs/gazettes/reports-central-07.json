@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-29.252534",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-29",
+      "ugid": "252534",
+      "title": "Extraordinary Gazette of India, 2024-02-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-01032024-252534",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252534.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252534/252534.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-29.252534",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-29/252534.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252534/252534_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-29.252527",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-29",
+      "ugid": "252527",
+      "title": "Extraordinary Gazette of India, 2024-02-29",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in  the State of Uttar Pradesh",
+      "gazette_id": "CG-DL-E-01032024-252527",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252527.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252527/252527.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-29.252527",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-29/252527.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252527/252527_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-29.252522",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-29",
+      "ugid": "252522",
+      "title": "Extraordinary Gazette of India, 2024-02-29",
+      "ministry": "Ministry of Science and Technology",
+      "department": "Department of Scientific and Industrial Research",
+      "office": "",
+      "subject": "Extraordinary gazette notification in respect of Technology Development and Utilization Programme for Women(TDUPW) program of DSIR.",
+      "gazette_id": "CG-DL-E-01032024-252522",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252522.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252522/252522.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-29.252522",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-29/252522.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252522/252522_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-29.252521",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58672,75 +58744,6 @@
       "ia_identifier": "in.gazette.central.e.2023-11-02.249852",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-11-02/249852.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-02.249851",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-02",
-      "ugid": "249851",
-      "title": "Extraordinary Gazette of India, 2023-11-02",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Forest Conservation Division",
-      "office": "",
-      "subject": "Forest (Conservation) Amendment Act, 2023",
-      "gazette_id": "CG-DL-E-02112023-249851",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249851.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-02.249851/249851.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-02.249851",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-02/249851.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-02.249850",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-02",
-      "ugid": "249850",
-      "title": "Extraordinary Gazette of India, 2023-11-02",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
-      "office": "",
-      "subject": "Plant Quarantine",
-      "gazette_id": "CG-DL-E-02112023-249850",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249850.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-02.249850/249850.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-02.249850",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-02/249850.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-02.249849",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-02",
-      "ugid": "249849",
-      "title": "Extraordinary Gazette of India, 2023-11-02",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Suspension of Disqualification of Sh. Md. Faizal P.P., MP",
-      "gazette_id": "CG-DL-E-02112023-249849",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249849.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-02.249849/249849.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-02.249849",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-02/249849.pdf",
       "topics": []
     }
   ],

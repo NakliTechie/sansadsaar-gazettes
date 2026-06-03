@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-28.240624",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-28",
+      "ugid": "240624",
+      "title": "Extraordinary Gazette of India, 2022-11-28",
+      "ministry": "Ministry of Communications",
+      "department": "Department of Telecommunications",
+      "office": "",
+      "subject": "Amendment to the Rules of Engineering Service Examination (ESE 2023) notified on 14/09/2022",
+      "gazette_id": "CG-DL-E-28112022-240624",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240624.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-28.240624/240624.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-28.240624",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-28/240624.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-28.240623",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-28",
+      "ugid": "240623",
+      "title": "Extraordinary Gazette of India, 2022-11-28",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "20A Valsad",
+      "gazette_id": "CG-DL-E-28112022-240623",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240623.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-28.240623/240623.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-28.240623",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-28/240623.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-28.240622",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-28",
+      "ugid": "240622",
+      "title": "Extraordinary Gazette of India, 2022-11-28",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Budget Division",
+      "subject": "Auction for Sale (re issue) of (i) 6.69pc GS 2024 (ii) 7.10pc GS 2029 (iii) 7.54pc GS 2036 (iv) 7.40pc GS 2062",
+      "gazette_id": "CG-DL-E-28112022-240622",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240622.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-28.240622/240622.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-28.240622",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-28/240622.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-28.240620",
       "category": "extraordinary",
       "type_letter": "e",
@@ -28599,7 +28668,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1240,
+  "count": 1243,
   "category": "central",
   "shard_index": 11
 }
