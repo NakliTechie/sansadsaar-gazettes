@@ -1,0 +1,101 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Jiitd = VistGa 
+Che Gazette of Jndia 
+
+
+Och. -S7. Wet. -37.-2202024-25850 
+CG-DL-E-2202024-25850 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग [l—avs 3—3Y-@us (ii) 
+PART II—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+सं. 4248] नई दिल्ली, मंगलवार, अक्तूबर 22, 2024/आशिवन 30, 946 
+No. 4248] NEW DELHI, TUESDAY, OCTOBER 22, 2024/ASVINA 30, 946 
+
+
+इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 22 अक्तूबर, 2024 
+
+
+का.आ. 4622(अ).--केंद्रीय सरकार, सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 24) (जिसे इसमें इसके 
+पश्चात्‌ उक्त अधिनियम कहा गया है) की धारा 70 की उप-धारा () और उप-धारा (2) द्वारा प्रदत्त शक्तियों का प्रयोग करते 
+हुए, आरबीएल बैंक लिमिटेड की नाजुक सूचना अवसंरचना होने के कारण महत्वपूर्ण बैंककारी समाधान (कोर बैंकिंग 
+सोल्यूशन), वास्तविक समय समग्र निपटान (रियल टाइम ग्रॉस सेटलमेंट) और एकीकृत भुगतान इंटरफेस स्विच (यूनिफाइड 
+पेमेंट्स इंटरफेस स्विच) से संबंधित कंप्यूटर संसाधनों एवं उनसे सहयुक्त आश्रितताओं के कंप्यूटर संसाधनों को उक्त अधिनियम 
+के प्रयोजनों के लिए एतट्टारा संरक्षित प्रणाली घोषित करती है और निम्नलिखित व्यक्तियों को संरक्षित प्रणालियों तक पहुंच 
+
+बनाने के लिए प्राधिकृत करती है, अर्थात्‌ :- 
+(क) संरक्षित प्रणाली तक पहुंच बनाने के लिए, आरबीएल बैंक लिमिटेड द्वारा लिखित रूप में प्राधिकृत आरबीएल 
+
+बैंक लिमिटेड का कोई अभिहित कर्मचारी; 
+
+
+(ख) संविदात्मक प्रबंधित सेवा-प्रदाता या तृतीय पक्षकार विक्रेता के दल का कोई सदस्य जिसे आवश्यकता के आधार 
+पर पहुंच बनाने के लिए आरबीएल बैंक लिमिटेड द्वारा लिखित रूप में प्राधिकृत किया गया है; और 
+
+
+6885 GI/2024 (4) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+(7) मामला दर मामला के आधार पर, आरबीएल बैंक लिमिटेड द्वारा लिखित रूप में प्राधिकृत कोई परामर्शी, 
+विनियामक, सरकारी पदाधिकारी, संपरीक्षक और पणधारी। 
+
+
+2. यह अधिसूचना राजपत्र में इसके प्रकाशन की तिथि से प्रभावी होगी। 
+
+
+[फा. सं. 2(5)/2022-सीएल-भाग(2)] 
+दीपक गोयल, वैज्ञानिक जी 
+
+
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+NOTIFICATION 
+New Delhi, the 22nd October, 2024 
+
+
+S.O. 4622(E).—In exercise of the powers conferred by sub-sections () and (2) of section 70 of the Information 
+Technology Act, 2000 (2! of 2000) (hereinafter referred to as the said Act), the Central Government hereby declares 
+the computer resources relating to the Core Banking Solution (CBS), Real Time Gross Settlement (RTGS), Unified 
+Payments Interface (UPI) Switch, being Critical Information Infrastructure of the RBL Bank Ltd., and the computer 
+resources of their associated dependencies, to be protected systems for the purposes of the said Act and authorises the 
+following persons to access the protected systems, namely:— 
+
+
+(a) any designated employee of the RBL Bank Ltd. authorised in writing by the RBL Bank Ltd. to access 
+the protected system; 
+
+
+(b) any team member of contractual managed service provider or third-party vendor who have been 
+authorised in writing by the RBL Bank Ltd. for need-based access; and 
+
+
+(c) any consultant, regulator, Government official, auditor and stakeholder authorised in writing by the 
+RBL Bank Ltd. on case-to-case basis. 
+
+
+2; This notification shall come into force on the date of its publication in the Official Gazette. 
+
+
+[F. No. 2(5)/2022-CL-Part(2)] 
+DEEPAK GOEL, Scientist G 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-0054. sasveshiuma 
+
+
+SRIVASTAVA, 
+
+
