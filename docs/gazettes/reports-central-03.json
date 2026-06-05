@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-25.264155",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-25",
+      "ugid": "264155",
+      "title": "Extraordinary Gazette of India, 2025-06-25",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "7AdiyodarLakhani",
+      "gazette_id": "CG-RJ-E-26062025-264155",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264155.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264155/264155.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-25.264155",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-25/264155.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-25.264154",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-25",
+      "ugid": "264154",
+      "title": "Extraordinary Gazette of India, 2025-06-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-26062025-264154",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264154.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264154/264154.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-25.264154",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-25/264154.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-25.264148",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-25",
+      "ugid": "264148",
+      "title": "Extraordinary Gazette of India, 2025-06-25",
+      "ministry": "Ministry of Civil Aviation",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Redio Telephone Operator (Restricted) Certificate and Licence Rules,2025.",
+      "gazette_id": "CG-DL-E-25062025-264148",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264148.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264148/264148.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-25.264148",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-25/264148.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-25.264147",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57429,75 +57498,6 @@
       "ia_identifier": "in.gazette.central.e.2025-02-20.261211",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2025-02-20/261211.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-20.261210",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-20",
-      "ugid": "261210",
-      "title": "Extraordinary Gazette of India, 2025-02-20",
-      "ministry": "Department of Atomic Energy",
-      "department": "Department of Atomic Energy",
-      "office": "",
-      "subject": "Recruitment rules for the post of Controller, BARC",
-      "gazette_id": "CG-MH-E-21022025-261210",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261210.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261210/261210.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-20.261210",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-20/261210.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-20.261208",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-20",
-      "ugid": "261208",
-      "title": "Extraordinary Gazette of India, 2025-02-20",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in the State of Uttar Pradesh",
-      "gazette_id": "CG-DL-E-21022025-261208",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261208.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261208/261208.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-20.261208",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-20/261208.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-20.261207",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-20",
-      "ugid": "261207",
-      "title": "Extraordinary Gazette of India, 2025-02-20",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Declaration of Competent Authority under Section 2 (a) of the Petroleum and Minerals Pipelines (Acquisition of Right of User in Land) Act, 1962 (Act No. 50 of 1962) for M/s GAIL (India) Limited in the State of Haryana.",
-      "gazette_id": "CG-DL-E-21022025-261207",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261207.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261207/261207.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-20.261207",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-20/261207.pdf",
       "topics": []
     }
   ],

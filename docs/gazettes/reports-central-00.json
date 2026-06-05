@@ -1289,6 +1289,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-06-01.273151",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-01",
+      "ugid": "273151",
+      "title": "Extrordinary Gazette of India, 2026-06-01",
+      "ministry": "Ministry of Railways",
+      "department": "South Eastern Railway Construction Organisation",
+      "office": "Chief Admn. Officer, South Eastern Railway, Garden Reach",
+      "subject": "Corrigendum",
+      "gazette_id": "CG-WB-E-04062026-273151",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273151.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273151/273151.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-01.273151",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-01/273151.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-01.273132",
       "category": "extraordinary",
       "type_letter": "e",
@@ -2620,6 +2643,29 @@
       "ia_identifier": "in.gazette.central.w.2026-05-30.272949",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-05-30/272949.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-29.273125",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-29",
+      "ugid": "273125",
+      "title": "Extrordinary Gazette of India, 2026-05-29",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Environmental Impact Assessment (EIA) Division",
+      "office": "",
+      "subject": "Reconstitution of SEIAA SEAC of Nagaland",
+      "gazette_id": "CG-DL-E-04062026-273125",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273125.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-29.273125/273125.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-29.273125",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-29/273125.pdf",
       "topics": []
     },
     {
@@ -4253,6 +4299,29 @@
       "ia_identifier": "in.gazette.central.e.2026-05-29.272933",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-05-29/272933.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-27.273126",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-27",
+      "ugid": "273126",
+      "title": "Extrordinary Gazette of India, 2026-05-27",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture and Farmers Welfare",
+      "office": "",
+      "subject": "Appoint a person as member of the Coconut Development Board",
+      "gazette_id": "CG-DL-E-04062026-273126",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273126.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-27.273126/273126.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-27.273126",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-27/273126.pdf",
       "topics": []
     },
     {
@@ -57476,75 +57545,6 @@
       "ia_identifier": "in.gazette.central.e.2026-02-26.270525",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-02-26/270525.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-26.270524",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-26",
-      "ugid": "270524",
-      "title": "Extrordinary Gazette of India, 2026-02-26",
-      "ministry": "Ministry of Skill Development and Entrepreneurship",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notify the amendments in Common Norms for Skill Development Schemes of the Government of India",
-      "gazette_id": "CG-DL-E-26022026-270524",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270524.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270524/270524.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-26.270524",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-26/270524.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-26.270523",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-26",
-      "ugid": "270523",
-      "title": "Extrordinary Gazette of India, 2026-02-26",
-      "ministry": "Ministry of Railways",
-      "department": "West Central Railway",
-      "office": "Kota Division",
-      "subject": "Gazette notification under section 7A for Sawai Madhopur Station Remodelling Goods Yard Line No. 1, 2, 3, 4 and 5 to Increase CSL CSR in Kota Division, West Central Railway",
-      "gazette_id": "CG-RJ-E-26022026-270523",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270523.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270523/270523.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-26.270523",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-26/270523.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-26.270522",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-26",
-      "ugid": "270522",
-      "title": "Extrordinary Gazette of India, 2026-02-26",
-      "ministry": "Ministry of Railways",
-      "department": "West Central Railway",
-      "office": "Kota Division",
-      "subject": "Gazette notification under section 20E for ROB at LC no. 118 in Kota Division, West Central Railway",
-      "gazette_id": "CG-RJ-E-26022026-270522",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270522.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270522/270522.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-26.270522",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-26/270522.pdf",
       "topics": []
     }
   ],

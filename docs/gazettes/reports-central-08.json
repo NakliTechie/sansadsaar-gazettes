@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-06.249921",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-06",
+      "ugid": "249921",
+      "title": "Extraordinary Gazette of India, 2023-11-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-07112023-249921",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249921.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-06.249921/249921.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-06.249921",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-06/249921.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-06.249920",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-06",
+      "ugid": "249920",
+      "title": "Extraordinary Gazette of India, 2023-11-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-07112023-249920",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249920.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-06.249920/249920.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-06.249920",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-06/249920.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-06.249919",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-06",
+      "ugid": "249919",
+      "title": "Extraordinary Gazette of India, 2023-11-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-07112023-249919",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249919.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-06.249919/249919.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-06.249919",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-06/249919.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-06.249918",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58224,75 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-12.247264",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-12/247264.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-12.247263",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-12",
-      "ugid": "247263",
-      "title": "Extraordinary Gazette of India, 2023-07-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-13072023-247263",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247263.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-12.247263/247263.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-12.247263",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-12/247263.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-12.247262",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-12",
-      "ugid": "247262",
-      "title": "Extraordinary Gazette of India, 2023-07-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-13072023-247262",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247262.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-12.247262/247262.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-12.247262",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-12/247262.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-12.247261",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-12",
-      "ugid": "247261",
-      "title": "Extraordinary Gazette of India, 2023-07-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A   morth",
-      "gazette_id": "CG-DL-E-13072023-247261",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247261.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-12.247261/247261.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-12.247261",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-12/247261.pdf",
       "topics": []
     }
   ],

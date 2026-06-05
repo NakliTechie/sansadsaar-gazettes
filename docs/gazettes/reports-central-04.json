@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-02-20.261210",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-20",
+      "ugid": "261210",
+      "title": "Extraordinary Gazette of India, 2025-02-20",
+      "ministry": "Department of Atomic Energy",
+      "department": "Department of Atomic Energy",
+      "office": "",
+      "subject": "Recruitment rules for the post of Controller, BARC",
+      "gazette_id": "CG-MH-E-21022025-261210",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261210.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261210/261210.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-20.261210",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-20/261210.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-20.261208",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-20",
+      "ugid": "261208",
+      "title": "Extraordinary Gazette of India, 2025-02-20",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in the State of Uttar Pradesh",
+      "gazette_id": "CG-DL-E-21022025-261208",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261208.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261208/261208.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-20.261208",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-20/261208.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-20.261207",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-20",
+      "ugid": "261207",
+      "title": "Extraordinary Gazette of India, 2025-02-20",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Declaration of Competent Authority under Section 2 (a) of the Petroleum and Minerals Pipelines (Acquisition of Right of User in Land) Act, 1962 (Act No. 50 of 1962) for M/s GAIL (India) Limited in the State of Haryana.",
+      "gazette_id": "CG-DL-E-21022025-261207",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261207.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261207/261207.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-20.261207",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-20/261207.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2025-02-20.261205",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57649,78 +57718,6 @@
       "mirror_path": "pdf/central/w/2024-11-09/258553.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258553/258553_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2024-11-09.258552",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2024-11-09",
-      "ugid": "258552",
-      "title": "Weekly Gazette of India, 2024-11-09",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-09112024-258552",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258552.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258552/258552.pdf",
-      "ia_identifier": "in.gazette.central.w.2024-11-09.258552",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2024-11-09/258552.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258552/258552_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2024-11-09.258551",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2024-11-09",
-      "ugid": "258551",
-      "title": "Weekly Gazette of India, 2024-11-09",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-09112024-258551",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258551.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258551/258551.pdf",
-      "ia_identifier": "in.gazette.central.w.2024-11-09.258551",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2024-11-09/258551.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258551/258551_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2024-11-09.258550",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2024-11-09",
-      "ugid": "258550",
-      "title": "Weekly Gazette of India, 2024-11-09",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-09112024-258550",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258550.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258550/258550.pdf",
-      "ia_identifier": "in.gazette.central.w.2024-11-09.258550",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2024-11-09/258550.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258550/258550_djvu.txt"
     }
   ],
   "count": 2500,

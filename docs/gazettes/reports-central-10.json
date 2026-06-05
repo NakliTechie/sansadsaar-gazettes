@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-14.244383",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-14",
+      "ugid": "244383",
+      "title": "Extraordinary Gazette of India, 2023-03-14",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Sh Mandeep Singh Randhawa Director hereby appoints Ex officio Member of Board of Visakhapatnam Port Authority",
+      "gazette_id": "CG-DL-E-14032023-244383",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244383.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-14.244383/244383.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-14.244383",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-14/244383.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-14.244382",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-14",
+      "ugid": "244382",
+      "title": "Extraordinary Gazette of India, 2023-03-14",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Sh Sunil Kumar Singh Adviser Statistics hereby appoints Ex officio Member of Syama Prasad Mookerjee Port Authority",
+      "gazette_id": "CG-DL-E-14032023-244382",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244382.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-14.244382/244382.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-14.244382",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-14/244382.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-14.244381",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-14",
+      "ugid": "244381",
+      "title": "Extraordinary Gazette of India, 2023-03-14",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Sh R Lakshmanan Joint Secretary hereby appoints Ex officio Member of Board of Paradip Port Authority",
+      "gazette_id": "CG-DL-E-14032023-244381",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244381.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-14.244381/244381.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-14.244381",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-14/244381.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-14.244380",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58157,75 +58226,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-30.240697",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-30/240697.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-30.240696",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-30",
-      "ugid": "240696",
-      "title": "Extraordinary Gazette of India, 2022-11-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A MoRTH",
-      "gazette_id": "CG-DL-E-01122022-240696",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240696.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240696/240696.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-30.240696",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-30/240696.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-30.240695",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-30",
-      "ugid": "240695",
-      "title": "Extraordinary Gazette of India, 2022-11-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHIDCL",
-      "gazette_id": "CG-DL-E-01122022-240695",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240695.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240695/240695.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-30.240695",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-30/240695.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-30.240693",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-30",
-      "ugid": "240693",
-      "title": "Extraordinary Gazette of India, 2022-11-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A MoRTH",
-      "gazette_id": "CG-DL-E-01122022-240693",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240693.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240693/240693.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-30.240693",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-30/240693.pdf",
       "topics": []
     }
   ],

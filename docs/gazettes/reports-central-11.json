@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-30.240696",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-30",
+      "ugid": "240696",
+      "title": "Extraordinary Gazette of India, 2022-11-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A MoRTH",
+      "gazette_id": "CG-DL-E-01122022-240696",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240696.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240696/240696.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-30.240696",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-30/240696.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-30.240695",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-30",
+      "ugid": "240695",
+      "title": "Extraordinary Gazette of India, 2022-11-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHIDCL",
+      "gazette_id": "CG-DL-E-01122022-240695",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240695.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240695/240695.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-30.240695",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-30/240695.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-30.240693",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-30",
+      "ugid": "240693",
+      "title": "Extraordinary Gazette of India, 2022-11-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A MoRTH",
+      "gazette_id": "CG-DL-E-01122022-240693",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240693.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240693/240693.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-30.240693",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-30/240693.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-30.240692",
       "category": "extraordinary",
       "type_letter": "e",
@@ -30094,7 +30163,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1305,
+  "count": 1308,
   "category": "central",
   "shard_index": 11
 }

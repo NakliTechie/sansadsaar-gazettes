@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-26.270524",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-26",
+      "ugid": "270524",
+      "title": "Extrordinary Gazette of India, 2026-02-26",
+      "ministry": "Ministry of Skill Development and Entrepreneurship",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notify the amendments in Common Norms for Skill Development Schemes of the Government of India",
+      "gazette_id": "CG-DL-E-26022026-270524",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270524.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270524/270524.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-26.270524",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-26/270524.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-26.270523",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-26",
+      "ugid": "270523",
+      "title": "Extrordinary Gazette of India, 2026-02-26",
+      "ministry": "Ministry of Railways",
+      "department": "West Central Railway",
+      "office": "Kota Division",
+      "subject": "Gazette notification under section 7A for Sawai Madhopur Station Remodelling Goods Yard Line No. 1, 2, 3, 4 and 5 to Increase CSL CSR in Kota Division, West Central Railway",
+      "gazette_id": "CG-RJ-E-26022026-270523",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270523.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270523/270523.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-26.270523",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-26/270523.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-26.270522",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-26",
+      "ugid": "270522",
+      "title": "Extrordinary Gazette of India, 2026-02-26",
+      "ministry": "Ministry of Railways",
+      "department": "West Central Railway",
+      "office": "Kota Division",
+      "subject": "Gazette notification under section 20E for ROB at LC no. 118 in Kota Division, West Central Railway",
+      "gazette_id": "CG-RJ-E-26022026-270522",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270522.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270522/270522.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-26.270522",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-26/270522.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-26.270520",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57429,75 +57498,6 @@
       "ia_identifier": "in.gazette.central.e.2025-10-22.267083",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2025-10-22/267083.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-22.267082",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-22",
-      "ugid": "267082",
-      "title": "Extrordinary Gazette of India, 2025-10-22",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "7A Corigendum of LC No 365 vide S O 4508(E) Dated 22nd September 2025",
-      "gazette_id": "CG-TL-E-22102025-267082",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267082.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-22.267082/267082.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-22.267082",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-22/267082.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-22.267081",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-22",
-      "ugid": "267081",
-      "title": "Extrordinary Gazette of India, 2025-10-22",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "RAILWAYS RED TARIFF SECOND AMENDMENT RULES 2025",
-      "gazette_id": "CG-DL-E-22102025-267081",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267081.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-22.267081/267081.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-22.267081",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-22/267081.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-22.267078",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-22",
-      "ugid": "267078",
-      "title": "Extrordinary Gazette of India, 2025-10-22",
-      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
-      "department": "Department of Personnel and Training",
-      "office": "",
-      "subject": "Corrigendum to the Rules for Combined SO LDCE 2025 published on 17.09.2025",
-      "gazette_id": "CG-DL-E-22102025-267078",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267078.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-22.267078/267078.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-22.267078",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-22/267078.pdf",
       "topics": []
     }
   ],

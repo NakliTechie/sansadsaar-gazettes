@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2024-11-09.258552",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-11-09",
+      "ugid": "258552",
+      "title": "Weekly Gazette of India, 2024-11-09",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-09112024-258552",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258552.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258552/258552.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-11-09.258552",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-11-09/258552.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258552/258552_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2024-11-09.258551",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-11-09",
+      "ugid": "258551",
+      "title": "Weekly Gazette of India, 2024-11-09",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-09112024-258551",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258551.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258551/258551.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-11-09.258551",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-11-09/258551.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258551/258551_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2024-11-09.258550",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-11-09",
+      "ugid": "258550",
+      "title": "Weekly Gazette of India, 2024-11-09",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-09112024-258550",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258550.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258550/258550.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-11-09.258550",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-11-09/258550.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-11-09.258550/258550_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-08.258560",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-07-05/255248.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-05.255248/255248_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-05.255244",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-05",
-      "ugid": "255244",
-      "title": "Extraordinary Gazette of India, 2024-07-05",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 1962 relating to land schedule in respect of Paradip Numaligarh crude oil pipeline project of  Numaligarh Refinery Limited (NRL) for acquisition of ROU in the State of Assam",
-      "gazette_id": "CG-DL-E-06072024-255244",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255244.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-05.255244/255244.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-05.255244",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-05/255244.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-05.255244/255244_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-05.255243",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-05",
-      "ugid": "255243",
-      "title": "Extraordinary Gazette of India, 2024-07-05",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India us 6(1) of the  Petroleum and Minerals Pipelines (Acquisition of Right of User in Land) Act, 1962 relating to land schedule in respect of Arab Mix  Crude Oil Pipeline project of HPCL Rajasthan Refinery Limited (HRRL)  in the State of  Gujarat for Tehsil Mundra, Anjar, Bhachau, Rapar  Distt.  Kachchh Tehsil Santalpur Distt.  Patan and Tehsil Bhabhar, Tharad, Dhanera, Vav  Distt.  Banaskantha",
-      "gazette_id": "CG-DL-E-06072024-255243",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255243.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-05.255243/255243.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-05.255243",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-05/255243.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-05.255243/255243_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-05.255235",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-05",
-      "ugid": "255235",
-      "title": "Extraordinary Gazette of India, 2024-07-05",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of corrigendum under Section 3a",
-      "gazette_id": "CG-DL-E-06072024-255235",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255235.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-05.255235/255235.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-05.255235",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-05/255235.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-05.255235/255235_djvu.txt"
     }
   ],
   "count": 2500,
