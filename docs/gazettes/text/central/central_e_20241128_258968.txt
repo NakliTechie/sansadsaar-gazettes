@@ -1,0 +1,838 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+AIX = राज्जपन्र 
+
+
+Che Gazette of India 
+
+
+सी.जी.-डी.एल.-अ.-28112024-258968 
+CG-DL-E-28112024-258968 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग तर--खण्ड 3--उप-खण्ड (i) 
+PART II—Section 3—Sub-section (i) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+a. 677] नई दिल्ली, बृहस्पतिवार, नवम्बर 28, 2024/अग्रहायण 7, 1946 
+No. 677] NEW DELHI, THURSDAY, NOVEMBER 28, 2024/ AGRAHAYANA 7, 1946 
+
+
+संचार मंत्रालय 
+(दूरसंचार विभाग) 
+अधिसूचना 
+नई दिल्‍ली, 27 नवम्बर, 2024 
+
+
+सा.का.नि. 736(अ).--निम्नलिखित प्रारूप नियम जिसे केन्द्रीय सरकार दूरसंचार अधिनियम, 2023 (2023 का 
+44) की धारा 56 की उप-धारा (2) के खंड (वाई) के साथ पठित धारा 27 के अधीन प्रदत्त शक्तियों का प्रयोग करते हुए 
+बनाने का प्रस्ताव करती है, को इससे प्रभावित होने वाले सभी व्यक्तियों की सूचना के लिए Waser प्रकाशित किया जाता 
+है तथा Ug नोटिस दिया जाता है कि उक्त प्रारूप नियम पर उस तारीख से तीस दिन की अवधि की समाप्ति के पश्चात 
+विचार किया जाएगा जिस तारीख से सरकारी राजपत्र में यथाप्रकाशित इस अधिसूचना की प्रतियां सर्वसाधारण को 
+उपलब्ध कराई जाएंगी; 
+
+यदि कोई आपत्ति या सुझाव हो तो उसे संयुक्त सचिव (दूरसंचार), दूरसंचार विभाग, संचार मंत्रालय, भारत 
+सरकार, संचार भवन, 20, अशोक रोड, नई दिल्‍ली - 110001 को भेजा जा सकता हैं; 
+
+
+केन्द्रीय सरकार द्वारा उक्त अवधि की समाप्ति से पूर्व उक्त प्रारूप नियम के संबंध में किसी भी व्यक्ति से प्राप्त आपत्ति 
+या सुझाव पर विचार किया जाएगा। 
+
+
+7691 GI/2024 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+अध्याय 1: प्रारंभिक 
+1. संक्षिप्त नाम और प्रारंभ 
+(1) इन नियमों का संक्षिप्त नाम दूरसंचार (विनियामक सैंडबॉक्स) नियम, 2024 है। 
+(2) ये राजपत्र में इनके प्रकाशन की तारीख को प्रवृत होंगे। 
+2. परिभाषाएँ 
+(1) इन नियमों में, जब तक कि संदर्भ से अन्यथा अपेक्षित न हो: 
+(क) "अधिनियम" से दूरसंचार अधिनियम, 2023 (2023 का 44) ata है; 
+
+
+(ख) "आवेदक" से एक अधिकृत इकाई या कंपनी, सोसाइटी या साझेदारी फर्म, जो भारत के कानूनों के अधीन 
+विधिवत गठित हो, या एक भारतीय नागरिक, या विज्ञान और प्रौद्योगिकी विभाग, विज्ञान और प्रौद्योगिकी 
+मंत्रालय, भारत सरकार द्वारा मान्यता प्राप्त एक अनुसंधान और विकास संस्थान है, जो एक विनियामक 
+सैंडबॉक्स के निर्माण के लिए एक प्रस्ताव प्रस्तुत करता है, ATA है; 
+
+
+(ग) "अनुमोदित आवेदक" से केन्द्रीय सरकार द्वारा अनुमोदित आवेदक या नियम 4 के अधीन बनाए गए 
+विनियामक सैंडबॉक्स के प्रचालन और प्रबंधन के उद्देश्य से केन्द्रीय सरकार द्वारा नामित व्यक्ति अभिप्रेत है; 
+(घ) "शासी समिति" से नियम 7 के अधीन गठित समिति अभिप्रेत है; 
+(=) "भागीदार" से विनियामक सैंडबॉक्स का एक भागीदार जो नियम 5 के अनुसार विनिर्दिष्ट पात्रता मानदंडों 
+को पूरा करता है, अभिप्रेत है; 
+(a) "पोर्टल" से वह पोर्टल अभिप्रेत है; जिसे इन नियमों के नियम 11 के अधीन केंद्र सरकार द्वारा अधिसूचित 
+किया जा सकता है, 
+
+
+(छ) "विनियामक सैंडबॉक्स" से नियम 4 के अधीन बनाया गया एक लाइव परीक्षण वातावरण ATA है; जहां 
+नए उत्पाद, सेवाओं, प्रक्रियाओं और व्यवसाय मॉडल को उपयोगकर्ताओं के सीमित सेट पर तैनात किया जा 
+सकता है, तथा 
+
+(ज) "परीक्षण उपयोगकर्ता" से उपयोगकर्ताओं का वह सीमित समूह अभिप्रेत है जो स्वैच्छिक रूप से विनियामक 
+सैंडबॉक्स में भाग लेते है; 
+
+(झ) "वैधता अवधि" से नियम 5 के उप-नियम (2) के अधीन विनिर्दिष्ट विनियामक सैंडबॉक्स की अवधि 
+ata है। 
+
+(2) इन नियमों में प्रयुक्त हुए किन्तु इनमें परिभाषित नहीं किए गए अधिनियम में परिभाषित शब्दों और पदों के वही अर्थ 
+होंगे जो इस अधिनियम में उनके हैं। 
+
+
+3. कार्यक्षेत्र और प्रयोज्यता 
+
+
+केन्द्रीय सरकार विनिर्दिष्ट समय-अवधि के लिए परीक्षण उपयोगकर्ताओं के सीमित सेट पर एक लाइव परीक्षण 
+वातावरण को सक्षम करने की दृष्टि से जहां नए उत्पादों, सेवाओं, प्रक्रियाओं और व्यवसाय मॉडल को तैनात किया जा 
+सकता है, दूरसंचार में नवाचार और तकनीकी विकास को प्रोत्साहित करने और सुविधाजनक बनाने के प्रयोजनों के 
+लिए एक या एक से अधिक विनियामक सैंडबॉक्स के निर्माण और उन पर लागू निबंधनों और शर्तों को पोर्टल पर 
+विनिर्दिष्ट कर सकती है, 
+
+
+4. विनियामक सैंडबॉक्स का निर्माण 
+
+
+(1) केन्द्रीय सरकार द्वारा निम्नलिखित स्थितियों में एक विनियामक सैंडबॉक्स बनाया और पोर्टल पर विनिर्दिष्ट किया 
+जा सकता है: 
+
+
+(क) स्वत: आकलन पर इस तरह के विनियामक सैंडबॉक्स की आवश्यकता होने पर; या 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण 3 
+
+
+(ख) आवेदक से प्रस्ताव प्राप्त होने पर, या केन्द्रीय सरकार से प्रस्तावों के अनुरोध के प्रत्युत्तर में पोर्टल पर 
+विनिर्दिष्ट स्वरूप और रीति से और सहायक दस्तावेजों के साथ केवल दस हजार रुपये के शुल्क सहित 
+प्रस्ताव प्राप्त होने पर 
+
+
+(2) केन्द्रीय सरकार उपनियम (1) के खंड (ख) के अधीन प्राप्त प्रस्ताव की जांच करने पर आवेदक से यथा अपेक्षित 
+स्पष्टीकरण या अन्य दस्तावेज मांग सकती है। 
+
+
+(3) जहां एक आवेदक ने टेस्ट बेड, प्रयोगशालाओं, या प्रयोगात्मक पृथक नेटवर्क जैसे प्रयोगशाला वातावरण के अधीन 
+कोई परीक्षण किया है, तो इसमें उप-नियम (1) के खंड (ख) के अनुसार प्रस्तुत प्रस्ताव के साथ इस तरह के 
+परीक्षण की रिपोर्ट और परिणाम शामिल होंगे। 
+
+
+(4) उप-नियम (1) के खंड (ख) के अधीन प्राप्त प्रस्ताव की कोई भी अस्वीकृति इस तरह की अस्वीकृति के कारणों के 
+साथ होगी। 
+
+
+5. विनियामक सैंडबॉक्स के निबंधन और शर्तें 
+(1) नियम 4 के अधीन बनाये गये किसी भी विनियामक सैंडबॉक्स में निम्नलिखित विनिर्दिष्ट होगा: 
+(क) विनियामक सैंडबॉक्स का कार्यक्षेत्र और उद्देश्य; 
+
+
+(ख) विनियामक सैंडबॉक्स के प्रचालन और प्रबंधन के लिए जिम्मेदार एक या अधिक अनुमोदित आवेदकों का 
+नाम और विवरण; 
+
+
+(ग) ऐसे विनियामक सैंडबॉक्स में भागीदारी के लिए पात्रता मानदंड, और ऐसे भागीदारों के दायित्व; 
+(घ) दूरसंचार सेवाएं या दूरसंचार नेटवर्क या उपस्कर या प्रक्रियाएं या प्रौद्योगिकियां या व्यवसाय मॉडल 
+जिनका परीक्षण ऐसे विनियामक सैंडबॉक्स में किया जा सकता है; 
+(=) विनियामक सैंडबॉक्स की अवधि के लिए अधिनियम या उसके अधीन बनाए गए नियमों के अधीन 
+प्राधिकार या समनुदेशन या किसी अन्य प्रावधान की आवश्यकताओं से लागू छूट; 
+(a) किन्हीं संभावित जोखिमों के शमन को सुनिश्चित करने के लिए अपेक्षित जोखिम विश्लेषण और प्रबंधन; 
+(छ) परीक्षण की पद्धति से संबंधित आवश्यकताओं सहित रिपोर्टिंग की अपेक्षाएं और विनियामक सैंडबॉक्स के 
+निबंधनों और शर्तों के अनुपालन को सुनिश्चित करने के लिए उठाए जाने वाले कदम; 
+(ज) विनियामक सैंडबॉक्स की बैधता अवधि; 
+(a) विनियामक सैंडबॉक्स से बहिर्गमन के लिए निकास रणनीति का विवरण; और 
+(ञ) केन्द्रीय सरकार के विचार में ऐसे विनियामक सैंडबॉक्स में भागीदारी से जुड़े या संबंधित किसी अन्य 
+संगत मामले का विवरण। 
+(2) विनियामक सैंडबॉक्स की वैधता अवधि चौबीस महीने से अधिक नहीं होगी: 
+
+
+परंतु केन्द्रीय सरकार, यदि वह आवश्यक समझती है तो, किसी अनुमोदित आवेदक से पोर्टल पर विनिर्दिष्ट प्रारूप 
+में अवधि को बढ़ाने के लिए ऐसी बैधता अवधि की समाप्ति से कम से कम तीस दिन पहले इस तरह के विस्तार के 
+कारणों के साथ किए गए अनुरोध के प्राप्त होने पर या नियम 7 के अधीन शासी समिति से अवधि को बढ़ाने के 
+लिए प्राप्त सिफारिश पर वैधता अवधि को एक बार में अधिकतम बारह महीने की अवधि तक बढ़ा सकती है। 
+
+
+6. अनुमोदित आवेदकों के दायित्व 
+
+
+(1) प्रत्येक अनुमोदित आवेदक को संगत विनियामक सैंडबॉक्स में स्वयं या अन्य प्रतिभागियों के माध्यम से परीक्षण 
+करने के लिए नियम 5 के अधीन केंद्र सरकार द्वारा विनिर्दिष्ट विनियामक सैंडबॉक्स के निबंधन और शर्तों का 
+अनुपालन सुनिश्चित करना होगा। 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+(2) प्रत्येक अनुमोदित आवेदक, जैसा भी विनियामक सैंडबॉक्स के कार्यान्वयन के लिए आवश्यक हो, नबंरिंग के 
+संसाधनों, स्पेक्ट्रम के समनुदेशन, और मार्गाधिकार के लिए अनुमति सहित संसाधनों के आवंटन के लिए आवेदन 
+करने या छूट मांगने के लिए उत्तरदायी होगा। 
+
+
+(3) उप-नियम (1) की व्यापकता के प्रति पूर्वाग्रह के बिना, प्रत्येक अनुमोदित आवेदक, 
+(क) निम्नलिखित के तंत्र स्थापित करेगा: 
+() पात्रता मानदण्डों के आधार पर भागीदारों की ऑन-बोर्डिंग; 
+(1) प्रत्येक भागीदार द्वारा केन्द्रीय सरकार द्वारा विनिर्दिष्ट विनियामक सैंडबॉक्स के लिए निबंधन और 
+शर्तों का पालन; 
+(1) परीक्षण मापदंडों, नियंत्रण सीमाओं, परीक्षण स्थलों और प्रत्येक भागीदारों द्वारा परीक्षण परिणामों 
+के रिकॉर्ड के रखरखाव के तरीके को विनिर्दिष्ट करना; और 
+(iv) खंड (1) के विनिर्देशों के भीतर भागीदारों द्वारा किए गए परीक्षण की निगरानी; 
+
+
+डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम, 2023 के प्रावधानों और किसी भी अन्य लागू विधियों, 
+नियमों, विनियमों का स्वयं द्वारा और प्रत्येक भागीदार द्वारा अनुपालन सुनिश्चित करना जब ऐसे 
+विनियामक सैंडबॉक्स के भीतर परीक्षण के लिए परीक्षण उपयोगकर्ताओं को ऑनबोर्ड किया जाए; 
+(ग) केन्द्रीय सरकार को एक विनियामक सैंडबॉक्स में भागीदारों के बारे में पोर्टल पर इस उद्देश्य के लिए 
+विनिर्दिष्ट रूप और तरीके के साथ ही साथ ऐसे सैंडबॉक्स से निकलने की सूचना देना; 
+(घ) जहां विनियामक सैंडबॉक्स में विनियामक सैंडबॉक्स के परीक्षण के लिए परीक्षण उपयोगकर्ताओं का 
+नामांकन शामिल है वहां: 
+(i) ऐसे परीक्षण उपयोगकर्ताओं को विनियामक सैंडबॉक्स के उद्देश्य और किए जा रहे परीक्षण के 
+कार्यक्षेत्र के बारे में सूचित करें; 
+(1) पोर्टल पर विनिर्दिष्ट प्रपत्र में विनियामक सैंडबॉक्स के परीक्षण परिवेश का हिस्सा बनने के लिए 
+परीक्षण उपयोगकर्ताओं की पूर्व सोच-समझकर दी गई लिखित सहमति पहले ही प्राप्त करे; 
+(1) सुनिश्चित करें कि परीक्षण उपयोगकर्ताओं को परीक्षण वातावरण में उनकी भागीदारी के लिए 
+कोई शुल्क देने की आवश्यकता न हो; 
+(=) परीक्षण उपयोगकर्ताओं के हितों की रक्षा के लिए विनियामक सैंडबॉक्स में परीक्षण की अवधि के लिए 
+पर्याप्त राशि की देयता या क्षतिपूर्ति बीमा सुनिश्चित करना: 
+
+
+(a 
+
+
+~— 
+
+
+परंतु क्षतिपूर्ति कवर की पर्याप्तता अन्य बातों के साथ-साथ, (i) एकल परीक्षण उपयोगकर्ता के लिए 
+अधिकतम TRIGA, (ii) दावों की संख्या जो एक ही घटना से उत्पन्न हो सकते हैं, (1) अनेक दावों की 
+संभावना, और (ii) परीक्षण अवधि के दौरान अपेक्षित दावों की संखया पर आधारित अधिकतम देयता के 
+निर्धारण पर निर्भर होगी। 
+
+
+(a) सुनिश्चित करेगा कि विनियामक सैंडबॉक्स में परीक्षण की जा रही दूरसंचार सेवाओं या प्रौद्योगिकियों या उत्पादों 
+या प्रक्रियाएं या व्यवसाय मॉडल को परीक्षण अवधि के दौरान बाजार में वाणिज्यिक रूप से उपलब्ध नहीं कराया 
+गया है; 
+
+(छ) विनियामक सैंडबॉक्स की वैधता अवधि के बाद कम से कम एक वर्ष अवधि के लिए अथवा केंद्र सरकार द्वारा 
+यथानिर्धारित अपेक्षाकृत लंबी अवधियों के लिए कार्य योजनाओं, कार्यप्रणालियों, परीक्षण प्रयोक्ताओं की सहमति 
+के अभिलेख और अन्य संबंधित डेटा सहित परीक्षण से संबंधित अभिलेखों का भंडारण सुनिश्चित करेगा; 
+
+
+(ज) खंड (छ) के अधीन विनिर्दिष्ट किसी भी डेटा और अभिलेखों को सुरक्षित तरीके से नष्ट करना सुनिश्चित करेगा; 
+
+
+(झ) केन्द्रीय सरकार को स्वयं या किसी भागीदार द्वारा विनियामक सैंडबॉक्स में किसी परीक्षण से हुए या उससे 
+संबंधित किसी भी कार्य, भूल, चूक, उल्लंघन या किसी भी प्रकार की दोषसिद्धि से मुक्त रखेगा; और 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण 5 
+
+
+(ञ) यह सुनिश्चित करेगा कि विनियामक सैंडबॉक्स जिसमें परीक्षण और उसके परिणाम शामिल हैं के संबंध में उसके 
+और भागीदारों द्वारा गोपनीयता बनाए रखी जाए: 
+
+
+परंतु फिर भी केन्द्रीय सरकार अनुमोदित आवेदकों और भागीदारों सहित विनियामक सैंडबॉक्स के बारे में कोई 
+भी संगत और सामान्य जानकारी पोर्टल पर प्रकाशित कर सकती है। 
+
+
+(4) अनुमोदित आवेदक विनियामक सैंडबॉक्स को संचालित करने और प्रबंधित करने के लिए प्राप्त अनुमोदन को 
+निम्नलिखित स्थितियों में वैधता अवधि से पहले वापस कर सकते है: 
+
+
+(क) परीक्षण पूरा होने पर, शासी समिति से पूर्णता के प्रमाण पत्र सहित; या 
+(ख) यदि इसके मूल्यांकन में विनियामक सैंडबॉक्स वांछित उद्देश्यों को पूरा नहीं करता है। 
+. शासी समिति 
+
+
+(1) केन्द्रीय सरकार नियम 4 के अधीन बनाए गए विनियामक सैंडबॉक्स के कार्य-निष्पादन की निगरानी और मूल्यांकन 
+के लिए एक या एक से अधिक शासी समितियों का गठन करेगी और पोर्टल पर विनिर्दिष्ट करेगी जिसमें सरकार, 
+शिक्षा जगत या निजी क्षेत्र से केन्द्रीय सरकार द्वारा नामित सदस्य सम्मिलित होंगे। 
+
+
+N“ 
+
+
+(2) शासी समिति, परीक्षण की प्रकृति तथा परीक्षण की जा रही दूरसंचार सेवाओं या दूरसंचार नेटवर्कों या उपस्करों 
+या प्रक्रियाओं या प्रौद्योगिकियों या व्यावसायिक मॉडलों के आधार पर अनुमोदित आवेदकों द्वारा प्रस्तुत की जाने 
+वाली आवधिक रिपोर्टों की आवृति और रूप को विनिर्दिष्ट करेगी और केन्द्रीय सरकार इसे पोर्टल पर विनिर्दिष्ट 
+करेगी। 
+
+
+(3) परीक्षण पूरा होने के पंद्रह दिन के भीतर या विनियामक सैंडबॉक्स की वैधता समाप्त होने से कम से कम तीस दिन 
+पूर्व प्रत्येक अनुमोदित आवेदक पोर्टल पर विनिर्दिष्ट रूप और रीति से शासी समिति को एक विस्तृत रिपोर्ट प्रस्तुत 
+करेंगें जिसमें निम्नलिखित शामिल होंगे: 
+
+
+क) परीक्षण के परिणाम और निष्कर्ष; 
+ख) परीक्षण प्रयोक्ताओं से प्राप्त फीडबैक जिसमें शिकायतें, चिंताएं, सुरक्षा मुद्दे शामिल हैं; 
+ग) परीक्षण अवधि के दौरान सामने आई चुनौतियां; 
+
+
+घ) सुरक्षा और अन्य मुद्दों से निपटने के लिए किए गए उपाय, उपभोक्ता संरक्षण और जोखिम कम करने के लिए 
+किए गए उपाय; और 
+
+
+(ड) शासी समिति द्वारा यथा-विनिर्दिष्ट किसी भी प्रकार का अन्य डेटा या जानकारी। 
+
+
+(4) उप-नियम (3) के अधीन रिपोर्ट प्राप्त होने पर शासी समिति अनुमोदित आवेदक के साथ-साथ केन्द्रीय सरकार को 
+सिफारिशें कर सकती है जिसमें निम्नलिखित के लिए सिफारिशें शामिल हो सकती हैं: 
+
+
+(क) परीक्षण जारी रखना; 
+
+
+(ख) परीक्षण के दायरे में संशोधन, जिसमें परीक्षण के पैमाने को बढ़ाना शामिल है को सक्षम करने के लिए अनुमोदन 
+में संशोधन करना; 
+
+
+( 
+( 
+( 
+( 
+
+
+(ग) परीक्षण पूरा होने को प्रमाणित करना और अनुमोदन को समाप्त करना; और 
+
+
+(घ) उत्पाद, सेवा, प्रक्रिया या व्यवसाय मॉड्यूल, जो विनियामक सैंडबॉक्स के तहत परीक्षण का विषय था की 
+वाणिज्यिक व्यवहार्यता। 
+
+
+8. परीक्षण की गई दूरसंचार सेवाओं या प्रौद्योगिकियों या उत्पादों के परीक्षण के पैमाने और वाणिज्यिक व्यवहार्यता को 
+बढ़ाना 
+
+
+केन्द्रीय सरकार, नियम 7 के उप-नियम (4) के अधीन शासी समिति की सिफारिशें प्राप्त होने पर: 
+(क) अनुमोदित आवेदक या शासी समिति से आगे और जानकारी तथा स्पष्टीकरण मांग सकती है; 
+(ख) नियम 5 के उप-नियम (2) के अधीन विनियामक सैंडबॉक्स की वैधता अवधि बढ़ा सकती है; 
+
+
+6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+(7) विनियामक सैंडबॉक्स के निबंधनों और शर्तों में किसी भी संशोधन पर विचार कर सकती; या 
+
+
+(घ) प्राधिकार के लिए संगत नियमों के अधीन विनियामक सैंडबॉक्स में परीक्षण की गई दूरसंचार सेवाओं या दूरसंचार 
+नेटवर्क या उपस्कर या प्रक्रियाओं या प्रौद्योगिकियों या व्यवसाय मॉडलों के व्यवसायीकरण की अनुमति देने पर 
+विचार कर सकती है। 
+
+
+9. विनियामक सैंडबॉक्स को प्रचलित और प्रबंधित करने के अनुमोदन का निलंबन या निरसन। 
+
+
+केन्द्रीय सरकार स्वयं या शासी समिति की सिफारिश पर उसके कारणों को अभिलिखित करते हुए आदेश द्वारा 
+विनियामक सैंडबॉक्स के प्रचालन और प्रबंधन के अनुमोदन को निलंबित या निरसित कर सकती है यदि: 
+
+
+(क) अनुमोदित आवेदक ने: 
+(i) केन्द्रीय सरकार को जानबूझकर गलत या झूठी जानकारी दी हो; या 
+
+
+(1) उन विशिष्ट निबंधनों और शर्तों तथा मानदंडों का पालन करने में विफल रहा हो जिनके आधार पर परीक्षण 
+का अनुमोदन दिया गया था या संबंधित विनियामक सैंडबॉक्स में प्रतिभागियों द्वारा इस तरह के अनुपालन को 
+सुनिश्चित करवाने में विफल रहा हो; 
+परंतु यह कि उप-खंड (i) और (ii) के अधीन विनियामक सैंडबॉक्स में परीक्षण के लिए अनुमोदन के निलंबन या 
+निरसन का कोई निर्णय तब तक नहीं लिया जाएगा जब तक कि अनुमोदित आवेदक को सुनवाई का उचित 
+अवसर नहीं दिया गया हो। 
+
+(ख) केन्द्रीय सरकार की राय में राष्ट्रीय सुरक्षा के हित में या लोक हित में ऐसा निलंबन या निरसन अपेक्षित हो। 
+10. शुल्क की वापसी नहीं 
+
+
+इन नियमों के अधीन दिए गए अनुमोदन के किसी भी कारण से निलंबन या निरसन या इन नियमों के अधीन दिए 
+गए अनुमोदन के निबंधनों और शर्तों में किसी भी प्रकार के संशोधन, परिवर्तन, रद्द या निरसन के परिणामस्वरूप 
+कोई क्षतिपूर्ति या शुल्क की वापसी लागू नहीं होगी। 
+
+
+11. इन नियमों का डिजिटल कार्यान्वयन 
+
+
+केन्द्रीय सरकार अधिनियम की धारा 53 के अनुसरण में इन नियमों के डिजिटल कार्यान्वयन हेतु एक पोर्टल 
+अधिसूचित कर सकती है। 
+
+
+[फा. सं. 24-11/2024-यूबीबी] 
+देवेंद्र कुमार राय, संयुक्त सचिव 
+
+
+MINISTRY OF COMMUNICATIONS 
+(Department of Telecommunications) 
+NOTIFICATION 
+New Delhi, the 27th November, 2024 
+
+
+G.S.R. 736(E).—The following draft rules, which the Central Government proposes to make in exercise of 
+the powers conferred under section 27, read with clause (y) of sub-section (2) of section 56 of the 
+Telecommunications Act, 2023 (44 of 2023), are hereby published for the information of all persons likely to be 
+affected thereby and notice is hereby given that the said draft rules shall be taken into consideration after the expiry of 
+a period of thirty days from the date on which copies of this notification as published in the Official Gazette are made 
+available to the public; 
+
+
+Objections or suggestions, if any, may be addressed to the Joint Secretary (Telecom), Department of 
+Telecommunications, Ministry of Communications, Government of India, Sanchar Bhawan, 20, Ashoka Road, New 
+Delhi — 110001; 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण ‘i 
+
+
+The objections or suggestions which may be received from any person with respect to the said draft rules 
+before the expiry of the aforesaid period shall be taken into consideration by the Central Government. 
+
+
+CHAPTER 1: PRELIMINARY 
+
+
+1. Short title and commencement 
+
+
+(1) These rules may be called the Telecommunications (Regulatory Sandbox) Rules, 2024. 
+
+
+(2) They shall come into force on the date of their publication in the Official Gazette. 
+
+
+2. Definitions 
+
+
+(1) In these rules, unless the context otherwise requires: 
+
+
+(a) 
+(b) 
+
+
+(c) 
+
+
+(d) 
+
+
+(e) 
+
+
+(f) 
+(g 
+
+
+wm 
+
+
+(h) 
+(i) 
+
+
+“Act” means the Telecommunications Act, 2023 (44 of 2023); 
+
+
+“applicant” means an authorised entity or company, society or partnership firm, duly constituted under the 
+laws of India, or an Indian national, or a research and development institution recognized by the 
+Department of Science and Technology, Ministry of Science and Technology, Government of India, that 
+submits a proposal for creation of a regulatory sandbox; 
+
+
+“approved applicant” means an applicant approved by the Central Government or a person nominated by 
+the Central Government for the purpose of operation and management of a regulatory sandbox created 
+under rule 4; 
+
+
+“Governance Committee” means the committee constituted under rule 7; 
+
+
+“participant” means a participant to a regulatory sandbox that satisfies the eligibility criteria specified 
+pursuant to rule 5; 
+
+
+“portal” means the portal which may be notified by the Central Government under rule 11 of these rules; 
+
+
+“regulatory sandbox” means a live testing environment created under rule 4 where new products, services, 
+processes and business models which may be deployed, on a limited set of users; and 
+
+
+“test users” means the limited set of users who voluntarily participate in a regulatory sandbox; 
+
+
+“validity period” means the duration of the regulatory sandbox as specified under sub-rule (2) of rule 5. 
+
+
+(2) Words and expressions used in these rules and not defined herein but defined in the Act, shall have the meanings 
+respectively assigned to them in the Act. 
+
+
+3. Scope and Applicability 
+
+
+The Central Government, for the purposes of encouraging and facilitating innovation and _ technological 
+development in telecommunication, may specify on the portal, the creation of one or more regulatory sandboxes 
+and the terms and conditions applicable thereto, with a view to enabling a live testing environment where new 
+products, services, processes and business models may be deployed on a limited set of test users for a specified 
+period of time. 
+
+
+4. Creation of regulatory sandbox 
+
+
+(1) A regulatory sandbox may be created and specified on the portal by the Central Government: 
+
+
+(a) upon its own assessment of the need for such a regulatory sandbox; or 
+
+
+(b) upon receiving a proposal from an applicant, or a proposal received in response to a request for 
+
+
+proposals from the Central Government, in the form and manner, and accompanied with the supporting 
+documents specified on the portal, as well as fees of rupees ten thousand only. 
+
+
+(2) The Central Government may, upon examination of a proposal received under clause (b) of sub-rule (1), seek 
+clarifications or further documents, as may be required from the applicant. 
+
+
+(3) Where an applicant has undertaken any testing, including under laboratory environments such as test beds, 
+laboratories, or experimental isolated networks, it shall include the reports and results of such testing along 
+with the proposal submitted pursuant to clause (b) of sub-rule (1). 
+
+
+(4) Any rejection of a proposal received under clause (b) of sub-rule (1) shall be accompanied with reasons for 
+such rejection. 
+
+
+5. Terms and conditions of a regulatory sandbox 
+
+
+(1) Any regulatory sandbox created under rule 4 shall specify: 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+(g) 
+
+
+(h 
+
+
+wm 
+
+
+(2 
+
+
+wm 
+
+
+the scope and objective of the regulatory sandbox; 
+
+
+the name and details of one or more approved applicants responsible for the operation and management 
+of the regulatory sandbox; 
+
+
+eligibility criteria for participation in such regulatory sandbox, and obligations of such participants; 
+
+
+the telecommunication services or telecommunication network or equipment or processes or 
+technologies or business models that may be tested in such regulatory sandbox; 
+
+
+applicable exemptions from the requirements of authorisation or assignment or any other provision under 
+the Act or rules made thereunder, for the duration of regulatory sandbox; 
+
+
+risk analysis and management required to ensure mitigation of any potential risks; 
+
+
+reporting requirements including those relating to the methodology of testing and steps to be taken to 
+ensure compliance with the terms and conditions of the regulatory sandbox; 
+
+
+validity period of the regulatory sandbox; 
+details of the exit strategy for exiting the regulatory sandbox; and 
+
+
+details of any other matter relevant, in the opinion of the Central Government, connected with or related 
+to the participation in such regulatory sandbox. 
+
+
+The validity period of a regulatory sandbox shall not exceed twenty-four months: 
+
+
+Provided that the Central Government may, if it considers necessary, extend the validity period by a period 
+not exceeding twelve months at a time, upon receipt of a request for extension, made in the form specified on 
+the portal, from an approved applicant, at least thirty days prior to expiry of such validity period, with 
+reasons for such extension, or upon a recommendation for extension from the Governance Committee 
+received under rule 7. 
+
+
+Obligations of approved applicants 
+
+
+(1) Every approved applicant shall ensure compliance with the terms and conditions of a regulatory sandbox 
+specified by the Central Government under rule 5 for undertaking testing by itself or through other 
+participants, in the relevant regulatory sandbox. 
+
+
+(2) Every approved applicant shall be responsible for applying for or seeking exemption from allocation of 
+resources including numbering resources, assignment of spectrum, and permission for right of way, as may 
+be required for implementation of the regulatory sandbox. 
+
+
+(3) Without prejudice to the generality of sub-rule (1), every approved applicant shall, 
+
+
+(a) 
+
+
+(b 
+
+
+wm 
+
+
+(c) 
+
+
+(d) 
+
+
+establish mechanisms for: 
+(i) the on-boarding of participants based on the eligibility criteria; 
+
+
+(ii) adherence by each participant to the terms and conditions for the regulatory sandbox as specified by 
+the Central Government; 
+
+
+(iii) specifying the test parameters, control boundaries, testing sites, and manner of maintenance of 
+records of the test results by each participant; and 
+
+
+(iv) monitoring the testing undertaken by participants within specifications of clause (iii); 
+
+
+ensure compliance by itself and by every participant with the provisions of the Digital Personal Data 
+Protection Act, 2023, and any other applicable laws, rules, regulations, when onboarding test users for 
+testing within such regulatory sandbox; 
+
+
+provide information to the Central Government of the participants in a regulatory sandbox, as well as 
+their exit from such sandbox, in the form and manner specified for this purpose on the portal; 
+
+
+where the regulatory sandbox involves enrolment of test users for testing of the regulatory sandbox: 
+
+
+(i) inform such test users the purpose of the regulatory sandbox and the scope of testing being 
+undertaken; 
+
+
+(ii) obtain the prior written informed consent of the test users for being part of the test environment 
+of the regulatory sandbox in the form that may be specified on the portal; 
+
+
+(iii) ensure that test users are not required to pay any charges for their participation in the test 
+environment; 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण 9 
+
+
+7. 
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(९) ensure liability or indemnity insurance of an adequate amount for the duration of testing in the regulatory 
+sandbox, to safeguard the interest of the test users: 
+
+
+Provided that the adequacy of indemnity cover shall depend on determination of the maximum liability 
+based on, among others, (i) maximum exposure to a single test user, (1) the number of claims that could 
+arise from a single event, (iii) potential for multiple claims, and (iii) number of claims that might be 
+expected during the testing period; 
+
+
+(f) ensure that the telecommunication services or technologies or products, processes or business models 
+being tested in the regulatory sandbox are not made commercially available in the market during the 
+testing period; 
+
+
+(g) ensure storage of records relating to the testing, including work plans, methodologies, consent records of 
+test users, and other relevant data, for a period not less than one year after validity period of the 
+regulatory sandbox, and for such longer periods as determined by the Central Government; 
+
+
+(h) ensure destruction of any data and records specified under clause (g), in a secure manner; 
+
+
+(i) keep the Central Government indemnified from any acts, omissions, commissions, breaches or any kind 
+of culpability arising out of or in relation to any testing in the regulatory sandbox by itself or by any 
+participant; and 
+
+
+(j) ensure that confidentiality is maintained by it and the participants with regard to the regulatory sandbox, 
+including testing and results thereof: 
+
+
+Provided however that the Central Government may publish any relevant and generic information about 
+the regulatory sandbox, including the approved applicants and participants on the portal. 
+
+
+(4) An approved applicant may surrender the approval to operate and manage the regulatory sandbox prior to the 
+validity period: 
+
+
+(a) on completion of testing, along with the certificate of completion from the Governance Committee; or 
+(b) if, in its assessment, the regulatory sandbox does not meet the desired objectives. 
+Governance Committee 
+
+
+The Central Government shall constitute and specify on the portal one or more Governance Committees for 
+monitoring and evaluating the performance of a regulatory sandbox created under rule 4, comprising of members 
+nominated by the Central Government from within the government, academia, or the private sector. 
+
+
+The Governance Committee shall, depending on the nature of testing, and telecommunication services or 
+telecommunication networks or equipment or processes or technologies or business models being tested, specify 
+the frequency and format of periodic reports to be submitted by the approved applicants, and the Central 
+Government shall specify the same on the portal. 
+
+
+Within fifteen days of completion of testing, or at least thirty days prior to the expiry of the validity of the 
+regulatory sandbox, each approved applicant shall submit to the Governance Committee a comprehensive report 
+in the form and manner specified on the portal, which shall include: 
+
+
+(a) the results and outcomes of the testing; 
+(b) feedback from the test users, including complaints, concerns, security issues; 
+(c) challenges faced during testing period; 
+
+
+(d) measures taken to overcome security and other issues, consumer protections and risk mitigation measures 
+deployed; and 
+
+
+(e) any other data or information as may be specified by the Governance Committee. 
+
+
+Upon receipt of report under sub-rule (3), the Governance Committee may make recommendations to the 
+approved applicant as well as to the Central Government, which may include recommendations for: 
+
+
+(a) continuation of the testing; 
+
+
+(b) modifications to the approval to enable modification to the scope of testing, including scaling up of the 
+testing; 
+
+
+(c) certifying completion of the testing and termination of the approval; and 
+
+
+(d) commercial viability of the product, service, process or business module which was the subject matter of the 
+testing under the regulatory sandbox. 
+
+
+10 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+10. 
+
+
+11. 
+
+
+Scaling up of testing and commercial viability of the tested telecommunication services or technologies or 
+products 
+
+
+The Central Government, upon receipt of the recommendations of the Governance Committee under sub-rule (4) 
+of rule 7, may: 
+
+
+(a) seek further information and clarification from the approved applicant or the Governance Committee; 
+(b) extend the validity period of the regulatory sandbox under sub-rule (2) of rule 5; 
+(c) consider any modification to the terms and conditions of the regulatory sandbox; or 
+
+
+(d) consider to permit the commercialisation of the telecommunication services or telecommunication 
+networks or equipment or processes or technologies or business models tested in the regulatory sandbox 
+under the relevant rules for authorisation. 
+
+
+Suspension or revocation of approval to operate and manage regulatory sandbox. 
+
+
+The Central Government may, on its own or upon the recommendation of the Governance Committee, by order 
+recording the reasons therefor, suspend or revoke the approval to operate and manage a regulatory sandbox: 
+
+
+(a) where an approved applicant has: 
+(i) wilfully furnished incorrect or false information to the Central Government; or 
+
+
+(ii) failed to comply with specific terms and conditions and criteria based on which approval for testing was 
+granted, or failed to ensure such compliance by participants in a relevant regulatory sandbox; 
+
+
+Provided that, no decision for suspension or revocation of approval for testing in regulatory sandbox under 
+sub-clauses (i) and (ii) shall be made unless the approved applicant has been given a reasonable opportunity 
+of making being heard. 
+
+
+(b) in the opinion of the Central Government, such suspension or revocation is necessary in the interest of 
+national security or public interest. 
+
+
+No refund of fees 
+
+
+No compensation or refund of fees shall be applicable as a result of any suspension or revocation of the approval 
+granted under these rules, for any reason whatsoever, or for any modification, variation, cancellation or 
+revocation of terms and conditions of any approval granted under these rules. 
+
+
+Digital implementation of these rules 
+
+
+The Central Government, in furtherance of section 53 of the Act, may notify a portal for the digital 
+implementation of these rules. 
+
+
+[F.No.24-11/2024-UBB] 
+DEVENDRA KUMAR RAI, Jt. Secy. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. 
+
+
+GORAKHA NATH YADAVA ११००४2४22220 27780 
+
+
