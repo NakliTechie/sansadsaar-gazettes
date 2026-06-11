@@ -1,0 +1,90 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 २८७0. No. 0. L.-33004/99 
+
+
+जी रेटा = राज्जपन्न 
+
+
+Che Gazette of india 
+
+
+सी.जी.-डी.एल.-अ.-13022025-260984 
+CG-DL-E-13022025-260984 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग त--खण्ड 3---उप-खण्ड (ii) 
+PART 1-5टटांणा 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+सं. 738] नई दिल्ली, बृहस्पतिवार, फरवरी 13, 2025/माघ 24, 1946 
+No. 738] NEW DELHI, THURSDAY, FEBRUARY 13, 2025/MAGHA 24, 1946 
+
+
+इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 7 फरवरी, 2025 
+का.आ. 742(अ).--केंद्रीय सरकार, सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 21) (जिसे इसमें इसके 
+पश्चात्‌ उक्त अधिनियम कहा गया है) की धारा 70 की उप-धारा (1) और उप-धारा (2) द्वारा प्रदत्त शक्तियों का प्रयोग 
+करते हुए, आईडीएफसी फर्स्ट बैंक की नाजुक सूचना अवसंरचना होने के कारण महत्वपूर्ण बैंककारी समाधान (कोर बैंकिंग 
+सोल्यूशन), वास्तविक समय समग्र निपटान (रियल टाइम ग्रॉस सेटलमेंट), तुरंत भुगतान सेवा स्विच (इमीडिएट पेमेंट 
+सर्विस स्विच) और एकीकृत भुगतान इंटरफेस स्विच (यूनिफाइड पेमेंट्स इंटरफेस स्विच) से संबंधित कंप्यूटर संसाधनों एवं 
+उनसे Tea आश्रितताओं के कंप्यूटर संसाधनों को उक्त अधिनियम के प्रयोजनों के लिए Wager संरक्षित प्रणाली घोषित 
+करती है और निम्नलिखित व्यक्तियों को संरक्षित प्रणालियों तक पहुंच बनाने के लिए प्राधिकृत करती है, अर्थात्‌ :- 
+(क) संरक्षित प्रणाली तक पहुंच बनाने के लिए, आईडीएफसी फर्स्ट बैंक द्वारा लिखित रूप में प्राधिकृत 
+आईडीएफसी फर्स्ट बैंक का कोई अभिहित कर्मचारी; 
+(ख) संविदात्मक प्रबंधित सेवा-प्रदाता या तृतीय पक्षकार विक्रेता के दल का कोई सदस्य जिसे आवश्यकता के 
+आधार पर पहुंच बनाने के लिए आईडीएफसी फर्स्ट बैंक द्वारा लिखित रूप में प्राधिकृत किया गया है; और 
+(ग) मामला दर मामला के आधार पर, आईडीएफसी फर्स्ट बैंक द्वारा लिखित रूप में प्राधिकृत कोई परामर्शी, 
+विनियामक, सरकारी पदाधिकारी, संपरीक्षक और पणधारी। 
+2. यह अधिसूचना राजपत्र में इसके प्रकाशन की तिथि से प्रभावी होगी। 
+[फा. सं. एए-14/2/2025-सीएसडी] 
+सविता उतरेजा, वैज्ञानिक जी 
+
+
+1103 01/2025 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+NOTIFICATION 
+New Delhi, the 7th February, 2025 
+
+
+S.O. 742(E).—In exercise of the powers conferred by sub-sections (1) and (2) of section 70 of the 
+Information Technology Act, 2000 (21 of 2000) (hereinafter referred to as the said Act), the Central Government 
+hereby declares the computer resources relating to the Core Banking Solution (CBS), Real Time Gross Settlement 
+(RTGS), Immediate Payment Service Switch (IMPS) and Unified Payments Interface (UPI) Switch, being Critical 
+Information Infrastructure of the IDFC FIRST Bank, and the computer resources of their associated dependencies, to 
+be protected systems for the purposes of the said Act and authorises the following persons to access the protected 
+systems, namely:— 
+
+
+(a) any designated employee of the IDFC FIRST Bank authorised in writing by the IDFC FIRST Bank to 
+access the protected system; 
+
+
+(b) any team member of contractual managed service provider or third-party vendor who have been 
+authorised in writing by the IDFC FIRST Bank for need-based access; and 
+
+
+(c) any consultant, regulator, Government official, auditor and stakeholder authorised in writing by the 
+IDFC FIRST Bank on case-to-case basis. 
+
+
+2. This notification shall come into force on the date of its publication in the Official Gazette. 
+[F. No. AA-14/2/2025-CSD] 
+SAVITA UTREJA, Scientist G 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. saavest kumar 
+
+
+SRIVASTAVA. 
+
+
