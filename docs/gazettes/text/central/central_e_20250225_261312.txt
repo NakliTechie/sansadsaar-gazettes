@@ -1,0 +1,332 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+AIX = राज्जपन्र 
+
+
+Che Gazette of India 
+
+
+GoM. -ZT. Wet. -37.-27022025-2632 
+CG-DL-E-27022025-2632 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग तर--खण्ड 3---उप-खण्ड (ii) 
+PART II—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+a. 974] नई दिल्ली, मंगलवार, फरवरी 25, 2025/फाल्गुन 6, 946 
+०. 974] NEW DELHI, TUESDAY, FEBRUARY 25, 2025/PHALGUNA 6, 946 
+
+
+संचार मंत्रालय 
+(दूरसंचार विभाग) 
+(दूरसंचार अभियांत्रिकी केंद्र) 
+अधिसूचना 
+नई दिल्‍ली, 25 फरवरी, 2025 
+
+
+का.आ. 982(अ).--केन्द्रीय सरकार, दूरसंचार अधिनियम, 2023 (2023 का 44) की धारा ॥9 द्वारा प्रदत्त 
+शक्तियों का प्रयोग करते हुए, इसके द्वारा निर्दिष्ट दूरसंचार उपकरणों पर लागू मानकों और अनुरूपता मूल्यांकन पैमाने को 
+अधिसूचित करती है, अर्थात्‌ :- 
+
+
+4. मानक और अनुरूपता मूल्यांकन: 
+
+
+इस अधिसूचना की अनुसूची के दूसरे स्तंभ में सूचीबद्ध दूरसंचार उपकरणों के संबंध में, लागू मानक दूरसंचार 
+अभियांत्रिकी केंद्र द्वारा अधिसूचित अनिवार्य आवश्यकताएं होंगी, जैसा कि उक्त अनुसूची के तीसरे स्तंभ में निर्दिष्ट किया 
+गया है : 
+
+
+2. अनुसूची में निर्दिष्ट मानक इस अधिसूचना की तारीख से एक सौ अस्सी दिनों की समाप्ति के बाद, उसमें 
+सूचीबद्ध दूरसंचार उपकरण के संबंध में किसी अन्य आदेश या अधिसूचना के स्थान पर लागू होंगे। 
+
+
+42GI/2025 () 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+3. दूरसंचार अभियांत्रिकी केंद्र द्वारा विनिर्दिष्ट दूरसंचार उपकरणों के अनिवार्य परीक्षण और प्रमाणन पैमाने 
+के अनुसार के सिवाय, अनुसूची में विनिर्दिष्ट दूरसंचार उपकरण; और पैरा 2 में विनिर्दिष्ट तारीख से कोई भी व्यक्ति आयात, 
+बिक्री, वितरण या उपयोग नहीं करेगा: - 
+
+
+अनुसूची 
+
+
+क्र. सं. दूरसंचार उपकरण अनिवार्य आवश्यकताएं 
+
+
+() (2) (3) 
+
+
+4. सेलुलर ग्राहक परिसर उपकरण टीईसी40042408 
+
+
+(सेलुलर ग्राहक परिसर उपकरण) 
+
+
+2. आवाज और डेटा सुविधा के साथ फिक्सड बेतार | टीईसी40042409 
+
+
+फोन 
+(फिक्सड बेतार फोन) 
+
+
+3. केवल वॉइस की सुविधा सहित फ़िक्स्ड बेतार |टीईसी40042409 
+फोन 
+
+
+(फिक्सड बेतार फोन) 
+
+
+4. संग्रहण क्षेत्र नेटवर्क (एसएएन) स्विच टीईसी37942440 
+(लेन स्विच) 
+
+
+5. फैब्रिक इंटरकनेक्ट स्विच टीईसी37942440 
+(लेन स्विच) 
+
+
+a नेटवर्क सुरक्षा प्रबंधन उपकरण टीईसी34732440 
+
+
+(आईपी सुरक्षा उपकरण) 
+
+
+7. नेटवर्क सुरक्षा विश्लेषण उपकरण-प्रबंधित टीईसी34732440 
+
+
+(आईपी सुरक्षा उपकरण) 
+
+
+eT नेटवर्क सुरक्षा विश्लेषण उपकरण -ayafert =| ETS 3473240 
+
+
+(आईपी सुरक्षा उपकरण) 
+
+
+a सामग्री सुरक्षा उपकरण टीईसी34732440 
+
+
+(आईपी सुरक्षा उपकरण) 
+
+
+40. | डीडीओएस सुरक्षा उपकरण टीईसी34732440 
+
+
+(आईपी सुरक्षा उपकरण) 
+
+
+[भाग ave 3(ii)] भारत का राजपत्र : असाधारण 3 
+
+
+: टीईसी34732440 
+(आईपी सुरक्षा उपकरण) 
+42, jaa एप्लिकेशन फायरवाल टीईसी34732440 
+(आईपी सुरक्षा उपकरण) 
+43. टीईसी57282504 
+(उपग्रह संचार उपकरण) 
+44. टीईसी57282504 
+(उपग्रह संचार उपकरण) 
+
+
+टिप्पण: इन अनुसूचियों के उद्देश्य पूर्ति हेतु, दूरसंचार अभियांत्रिकी केंद्र या राष्ट्रीय संचार सुरक्षा केंद्र मानकों का नवीनतम 
+संस्करण इसमें किए गए संशोधनों सहित जोकि दूरसंचार अभियांत्रिकी केंद्र या राष्ट्रीय संचार सुरक्षा केंद्र द्वारा 
+समय-समय पर प्रकाशित और अधिसूचित किए गए हैं तथा जोकि दूरसंचार अभियांत्रिकी केंद्र या राष्ट्रीय संचार 
+सुरक्षा केंद्र द्वारा अधिसूचित तारीख से लागू होगा | 
+
+
+[फा. सं. 5-2/2024-TC/TEC (Pt.)] 
+
+
+अजय कुमार नेमा, उपमहानिदेशक 
+
+
+MINISTRY OF COMMUNICATIONS 
+(Department Of Telecommunication) 
+(TELECOMMUNICATION ENGINEERING CENTRE) 
+NOTIFICATION 
+New Delhi, the 25th February, 2025 
+
+
+S.O. 982(E).—In exercise of the powers conferred by Section 9 of the Telecommunications Act, 2023 (44 
+of 2023), the Central Government hereby notifies the following standards and conformity assessment measures 
+applicable to specified Telecommunication Equipment, namely: - 
+
+l. Standards and Conformity Assessment: - In respect of the Telecommunication Equipment listed in the 
+second column of the Schedule annexed to this notification, the applicable standards shall be the Essential 
+Requirements notified by the Telecommunication Engineering Centre, as specified in the third column of the 
+said schedule; 
+
+2. The standards specified in the Schedule shall apply after expiry of one hundred and eighty days from the date 
+of this notification. 
+
+3. With effect from the date specified in paragraph 2, no person shall import, sell, distribute or use the 
+
+
+Telecommunication Equipment specified in Schedule, except in accordance with the Mandatory Testing and 
+Certification of Telecom Equipment measures as specified by the Telecommunication Engineering Centre. 
+
+
+SCHEDULE 
+
+
+SI. No. Telecommunication Equipment Essential Requirements 
+हे 2) 3) 
+l. Cellular Customer Premises Equipment [7(400 2408 
+
+
+(Cellular Customer Premises Equipment) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+0. 
+
+
+II. 
+
+
+2. 
+
+
+3. 
+
+
+4. 
+
+
+Note: 
+
+
+Fixed Wireless Phone with VOICE and 
+DATA Facility 
+
+
+Fixed Wireless Phone with Voice Facility 
+only 
+
+Storage Area Network (SAN) Switch 
+Fabric Interconnect Switch 
+
+
+Network Security Management Equipment 
+
+
+Network Security Analytics Equipment- 
+Managed 
+
+
+Network Security Analytics Equipment- 
+
+
+Unmanaged 
+
+
+Content Security Equipment 
+
+
+DDoS Protection Equipment 
+
+
+Malware Analysis Equipment 
+
+
+Web Application Firewall 
+
+
+NGSO User Terminals 
+
+
+NGSO Integrated Gateway 
+
+
+TEC002409 
+(Fixed Wireless Phones) 
+
+
+TEC002409 
+(Fixed Wireless Phones) 
+
+
+TEC3794240 
+(LAN Switch ) 
+
+
+TEC3794240 
+(LAN Switch ) 
+
+
+TEC3473240 
+(IP Security Equipment) 
+
+
+TEC3473240 
+(IP Security Equipment) 
+
+
+TEC3473240 
+(IP Security Equipment) 
+
+
+TEC3473240 
+(IP Security Equipment) 
+
+
+TEC3473240 
+(IP Security Equipment) 
+
+
+TEC3473240 
+(IP Security Equipment) 
+
+
+TEC3473240 
+(IP Security Equipment) 
+
+
+TECS5728250] 
+
+
+(Satellite Communication Equipment) 
+
+
+TECS5728250] 
+
+
+(Satellite Communication Equipment) 
+
+
+For the purpose of above Schedule, the latest version of Telecommunication Engineering Centre or National 
+Centre for Communication Security standards including the amendments issued thereof, as published and 
+notified by the Telecommunication Engineering Centre or National Centre for Communication Security from 
+time to time, shall be applicable from the date as notified by the Telecommunication Engineering Centre or 
+National Centre for Communication Security 
+
+
+[F. No. 5-2/2024-TC/TEC (Pt.)] 
+AJAY KUMAR NEMA, Dy. Director General 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+
+
+and Published by the Controller of Publications, Delhi-0054. 
+
+
+GORAKHA NATH YADAVA 
+
+
