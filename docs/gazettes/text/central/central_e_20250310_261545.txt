@@ -1,0 +1,580 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+गुरत & राजपत्र 
+Che Gazette of india 
+
+
+सी.जी.-डी.एल.-अ.-11032025-261545 
+CG-DL-E-11032025-261545 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग I—ave 1 
+PART 1-8४टलांगा 1 
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 71] नई दिल्ली, सोमवार, मार्च 10, 2025/फाल्गुन 19, 1946 
+No. 71] NEW DELHI, MONDAY, MARCH 10, 2025/PHALGUNA 19, 1946 
+
+
+भारी उद्योग मंत्रालय 
+आदेश 
+नई दिल्‍ली, 10 मार्च, 2025 
+
+
+फा. सं. 8(1)2018-एचईआई- भाग (1) .--विद्युत उपकरण (गुणवत्ता नियंत्रण) आदेश, 2020 और समय- 
+समय पर किए गए उत्तरवर्ती संशोधनों के अंतर्गत निम्न-वोल्टेज स्विचगियर और नियंत्रण गियर: इलेक्ट्रोमैकेनिकल 
+कॉन्टैक्टर (कॉन्टैक्टर्स) और मोटर स्टार्टर (स्टार्टस) के लिए आईएस/आईईसी 60947-4-1:2018 के अनुरूप उत्पाद विशिष्ट 
+दिशानिर्देश । 
+
+
+1. इस उत्पाद विशिष्ट दिशानिर्देश / प्रतिदर्श का उपयोग विद्युत उपकरण (गुणवत्ता नियंत्रण) आदेश, 2020 के 
+अंतर्गत निम्न - वोल्टेज स्विचगियर और नियंत्रण गियर: आईएस/आईईसी 60947-4-1:2018 के अनुरूप इलेक्ट्रोमैकेनिकल 
+कॉन्टैक्टर (कॉन्टैक्टर्स) और मोटर स्टार्टर (स्टार्टर्स) के लिए लाइसेंस प्रदान करने / लाइसेंस के दायरे में परिवर्तन करने के 
+उद्देश्य से और बाद में समय-समय पर किए गए संशोधन और भारतीय मानक ब्यूरो द्वारा तदनुसार परिभाषित प्रक्रिया के 
+अनुसार किया जाएगा। 
+
+
+2. ब्यूरो से लाइसेंस प्राप्त करने/लाइसेंस के दायरे में परिवर्तन करने के प्रयोजन से, विनिर्माता, विद्युत उपकरण 
+(गुणवत्ता नियंत्रण) आदेश, 2020 और समय-समय पर किए गए उत्तरवर्ती संशोधनों में यथोल्लिखित अनुरूपता मूल्यांकन 
+स्कीम के अंतर्गत भारतीय मानक ब्यूरो द्वारा परिभाषित प्रक्रिया के अनुसार लाइसेंस के दायरे कों ध्यान में रखते हुऐ, 
+उत्पाद श्रृंखला / रेंज अथवा समूह के संबंध में प्रतिदर्श की न्यूनतम संख्या सुनिश्चित करके परीक्षण रिपोर्ट / प्रमाणपत्र आदि 
+सहित तकनीकी फाइल के साथ भारतीय मानक ब्यूरो को आवेदन करेगा | 
+
+
+। फ्रेम या एनकक्‍्लोजर का आकार - कॉन्टैक्टर्स और/या Alex Teles के एक समूह को दर्शाने वाला शब्द जिसके बाहरी 
+भौतिक आयाम करंट रेटिंग की रेंज के समान हों। 
+
+
+1642 GI/2025 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEc. 1] 
+
+
+3. उत्पाद समूहन 
+
+
+3.1 इलेक्ट्रोमैकेनिकल कॉन्टैक्टर (कॉन्टैक्टर्स) और मोटर स्टार्टर (स्टार्टर्स) की उत्पाद श्रृंखला: कॉन्टैक्टर (कॉन्टैक्टर्स) 
+और/या मोटर स्टार्टर (स्टार्टर्स) का समूह जिसमें एक सामान्य आकार का फ्रेम या एनक्लोजर होता है, जोकि अनुलग्रक-| 
+की तालिका 'अ' में उल्लिखित वर्गीकरण के अंतर्गत विशिष्टताओं के एक अद्वितीय संयोजन के साथ करंट रेटिंग की एक 
+श्रृंखला हो। 
+
+4. नमूनाकरण और परीक्षण 
+
+4.1 नमूनाकरण और परीक्षण - प्रत्येक उत्पाद श्रृंखला के लिए प्रकार का परीक्षण निम्नानुसार होगा: 
+
+
+4.1.1 प्रत्येक उत्पाद श्रृंखला की प्रकार परीक्षण रिपोर्ट के लिए: अधिकतम कार्यों के साथ सभी प्रचालन निष्पादन 
+मानदंडों को पूरा करते हुए, तदनुरूप रेटेड प्रचालन वोल्टेज पर अधिकतम रेटेड प्रचालन करंट (या रेटेड पॉवर) वाले 
+कॉन्टैक्टर (Heese) और/या मोटर स्टार्टर (स्टार्टर्स) उपकरण और तदनुरूप tes प्रचालन करंट (या tes पॉवर) पर 
+अधिकतम रेटेड प्रचालन वोल्टेज वाले उपकरण का परीक्षण किया जाएगा। परीक्षण और नमूने की संखया आईएस/आईईसी 
+60947-4-1:2018 के खंड 9.1.2 और 9.3 के अनुसार होनी चाहिए। 
+
+
+4.1.2 टाइप परीक्षणों को परीक्षण अनुक्रमों की संख्या में एक साथ समूहित किया गया है। परीक्षण आईएस/आईईसी 
+60947-4-1:2018 के खंड 9.1.2 और 9.3.1 में परिभाषित अनुक्रम और प्रयोज्यता के अनुसार किया जाएगा। 
+
+
+नोट: स्पेयर, सहायक उपकरण और उप-संयोजन उपकरण का अभिन्न अंग होते Sl उनका परीक्षण यथासंभव उपकरण के 
+साथ किया जाएगा। (चूंकि स्पेयर और उप-संयोजन डिवाइस का अभिन्न अंग होते हैं, इसलिए इनके अलग से परीक्षण की 
+परिकल्पना नहीं की गई है; परीक्षण करते समय सहायक उपकरणों का उपयोग किया जाए)। 
+
+
+यदि सहायक उपकरण किसी अन्य मानक (आईएस/आईईसी 60947 श्रृंखला) की आवश्यकता का अनुपालन कर रहे हैं, तो 
+यह आवश्यक है कि सहायक उपकरण संबंधित भारतीय मानकों की आवश्यकताओं को पूरा करें। 
+4.1.3 प्रत्येक उत्पाद रेटिंग/किस्में परीक्षण के अधीन नहीं हैं। उत्पाद के नमूने जैसा कि पैरा 4.1.1 में उल्लेख किया गया 
+
+
+है, इस समूहीकरण दिशानिर्देशों के आधार पर लाइसेंस के दायरे के तहत समान या नीचे रेटिंग वाले सभी उत्पाद रेटिंग / 
+किस्मों को कवर करेगा। 
+
+
+4.1.4 उपकरणों की श्रृंखला (जिनका एनक्लोजर/फ्रेम साइज समान हो और निर्माण में महत्वपूर्ण अंतर न हो) के लिए 
+परीक्षण किए जाने वाले नमूनों का चयन नीचे परिभाषित इंजीनियरिंग निर्णय पर आधारित होगा, लेकिन यह इतने तक 
+ही सीमित नहीं होगा: 
+
+प्रकरण 1 - एकाधिक उपयोग श्रेणी वाले कॉन्टैक्टर (कॉन्टैक्टर्स) - आईएस/आईईसी 60947-4-1:2018 के खंड 5.4.2 के 
+अनुसार। 
+
+प्रकरण 1 - समान उपयोग श्रेणी के लिए कई रेटिंग वाले कॉनन्‍्टैक्टर (कॉन्टैक्टर्स) - अधिकतम प्रचालन करंट (अथवा 
+अधिकतम पॉवर)के साथ रेटिंग, परीक्षाणार्थ विचार किए जाने के लिए घोषित उपकरण के संगत रेटेड प्रचालन वोल्टेज पर। 
+प्रकरण गा - मोटर कॉम्बिनेशन स्टार्टर (स्टार्टर्स) की दी गई रेंज के लिए, यदि किसी स्टार्टर कॉम्बिनेशन का परीक्षण उपयुक्त 
+
+
+ओवरलोड रिले के साथ उच्चतम रेटिंग (रेटेड प्रचालन करंट) के मेन/लाइन कॉनन्‍्टैक्टर के साथ किया जाता है, तो इस 
+कॉम्बिनेशन में विभिन्न Ret रेटिंग वाले उस कॉन्टैक्टर की कम जटिलताओं वाले अन्य सभी संभावित कॉम्बिनेशन कवर हो 
+
+
+जाते हैं। 
+उदाहरण: 
+क्रय: | स्टार्टर रेटेड ऑपरेशनल रेटेड प्रचालन रेटेड कॉन्टैक्टर ओवरलोड Ree 
+एनक्लोजर | कोल्टेज (स्टार्टर) पावर (TED) प्रचालन रेंज 
+साइज (किलोवाट) करंट 
+स्टार्ट?) (ए 
+/ 36 -475वोल्ट एसी | 0.55 17 प्रकार - एक्स (127) 1- 7.6 ए 
+2 साइज 1 | 38 -415वोल्ट vat | 075 22 प्रकार - एक्स (127) 16-257 
+36 -4 15a Tet | 7.7 29 प्रकार - WHT (127) 20-320 
+
+
+[भाग [--खण्ड 1] भारत का राजपत्र : असाधारण 3 
+4 36 -475वोल्ट एसी | 1.5 ३.8 प्रकार - एक्स (127) 3३.2-5.0 ए 
+
+5 36 -475वोल्ट एसी | 22 5.7 प्रकार - WHT (127) 4.0-6.3T7 
+|e | 36 -475वोल्ट एसी | 3.7 8.7 प्रकार - WHT (12) 6.3- 10.07 
+7 3#-475वोल्ट एसी... | 55 11.4 प्रकार - एक्स (12) 8.0-12.57 
+8 | 36 -475वोल्ट एसी | 7.5 15.4 प्रकार - वाई (200) 1265-20 ए 
+19 | 3#-475वोल्ट एसी | 9.3 19.5 प्रकार - वाई (208) 16-257 
+
+
+2x रेटिंग जोकि क्रमांक 7 और 9 मे उल्लिखित हैं, यानी 5.5 किलोवॉट और 9.3 किलोवॉट पर सभी लागू परीक्षण किए 
+जाएंगे। 
+4.1.5 हालांकि, उत्पाद श्रृंखला निर्माण में आसानी के लिए या विद्युत उपकरण (गुणवत्ता नियंत्रण) आदेश, 2020 और 
+समय-समय पर किए गए उत्तरवर्ती संशोधनों में उल्लिखित चरण-वार योजना के तहत एक से अधिक चरणों में फैले समान 
+मौलिक डिजाइन के मामले में, परीक्षण की गई उच्च उत्पाद रेटिंग चरण-वार योजना के अन्य चरण की कम उत्पाद रेटिंग 
+(रेटिंग) को कवर करेगी। 
+4.1.6 तथापि, अनुलग्रक -॥| की तालिका ‘a’ में यथा उल्लिखित मामलों के लिए लाइसेंस के दायरे में उसे शामिल करने के 
+लिए प्रकार की अलग परीक्षण रिपोर्ट अपेक्षित नहीं है। 
+4.1.7 एसी और डीसी दोनों वोल्टेज रेटिंग वाले कॉन्टैक्टर्स/स्टार्टर्स का परीक्षण एसी और डीसी दोनों उपयोग श्रेणियों के 
+लिए अलग-अलग किया जाएगा। 
+
+विजय मित्तल, संयुक्त सचिव 
+
+
+अनुलग्नक - 
+तालिका अ : इलेक्ट्रोमैकेनिकल कॉन्टैक्टर और स्टार्टर्स कॉम्बिनेशन का वर्गीकरण (भौतिक और प्रचालन पैरामीटर) 
+
+
+a निम्नलिखित पर आधारित भौतिक और प्रचालन पैरामीटर का प्रकार 
+
+
+वर्गीकरण 
+
+
+आईएस/आईईसी 60947-4- 
+1:2018 के खंड 5.2 के 
+
+
+पार वर्गीकरण 
+
+1. उपकरण का प्रकार क) कॉन्टैक्टर, ख) डायरेक्ट-ऑन-लाइन एसी स्टार्टर 
+ग) स्टार-डेल्टा स्टार्टर; घ) टू स्टेप ऑटो-ट्रांसफार्मर स्टार्टर; 
+&) रिओस्टैटिक रोटर स्टार्टर; च) कॉम्बिनेशन या प्रोटेक्टेड स्टार्टर 
+छ) मोटर प्रोटेक्टिव स्विचिंग डिवाइस (एमपीएसडी) 
+
+2. पोल की संख्या क) 1P, ख) 2P, ग) 372, घ) 47? 
+
+3. करंट का प्रकार क) एसी, ख) डीसी 
+
+4. अंतरायन माध्यम क) वायु, ख) तेल, ग) गैस, घ) निर्वात, आदि 
+
+5. प्रचालन की विधि क) मैनुअल ख) विद्युत-चुंबकगीय._ ग) मोटर संचालित, 
+
+
+a) वायवीय, &) विद्युत-वायवीय आदि 
+
+
+|6. | नियंत्रण की विधि क) स्वचालित ख) गैर-स्वचालित, ग) अर्ध-स्वचालित 
+
+
+प्रचालन विशेषता 
+7. उपयोग श्रेणी क) एसी1, एसी2, एसी3, एसी4, एसी5ए, एसी5बी, एसी6ए, एसी6बी, 
+एसी7ए, एसी7/बी, एसी8ए, एसी8बी आदि 
+ख) डीसी1, डीसी3, डीसी5, डीसी6 आदि 
+जी कंट्रोल सर्किट क) करंट का प्रकार - एसी, डीसी या एसी/डीसी; 
+
+
+ख) रेटेड फ्रिक्रेंसी (एसी के लिए) या डायरेक्ट करंट; 
+ग) रेटेड कंट्रोल सर्किट वोल्टेज यूसी 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEC. 1] 
+4) रेटेड कंट्रोल सर्किट आपूर्ति वोल्टेज यूएस, जहां लागू हो 
+&) विद्युत की खपत 
+
+7 tes ड्यूटीज़ क) आठ घंटे की ड्यूटी (निरंतर ड्यूटी) 
+ख) निर्बाध ड्यूटी 
+ग) आंतरायिक आवधिक ड्यूटी या आंतरायिक ड्यूटी 
+a) अस्थायी ड्यूटी 
+S) आवधिक ड्यूटी 
+
+अतिरिक्त सुविधाएं 
+
+10._| अलगाव के लिए उपयुक्तता क) उपयुक्त, ख) अनुपयुक्त 
+
+11. शॉर्ट-सर्किट सुरक्षात्मक क) टाइप 1, ख) टाइप 2 
+उपकरणों के साथ समन्वय का 
+प्रकार 
+
+12. | सुरक्षा का स्तर अधिकतम प्रवेश सुरक्षा कोड/रेटिंग के साथ 
+
+13. | सहायक athe (यदि लागू हो) | आईएस/आईईसी 60947-4-1:2018 के खंड 5.6 के अनुसार कॉनन्‍्टैक्ट की 
+
+संख्या और प्रकार निर्दिष्ट किया जाना है (उदाहरण के लिए 2एनओ और 
+2एनसी aires) 
+
+14. रिले और रिलीज़ के प्रकार और | आईएस/आईईसी 60947-4-1: 2018 के खंड 5.7.2 रिले या रिलीज के 
+विशेषताएं (यदि लागू हो, प्रकार और खंड 5.7.3 विशेषता मान के अनुसार निर्दिष्ट किया जाना है। 
+केवल स्टार्टर के लिए) उदाहरण के लिए: ट्रिप aT 2/3/5/10/10 A आदि के साथ शंट ट्रिप, 
+
+अंडरवोल्टेज Re, थर्मल ओवरलोड रिले या इलेक्ट्रॉनिक ओवरलोड रिले 
+आदि 
+
+15. [| विशेष स्टार्टर्स के प्रकार और | यदि लागू हो, तो आईएस/आईईसी 60947-4-1:2018 के खंड 5.10, 5.11 
+विशेषताएं (यदि लागू हो) या 5.12 के अनुसार वर्णित किया जाना है 
+
+उदाहरण के लिए- 
+
+
+उत्पाद श्रृंखला / - चार पोल, एयर-ब्रेक, Meester, गैर-स्वचालित, विद्युत-चुंबकीय संचालन, उपयोग श्रेणियाँ - Tard, 
+एसी2 एसी3 और wed; Prats ड्यूटी, अलयाव के लिए ATTA, ॥?20, रेटेड कंट्रोल सर्किट वोल्टेज: 440वोल्‍्ट एसी 
+तक 24वोल्ट; 50/608टज़ञ अधिकतम 4 एनओ + 4 एनसी ETT Fire, एससीपीडी के साथ टाइप 2 समन्वय) करंट 
+की एक AAT के लिए फ्रेम का कोई सासात्य आकार BT 
+
+
+उत्पाद श्रृंखला 2 - तीन पोल, एयर-ब्रेक, डायरेक्ट-ऑन-लाइन एसी स्टार्टर, गैर-स्वचालित, विद्युत-चुस्बकीय संचालन, 
+उपयोग श्रेणियाँ - एसी/, WHIZ, एसी3 और एसी4/ निबधि ड्यूटी, अलयाव के लिए HITT, IPA, रेटेड कंट्रोल सर्किट 
+वोल्टेज: 440वोल्‍ट एसी तक 247, 50/606टज़, आधिकतम 2 एनओ + 2 एनसी वह्मायक कॉन्टैक्ट, एससीपीडी के साथ 
+टाइप 2 समन्वय) करंट की एक सीसा के लिए एनक्लोजर का कोई सामान्य आकार BT 
+
+
+नोट: वर्गीकरण सांकेतिक है और किसी AT विशिष्ट आवश्यकता के आधार पर संभ्रावित वर्यीकरण बढ़ाया जा सकता है। 
+
+
+अनुलग्नक -ा 
+
+
+तालिका ब : कॉन्टैक्टर और स्टार्टर कॉम्बिनेशन जिन्हे अतिरिक्त टाइप परीक्षण के बिना लाइसेंस के दायरे में जोड़ा जा 
+सकता है (विलोमत: परिस्थिति लागू नहीं है) 
+
+
+प्रकरण | कॉनन्‍्टैक्टर ae teres कॉम्बिनेशन परिस्थिति 
+
+क) एकाधिक कॉइल टाइप और वोल्टेज वाले | यदि उत्पाद श्रृंखला का परीक्षण अधिकतम VA के साथ प्रतिनिधि 
+उत्पाद (एसी, डीसी, इलेक्ट्रॉनिक्स कॉइल के साथ किया जाता है, तो अन्य सभी वैरिएंट कवर किए 
+एसी/डीसी आदि) जाएंगे। 
+
+ख) अलगाव के लिए अनुपयुक्त उत्पाद यदि अलगाबव के लिए उपयुक्त उत्पाद के लिए उत्पाद श्रृंखला का 
+
+
+परीक्षण किया जाता है। 
+
+
+[भाग [खण्ड 1] 
+
+
+भारत का राजपत्र : असाधारण 5 
+
+
+ग) एक, दो, तीन और चार पोल यदि उच्चु पोल संयोजन वाले उपकरण का परीक्षण किया जाता है, 
+तो पोल की समान डिजाइनों के अधीन कम पोल संयोजन वाले 
+उपकरण को कवर किया जाएगा। 
+उदाहरण के लिए, 4 पोल डिवाइस परीक्षण में 3 पोल और 2 पोल 
+डिवाइस शामिल होगी, 1 पोल वाले डिवाइस का अलग से परीक्षण 
+किया जाएगा। 
+
+घ) एकाधिक शॉर्ट सर्किट ब्रेकिंग क्षमता तदनुरूपी प्रचालन वोल्टेज के साथ उच्चतम ब्रेकिंग क्षमता और 
+
+(एमपीएसडी के लिए) तदनुरूपी ब्रेकिंग क्षमता के साथ उच्चतम प्रचालन वोल्टेज का 
+परीक्षण किए जाने की आवश्यकता होगी। 
+
+=) उपकरण के लिए कई प्रकार के शॉर्ट- बराबर या उच्चतर लेट A ऊर्जा (2) क्षमता वाले एससीपीडी अन्य 
+सर्किट सुरक्षात्मक डिवाइस एससीपीडी को कवर करते हैं। 
+
+(एससीपीडी) 
+
+च) विभिन्न प्रकार के रिलीज के साथ उत्पाद | यदि किसी उत्पाद श्रृंखला का परीक्षण प्रतिनिधि रिलीज के साथ 
+(शंट, अंडर-वोल्टेज, अंडर-करंट, किया जाता है, तो यह अन्य बैरिएंट को कवर करेगा। तथापि, 
+ओवरलोड टाइम-डिले, स्टाल रिले विनिर्माता द्वारा ऐसे सभी रिलीज के लिए घोषणा प्रदान की 
+आदि) जिसमें अलग-अलग जाएगी। 
+विशेषताएं/सेटिंग्स होती हैं 
+
+छ) टाइप 2 समन्वय के लिए परखे गए यह माना जाएगा कि टाइप 1 समन्वय भी कवर गया है। 
+उत्पाद 
+
+
+1. 
+
+
+MINISTRY OF HEAVY INDUSTRIES 
+
+
+ORDER 
+
+
+New Delhi, the 10th March, 2025 
+
+
+F. No. 8(1)/2018-HEI-Part (1).—Product Specific Guidelines for Low Voltage Switchgear and 
+
+
+Controlgear: Electromechanical Contactor(s) and Motor Starter(s) conforming to 1812९ 60947-4-1:2018 
+under Electrical Equipment (Quality Control) Order and subsequent amendments made from time to time. 
+
+
+This Product Specific Guidelines/sampling shall be used for the purpose of grant of licence/change in scope 
+
+
+of licence for Low Voltage Switchgear and Controlgear: Electromechanical Contactors and Motor Starters conforming 
+to IS/IEC 60947-4-1:2018 under Electrical Equipment (Quality Control) Order, 2020 and subsequent amendments 
+made from time to time and as per the procedure defined by Bureau of Indian Standards, accordingly. 
+
+
+2. For purpose of obtaining the licence/change in scope of licence from the Bureau, Manufacturer shall apply to 
+Bureau of Indian Standards ascertaining the scope of licence and technical file including test report(s) /certificate(s), 
+etc. as per the procedure defined by the Bureau of Indian Standards under the Conformity Assessment Scheme as 
+mentioned in the Electrical Equipment (Quality Control) Order, 2020 and subsequent amendments made from time to 
+time ensuring the minimum number of sample(s) in respect of a product series/ range or group. 
+
+
+3. Product Grouping 
+
+
+3.1 Product Series of Electromechanical Contactor(s) and Motor Starter(s) - A group of Contactor(s) and/or 
+Motor Starter(s) having a common frame size or enclosure | used for a range of current ratings with a unique 
+combination of feature(s) under classification mention in Table A at Annexure-I. 
+
+4. Sampling and Testing 
+
+4.1 sampling and testing - The type test for each product series shall be as below: 
+
+4.1.1 For each product series type test report: Contactor(s) and/or Motor Starter(s) equipment with Maximum 
+
+
+rated operational current (or rated power), at corresponding rated operational voltage and equipment with maximum 
+rated operational voltage, at corresponding rated operational current (or rated power), with maximum functions 
+
+
+1 Frame size or Enclosure - a term designating a group of contactors and/or motor-starters, the external physical 
+dimensions of which are same to a range of current ratings. 
+
+
+6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEc. 1] 
+
+
+satisfying all operational performance criteria shall be tested. The test and number of sample(s) must be in accordance 
+with the clause 9.1.2 and 9.3 of IS/IEC 60947-4-1:2018. 
+
+
+4.1.2 Type tests are grouped together in a number of sequences, the test shall be done as per sequence and 
+applicability defined in clause 9.1.2 and 9.3.1 of IS/IEC 60947-4-1:2018. 
+
+
+Note- Spares, accessories and sub-assemblies are integral part of equipment. They shall be tested as far as 
+possible with the equipment. (Spares and sub-assemblies being the integral part of the device, separate testing 
+is not envisaged; Accessories may please be used while testing. 
+
+
+In case, the accessories are complying to the requirement of any other standard (IS/IEC 60947 series) then 
+accessories shall meet the requirements of the respective Indian Standards. 
+
+
+4.1.3 Each product rating(s) /varieties may not be subjected to testing. Product sample as mentioned in para 4.1.1 
+will cover all the Product rating (s) / varieties having ratings equal or below under the Scope of Licence is by virtue of 
+this grouping guidelines. 
+
+
+4.1.4 The selection of samples to be tested for a series of devices with same enclosure / frame size and without 
+significant difference in construction shall be based on engineering judgement including but not limited to as defined 
+below: 
+
+
+Case I - Contactor(s) having multiple utilization category — As per Clause 5.4.2 of IS/TEC 60947-4-1:2018. 
+
+
+Case II - Contactor(s) having multiple ratings for same utilization category — rating with max. Operational 
+current (or maximum power), at the corresponding rated operational voltages of the equipment declared to be 
+considered for test purpose. 
+
+
+Case III — For a given range of motor combination starter(s), if any Starter combination is tested with the 
+Main/Line Contactor of a highest rating (rated operational current) with suitable overload relay then all other 
+possible combination(s) with lower complexities of the same Contactor with different relays ratings are 
+covered by this combination. 
+
+
+Example: 
+Rated Rated 
+Starter Rated Operational Operational 
+Sr. Operational P P Overload Relay 
+Enclosure Power Current Contactor 
+No. : Voltage Range 
+Size (Starter) (Starter) (Starter) 
+(kW) (A) 
+1 369 -415V ac 0.55 1.7 Type — X (12A) 1-1.6A 
+2 369 -415V ac 0.75 2:2 Type — X (12A) 16—-—2.5A 
+3 36 -415V ac 11 2.9 Type — X (12A) 2.0-3.2A 
+4 36 -415V ac LS: 3.8 Type — X (12A) 3.2-35.04 
+5 Size / 369 -415V ac 2.2 5.1 Type — X (12A) 4.0-6.3A 
+|6 | 36 -415V ac 3.7 8.1 Type — X (12A) 6.3—10.0A 
+7 3 -415V ac 5.5 11.4 Type — X (12A) 8.0 - 12.5 4 
+al 369 -415V ac 7.5 15.4 Type — Y (20A) 12.5-20A 
+|9 | ३3% -415V ac 9.3 19.5 Type — Y (204) 16-25 4 
+
+
+All applicable tests will be conducted on 2x ratings mentioned at sr. no 7 and 91.९. 5.5 kW & 9.3 kW. 
+
+
+4.1.5 However, for ease of Product Series formation or in case of same fundamental design spread in more than one 
+phases under phase -wise plan as mentioned Electrical Equipment (Quality Control) Order, 2020 and subsequent 
+amendments made from time to time, higher product rating(s) tested will cover the lower product ratings(s) of other 
+phase of phase -wise plan. 
+
+
+4.1.6 However, for cases as mentioned in Table 8 of Annexure-II separate type test report is not required for inclusion 
+of the same under scope of license. 
+
+
+4.1.7 Contactors/starters having both AC & DC voltage ratings shall be tested separately for both AC & DC utilization 
+categories. 
+
+
+VIJAY MITTAL, Jt. Secy. 
+
+
+[भाग 1--खण्ड 1] भारत का राजपत्र : असाधारण ip 
+
+
+Annexure-I 
+Table A. Classification of Electromechanical Contactor and Starters combinations (physical and operational 
+parameter) 
+
+S.No. | Classification based on Type of physical and operational parameter 
+
+Classification as per Clause 5.2 of 
+
+ISAC 60947-4-1:2018 
+1. Type of equipment a) Contactor, b) direct-on-line a.c. starter 
+
+c) star-delta starter; d) two-step auto-transformer starter; 
+
+
+e) rheostatic rotor starter; f) combination or protected starter 
+g) motor protective switching device (MPSD) 
+
+
+2. No. of poles a) IP, b)2P, c)3P, d)4P 
+
+3. Kind of current a) ac, b) de 
+
+4. Interrupting medium a) air, b) oil, c) gas, d) vacuum, etc. 
+
+5. Method of operation a) manual, b) electromagnetic, c) motor-operated, 
+
+d) pneumatic, e) electro-pneumatic etc. 
+
+lo. | Method of control a) automatic, _b) non-automatic, c) semi-automatic 
+Operational Characteristic 
+
+Te Utilization category a) AC1, AC2, AC3, AC4, AC5a, AC5b, AC6a, AC6b, AC7a, 
+
+
+AC7b, AC8a, AC8b etc. 
+b) DC1, DC3, DC5, DC6 etc. 
+
+
+| Control circuits a) type of current — ac, dc or ac/dc; 
+
+b) rated frequency (for ac) or direct current; 
+
+c) rated control circuit voltage Uc 
+
+d) rated control circuit supply voltage Us where applicable 
+e) power consumption 
+
+
+a Rated duties a) Eight-hour duty (continuous duty) 
+
+b) Uninterrupted duty 
+
+c) Intermittent periodic duty or intermittent duty 
+d) Temporary duty 
+
+
+e) Periodic duty 
+Additional features 
+10. Suitability for isolation a) Suitable b) Not suitable 
+11. Type of coordination with short- a) Type 1 b) Type 2 
+circuit protective devices 
+12. Degree of protection With maximum Ingress Protection code/rating 
+13. Auxiliary circuits (if applicable) To be specified as per Clause 5.6 of IS/IEC 60947-4-1:2018 number 
+and kind of contacts (to be described, e.g. 2 NO & 2NC contacts) 
+14. Types and characteristics of relays To be specified as per clause 5.7.2 Types of relay or release and 
+and releases (if applicable, only for 5.7.3 Characteristic values of IS/TEC 60947-4-1:2018 
+starters) For Example: Shunt Trip, Undervoltage Relay, Thermal overload 
+relay or Electronic overload relay etc. with trip class 2/3/5/10/ 
+10A etc. 
+15. Types and characteristics of special | To be described, as per clause 5.10, 5.11 or 5.12 of IS/IEC 60947-4- 
+starters (if applicable) 1:2018 as & when applicable 
+
+
+For Example- 
+
+
+Product Series 1- Four Pole, Air-Break, Contactor, Non-automatic, Electromagnetic Operation, Utilization 
+Categories — ACI, AC2, AC3 & AC4; Uninterrupted duty, Not suitable for isolation, IP20, Rated control circuit 
+voltages : 24V till 440V ac, 50/60Hz, Maximum 4 NO + 4 NC auxiliary contacts, Type 2 Coordination with SCPD; 
+having a common frame size for a range of current. 
+
+
+Product Series 2- Three Pole, Air-Break, Direct-On-Line AC Starter, Non-automatic, Electromagnetic Operation, 
+Utilization Categories — ACI, AC2, AC3 & AC4; Uninterrupted duty , Not suitable for isolation, IP43, Rated control 
+circuit voltages : 24V till 440V ac, 50/60Hz, Maximum 2 NO + 2 NC auxiliary contacts, Type 2 Coordination with 
+SCPD; having a common Enclosure size for a range of current. 
+
+
+Note- the classification is indicative, and the possible classification may be increase on the basis of any specific 
+requirements. 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART I—SECc. 1] 
+
+
+Annexure-IT 
+
+
+Table B. Contactor and Starter(s) combination(s) can be added under the scope of license without additional 
+type testing. (vice versa condition is not applicable) 
+
+
+Case | Contactor and Starter(s) Condition 
+combination(s) 
+A Product with Multiple Coil types and If product series is tested with representative coil with maximum 
+voltages VA, then all other variants will be covered. 
+(ac, dc, electronics, ac/dc etc.) 
+| | Product not-suitable for isolation if product series is tested for product suitable for isolation. 
+C One, two, three and four poles If the higher Pole Combination device is tested, then lower Pole 
+Combination will be covered subject to identical pole designs. 
+e.g. 
+4 Pole device testing covered 3 Pole & 2 Pole devices, 1 Pole 
+device will be tested separately. 
+- Multiple Short Circuit Breaking 
+capacities Highest breaking capacity with corresponding operational voltage 
+(For MPSD) and Highest operational voltage with corresponding breaking 
+capacity needs to be tested. 
+E Multiple types of Short-Circuit SCPD having equal or higher let through energy (4) capacity 
+Protective Devices (SCPD) for cover the other SCPDs. 
+equipment 
+F Product with different types of releases | If a product series is tested with a representative release(s), it will 
+(Shunt, Under-voltage, under-current, cover the other variants. However, declaration to be provided for 
+Overload time-delay, Stall relay etc.) all such releases by Manufacturer. 
+having different features/settings 
+G Product tested for Type 2 co-ordination | Deemed to cover Type 1 co-ordination also. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+
+
+and Published by the Controller of Publications, Delhi-110054. 
+
+
+GORAKHA NATH YADAVA 
+
+
