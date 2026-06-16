@@ -1,0 +1,644 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Jiitd = VistGa 
+Che Gazette of Jndia 
+
+
+सी.जी.-डी.एल.-अ.-16052025-263156 
+CG-DL-E-16052025-263156 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग 1--खण्ड 3---उप-खण्ड (i) 
+PART II—Section 3—Sub-section (i) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 273] नई दिल्‍ली, शुक्रवार, मई 16, 2025/वैशाख 26, 1947 
+No. 273] NEW DELHI, FRIDAY, MAY 16, 2025/VAISAKHA 26, 1947 
+
+
+संचार मंत्रालय 
+अधिसूचना 
+
+
+नई दिल्‍ली, 16 मई, 2025 
+
+
+सा.का.नि. 316(अ) - निम्नलिखित मसौदा नियम जिसे केन्द्रीय सरकार दूरसंचार अधिनियम, 2023 (2023 का 
+44) की धारा 56 की उप-धारा (2) के खंड (ख) और (ज) के साथ पठित धारा 3(3) और 4(6) के तहत प्रदत्त शक्तियों का 
+प्रयोग करते हुए बनाने का प्रस्ताव करती है, को इससे प्रभावित होने वाले सभी व्यक्तियों की सूचना के लिए प्रकाशित किया 
+
+
+जाता है और एतद्दारा नोटिस दिया जाता है कि उक्त मसौदा नियमों पर उस तारीख से तीस दिन की अवधि की समाप्ति के 
+पश्चात विचार किया जाएगा जिस तारीख से सरकारी राजपत्र में यथाप्रकाशित इस अधिसूचना की प्रतियां सर्वसाधारण को 
+
+
+उपलब्ध कराई जाती हैं; 
+यदि कोई आपत्ति या सुझाव हो तो संयुक्त सचिव (दूरसंचार), दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार, संचार भवन, 
+
+
+20, अशोक रोड, नई दिल्‍्ली-110001 को भेजा जा सकता है; 
+
+
+3224 GI/2025 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+केन्द्रीय सरकार द्वारा उपर्युक्त अवधि की समाप्ति से पूर्व उक्त मसौदा नियमों के संबंध में किसी व्यक्ति से प्राप्त आपत्तियों या 
+सुझावों पर विचार किया जाएगा। 
+
+
+1. संक्षिप्त नाम और प्रारंभ - (1) इन नियमों को लोअर 6 गीगाहर्ट्ज बैंड में रेडियो लोकल एरिया नेटवर्क सहित लो पावर 
+और वेरी लो पावर वाले बेतार अभिगम प्रणाली का उपयोग (अनुज्ञप्ति की अपेक्षा से छूट) नियम, 2025 कहा जाएगा। 
+(2) ये सरकारी राजपत्र में प्रकाशन की तिथि से प्रवृत्त होंगे। 
+2. अनुप्रयोग - ये नियम 5925-6425 मेगाहटज बैंड में लागू होंगे। 
+3. परिभाषाएं- (1) इन नियमों में जब तक कि संदर्भ से अन्यथा अपेक्षित न हो, - 
+(क) "अधिनियम" से दूरसंचार अधिनियम, 2023 (2023 का 44) ates है; 
+
+
+(ख) "प्राधिकारी" से केन्द्रीय सरकार द्वारा अधिसूचित प्राधिकारी अभिप्रेत है। 
+
+
+(ग) "एक्सेस प्वाइंट" से वैसा ट्रांसीवर अभिप्रेत है जो या तो पीयर-टू-पीयर कनेक्शन में ब्रिज के रूप में या नेटवर्क 
+के वायर्ड और वायरलेस सेगमेंटों के बीच कनेक्टर के रूप में कार्य करता है; 
+
+
+(घ) "समतुल्य आइसोट्रोपिक विकिरणित पावर " या "ई.आई.आर.पी " से कुल शक्ति जिसे एंटीना के स्ट्रॉनगेस्ट बीम 
+की दिशा में वास्तविक स्रोत के समान सिग्नल शक्ति देने के लिए एक काल्पनिक आइसोट्रोपिक एंटीना द्वारा 
+विकिरणित करना अभिप्रेत है; 
+
+(ड) "उत्सर्जन बैंडविड्थ" से मॉड्यूलेटेड कैरियर के अधिकतम स्तर के सापेक्ष मापा गया मॉँड्यूलेटेड सिग्नल का 26 
+डीबी बैंडविड्थ अभिपष्रेत है; 
+
+(a) "अधिकतम पावर स्पेक्ट्रल डेन्सिटी" से डिवाइस ऑपरेटिंग बैंड में विनिर्दिष्ट माप बैंडविड्थ के भीतर अधिकतम 
+पावर अभिप्रेत है; 5925-6425 मेगाहर्ट्ज बैंड में माप 1 मेगाहट््ज की बैंडविड्थ पर लिया जाता है; 
+
+
+(छ) "पावर स्पेक्ट्रल डेन्सिटी" से एक ToT या पल्स के अनुक्रम से प्रति यूनिट बैंडविड्थ कुल ऊर्जा उत्पादन है जिसके 
+लिए पारेषित शक्ति अपने अधिकतम स्तर पर है और जिसे Tee की कुल अवधि से विभाजित किया गया है तथा 
+कुल समय में पल्‍स के बीच का समय शामिल नहीं है जिसके दौरान पारेषित पावर बंद या उसके अधिकतम स्तर से 
+
+
+नीचे होना ata है; 
+
+(ज) "डिवाइस" से आवृत्ति बैंड 5925-6425 मेगाहर्ट्ज में कार्य करने वाले रेडिएटर्स अभिप्रेत हैं जो वाइडबैंड 
+डिजिटल मॉड्यूलेशन तकनीकों का उपयोग करते हैं और व्यक्तियों, व्यवसायों और संस्थाओं के लिए मोबाइल और 
+फिक्सड संचार में उच्च डेटा दर की एक विस्तृत श्रृंखला प्रदान करते हैं; 
+
+(झ) “इंडोर ऑपरेशन” से अभिप्रेत है कि ट्रांसमीटर ऐसे परिसर के अंदर स्थित है जो वैसे दीवारों से घिरा हुआ है जो 
+दरवाजे, खिड़कियां या गलियारों को छोड़कर रेडियो तरंगों के लिए अपारदर्शी हो तथा उस परिसर में वैसी सिलिंग 
+या छत हो जो रेडियो तरंगों के लिए अपारदर्शी हो; 
+
+
+(2) उन शब्दों और पदों जिनका उपयोग इन नियमों में किया गया है और जिन्हें परिभाषित नहीं किया गया है परन्तु जिन्हें 
+अधिनियम में परिभाषित किया गया है, वही अर्थ होंगे जो अधिनियम में विनिर्दिष्ट किया गया है। 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण 3 
+
+
+4. छूट - आवृत्ति बैंड 5925-6425 मेगाहट्ज में गैर-अंतरावरोधन, गैर-संरक्षण और साझा (गैर-अनन्य) आधार पर संचालित 
+रेडियो लोकल एरिया नेटवर्क सहित लोअर पावर इंडोर और ST लो पावर आउटडोर वायरलेस एक्सेस सिस्टम के प्रयोजन 
+के लिए किसी भी वायरलेस उपकरण को स्थापित करने, बनाए रखने, कार्य करने, रखने या सौदा करने के लिए किसी 
+
+
+प्राधिकार या आवृत्ति समनुदेशन की आवश्यकता नहीं होगी बशर्ते वे निम्नलिखित तकनीकी मापदंडों का अनुपालन करें; 
+अर्थात्‌: 
+सारणी 
+
+
+MAT पावर इंडोर और वेरी लो पावर आउटडोर डब्ल्यूएएस/आरएलएएन एक्सेस पॉइंट और डिवाइस 
+
+
+(अधिकतम ई.आई.आर.पी 
+डेन्सिटी) 
+
+
+_— 
+
+
+(i) ऑयल संबंधी प्लेटफार्मों पर सभी प्रकार का उपयोग निषिद्ध हैं। 
+
+
+4.1 परिचालन प्रतिबंध: 
+
+
+(ii) भूमि वाहनों (जैसे कार, ट्रेन) और नाव, विमान पर इनडोर उपयोग निषिद्ध है सिवाय इसके कि जब वे 10,000 
+
+फीट से ऊपर उड़ान भर रहे हों। 
+
+(iii) ड्रोन तथा मानवरहित हवाई प्रणालियों के साथ संचार और नियंत्रण निषिद्ध है। 
+5. आउट ऑफ बैंड उत्सर्जन सीमा - 
+(1) 5.925-6.425 गीगाहट्ज बैंड के भीतर कार्य करने वाले ट्रांसमीटरों के लिए: 5.925-6.425 गीगाहटज बैंड के बाहर 
+कोई भी उत्सर्जन -27 डीबीएम/मेगाहटूज के ई.आई.आर.पी से अधिक नहीं होना चाहिए। 
+(2) 5.925-6.425 गीगाहर्ट्ज बैंड के भीतर कार्य करने वाले ट्रांसमीटरों के लिए: पावर स्पेक्ट्रल डेन्सिटी को चैनल एज के 
+बाहर 1 मेगाहट््ज पर 20 डीबी तक, चैनल केंद्र से एक चैनल बैंडविड्थ पर 28 डीबी तक, और चैनल केंद्र से चैनल बैंडविड्थ 
+से डेढ़ गुना चैनल बैंडविड्थ पर 40 डीबी तक कम किया जाना चाहिए। किसी लाइसेंसरहित डिवाइस के चैनल एज के बाहर 
+एक मेगाहट्ज़ और चैनल के केंद्र से एक चैनल बैंडविड्थ के बीच आवृत्तियों पर सीमाओं को 20 डीबी और 28 डीबी सप्रेशन 
+के बीच लिनियर रूप से इंटरपोलेट किया जाना चाहिए और एक से डेढ़ गुना के बीच की आवृत्तियों पर किसी लाइसेंसरहित 
+डिवाइस के चैनल बैंडविड्थ पर सीमाओं को 28 डीबी और 40 डीबी सप्रेशन के बीच लिनियर रूप से इंटरपोलेट किया जाना 
+
+
+चाहिए। चैनल बैंडविड्थ के एक से डेढ़ गुना से अधिक चैनल केंद्र से हटाए गए उत्सर्जन को कम से कम 40 डीबी द्वारा सप्रेस 
+किया जाना चाहिए। 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+(3) उत्सर्जन माप 1 मेगाहर्ट्ज के न्यूनतम रिज़ॉल्यूशन बैंडविड्थ का उपयोग करके लिया जाएगा। एक लोवर रिज़ॉल्यूशन 
+बैंडविड्थ को बैंड एज के पास ,जब आवश्यक हो, नियोजित किया जा सकता है बशर्ते मापी गई ऊर्जा को 1 मेगाहट्ट्ज से 
+अधिक कुल पावर दर्शाने के लिए एकीकृत किया जाए। 
+
+(4) उत्सर्जन सीमा मापते समय नाममात्र कैरियर आवृत्ति को ऊपरी और निचले आवृत्ति बैंड एज के पास समायोजित किया 
+जाएगा क्योंकि उपस्कर को इसी प्रकार डिज़ाइन किया गया है। 
+
+6. अंतरावरोधन- (1) रेडियो संचार प्रणाली में रिसेप्शन पर उत्सर्जन, विकिरण या प्रेरण में से किसी एक या इनके संयोजन 
+के कारण अवांछित ऊर्जा के प्रभाव से यदि किसी भी निष्पादन में गिरावट आती है, गलत व्याख्या निकलती है, या जानकारी 
+की हानि होती है, जिसे ऐसी अवांछित ऊर्जा की अनुपस्थिति में हासिल किया जा सकता था और कोई भी व्यक्ति जो दूरसंचार 
+अधिनियम, 2023 (2023 का 44) या भारतीय तार अधिनियम,1885 (1885 का 13) के तहत प्राप्त अनुज्ञप्ति के अनुसार 
+
+
+तथा अधिनियम की धारा 3 की उप-धारा (6) के अनुसार वैध कार्य कर रहा हो, प्राधिकारी को यह सूचित करता है कि उनकी 
+
+
+अनुज्ञप्ति-प्राप्त प्रणाली को किसी अन्य रेडियो संचार प्रणाली से, जिन्हें इन नियमों के तहत छूट प्राप्त है, से हानिकारक 
+अंतरावरोधन हो रहा है, तब प्राधिकारी ऐसे अन्य रेडियो संचार प्रणाली के उपयोगकर्ता से बात करेगा और उसे उपस्कर का 
+पुनर्स्थापन करके, पावर को कम करके तथा एंटीना के विशेष प्रकारों का उपयोग करके अंतरावरोधन को दूर करने के लिए 
+निदेश देगा और इनका अनुपालन नहीं करने पर प्राधिकारी ऐसे बेतार उपयोग को निरस्त करने की सिफ़ारिश करेगा। 
+
+
+(2) प्राधिकारी उपर्युक्त उप-नियम (1) के अधीन बेतार प्रयोग को बंद करने की सिफारिश करने से पहले बेतार उपस्कर के 
+प्रयोक्ता को युक्तियुक्त अवसर देगा। 
+7. उपस्कर - (1) बेतार उपस्कर में अंतर्नेहिित और एकीकृत एंटीना होगा और इसे इस तरह से प्रकार अनुमोदित, डिजाइन 
+तथा तैयार किया जाए कि उत्सर्जन बैंडविड्थ और अन्य मापदंड नियम 4 और 5 में विनिर्दिष्ट सीमाओं के अनुरूप हों। उपस्कर 
+प्रकार अनुमोदन प्राप्त करने के लिए आवेदन उपाबंध में दिए गए प्रारूप में केंद्रीय सरकार को भेजा जाएगा। 
+(2) सुरक्षा संबंधी अपेक्षाएँ संबंधित डिवाइसों और आवृत्ति बैंड के लिए आईटीयू/ ईटीएसआई /एएनएसआई/ 
+बीआईएस/आईसी एनआईआरपी जैसे अंतरराष्ट्रीय या राष्ट्रीय मानकों के अनुरूप होंगी। 
+
+[फा.सं. 24-04/2025-यूबीबी] 
+
+
+देवेन्द्र कुमार राय, संयुक्त सचिव 
+
+
+उपाबंध 
+
+
+उपस्कर प्रकार अनुमोदन के लिए आवेदन 
+[नियम 7 का उप-नियम (1) देखें] 
+
+
+भाग-क-आवेदक 
+1. उपस्कर प्रकार अनुमोदन के लिए आवेदन करने वाले 
+विनिर्माता अधिकरण का नाम 
+2. विनिर्माता अभिकरण का डाक पता 
+
+
+3. प्रकार अनुमोदन के लिए आवेदन करने वाले भारतीय 
+अभिकरण का नाम और पता 
+
+
+4. उत्पाद का नाम उत्पाद पहचान (मॉडल सं. आदि) 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण 
+
+
+भाग-ख-पारेषक का वर्णन 
+
+5. आवृत्ति रेंज 
+
+6. प्रीसेट स्विचेबल चैनलों की सं. 
+
+7. वॉयस/डाटा/टीवी चैनलों की सं. 
+(मल्टीचैनल उपस्कर की दशा में) 
+
+8. टीएक्स:आरएक्स चैनल पृथक्करण 
+(डुप्लैक्स/मल्टीचैनल उपस्कर की दशा में) 
+
+9. समीपवर्ती चैनल पृथक्करण (मल्टीचैनल उपस्कर 
+की दशा में) 
+
+10. आवृत्ति स्थायित्व 
+
+11. कूट/सन्‍नादी विकरण 
+(i) कैरियर सप्रेशन (कैरियर सप्रैस्ड तंत्र की दशा में) 
+(1) आवांछत साइड बैंड सप्रेशन 
+
+(एसएसबी तंत्र की दशा में) 
+
+(iii) द्वितीय सन्‍नादी विकरण 
+(iv) तृतीय सन्‍नादी विकरण 
+
+
+12. अधिकतम आवृत्ति विचलन 
+13. उत्सर्जन की रीति 
+14. उत्सर्जन की बैंडविड्थ 
+15. परीक्षण टोन विचलन 
+16. आधार बैंड आवृत्ति 
+(मल्टीचैनल stent की दशा में) 
+17. अपेक्षित मॉडयूलेशन का प्रकार 
+18. पूर्व जोर 
+19. विद्युत आउटपुट 
+(एंटीना के इनपुट पर) 
+20. कोई अन्य जानकारी 
+
+
+भाग-ग-प्रापकों के विवरण 
+
+21. आवृत्ति रेंज 
+
+22. प्राप्ति की रीति 
+
+23. प्राप्ति की कूट प्रतिक्रिया 
+
+24. संवेदनशीलता 
+
+25. आवृत्ति स्थायित्व 
+
+26. (क) प्रभावी ध्वनी तापमान 
+(ख) ध्रेसहॉल्ड इनपुट स्तर 
+
+
+27. मध्यवर्ती आवृत्ति 
+
+
+6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+28. जोर मुक्ति 
+29. चयनशीलता 
+30. कोई अन्य विशिष्टयां 
+
+
+आवेदक के हस्ताक्षर 
+स्थान 
+तारीख 
+(टिप्पण : प्रत्येक प्रकार के उपस्कर के लिए पृथक आवेदन प्रस्तुत किए जाने चाहिए) 
+
+
+MINISTRY OF COMMUNICATIONS 
+NOTIFICATION 
+New Delhi, the 16 May 2025 
+
+
+G.S.R. 316 (E).— The following draft rules, which the Central Government proposes to make in 
+exercise of the powers conferred by sections 3(3) and 4(6) read with clauses (b) and (h) of sub-section (2) of 
+section 56 of the Telecommunications Act, 2023 (44 of 2023), are hereby published for the information of 
+all persons likely to be affected thereby and notice is hereby given that the said draft rules shall be taken into 
+consideration after the expiry of a period of thirty days on which copies of this notification as published in 
+the Official Gazette, are made available to the public; 
+
+
+Objections or suggestions, if any, may be addressed to the Joint Secretary (Telecom), Department of 
+Telecommunications, Ministry of Communications, Government of India, Sanchar Bhawan, 20, Ashoka 
+Road, New Delhi- 110001; 
+
+
+The objections or suggestions which may be received from any person with respect to the said draft rules 
+before the expiry of the aforesaid period shall be taken into consideration by the Central Government. 
+
+
+1. Short title and commencement. — (1) These rules may be called the Use of Low Power and Very 
+Low Power Wireless Access System including Radio Local Area Network in Lower 6 GHz band (Exemption 
+from Licensing Requirement) Rules, 2025. 
+
+
+(2) They shall come into force on the date of their publication in the Official Gazette. 
+2. Application. — These rules shall be applicable in the 5925 — 6425 MHz band. 
+
+
+3. Definitions. — (1) In these rules, unless the context otherwise requires, - 
+(a) “Act” means the Telecommunications Act, 2023 (44 of 2023); 
+(b) “Authority” means the authority notified by the Central Government. 
+
+
+(c) “access point” means a transceiver that operates either as a bridge in a peer-to-peer connection or 
+as a connector between the wired and wireless segments of the network; 
+
+
+(d) “equivalent isotropic radiated power” or “e.i.r.p” means the total power that would have to be 
+radiated by a hypothetical isotropic antenna to give the same signal strength as the actual source in 
+the direction of the antennas strongest beam; 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण है 
+
+
+(e) “emission bandwidth” means the 26 dB bandwidth of the modulated signal measured relative to 
+the maximum level of the modulated carrier; 
+
+
+(f) “maximum power spectral density” means the maximum power within the specified measurement 
+bandwidth, within the device operating band; measurements in the 5925-6425 MHz band are made 
+over a bandwidth of 1 MHz; 
+
+
+(g) “power spectral density” means the power spectral density is the total energy output per unit 
+bandwidth from a pulse or sequence of pulses for which the transmit power is at its maximum level, 
+divided by the total duration of the pulses and the total time does not include the time between pulses 
+during which the transmit power is off or below its maximum level; 
+
+
+(h) “device” means the radiators operating in the frequency bands 5925-6425 MHz that use wideband 
+digital modulation techniques and provide a wide array of high data rate in mobile and fixed 
+communications for individuals, businesses, and institutions; 
+
+
+(i) “indoor operation” means that the transmitter is located inside premises which are wholly enclosed 
+by walls that are non-transparent to radio waves, except for any doors, windows or passageways; and 
+the premises have ceiling or roof, non-transparent to radio waves. 
+
+
+(2) The words and expressions used in these rules and not defined herein but defined in the Act shall have 
+the same meanings respectively as assigned to them in those Acts. 
+
+
+4. Exemption. — No Authorization or Frequency Assignment shall be required to establish, maintain, 
+work, possess or deal in any wireless equipment for the purpose of Lower Power Indoor and Very Low Power 
+outdoor wireless access systems, including radio local area networks operating in the frequency band 5925- 
+6425 MHz on noninterference, non-protection and shared (nonexclusive) basis, and complying with the 
+following technical parameters; namely: 
+
+
+Table 
+
+
+Low power indoor and Very Low Power Outdoor WAS/RLAN Access Points and devices 
+
+
+in-band emissions band emissions Bandwidth (Max e.i.r.p density) 
+
+
+Low Power|5 dBm/MHz 30 dBm 320 MHz -27 dBm/MHz 
+Indoor 
+
+
+Nery. Low! 5 dBm/MHz 14 dBm 320 MHz -27 dBm/MHz 
+Power Outdoor 
+
+
+4.1 Operational restrictions: 
+
+
+(i) All kinds of use are prohibited on Oil platforms 
+
+
+(ii) Indoor use is prohibited on Land vehicles (e.g., cars, trains) and boats, aircrafts except when 
+flying above 10,000 feet. 
+
+
+(11) Communication with and control of Drones and Unmanned Aerial Systems is prohibited. 
+
+
+5. Out of band emission Limits. — 
+
+
+(1) For transmitters operating within the 5.925-6.425 GHz band: Any emissions outside of the 5.925-6.425 
+GHz band must not exceed an e.i.r.p. of -27 dBm/MHz. 
+
+
+(2) For transmitters operating within the 5.925-6.425 GHz bands: Power spectral density must be suppressed 
+by 20 dB at 1 MHz outside of channel edge, by 28 dB at one channel bandwidth from the channel center, and 
+by 40 dB at one- and one-half times the channel bandwidth away from channel center. At frequencies between 
+one megahertz outside an unlicensed device's channel edge and one channel bandwidth from the center of 
+the channel, the limits must be linearly interpolated between 20 dB and 28 dB suppression, and at frequencies 
+
+
+8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+between one and one- and one-half times an unlicensed device's channel bandwidth, the limits must be 
+linearly interpolated between 28 dB and 40 dB suppression. Emissions removed from the channel center by 
+more than one- and one-half times the channel bandwidth must be suppressed by at least 40 dB. 
+
+
+(3) The emission measurements shall be performed using a minimum resolution bandwidth of 1 MHz. A 
+lower resolution bandwidth may be employed near the band edge, when necessary, provided the measured 
+energy is integrated to show the total power over 1 MHz. 
+
+
+(4) When measuring the emission limits, the nominal carrier frequency shall be adjusted as close to the upper 
+and lower frequency band edges as the design of the equipment permits. 
+
+
+6. Interference — (1) The effect of unwanted energy due to one or a combination of emissions, 
+radiations or induction upon reception in a radio communication system, manifested by any performance 
+degradation, misinterpretation, or loss of information which could be extracted in the absence of such 
+unwanted energy, where any person operating as per the Telecommunications Act, 2023 (44 of 2023) or 
+license under the Indian Telegraph Act, 1885 (13 of 1885) which is valid pursuant to sub-section (6) of 
+section 3 of the Act informs the Authority that his licensed system is getting harmful interference from any 
+other radio communication system exempted under these rules, then such Authority shall call upon the user 
+of such unlicensed wireless equipment to take necessary steps to avoid interference by relocating the 
+equipment, reducing the power and using special type of antennae, failing which such Authority shall 
+recommend discontinuation of such wireless use. 
+
+
+(2) The Authority shall give a reasonable opportunity to the user of wireless equipment before making 
+recommendation of discontinuation of wireless use under sub-rule (1) above. 
+
+
+7. Equipment. — (1) The wireless equipment will have in-built and integrated antenna and shall be 
+type approved and designed and constructed in such a manner that the bandwidth of emission and other 
+parameters shall conform to the limits specified in rule 4 and 5. The application for obtaining equipment type 
+approval shall be made to the Central Government in the format given in Annexure. 
+
+
+(2) The safety related requirements shall be as per the International or National standards such as ITU/ETSI/ 
+ANSI/BIS/ICNIRP for the respective devices and frequency bands. 
+
+
+[F.No. 24-04/2025-UBB] 
+DEVENDRA KUMAR RAL, Jt. Secy. 
+
+
+ANNEXURE 
+
+
+APPLICATION FOR EQUIPMENT TYPE APPROVAL 
+(Refer sub-rule (1) of rule 7) 
+
+
+Section-A- Applicant 
+
+
+1. Name of manufacturing agency applying 
+
+
+for equipment type approval 
+
+
+2. Postal Address of manufacturing Agency 
+
+
+3. Name and address of Indian agency 
+
+
+applying for the type approval. 
+
+
+[भाग 1--खण्ड 3(i)] भारत का राजपत्र : असाधारण 
+
+
+4. 
+
+
+Name of product and the product 
+
+
+Identification (model number etc.,) 
+
+
+Section- B- Details of Transmitter 
+
+
+10. 
+
+
+11. 
+
+
+12. 
+
+
+13. 
+
+
+14. 
+
+
+15. 
+
+
+16. 
+
+
+17. 
+
+
+Frequency range 
+
+
+No. of preset switchable channels 
+
+
+No. of voice /Data/ TV Channels 
+
+
+(In case of multi- channel equipment) 
+
+
+Tx-Rx channel separation 
+
+
+(In case of Duplex/multi-channel equipment) 
+
+
+Adjacent channel separation 
+
+
+(In case of multi-channel equipment) 
+Frequency stability 
+Spurious/ Harmonic radiations 
+1. Carrier suppression 
+(In case of carrier suppressed systems) 
+li. Unwanted side band suppression 
+(In case of SSB systems) 
+lil. 2nd Harmonic radiations 
+Iv. 3rd Harmonic radiations 
+Max. Frequency Deviation 
+Mode of emission 
+Bandwidth of emission 
+
+
+Test Tone deviation 
+
+
+Base band frequency 
+
+
+(In case of multi-channel equipment) 
+
+
+Type of modulation to be required 
+
+
+10 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)] 
+
+
+18. Pre-emphasis 
+
+
+19. Power output 
+(At the input of antenna) 
+
+
+20. Any other information 
+
+
+Section-C- Details of Receivers 
+
+
+21. Frequency range 
+
+
+22. Mode of reception 
+
+
+23. Spurious response of receiver 
+
+
+24. Sensitivity 
+
+
+25. Frequency stability 
+
+
+26. (a) Effective noise temperature 
+
+
+(b) Threshold input level 
+
+
+27. Intermediate frequency 
+
+
+28. De-emphasis 
+
+
+29. Selectivity 
+
+
+30. Any other particulars 
+
+
+Signature of the applicant 
+
+
+Place 
+
+
+Date 
+
+
+(Note : Separate application should be submitted for each type of equipment.) 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. — corakuanatHyADava _nutalysaned by conaria nari 
+
+
+te: 2025.05.16 15:18:54 +0530' 
+
+
