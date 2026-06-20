@@ -1,0 +1,188 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+HAitd = रॉज्जपन्र 
+Che Gazette of India 
+
+
+सी.जी.-डी.एल.-अ.-23072025-264886 
+CG-DL-E-23072025-264886 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग त--खण्ड 3—34-@us (ii) 
+PART II—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 442] नई दिल्‍ली, सोमवार, जुलाई 21, 2025/आषाढ़ 30, 1947 
+No. 442] NEW DELHI, MONDAY, JULY 21, 2025/ASHADHA 30, 1947 
+
+
+सड़क परिवहन और राजमार्ग मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 18 जुलाई, 2025 
+
+
+सा.का.नि. 485(अ).--केंद्रीय मोटर यान नियमावली, 1989, जिनमें केंद्रीय सरकार मोटर यान अधिनियम, 
+1988 (1988 का 59) की धारा110 के द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए संशोधन करने का प्रस्ताव करती है, में 
+और अधिक संशोधन करते हुए निम्नलिखित कतिपय प्रारूप नियमों को इस अधिनियम की धारा 212 की उप-धारा (1) के 
+द्वारा यथावश्यक इसके द्वारा प्रभावित होने की संभावना वाले सभी व्यक्तियों की जानकारी के लिए एतदद्वारा प्रकाशित 
+किया जाता है; और एतदद्वारा नोटिस दिया जाता है कि प्रारूप नियमों पर उस तारीख से तीस दिन की अवधि समाप्त होने 
+के बाद विचार किया जाएगा जिस तरीख से सरकारी राजपत्र में यथा प्रकाशित इस अधिसूचना की प्रतियां जनता के लिए 
+उपलब्ध करायी जाती हैं; 
+
+
+पूर्वोबत अवधि समाप्त होने के पहले उक्त प्रारूप नियमों के संबंध में किसी भी व्यक्ति से प्राप्त होने वाली किन्हीं 
+आक्षेपों या सुझावों पर केंद्रीय सरकार द्वारा विचार किया जाएगा। 
+
+
+इन प्रारूप नियमों के प्रति आक्षेपों एवं सुझावों, यदि कोई हो, को अपर सचिव (एमवीएल, परिवहन और सड़क 
+सुरक्षा), सड़क परिवहन और राजमार्ग मंत्रालय, परिवहन भवन, संसद मार्ग, नई दिलली-110001 के पास या ईमेल: 
+comments-morth@gov.in पर भेजा जा सकता है। 
+
+
+प्रारूप नियम 
+1. शीर्षक एवं प्रारंभ --- (1) इन नियमों को केन्द्रीय मोटर यान (संशोधन) नियमावली, 2025 कहा जाएगा। 
+
+
+4884 (1/2025 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(11)] 
+
+
+(2) aad, इन नियमों में अन्यथा उपबंधित के सिवाय, ये राजपत्र में उनके अंतिम प्रकाशन की तारीख से प्रवृत्त होंगे। 
+
+() नियम 125ज के अंतर्गत नए उप-नियमों का अंतःस्थापन: 
+नियम 125ज के उप-नियम (3) के पश्चात, निम्नलिखित उप-नियम अंतःस्थापित किए जाएँगे, अर्थात्‌:-- 
+
+“(4) 1 अक्टूबर, 2026 को या उसके बाद, सभी gee वाले ट्रैक्टर एआईएस-140 के अनुरूप वाहन अवस्थिति 
+(लोकेशन) ट्रैकिंग उपकरण (वीएलटीडी) से सुसज्जित होंगे। 
+
+(5) * वीएलटीडी को आईएस 16722:2018 के अनुरूप एक आरएफआईडी ट्रांसीवर के साथ एकीकृत किया जाएगा, जो 
+युम्मित ट्रेलर से आरएफआईडी डेटा को पढ़ने और उसे बैकएंड पर प्रेषित करने में सक्षम होगा। 
+
+(6) * सभी ट्रेलरों में आईएस 16722:2018 के अनुसार निष्क्रिय आरएफआईडी टैग लगाए जाएँगे ताकि ट्रैक्टरों के साथ 
+इलेक्ट्रॉनिक पहचान और युग्मन संभव हो सके। 
+
+(7) 1 अप्रैल, 2027 को या उसके बाद, सभी ढुलाई वाले ट्रैक्टरों में महत्वपूर्ण वाहन डेटा को कैप्चर और संग्रहीत करने 
+
+
+के लिए एक इवेंट डेटा रिकॉर्डर (ईडीआर) लगाया जाएगा। ईडीआर परिचालन घटनाओं का विश्लेषण करने और सुरक्षा 
+निगरानी बढ़ाने के लिए आवश्यक मापदंडों को रिकॉर्ड करने में सक्षम होगा।" 
+
+
+*इस अनुप्रयोग की अपेक्षाओं को समाहित करने के लिए एआईएस 140 और आईएस 16722:2018 को 31 दिसंबर 
+2025 तक या उससे पहले उपयुक्त रूप से संशोधित किया जाएगा। 
+
+
+(ii) नियम 125घ में, निम्नलिखित परंतुक अंतःस्थापित किया जाएगा: 
+"बशर्ते कि 1 अक्टूबर, 2026 को या उसके बाद- 
+क .सभी ट्रेलरों में आईएस 9895:2004 के अनुसार 13-पिन या 13-पोल कनेक्टर लगाए जाएँगे। 
+"बशर्ते कि 1 अप्रैल, 2027 को या उसके बाद- 
+
+
+क. सभी ढुलाई वाले ट्रैक्टरों और ट्रेलरों की यांत्रिक युग्मन प्रणाली (पाँचवाँ पहिया) समय-समय पर यथा संशोधित 
+आईएस 8007:2024 (भाग 1 और 2) के अनुरूप होगी।" 
+
+
+[फा. सं. आरटी-11036/98/2025-एमवीएल] 
+महमूद अहमद, अपर सचिव 
+
+
+नोट: मूल नियम भारत के राजपत्र, असाधारण, भाग- Il, खंड 3, उप धारा () में सा.का.नि. 590(अ), दिनांकित 02 जून, 
+1989 के माध्यम से प्रकाशित किए गए थे और पिछली बार सा.का.नि........... (अ), दिनांकित ........... द्वारा संशोधित 
+किए गए। 
+
+
+MINISTRY OF ROAD TRANSPORT AND HIGHWAYS 
+NOTIFICATION 
+New Delhi, the 18th July, 2025 
+
+
+G.S.R. 485(E).—The following draft of certain rules further to amend the Central Motor Vehicles 
+Rules, 1989, which the Central Government proposes to make in exercise of the powers conferred by section 110 of 
+the Motor Vehicles Act, 1988 (59 of 1988), is hereby published as required by sub-section (1) of section 212 of the 
+said Act, for information of all persons likely to be affected thereby; and notice is hereby given that the said draft 
+tules will be taken into consideration after the expiry of thirty days from the date on which the copies of this 
+notification as published in the Gazette of India, are made available to the public; 
+
+
+The objections or suggestions which may be received from any person in respect of the said draft rules 
+before the expiry of the aforesaid period will be considered by the Central Government. 
+
+
+Objections and suggestions to these draft rules, if any, may be sent to the Additional Secretary (MVL, 
+Transport & Road Safety), Ministry of Road Transport and Highways, Transport Bhawan, Parliament Street, New 
+Delhi-110 001 or on the email: comments-morth@gov.in; 
+
+
+[भाग ए---खण्ड 3(ii)] भारत का राजपत्र : असाधारण 3 
+
+
+Draft Rules 
+1. Short title and commencement. — (1) these rules may be called as the Central Motor Vehicles 
+( sash मत न मन मम मर Amendment) Rules, 2025. 
+
+
+(2) Save as otherwise provided in these rules, they shall come into force on the date of their final publication in the 
+Official Gazette. 
+
+
+(i) Insertion of new sub-rules under Rule 125H: 
+After sub-rule (3) of rule 125H, the following sub-rules shall be inserted, namely:— 
+
+
+“(4) On or after 1st October, 2026, all haulage tractors shall be equipped with Vehicle Location Tracking Devices 
+(VLTD) compliant with AIS-140. 
+(5)* The VLTD shall be integrated with an RFID transceiver conforming to IS 16722:2018, capable of reading 
+RFID data from the coupled trailer and transmitting it to the backend. 
+
+
+(6)* All trailers shall be fitted with passive RFID tags in accordance with IS 16722:2018 to enable electronic 
+identification and pairing with tractors. 
+
+
+(7) On or after Ist April, 2027, all haulage tractors shall be equipped with an Event Data Recorder (EDR) to 
+capture and store critical vehicle data. The EDR shall be capable of recording parameters necessary for analysing 
+operational events and enhancing safety monitoring.” 
+
+
+*ATS 140 and IS 16722:2018 shall be suitably amended to incorporate the requirements for this application on or 
+before 31-Dec-2025 
+(1) In Rule 125D, the following proviso shall be inserted: 
+“Provided that on or after 1st October, 2026— 
+a. All trailers shall be fitted 13-pin or 13-pole connector as per IS 9895:2004. 
+
+
+“Provided that on or after 1° April, 2027- 
+
+
+a. The mechanical coupling system (fifth wheel) of all haulage tractors and trailers shall conform to IS 
+8007:2024 (Part 1 and 2), as amended from time to time.” 
+
+
+[F. No. RT-11036/98/2025 -MVL] 
+MAHMOOD AHMED, Addl. Secy. 
+
+
+Note: The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, sub-section(i) vide 
+G.S.R. 590(E), dated the 2nd June, 1989 and lastly amended vide G.S.R. .....(E) dated the ................... 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+
+
+and Published by the Controller of Publications, Delhi-110054. GoRAKHA NATH Digitally signed by GORAKHA 
+
+
+YADAVA Date: 2025.07.23 11:51:27 +05'30' 
+
+
