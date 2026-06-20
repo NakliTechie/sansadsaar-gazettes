@@ -1,0 +1,504 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Aid =: राजजपतन्र 
+
+
+Che Gazette of Jndia 
+
+
+Ut. sHh. -SV.We.-37.-8072025-264796 
+CG-DL-E-8072025-264796 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग [l—avs 3---उप-खण्ड (ii) 
+PART II—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 3245] नई दिल्‍ली, शुक्रवार, जुलाई 8, 2025/आषाढ़ 27, 947 
+No. 3245] NEW DELHI, FRIDAY, JULY 8, 2025/ASHADHA 27, 947 
+
+
+भारी उद्योग मंत्रालय 
+अधिसूचना (संशोधन) 
+नई दिल्‍ली, 48 जुलाई, 2025 
+का.आ. 3348(4).—_ tes इलेक्ट्रिक ड्राइव रिवॉल्यूशन इन इनोवेटिव other एनहांसमेंट (पीएम ई-ड्राइव) स्कीम 
+I पीएम इलेक्ट्रिक रिवॉल्यूशन इन इनोवेटिव व्हीकल एनहांसमेंट (पीएम ई-ड्राइव) स्कीम, जिसे 
+
+
+दिनांक 29 सितंबर, 2024 को भारी उद्योग मंत्रालय के सां.आ. 4259 (अ) के माध्यम से अधिसूचित किया गया था, के 
+आंशिक आशोधन में निम्नांकित संशोधन किए जाते हैं जो सरकारी राजपत्र में इसके प्रकाशन की तिथि से प्रभावी होंगे:- 
+
+
+2. पीएम ई-ड्राइव स्कीम के अंतर्गत पात्रता हेतु Sal सार्वजनिक चार्जिंग स्टेशनों के लिए चरणबद्ध विनिर्माण 
+कार्यक्रम (पीएमपी) के संबंध में, अधिसूचना के संलग्रक-6 को अनुलग्नित संलग्रक-6 से प्रतिस्थापित किया जाता है। 
+
+
+484] GI/2025 () 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEC. 3(4i)] 
+
+
+संलग्रक - 6 
+
+
+पीएम ई-ड्राइव स्कीम के तहत पात्रता हेतु इलेक्ट्रिक वाहन पब्लिक चार्जिंग स्टेशनों (ईवीपीसीएस) के लिए चरणबद्ध 
+विनिर्माण कार्यक्रम (पीएमपी) 
+
+
+॥ सं. 
+
+
+ईवीपीसीएस पीएमपी घटक 
+विवरण 
+
+
+कार्यान्‍्वयनतिथि 
+
+
+पीएमपी अपेक्षा 
+
+
+चार्जर एनक्लोजर/पैनल 
+
+
+क 
+
+
+चार्जर एनक्लोजर/पैनल का विनिर्माण घरेलू स्तर पर किया 
+जाएगा जिसमें न्यूनतम निम्नांकित शामिल हैं: शीट मेटल 
+प्रेसिंग, पाउडर कोटिंग, पेंटिंग, कटिंग, वेल्डिंग, दरवाजे का 
+Prete, कब्जे, Were लगाना,माउंटिंग CRT / प्लेट्स का 
+फिटमेंट और कनेक्टर। 
+
+
+इंटर्नल वायरिंग हार्नेस 
+
+
+sede वायरिंग हार्नेस का विनिर्माण घरेलू स्तर पर किया 
+जाएगा, जिसमें न्यूनतम निम्नांकित शामिल हैं-केबल ट्रे, 
+डीआईएन रेल, इन्सुलेशन, तार, कनेक्टर, सुरक्षात्मक ECT 
+आदि। 
+
+
+आईएस/आईईसी 
+कनेक्टर 
+
+
+60309 
+
+
+आईएस/आईईसी 60309 कनेक्टर का विनिर्माण घरेलू स्तर 
+पर किया जाएगा, जिसमें न्यूनतम Prather शामिल हैं: 
+कनेक्टर हाउसिंग मोलिंडंग और कांटैक्ट पिन फिटमेंट। 
+
+
+ओसीपीपी और सीएमएस 
+(सेंट्रलसर्वर) के लिए 
+सॉफ्टवेयर/मोबाइल एप्लीकेशन 
+
+
+यह प्रदर्शित किया जाएगा कि सॉफ्टवेयर स्वदेशी रूप से 
+विकसित है तथा स्वदेशी स्रोत कोड विकास प्रक्रिया / कार्य 
+का प्रदर्शन किया जाएगा। 
+
+
+सहायक विद्युतआपूर्ति, 
+एसएमपीएस 
+
+
+सहायक विद्युत आपूर्ति, एसएमपीएस का विनिर्माण घरेलू 
+स्तर पर किया जाएगा जिसमें न्यूनतम निम्नांकित शामिल 
+हैं: पीसीबी पर इलेक्ट्रॉनिक घटकों/अर्धचालकों की असेंबली, 
+वायरिंग और क्रिम्पिंग, कनेक्टर फिटमेंट, हीट-सिंक फिटमेंट, 
+एनक्लोजर फिटमेंट और सॉफ्टवेयर/फर्मवेयर फ्लैशिंग। 
+
+
+6(क) 
+
+
+एसी ऊर्जा मीटर 
+
+
+एसी ऊर्जा मीटर का विनिर्माण घरेलू स्तर पर किया जाएगा, 
+जिसमें न्यूनतम निम्नांकित शामिल हैं-पीसीबी पर 
+इलेक्ट्रॉनिक घटकों/अर्धचालकों की असेंबली, वायरिंग और 
+क्रिम्पिंग, कनेकक्‍्टर फिटमेंट, हीट-सिंक फिट्मेंट तथा 
+एनक्लोजर फिटमेंट और सॉफ्टवेयर/फर्मवेयर फ्लैशिंग। 
+
+
+6(ख) 
+
+
+डीसी ऊर्जा मीटर 
+
+
+डीसी ऊर्जा मीटर का विनिर्माण घरेलू स्तर पर किया 
+जाएगा, जिसमें न्यूनतम निम्नांकित शामिल हैं: पीसीबी पर 
+इलेक्ट्रॉनिक घटकों/अर्धचालकों की असेंबली, वायरिंग और 
+क्रिम्पिंग, कनेक्टर फिटमेंट, हीट-सिंक फिटमेंट और 
+एनक्लोजर फिटमेंट तथा सॉफ्टवेयर/फर्म वेयर फ्लैशिंग। 
+
+
+7(क) 
+
+
+आर एफ आई डी 
+
+
+आरएफआईडी का विनिर्माण घरेलू स्तर पर किया जाएगा, 
+जिसमें न्यूनतम निम्नांकित शामिल हैं: पीसीबी पर 
+इलेक्ट्रॉनिक घटकों/अर्धचालकों की असेंबली, वायरिंग और 
+क्रिम्पिंग, कनेक्टर फिटमेंट, एंटीना फिटमेंट और एनक्लोजर 
+फिटमेंट तथा सॉफ्टवेयर/फर्म वेयर फ्लैशिंग। 
+
+
+7(ख) 
+
+
+एचएमआई/डिस्प्ले 
+
+
+एचएमआई/डिस्प्ले का विनिर्माण घरेलू स्तर पर किया 
+जाएगा जिसमें न्यूनतम निम्नांकित शामिल हैं : संयोजित 
+इलेक्ट्रॉनिक पीसीबी(पीसीबीए), एलसीडी / एलईडी 
+डिस्प्ले फिटमेंट, वायरिंग, कनेक्टर फिटमेंट, हीट-सिंक 
+
+
+[भाग avs 3(ii)] 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+3 
+
+
+फिटमेंट तथा एनक्लोजर फिटमेंट और सॉफ्टवेयर/फर्मवेयर 
+फ्लैशिंग का समेकन। 
+
+a इनपुट स्विच गियर्स जैसे ख इनपुट स्विच गियर्स का विनिर्माण घरेलू स्तर पर किया 
+आरसीडी, फ़्यूज़ एसपीडी, जाएगा, जिसमें न्यूनतम निम्नांकित हाउसिंग, एनक्लोजर, 
+एमसीबी, एमपीसीबी आदि। tH, Ae, कॉइल, धातु / चुंबकीय पट्टियां, ऑपरेटिंग हैंडल 
+
+की असेंबली शामिल है। 
+
+9(क) आउटपुट स्विच गियर ख आउटपुट स्विच गियर एसी का विनिर्माण घरेलू स्तर पर 
+- एसी कान्टैक्टर किया जाएगा जिसमें न्यूनतम निम्नांकित शामिल हैं: 
+
+हाउसिंग, एनक्लोजर, स्क्रू, तार, कॉइल, धातु/ चुंबकीय 
+पद्धियां और ऑपरेटिंग हैंडल। 
+
+9(ख) आउटपुट स्विच गियर्स जैसे डीसी a आउटपुट स्विच गियर्स डीसी का विनिर्माण घरेलू स्तर पर 
+apiece, रिले, वोल्टेज/करंट किया जाएगा जिसमें न्यूनतम निम्नांकित शामिल हैं-आवास, 
+आइसोलेटर,फ़्यूज़ आदि। एनक्लोजर, स्क्रू, तार, कॉइल, धातु / चुंबकीय स्ट्रिप्स और 
+
+ऑपरेटिंग हैंडल की असेंबली। 
+
+40(क) एसी चार्जिंग गन-टाइप 2 ग एसी चार्जिंग गन- टाइप 2 का विनिर्माण घरेलू स्तर पर 
+किया जाएगा जिसमें न्यूनतम निम्नांकित शामिल हैं - 
+कनेक्टर हाउसिंग फिटमेंट और कान्टैक्ट पिन फिटमेंट तथा 
+केबल समेकन। 
+
+40(ख) डीसी चार्जिंग गन- सीसीएस 2 3 डीसी चार्जिंग गन सीसीएस2 का विनिर्माण घरेलू स्तर पर 
+किया जाएगा जिसमें न्यूनतम निम्नांकित शामिल हैं- कनेक्टर 
+हाउसिंग फिटमेंट और कान्टैक्ट पिन फिटमेंट तथा केबल 
+समेकन। 
+
+चार्जर कंट्रोलर्स: इलेक्ट्रॉनिक है चार्जर कंट्रोलर्स का विनिर्माण घरेलू स्तर पर किया जाएगा 
+कंट्रोलर्स फॉरकम्यूनिकेशन विद जिसमें न्यूनतम निम्रांकित शामिल हैं- पीसीबी पर 
+ईवी, चार्ज कंट्रोल, बैकएंड इलेक्ट्रॉनिक घटकों/अर्धचालकों की असेंबली, वायरिंग और 
+कम्यूनिकेशन और अन्य कार्य क्रिम्पिंग,, कनेक्टर फिटमेंट,हीट-सिंक फिटमेंट और 
+
+एनक्लोजर फिटमेंट तथा सॉफ्टवेयर/फर्मवेयर फ्लैशिंग। 
+
+42 पावर इलेक्ट्रॉनिक्स / पावर a एसी से डीसी कनवर्टर का विनिर्माण घरेलू स्तर पर किया 
+मॉड्यूल एसी से डीसी कनवर्टर) जाएगा जिसमें a निन्नांकित शामिल हैं- पीसीबी पर 
+
+इलेक्ट्रॉनिक घटकों/अर्धचालकों की असेंबली, वायरिंग और 
+fafa, कनेक्टर फिट्मेंट,हीट-सिंक फिटमेंट और 
+एनक्लोजर फिटमेंट तथा सॉफ्टवेयर/फर्मवेयर फ्लैशिंग। 
+कोड ईवीपीसीएस पीएमपी घटकों के स्वदेशीकरण की प्रभावी तिथि 
+क fedex 20244 प्रभावी 
+ख Tatars 2022से प्रभावी 
+ग 4जनवरी 2023से प्रभावी 
+a 4जून 20244 प्रभावी 
+डर ifetax 2024से प्रभावी 
+a Tqq 20254 प्रभावी 
+छ Ifedax 2025से प्रभावी 
+ईवीपीसीएस पीएमपी की अतिरिक्त शर्तें 
+
+
+4) ईवी पब्लिक चार्जिंग स्टेशन(ईवीपीसीएस) पीएमई-ड्राइव योजना के तहत आपूर्ति किए जाने वाले प्रत्येक लॉट की 
+
+
+आपूर्ति के समय उपर्युक्त अनुसार क्रयादेश की तिथि को लागू पीएमपी का अनुपालन करना होगा। 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEc. 3(4i)] 
+
+
+2) 
+
+
+3) 
+4) 
+5) 
+
+
+ईवीपीसीएस ASU 7077 (समय-समय पर यथासंशोधित) के अनुसार तकनीकी आवश्यकताओं का भारी 
+उद्योग मंत्रालय की परीक्षण एजेंसी द्वारा यथा परीक्षित और प्रमाणित अनुसार अनुपालन करेगा। 
+
+
+सीकेडी स्वरूप में (एकल आपूर्तिकर्ता से) ईवीपीसीएस पीएमपी घटकों के आयात की अनुमति नहीं दी जाएगी। 
+“विनिर्माण” की परिभाषा सीजीएसटी अधिनियम 20478 यथा परिभाषित अनुसार होगी। 
+
+यह पीएमपी फेम-॥ स्कीम के अंतर्गत इलेक्ट्रिक वाहन सार्वजनिक चार्जिंग स्टेशनों (ईवीपीसीएस) पर भी लागू है 
+जिनकी आपूर्ति की जानी शेष है। 
+
+
+[फा. सं. 24(2)/ पीएमइडी/2024- एडइआई (29903)] 
+डॉ हनीफ़ कुरैशी, अपर सचिव 
+
+
+MINISTRY OF HEAVY INDUSTRIES (MHI) 
+
+
+Scheme 
+
+
+NOTIFICATION (AMENDMENT) 
+
+
+New Delhi, the l8th July, 2025 
+S.O. 338(E).— PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) 
+
+
+l. In partial modification of the PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) 
+Scheme which was notified by Ministry of Heavy Industries vide $.0.4259 (E) dated 29" September 2024, the following 
+amendments are made with effect from date of its publication in the Official Gazette: - 
+
+
+2. Annexure-6 of the notification, regarding Phased Manufacturing Programme (PMP) for EV Public Charging Stations 
+for eligibility under PM E-DRIVE scheme is replaced with attached Annexure-6. 
+
+
+Annexure-6 
+
+
+Phased Manufacturing Programme (PMP) for EV Public Charging Stations (EVPCS) for eligibility under PM 
+E-DRIVE Scheme. 
+
+
+Sr. 
+
+
+EVPCS PMP Component 
+Description 
+
+
+Implementation 
+Date 
+
+
+PMP Requirement 
+
+
+Charger Enclosure/Panels 
+
+
+A 
+
+
+Manufacturing of Charger Enclosure / Panels which at least 
+includes sheet metal pressing, powder coating, painting, 
+cutting, welding, fitment of door, hinges, gaskets, fitment 
+of mounting racks/ plates, connectors, shall be 
+domestically performed. 
+
+
+Internal Wiring Harness 
+
+
+Manufacturing of Internal Wiring Harness which at least 
+includes fitment of cable trays, DIN rail, insulation, wires, 
+connectors, protective sleeves shall be domestically 
+performed. 
+
+
+IS/IEC 60309 Connector 
+
+
+Manufacturing of IS/IEC 60309 connector which at least 
+includes connector housing moulding, contact pin fitment 
+shall be domestically performed. 
+
+
+Software/Mobile Application 
+for OCPP and CMS (Central 
+Server) 
+
+
+It shall be demonstrated that the software is indigenously 
+developed, and indigenous source code development 
+process / activity shall be demonstrated. 
+
+
+Auxiliary Power Supply, 
+SMPS 
+
+
+Manufacturing of Auxiliary Power Supply, SMPS which at 
+least includes assembly of electronic components/ 
+semiconductors on the PCB, wiring and crimping, 
+connector fitment, heat- sink fitment, enclosure fitment, 
+software/firmware flashing shall be domestically 
+performed. 
+
+
+6(a) 
+
+
+AC Energy Meter 
+
+
+Manufacturing of AC Energy Meter which at least includes 
+assembly of electronic components/semiconductors on the 
+
+
+[भाग avs 3(ii)] 
+
+
+भारत का राजपत्र : असाधारण 5 
+
+
+PCB, wiring and crimping, connector fitment, heat- sink 
+fitment, enclosure fitment, software/firmware flashing 
+shall be domestically performed. 
+
+6(b) | DC Energy Meter Manufacturing of DC Energy Meter which at least includes 
+assembly of electronic components/semiconductors on the 
+PCB, wiring and crimping, connector fitment, heat- sink 
+fitment, enclosure fitment, software/firmware flashing 
+shall be domestically performed. 
+
+7(a) | RFID Manufacturing of RFID which at least includes assembly 
+of electronic components/semiconductors on the PCB, 
+wiring and crimping, connector fitment, antenna fitment, 
+enclosure fitment, software/firmware flashing shall be 
+domestically performed. 
+
+70७) | HMI/Display Manufacturing of HMI/Display which at least includes 
+integration of assembled electronic PCB (PCBA), 
+LCD/LED display fitment, wiring, connector fitment, heat- 
+sink fitment, enclosure fitment, software/firmware flashing 
+shall be domestically performed. 
+
+y Input Switchgears like RCD, Manufacturing of Input switchgears which at least includes 
+Fuses, SPD, MCB, MPCEB etc. assembly of housing, enclosure, screws, wires, coils, 
+
+metallic/ magnetic strips, operating handle shall be 
+domestically performed. 
+
+9(a) | Output Switchgear Manufacturing of Output switchgears AC at least includes 
+
+- AC Contactors housing, enclosure, screws, wires, coils, metallic/ magnetic 
+strips, operating handle shall be domestically performed. 
+
+9(b) | Output Switchgears like DC Manufacturing of Output switchgears DC at least includes 
+
+Contactors, Relays, assembly of housing, enclosure, screws, wires, coils, 
+Voltage/Current Isolator, metallic/ magnetic strips, operating handle shall be 
+Fuses etc. domestically performed. 
+
+0(a) | AC Charging Gun — Type 2 Manufacturing of Charging Gun-Type 2 which at least 
+includes connector housing fitment, contact pin fitment, 
+cable integration shall be domestically performed. 
+
+0(b) | DC Charging Gun - CCS2 Manufacturing of DC Charging Gun CCS2 which at least 
+includes connector housing fitment, contact pin fitment, 
+cable integration shall be domestically performed. 
+
+ll | Charger Controllers: Manufacturing of Charger Controllers which at least 
+Electronic Controllers for includes assembly of electronic | components/ 
+communication with EV, semiconductors on the PCB, wiring and crimping, 
+Charge Control, backend connector fitment, heat- sink fitment, enclosure fitment, 
+communication and other software/firmware flashing shall be domestically 
+functions performed. 
+
+2 | Power Electronics/Power Manufacturing of AC to DC Convertor which at least 
+Modules (AC to DC assembly of electronic components/semiconductors on the 
+Convertor) PCB, wiring and crimping, connector fitment, heat- sink 
+
+fitment, enclosure fitment, software/firmware flashing 
+shall be domestically performed. 
+
+
+Code 
+
+
+Effective date of indigenisation of EVPCS PMP components 
+
+
+w.e.f. l‘‘ December 202] 
+
+
+| 3 | w.e.f. ४ July 2022 
+w.e.f. I* January 2023 
+
+
+6 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+Additional Conditions of EVPCS PMP 
+
+
+l. 
+
+
+EV Public Charging Station (EVPCS) shall comply with PMP as prevailing on the date of the purchase order 
+as per above, at the time of supply of each lot being supplied under PM E-Drive Scheme. 
+
+
+EVPCS shall comply with the technical requirements as per IS:!707 (as amended from time to time), as tested 
+and certified by the testing agency of MHI. 
+
+
+Import of EVPCS PMP components in CKD form (from single supplier) shall not be permitted. 
+Definition of “manufacture” shall be as defined in CGST Act 207. 
+
+
+This PMP is also applicable to Electric Vehicle Public Charging Stations (EVPCS) under FAME-II Scheme 
+which are yet to be supplied. 
+
+
+[F. No. 24(2)/PMED/2024-AEI(29903)] 
+Dr. HANIF QURESHI, Addl. Secy. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-0054. की 
+
+
+KUMER CHAND 2 
+MEENA 
+
+
