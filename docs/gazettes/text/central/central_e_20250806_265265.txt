@@ -1,0 +1,140 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+जी रेत = Vistqa 
+Che Gazette of Jndia 
+
+
+सी.जी.-डी.एल.-अ.-07082025-265265 
+CG-DL-E-07082025-265265 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग त--खण्ड 3—34-@us (ii) 
+PART II—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+सं. 3523] नई दिल्ली, बुधवार, अगस्त 6, 2025/श्रावण 15, 1947 
+No. 3523] NEW DELHI, WEDNESDAY, AUGUST 6, 2025/SHRAVANA 15, 1947 
+
+
+इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 5 अगस्त, 2025 
+
+
+का.आ. 3609(अ).--- सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 21) (जिसे इसमें आगे उक्त अधिनियम 
+कहा गया है) की धारा 70 की उप-धारा (1) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए, केन्द्रीय सरकार,जीएमआर हैदराबाद 
+अंतर्राष्ट्रीय हवाईअड्टा लिमिटेड (जिसे इसमें आगे जीएचआईएएल कहा गया है) की नाजुक सूचना अवसंरचना के नाते, 
+हवाईअड्टा परिचालन प्रणालियों से संबंधित निम्नलिखित कंप्यूटर संसाधनों और उनकी सहयुक्त आश्रितताओं के कंप्यूटर 
+संसाधनों को उक्त अधिनियम के प्रयोजनों के लिए संरक्षित प्रणालियां घोषित करती है, अर्थातः- 
+
+
+क) एयरफील्ड ग्राउंड लाइटिंग; 
+
+ख) हवाईअट्टा प्रचालन नियंत्रण केंद्र; 
+
+ग) हवाईअड्डा प्रचालन डेटाबेस; 
+
+घ) पहुँच नियंत्रण प्रणालियां; 
+
+ड) बैगेज हैंडलिंग प्रणालियां; 
+
+च) सामान्य उपयोग टर्मिनल उपकरण /सामान्य उपयोग यात्री प्रसंस्करण प्रणालियाँ / सामान्य उपयोग स्व 
+सेवाएं; 
+
+छ) Fates सर्किट टेलीविजन मॉनिटरिंग प्रणाली; और 
+
+ज) मास्टर क्लॉक प्रणाली। 
+
+
+5251 01/2025 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(11)] 
+
+
+2. इसके अलावा, उक्त अधिनियम की धारा 70 की उप-धारा (2) द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए, केन्द्रीय सरकार 
+निम्नलिखित कार्मिकों को संरक्षित प्रणालियों तक पहुंच बनाने के लिए प्राधिकृत करती है, अर्थात: - 
+
+
+(क) संरक्षित प्रणाली तक पहुंच बनाने के लिए, जीएचआईएएल द्वारा लिखित रूप में प्राधिकृत जीएचआईएएल 
+का कोई अभिहित कर्मचारी; 
+
+
+(ख) संविदात्मक प्रबंधित सेवा-प्रदाता या तृतीय पक्षकार विक्रेता के दल का कोई सदस्य जिसे आवश्यकता के 
+आधार पर पहुँच बनाने के लिए जीएचआईएएल द्वारा लिखित रूप से प्राधिकृत किया गया है; और 
+
+
+(ग) मामला दर मामला के आधार पर, जीएचआईएएल द्वारा लिखित रूप में प्राधिकृत कोई परामर्शी, 
+विनियामक, सरकारी पदाधिकारी, संपरीक्षक और पणधारी। 
+
+
+3. यह अधिसूचना सरकारी राजपत्र में प्रकाशन की तिथि से प्रवृत्त होगी। 
+[फा.सं. एए-14/2/2025-सीएसडी] 
+सविता उत्तरेजा, वैज्ञानिक जी 
+
+
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+NOTIFICATION 
+New Delhi, the 5th August, 2025 
+
+
+S.O. 3609(E).— In exercise of the powers conferred by sub-section (1) of section 70 of the Information 
+Technology Act, 2000 (21 of 2000) (hereinafter referred to as the said Act), the Central Government hereby 
+declares the following computer resources relating to the airport operational systems, being Critical 
+Information Infrastructure of the GMR Hyderabad International Airport Ltd (herein after referred to as 
+GHIAL) and the computer resources of their associated dependencies, to be protected systems for the 
+purposes of the said Act, namely: - 
+
+
+a) Airfield Ground Lighting; 
+
+b) Airport Operation Control Centre; 
+c) Airport Operations Database; 
+
+d) Access Control Systems; 
+
+e) Baggage Handling Systems; 
+
+
+f) Common Use Terminal Equipment / Common Use Passenger Processing Systems / 
+Common Use Self Services; 
+
+
+g) Closed Circuit Television Monitoring System; and 
+h) Master Clock System. 
+
+
+2. Further in exercise of the powers conferred by sub-section (2) of the section 70 of the said Act, the 
+Central Government hereby authorises the following personnel to access the protected systems, namely: - 
+
+
+(a) any designated employee of the GHIAL authorised in writing by the GHIAL to access the 
+protected system; 
+
+
+(b) any team member of contractual managed service provider or third-party vendor who have 
+been authorised in writing by the GHIAL for need-based access; and 
+
+
+(c) any consultant, regulator, government official, auditor and stakeholder authorised in writing 
+by the GHIAL on case-to-case basis. 
+
+
+3. This notification shall come into force on the date of its publication in the Official Gazette. 
+[No. AA-14/2/2025-CSD] 
+SAVITA UTREJA, Scientist G 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. 
+
+AMIT KUMAR Digtaly signed by AMT KUMAR 
+
+JAISWAL 0807152454 40830 
+
+
