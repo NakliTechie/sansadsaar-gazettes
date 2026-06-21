@@ -1,0 +1,1341 @@
+रजिस्ट्री te डी० एल० -(एन)04/0007/2003--25 REGISTERED NO. DL—(N)04/0007/2003—25 
+
+
+प्यारत 
+The Gazette of Gudia 
+
+
+Ot. GH. -S7. Wet. -37.-22082025-26565 
+CG-DL-E-22082025-26565 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग वा — खण्ड 2 
+PART II — Section 2 
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+We ॥7] नई दिल्‍ली, बुधवार, अगस्त 20, 2025/श्रावण 29, 947 (शक) 
+No. 77] NEW DELHI, WEDNESDAY, AUGUST 20, 2025/SHRAVANA 29, 947 (Saka) 
+
+
+इस भाग में भिन्‍न पृष्ठ संख्या दी जाती है जिससे कि यह अलग संकलन के रूप में रखा जा सके। 
+
+
+Separate paging is given to this Part in order that it may be filed as a separate compilation. 
+
+
+LOK SABHA 
+
+
+The following Bills were introduced in Lok Sabha on 20th August, 2025:— 
+
+
+BILL No. 0 OF 2025 
+
+
+A Bill to promote and regulate the online gaming sector including e-sports, educational 
+games and social gaming; to provide for the appointment of an Authority for 
+coordinated policy support, strategic development and regulatory oversight 
+of the sector; to prohibit the offering, operation, facilitation, advertisement, 
+promotion and participation in online money games through any computer 
+resource, mobile device or the internet, particularly where such activities 
+operate across State borders or from foreign jurisdictions; to protect 
+individuals, especially youth and vulnerable populations, from the adverse 
+social, economic, psychological and privacy-related impacts of such games; 
+to ensure the responsible use of digital technologies; to maintain public order 
+and protect public health; to safeguard the integrity of financial systems and 
+the security and sovereignty of the State; to establish a uniform, national-level 
+legal framework in the public interest; and for matters connected therewith or 
+incidental thereto. 
+
+
+WHEREAS the online gaming sector has rapidly evolved into one of the most 
+dynamic and fastest-growing segments of the digital and creative economy, offering 
+significant opportunities for innovation, cognitive development, employment 
+generation, technological advancement and global competitiveness; 
+
+
+2 THE GAZETTE OF INDIA EXTRAORDINARY [Part H— 
+
+
+AND WHEREAS India possesses a large and growing pool of young 
+professionals with technological capabilities and rapidly expanding domestic 
+market, which together enable the country to assume a leadership role in the global 
+online gaming value chain; 
+
+
+AND WHEREAS the online gaming ecosystem comprises diverse segments, 
+including e-sports, casual and social games educational games and online money 
+games, and is currently operating in the absence of a dedicated institutional and legal 
+framework necessary for strategic coordination, capacity building, common 
+infrastructure, research and responsible innovation; 
+
+
+AND WHEREAS the lack of a coherent and enabling legal framework has 
+hindered the sector’s structured development and the promotion of responsible 
+gaming practices, requiring urgent policy intervention and support mechanisms; 
+
+
+AND WHEREAS the parallel proliferation of online money games accessible 
+through mobile phones, computers and the internet, and offering monetary returns 
+against user deposits has led to serious social, financial, psychological and public 
+health harms, particularly among young individuals and _ economically 
+disadvantaged groups; 
+
+
+AND WHEREAS such games often use manipulative design features, addictive 
+algorithms, bots and undisclosed agents, undermining fairness, transparency and 
+user protection, while promoting compulsive behaviour leading to financial ruin; 
+
+
+AND WHEREAS platforms offering online gaming system are often aggressively 
+marketed through pervasive advertising campaigns, including celebrity and 
+influencer endorsements, thereby amplifying their reach and impact especially 
+among the youth and vulnerable groups; 
+
+
+AND WHEREAS the unchecked expansion of online money gaming services has 
+been linked to unlawful activities including financial fraud, money-laundering, tax 
+evasion, and in some cases, the financing of terrorism, thereby posing threats to 
+national security, public order and the integrity of the State; 
+
+
+AND WHEREAS considering the deleterious and negative impact of online 
+money games on the individuals, families, society and the nation and given the 
+technical aspects including the very nature of the electronic medium used for online 
+money games, the algorithms applied and the national and transnational networks 
+involved therein; 
+
+
+AND WHEREAS many such services operate from offshore jurisdictions, 
+bypassing domestic laws, undermining state-level regulations, and presenting 
+significant enforcement challenges in terms of extra-territorial jurisdiction and 
+inter-State inconsistencies; 
+
+
+AND WHEREAS it is expedient in the public interest for the Union Government 
+to assume legislative competence over the online gaming sector to ensure the 
+creation of a secure, structured and innovation-friendly digital environment, while 
+addressing the associated risks to public health, consumer safety, public morality 
+and financial sovereignty; 
+
+
+AND WHEREAS it is necessary to clearly delineate and categorise the various 
+forms of online games and to provide a tailored legal framework to govern each 
+sub-sector of the industry appropriately; 
+
+
+BE it enacted by Parliament in the Seventy-sixth Year of the Republic of India 
+
+
+as follows:— 
+CHAPTER I 
+PRELIMINARY 
+2226४ हा fea ) This Act may be called the Promotion and Regulation of Online Gaming 
+
+
+commencement. 
+
+
+35 of 209. 
+
+
+25 of 2025. 
+
+
+Sec. 2] 
+
+
+THE GAZETTE OF INDIA EXTRAORDINARY 3 
+
+
+(2) It extends to the whole of India and also applies to online money gaming 
+
+
+service offered within the territory of India or operated from outside the territory of 
+India. 
+
+
+(3) It shall come into force on such date as the Central Government may, by 
+
+
+notification in the Official Gazette, appoint. 
+
+
+2. (J) In this Act, unless the context otherwise requires,— 
+
+
+(a) “advertisement” shall have the meaning as assigned to it in the 
+Consumer Protection Act, 209; 
+
+
+(6) “Authority” means an Authority constituted under section 8; 
+(c) “e-sport” means an online game which— 
+(i) is played as part of multi-sports events; 
+
+
+(ii) involves organised competitive events between individuals or 
+teams, conducted in multiplayer formats governed by predefined rules; 
+
+
+(iii) is duly recognised under the National Sports Governance 
+Act, 2025, and registered with the Authority or agency under section 3; 
+
+
+(iv) has outcome determined solely by factors such as physical 
+dexterity, mental agility, strategic thinking or other similar skills of users 
+as players; 
+
+
+(v) may include payment of registration or participation fees solely 
+for the purpose of entering the competition or covering administrative 
+costs and may include performance-based prize money by the 
+player; and 
+
+
+(vi) shall not involve the placing of bets, wagers or any other stakes 
+by any person, whether or not such person is a participant, including any 
+winning out of such bets, wagers or any other stakes; 
+
+
+(d) “internet” means the combination of computer facilities and 
+electromagnetic transmission media, and related equipment and software, 
+comprising the interconnected worldwide network of computer networks that 
+transmits information based on a protocol for controlling such transmission; 
+
+
+(e) “notification” means a notification published in the Official Gazette 
+and the term “notify” shall be construed accordingly; 
+
+
+(f) “online game” means any game, which is played on an electronic or 
+a digital device and is managed and operated as a software through the internet 
+or any other kind of technology facilitating electronic communication; 
+
+
+(g) “online money game” means an online game, irrespective of whether 
+such game is based on skill, chance, or both, played by a user by paying fees, 
+depositing money or other stakes in expectation of winning which entails 
+monetary and other enrichment in return of money or other stakes; but shall 
+not include any e-sports; 
+
+
+(A) “online money gaming service” means a service offered by a person 
+for entering or playing the online money game; 
+
+
+(7) “online social game” means an online game which— 
+
+
+(i) does not involve staking of money or other stakes or 
+participation with the expectation of winning by way of monetary gain 
+in return of money or other stakes; 
+
+
+Definitions. 
+
+
+Recognition and 
+promotion of 
+e-sport. 
+
+
+THE GAZETTE OF INDIA EXTRAORDINARY [Part H— 
+
+
+(ii) may allow access through payment of a subscription fee or 
+one-time access fee, provided that such payment is not in the nature of a 
+stake or wager; 
+
+
+(iii) is offered solely for entertainment, recreation or 
+skill-development purposes; and 
+
+
+(iv) is not an online money game or e-sport; 
+
+
+(j) “other stakes” means anything recognised as equivalent or 
+convertible to money and includes credits, coins, token or objects or any other 
+similar thing, by whatever name called and whether it is real or virtual, which 
+is purchased by paying money directly or by indirect means or as part of, or in 
+relation to, an online game; 
+
+
+(k) “person” includes— 
+
+(7) an individual; 
+
+(ii) a Hindu undivided family; 
+
+(iii) a company; 
+
+(iv) a firm; 
+
+(v) an association of persons or a body of individuals, whether 
+incorporated or not; 
+
+(vi) the State; and 
+
+(vii) every artificial juristic person, not falling within any of the 
+preceding sub-clauses; 
+(J) “prescribed” means prescribed by rules made under this Act; 
+
+
+(m) “user” means any person who accesses or avails online game. 
+
+
+(2) Words and expressions used but not defined in this Act but defined in the 
+Information Technology Act, 2000 and rules made thereunder shall have the same 
+meaning as respectively assigned to them in that Act and the said rules. 
+
+
+CHAPTER II 
+DEVELOPMENT AND RECOGNITION 
+3. (7) The Central Government shall take steps as it considers necessary to 
+
+
+recognise and register e-sports with the Authority or agency, as the case may be, as 
+a legitimate form of competitive sport in India and to promote and develop e-sports. 
+
+
+(2) Without prejudice to the generality of sub-section (/), such steps may 
+include— 
+
+
+(a) formation of guidelines and standards for the organisation and 
+conduct of e-sports events; 
+
+
+(6) establishment of training academies, research centres and other 
+institutions dedicated to advancement of e-sports; 
+
+
+(c) introduction of incentive schemes, awareness campaigns and public 
+outreach programmes to encourage innovation and establishment of new 
+enterprises to create e-sport technology platforms; 
+
+
+(d) coordination with State Governments and recognised sporting 
+federations for integration of e-sports within broader sporting policy 
+initiatives; and 
+
+(e) such other measures which are necessary to promote the sector, as 
+may be prescribed. 
+
+
+2] of 2000. 
+
+
+Sec. 2] 
+
+
+THE GAZETTE OF INDIA EXTRAORDINARY 5 
+
+
+4. (/) The Central Government shall take steps as it considers necessary to 
+recognise, categorise and register online social games with the Authority or agency, 
+as the case may be, and facilitate the development and availability of online social 
+games for recreational and educational purposes. 
+
+
+(2) Without prejudice to the generality of sub-section (/), such steps may 
+include— 
+
+
+(a) creation of mechanism for the registration of online social games; 
+
+
+(b) creation of platforms or programmes to support the development and 
+distribution of online social games; 
+
+
+(c) supporting initiatives aimed at increasing public access to safe and 
+age-appropriate social gaming content; 
+
+
+(d) undertaking awareness programmes to highlight the positive use of 
+social games for recreation, skill-development and digital literacy; 
+
+
+(e) coordination with State Governments and educational or recreational 
+institutions for promotion of social gaming as part of broader digital 
+engagement strategies; and 
+
+
+(f) such other measures which are necessary to promote the sector, as 
+may be prescribed. 
+
+
+CHAPTER III 
+PROHIBITION 
+
+
+5. No person shall offer, aid, abet, induce or otherwise indulge or engage in 
+the offering of online money game and online money gaming service. 
+
+
+6. No person shall make, cause to be made, aid, abet, induce, or otherwise be 
+involved in the making or causing to be made any advertisement, in any media 
+including electronic means of communication, which directly or indirectly promotes 
+or induces any person to play any online money game or indulge in any activity 
+promoting online money gaming. 
+
+
+7. No bank, financial institution, or any other person facilitating financial 
+transactions or authorisation of funds shall engage in, permit, aid, abet, induce or 
+otherwise facilitate any transaction or authorisation of funds towards payment for 
+any online money gaming service. 
+
+
+CHAPTER IV 
+AUTHORITY ON ONLINE GAMING 
+8. (/) The Central Government may, by notification, constitute an Authority 
+consisting of a Chairperson and such number of other Members or designate any 
+
+
+existing Authority or Authorities or any agency to assist it in performing any of the 
+functions under this Act. 
+
+
+(2) The Central Government may vest the Authority or agency, as the case 
+may be, with all or any of the following powers, namely:— 
+
+
+(a) to determine, on the receipt of an application from any person 
+offering an online game or on suo motu basis, whether a particular online game 
+is an online money game or otherwise, after making such inquiry as it deems 
+necessary; 
+
+
+(b) to recognise, categorise and register online games in such manner as 
+may be prescribed; and 
+
+
+(c) such other powers and functions as may be prescribed. 
+
+
+Recognition and 
+development of 
+online social 
+games. 
+
+
+Prohibition of 
+online money 
+game and online 
+money gaming 
+service. 
+Prohibition of 
+advertisement 
+related to online 
+money game. 
+
+
+Prohibition of 
+transfer of fund. 
+
+
+Establishment of 
+an Authority 
+
+
+6 THE GAZETTE OF INDIA EXTRAORDINARY [Part J— 
+
+
+(3) Every person offering, organising or facilitating any online game shall 
+comply with the directions, orders, guidelines or codes of practice issued by the 
+Central Government or the Authority or agency in discharge of their functions under 
+this Act. 
+
+
+(4) The Central Government may prescribe the following, namely:— 
+
+
+(a) composition and qualification for appointment of Chairperson and 
+Members; 
+
+
+(b) salary, allowances payable to them and their term of office; 
+
+
+(c) disqualification for appointment and continuation as Chairperson and 
+Members; 
+
+
+(d) resignation by Members and filling of vacancy; 
+(e) proceedings of the Authority; 
+
+(f) officers and employees of the Authority; 
+
+(g) powers to be exercised by the Chairperson; 
+
+
+(A) handling of complaints and grievances related to online games 
+including manner of inquiry; and 
+
+
+(i) any other matter to further the objective of this Act. 
+
+
+(5) The Authority or agency, as the case may be, may respond to the 
+complaints relating to online games which are prejudicial to the interests of users, 
+forwarded either in writing or in electronic mode. 
+
+
+CHAPTER V 
+OFFENCES AND PENALTIES 
+Penalty for 9. (/) Any person who offers online money gaming service in contravention 
+SeenON: of section 5 shall be punished with imprisonment for a term which may extend to 
+
+
+three years or with fine which may extend to one crore rupees or with both. 
+
+
+(2) Any person who makes or causes to make advertisement in any media, in 
+contravention of section 6, shall be punished with imprisonment for a term which 
+may extend to two years or with fine which may extend to fifty lakh rupees or with 
+both. 
+
+
+(3) Any person who engages in any transaction or authorisation of funds in 
+contravention of section 7 shall be punished with imprisonment for a term which 
+may extend to three years or with fine which may extend to one crore rupees or with 
+both. 
+
+
+(4) If any person convicted of an offence under sub-section (/) or 
+sub-section (3) is again convicted of an offence under the same provision, he shall 
+be punished with imprisonment for the second and for every subsequent offence for 
+a term which shall not be less than three years, but may extend to five years and 
+shall also be liable to fine which shall not be less than one crore rupees, but may 
+extend to two crore rupees. 
+
+
+(5) If any person convicted of an offence under sub-section (2) is again 
+convicted of an offence under the same provision, he shall be punished with 
+imprisonment for the second and for every subsequent offence for a term which 
+shall not be less than two years, but may extend to three years and shall also be liable 
+to fine which shall not be less than fifty lakh rupees, but may extend to one crore 
+rupees. 
+
+
+46 of 2023. 
+
+
+2] of 2000. 
+
+
+Sec. 2] THE GAZETTE OF INDIA EXTRAORDINARY 7 
+
+
+0. Notwithstanding anything contained in the Bharatiya Nagarik Suraksha 
+Sanhita, 2023, offences under section 5 and section 7 shall be cognizable and 
+non-bailable. 
+
+
+Il. (J) Where an offence has been committed by a company, every person 
+who, at the time the offence was committed was in charge of, and was responsible 
+to, the company for the conduct of that part of the business of the company as well 
+as the company, shall be liable to be proceeded against and punished accordingly. 
+
+
+(2) Nothing contained in sub-section (/) shall render any such person liable to 
+be proceeded against and punished accordingly under this Act, if he proves that the 
+offence was committed without his knowledge or that he had exercised all due 
+diligence to prevent the commission of such offence. 
+
+
+(3) Notwithstanding anything contained in sub-section (J), where an offence 
+under this Act has been committed by a company and it is proved that the offence 
+has been committed with the consent or connivance of, or is attributable to any 
+neglect on the part of any director, manager, secretary or other officer of the 
+company, such director, manager, secretary or other officer shall be deemed to be 
+guilty of the offence and shall be liable to be proceeded against and punished 
+accordingly: 
+
+
+Provided that nothing in this sub-section shall hold an independent director or 
+a non-executive director of a company who is not involved in the actual decision 
+making, liable for such offence. 
+
+
+Explanation—F or the purposes of this section, the expressions— 
+(a) “company” means a body corporate, and includes— 
+(i) a firm; and 
+
+
+(ii) an association of persons or a body of individuals whether 
+incorporated or not; and 
+
+
+(0) “director”, in relation to— 
+(i) a firm, means a partner in the firm; 
+
+
+(ii) any association of persons or a body of individuals, means any 
+member controlling its affairs thereof. 
+
+
+2. (J) Any person who fails to comply with any direction or order issued by 
+the Central Government or the Authority or agency under sub-section (3) of 
+section 8 shall be liable to penalty which may extend to ten lakh rupees or may 
+include suspension or cancellation of registration, and prohibition from offering, 
+facilitating or promoting such games for such period as may be determined by the 
+Central Government or the Authority. 
+
+
+(2) No action under sub-section (/) shall be taken without giving an 
+opportunity of being heard. 
+
+
+CHAPTER VI 
+MISCELLANEOUS 
+
+
+3. Every person shall comply with any direction issued by the Central 
+Government in relation to online money gaming services. 
+
+
+4. In case of failure to comply with the provisions of section 5, section 6 and 
+section 7, notwithstanding anything contained in this Act or in section 69A of the 
+Information Technology Act, 2000, any information generated, transmitted, 
+received or hosted in any computer resource in relation to online money gaming 
+service shall be liable to be blocked for access by the public in such manner as 
+provided in that Act. 
+
+
+Cognizance of 
+offences. 
+
+
+Offences by 
+companies. 
+
+
+Non-compliance 
+by any other 
+person. 
+
+
+Compliance with 
+direction of 
+Central 
+Government. 
+Blocking of 
+online money 
+gaming service. 
+
+
+Power to 
+investigate 
+offences. 
+
+
+Search and 
+seizure of 
+
+
+property. 
+
+
+Protection of 
+action taken in 
+good faith. 
+
+
+Act not in 
+derogation of 
+any other law. 
+
+
+Power of Central 
+Government to 
+make rules. 
+
+
+8 THE GAZETTE OF INDIA EXTRAORDINARY [Part H— 
+
+
+5. Notwithstanding anything contained in this Act or in any other law for the 
+time being in force, the Central Government may, by notification, authorise any 
+officer or class of officers of the Central Government, Authority or State 
+Government to exercise the powers of investigation in respect of offences under 
+this Act. 
+
+
+6. (7) Notwithstanding anything contained in the Bharatiya Nagarik Suraksha 
+Sanhita, 2023, any officer authorised under section |5 may enter any place, whether 
+physical or digital, and search and arrest without warrant any person found therein 
+who is reasonably suspected of having committed or of committing or of being 
+about to commit any offence under this Act. 
+
+
+(2) Where any person is arrested under sub-section (/) by an officer other than 
+a police officer as referred to in sub-section (/), such officer shall, without 
+unnecessary delay, take or send the person arrested before a magistrate having 
+jurisdiction in the case or before the officer-in-charge of a police station. 
+
+
+(3) The provisions of the Bharatiya Nagarik Suraksha Sanhita, 2023 shall, 
+subject to the provisions of this section, apply, so far as may be, in relation to any 
+entry, search or arrest made under this section. 
+
+
+Explanation —F or the purposes of this section, “any place” shall include any 
+premises, building, vehicle, computer resource, virtual digital space, electronic 
+records or electronic storage device and the officer may, if necessary, gain access to 
+such computer resource, virtual digital space, electronic records or electronic 
+storage device by overriding any access control or security code, where such code 
+thereof is not available. 
+
+
+7. No suit, prosecution or other legal proceedings shall lie against the Central 
+Government or the Authority or any officer of the Central Government or any 
+member, officer or other employees of the Authority for anything which is done in 
+good faith or intended to be done under this Act or the rules made thereunder. 
+
+
+8. The provisions of this Act shall be in addition to, and not in derogation of 
+the provisions of any other law for the time being in force and in case of any 
+inconsistency of this Act with any other Act, the provisions of this Act shall, to the 
+extent of such inconsistency, have overriding effect over any such Act. 
+
+
+9. (/) The Central Government may, by notification, make rules to carry out 
+the provisions of this Act. 
+
+
+(2) Without prejudice to the generality of the foregoing powers, such rules 
+may provide for all or any of the following matters, namely:— 
+
+
+(a) such other measures as may be necessary to promote the sector 
+relating to e-sports under clause (e) of sub-section (2) of section 3; 
+
+
+(6) such other measures as may be necessary to promote the sector 
+relating to online social gaming under clause () of sub-section (2) of 
+section 4; 
+
+
+(c) the manner of recognising, categorising and registering online games 
+under clause (b) of sub-section (2) of section 8; 
+
+
+(d) such other powers and functions relating to powers of the Authority 
+or agency under clause (c) of sub-section (2) of section 8; 
+
+
+(e) any other matter which is required to be, or may be, prescribed, or in 
+respect of which provision is to be or may be made by rules. 
+
+
+46 of 2023. 
+
+
+46 of 2023. 
+
+
+Sec. 2] THE GAZETTE OF INDIA EXTRAORDINARY 
+
+
+(3) Every rule made by the Central Government shall be laid, as soon as may 
+be after it is made, before each House of Parliament, while it is in session, for a total 
+period of thirty days which may be comprised in one session or in two or more 
+successive sessions, and if, before the expiry of the session immediately following 
+the session or the successive sessions aforesaid, both Houses agree in making any 
+modification in the rule, or both Houses agree that the rule should not be made, the 
+rule shall thereafter have effect only in such modified form or be of no effect, as the 
+case may be; so, however, that any such modification or annulment shall be without 
+prejudice to the validity of anything previously done under that rule. 
+
+
+20. (/) Ifany difficulty arises in giving effect to any provisions of this Act, the 
+Central Government may, by order published in the Official Gazette, make such 
+provisions not inconsistent with the provisions of this Act as may be necessary or 
+expedient for removing the difficulty. 
+
+
+(2) No order under sub-section (/) shall be made after the expiry of a period 
+of two years from the date of the commencement of this Act. 
+
+
+(3) Every order made under this section shall, as soon as may be after it is 
+made, be laid before each House of Parliament. 
+
+
+Power to remove 
+difficulties. 
+
+
+0 THE GAZETTE OF INDIA EXTRAORDINARY [Part H— 
+
+
+STATEMENT OF OBJECT AND REASONS 
+The unprecedented expansion of information and communication 
+technologies in recent years has resulted in the emergence of new forms of digital 
+entertainment and competitive participation, most prominently in the form of online 
+gaming. These activities have become an important means of engagement for the 
+youth of the country. 
+
+
+2. The online gaming sector has emerged as one of the fastest-growing 
+components of the creative economy, contributing significantly to innovation, 
+employment generation and export earnings. India possesses a large pool of skilled 
+young professionals, strong technological capabilities and a rapidly growing 
+domestic market, which together provide an opportunity for the country to assume 
+a leadership role in the global value chain of online gaming. 
+
+
+3. At present, the online gaming sector ecosystem has multiple segments. 
+These include e-sports; online social games including casual games; and education 
+games; and online money games. The sector operates without a dedicated 
+institutional mechanism for strategic support, co-ordination and capacity building. 
+The absence of an enabling legal framework has adversely impacted the sector’s 
+assured growth, development of common infrastructure, provision of specialised 
+training and research in emerging technologies in the sector. Therefore, there is an 
+urgent need to establish a structured mechanism for policy formulation, stakeholder 
+engagement and facilitation of development of the sector in a transparent and 
+coherent manner. 
+
+
+4. Parallelly, the unchecked and widespread proliferation of online money 
+games which readily accessible through mobile devices, computers, and the internet, 
+and offering monetary returns in exchange for deposited funds has led to grave 
+social, economic, and psychological consequences across the country. These 
+platforms often promote compulsive and addictive behaviour, resulting in financial 
+ruin, mental health disorders, and increasing incidents of fraud and exploitation. 
+
+
+5. A significant number of young persons and economically vulnerable 
+individuals have been adversely impacted by the seamless availability of these 
+games, driven by the low cost of internet access, the ubiquity of mobile and 
+computing devices, and the ease of app-based participation. This problem is further 
+exacerbated by aggressive promotional campaigns, including the use of celebrity 
+endorsements, which enhance the appeal and reach of such platforms. 
+
+
+6. The algorithms used in online money games are often opaque and may be 
+designed to manipulate user engagement surreptitiously. These games can also be 
+operated by bots or undisclosed agents, undermining fairness and transparency. 
+Reports and studies, both national and international, have highlighted the strong 
+association between such games and compulsive behaviours, psychological distress, 
+financial hardship, and the disruption of family and social life, thereby posing a 
+serious public health risk. 
+
+
+7. Beyond the individual, the proliferation of online money games had 
+deleterious affect on families, society, and the economy. In certain cases, these 
+platforms have been linked to illegal activities including money-laundering, 
+financial fraud, the financing of terrorism, and use as messaging platform for 
+terrorist and terrorist organisations, thereby affecting the security and sovereignty 
+of the State. 
+
+
+8. A plethora of online money gaming service providers operating from 
+offshore locations often circumvent state-specific regulations, evade taxation, and 
+create enforcement challenges pertaining to extra-territorial concerns for domestic 
+authorities and has raised complex challenges with respect to user safety, consumer 
+protection, cross-border operations, and inter-State regulatory inconsistencies. 
+
+
+Sec. 2] THE GAZETTE OF INDIA EXTRAORDINARY I] 
+
+
+9. Considering the deleterious and negative impact of online money games on 
+the individuals, families, society and the nation as outlined in the foregoing 
+paragraphs and given the technical aspects including the very nature of the 
+electronic medium used for online money games, the algorithms applied and the 
+national and transnational networks involved, it is prudent and practical in the 
+interest of general public to completely prohibit the activity of online money 
+gaming, rather than attempts to regulation. 
+
+
+l0. In light of the scope of the development of online gaming sector on one 
+hand, it requires support and facilitation for an upright growth and on the other hand 
+due to increasing social, financial, and regulatory risks posed to the interest of the 
+general public by the online money gaming sector, including those relating to 
+consumer protection, public health, public order, and national security, it is 
+expedient in the public interest for the Union Government to assume control over 
+this emerging industry. 
+
+
+ll. There is a need to clearly delineate and categorise the different types of 
+online games that are being offered and also to ensure that an appropriate enabling 
+and legal framework is created to address the issues and concerns of each of the 
+sub-sectors of online gaming. 
+
+
+2. Accordingly, the Bill proposes to establish a robust legal framework, not 
+only prohibit online money gaming in the country but also to regulate, promote and 
+encourage the sector for innovation and economic growth and ensure a developed, 
+safe and responsible digital environment for all citizens. 
+
+
+NEw DELHI; ASHWINI VAISHNAW. 
+The \9th August, 2025. 
+
+
+PRESIDENT’S RECOMMENDATION UNDER ARTICLE 7 OF THE 
+CONSTITUTION OF INDIA 
+
+
+[Letter No. CLDG/3/2025-CL and DG dated 49 August, 2025 from 
+Shri Ashwini Vaishnaw, Minister of Railways, Information & Broadcasting 
+and Electronics & Information Technology to the Secretary General, 
+Lok Sabha] 
+
+
+The President, having been informed of the subject matter of “the Promotion 
+and Regulation of Online Gaming Bill, 2025”, recommends the introduction of the 
+Bill in Lok Sabha under article 7() of the Constitution and recommends to 
+Lok Sabha the consideration of the Bill under article 7(3) of the Constitution. 
+
+
+2 THE GAZETTE OF INDIA EXTRAORDINARY [Part H— 
+
+
+FINANCIAL MEMORANDUM 
+
+
+Clause 8 of the Bill provides for the establishment of an Authority to regulate 
+online gaming. The Bill if enacted would involve about fifty crore rupees towards 
+initial capital expenditure and twenty crore rupees annually towards recurring 
+expenditure from the Consolidated Fund of India. The expenditure is not 
+quantifiable at this stage as the structure of the Authority and other aspects are not 
+final. 
+
+
+Sec. 2] THE GAZETTE OF INDIA EXTRAORDINARY 3 
+
+
+MEMORANDUM REGARDING DELEGATED LEGISLATION 
+
+
+Clause 9 of the Bill seeks to empower the Central Government to make rules 
+to carry out the provisions of the Bill. Sub-clause (2) of the said clause specifies the 
+matter in respect of which rules may be made. These matters include—(a) such other 
+measures as may be necessary to promote the sector relating to e-sports under 
+clause (e) of sub-section (2) of section 3; (b) such other measures as may be 
+necessary to promote the sector relating to online social gaming under clause (f) of 
+sub-section (2) of section 4; (c) the manner of recognising, categorising and 
+registering online games under clause (b) of sub-section (2) of section 8; (व) such 
+other powers and functions relating to powers of the Authority or agency under 
+clause (c) of sub-section (2) of section 8; and (e) any other matter which is required 
+to be, or may be, prescribed, or in respect of which provision is to be or may be 
+made by rules. 
+
+
+2. The matters in respect of which the rules may be made are matters of 
+procedure and administrative details, and as such it is not practicable to provide for 
+the same in the Bill itself. The delegation of legislative power is, therefore, of a 
+normal character. 
+
+
+l4 THE GAZETTE OF INDIA EXTRAORDINARY [Part H— 
+
+
+BILL No. Il] OF 2025 
+
+
+A Bill further to amend the Constitution of India. 
+
+
+BE it enacted by Parliament in the Seventy-sixth Year of the Republic of India 
+as follows:— 
+
+
+Short title and l. (J) This Act may be called the Constitution (One Hundred and Thirtieth 
+commencement. Amendment) Act 2025. 
+
+
+(2) It shall come into force on such date as the Central Government may, by 
+notification in the Official Gazette, appoint. 
+
+
+Sec. 2] 
+
+
+THE GAZETTE OF INDIA EXTRAORDINARY I5 
+
+
+2. In article 75 of the Constitution, after clause (5), the following clause shall 
+
+
+be inserted, namely:— 
+
+
+“(5A) A Minister, who for any period of thirty consecutive days during 
+holding the office as such, is arrested and detained in custody, on allegation of 
+committing an offence under any law for the time being in force, which is 
+punishable with imprisonment for a term which may extend to five years or 
+more, shall be removed from his office by the President on the advice of the 
+Prime Minister to be tendered by the thirty-first day, after being taken in such 
+custody: 
+
+
+Provided that if the advice of the Prime Minister, for the removal of such 
+Minister is not tendered to the President by the thirty-first day, he shall cease 
+to be a Minister, with effect from the day falling thereafter: 
+
+
+Provided further that in case of the Prime Minister, who for any period 
+of thirty consecutive days during holding the office as such, is arrested and 
+detained in custody, on allegation of committing an offence under any law for 
+the time being in force, which is punishable with imprisonment for a term 
+which may extend to five years or more, shall tender his resignation by the 
+thirty-first day after such arrest and detention, and if he does not tender his 
+resignation, he shall cease to be the Prime Minister with effect from the day 
+falling thereafter: 
+
+
+Provided also that nothing in this clause shall prevent such Prime 
+Minister or Minister from being subsequently appointed as the Prime Minister 
+or a Minister, by the President, on his release from custody, as per clause ().”. 
+
+
+3. Inarticle 64 of the Constitution, after clause (4), the following clause shall 
+
+
+be inserted, namely:— 
+
+
+“(4A) A Minister, who for any period of thirty consecutive days during 
+holding the office as such, is arrested and detained in custody, on allegation of 
+committing an offence under any law for the time being in force, which is 
+punishable with imprisonment for a term which may extend to five years or more, 
+shall be removed from his office by the Governor on the advice of the Chief 
+Minister to be tendered by the thirty-first day, after being taken in such custody: 
+
+
+Provided that if the advice of the Chief Minister, for the removal of such 
+Minister is not tendered to the Governor by the thirty-first day, he shall cease 
+to be a Minister, with effect from the day falling thereafter: 
+
+
+Provided further that in case of a Chief Minister, who for any period of thirty 
+consecutive days during holding the office as such, is arrested and detained in 
+custody, on allegation of committing an offence under any law for the time being 
+in force, which is punishable with imprisonment for a term which may extend to 
+five years or more, shall tender his resignation by the thirty-first day after such 
+arrest and detention, and if he does not tender his resignation, he shall cease to be 
+the Chief Minister, with effect from the day falling thereafter: 
+
+
+Provided also that nothing in this clause shall prevent such Chief 
+Minister or Minister from being subsequently appointed as the Chief Minister 
+or a Minister, by the Governor, on his release from custody, as per clause ().”. 
+
+
+4. In article 239AA of the Constitution, after clause (5), the following clause 
+
+
+shall be inserted, namely:— 
+
+
+“(5A) Subject to the provisions of this Constitution, if a Minister, who 
+for any period of thirty consecutive days during holding the office as such, is 
+arrested and detained in custody, on allegation of committing an offence under 
+any law for the time being in force, which is punishable with imprisonment 
+for a term which may extend to five years or more, shall be removed from his 
+office, by the President on the advice of the Chief Minister to be tendered by 
+the thirty-first day, after being taken in such custody: 
+
+
+Amendment of 
+article 75. 
+
+
+Amendment of 
+article 64. 
+
+
+Amendment of 
+article 239AA. 
+
+
+THE GAZETTE OF INDIA EXTRAORDINARY [Part J— 
+
+
+Provided that if the advice of the Chief Minister for removal of such 
+Minister is not tendered to the President by the thirty-first day, he shall cease 
+to be a Minister, with effect from the day falling thereafter: 
+
+
+Provided further that in case of the Chief Minister, who for any period 
+of thirty consecutive days during holding the office as such, is arrested and 
+detained in custody, on allegation of committing an offence under any law for 
+the time being in force, which is punishable with imprisonment for a term 
+which may extend to five years or more, shall tender his resignation by the 
+thirty-first day after such arrest and detention, and if he does not tender his 
+resignation, he shall cease to be the Chief Minister, with effect from the day 
+falling thereafter: 
+
+
+Provided also that nothing in this clause shall prevent such Chief 
+Minister or Minister from being subsequently appointed as the Chief Minister 
+or a Minister, by the President, on his release from custody, as per clause (5).”. 
+
+
+Sec. 2] THE GAZETTE OF INDIA EXTRAORDINARY 7 
+
+
+STATEMENT OF OBJECTS AND REASONS 
+The elected representatives represent hopes and aspirations of the people of 
+
+
+India. It is expected that they rise above political interests and act only in the public 
+interest and for the welfare of people. 
+
+
+2. It is expected that the character and conduct of Ministers holding the office 
+should be beyond any ray of suspicion. 
+
+
+3. A Minister, who is facing allegation of serious criminal offences, arrested 
+and detained in custody, may thwart or hinder the canons of constitutional morality 
+and principles of good governance and eventually diminish the constitutional trust 
+reposed by people in him. 
+
+
+4. There is however, no provision under the Constitution for removal of a 
+Minister who is arrested and detained in custody on account of serious criminal 
+charges. 
+
+
+5. In view of the above, there is a need to amend articles 75, 64 and 239AA 
+of the Constitution, for providing legal framework for removal of the Prime Minister 
+or a Minister in the Union Council of Ministers and the Chief Minister or a Minister 
+in the Council of Ministers of States and the National Capital Territory of Delhi in 
+such cases. 
+
+
+6. The Bill seeks to achieve the above objectives. 
+
+
+NEw DELHI; AMIT SHAH. 
+The \9th August, 2025. 
+
+
+8 THE GAZETTE OF INDIA EXTRAORDINARY [Part H— 
+
+
+BILL No. !3 OF 2025 
+
+
+A Bill further to amend the Government of Union Territories Act, |963. 
+
+
+BE it enacted by Parliament in the Seventy-sixth Year of the Republic of India 
+as follows:— 
+
+
+Short title and 
+
+
+l. (J) This Act may be called the Government of Union Territories 
+commencement. 
+
+
+(Amendment) Act, 2025. 
+
+
+(2) It shall come into force on such date as the Central Government may, by 
+notification in the Official Gazette, appoint. 
+
+
+Sec. 2] THE GAZETTE OF INDIA EXTRAORDINARY 9 
+
+
+20 of 963. 2. In section 45 of the Government of Union Territories Act, 963, after pias of 
+sub-section (5), the following sub-section shall be inserted, namely:— ila 
+
+
+“(5A) A Minister, who for any period of thirty consecutive days during 
+holding the office as such, is arrested and detained in custody, on allegation of 
+committing an offence under any law for the time being in force, which is 
+punishable with imprisonment for a term which may extend to five years or 
+more, shall be removed from his office, by the President on the advice of the 
+Chief Minister to be tendered by the thirty-first day, after being taken in such 
+custody: 
+
+
+Provided that if the advice of the Chief Minister, for the removal of such 
+Minister is not tendered to the President by the thirty-first day, he shall cease 
+to be a Minister, with effect from the day falling thereafter: 
+
+
+Provided further that in case of the Chief Minister, who for any period 
+of thirty consecutive days during holding the office as such, is arrested and 
+detained in custody, on allegation of committing an offence under any law for 
+the time being in force, which is punishable with imprisonment for a term 
+which may extend to five years or more, shall tender his resignation by the 
+thirty-first day after such arrest and detention, and if he does not tender his 
+resignation, he shall cease to be the Chief Minister, with effect from the day 
+falling thereafter: 
+
+
+Provided also that nothing in this sub-section shall prevent such 
+Chief Minister or Minister from being subsequently appointed as the 
+Chief Minister or a Minister, by the President, on his release from custody, as 
+per sub-section (/).”. 
+
+
+20 THE GAZETTE OF INDIA EXTRAORDINARY [Part H— 
+
+
+STATEMENT OF OBJECTS AND REASONS 
+The elected representatives represent hopes and aspirations of the people of 
+
+
+India. It is expected that they rise above political interests and act only in the 
+public interest and for the welfare of people. 
+
+
+2. It is expected that the character and conduct of Ministers holding the 
+office should be beyond any ray of suspicion. 
+
+
+3. A Minister, who is facing allegation of serious criminal offences, arrested 
+and detained in custody, may thwart or hinder the canons of constitutional 
+morality and principles of good governance and eventually diminish the 
+constitutional trust reposed by people in him. 
+
+
+4. There is, however, no provision under the Government of Union 
+Territories Act, 963 (20 of 963) for removal of the Chief Minister or a Minister 
+who is arrested and detained in custody on account of serious criminal charges. 
+
+
+5. In view of the above, there is a need to amend section 45 of the 
+Government of Union Territories Act, 963, for providing legal framework for 
+removal of the Chief Minister or a Minister in such cases. 
+
+
+6. The Bill seeks to achieve the above objectives. 
+
+
+New DELHI; AMIT SHAH. 
+The \9th August, 2025. 
+
+
+Sec. 2] THE GAZETTE OF INDIA EXTRAORDINARY 2. 
+
+
+BILL No. 2 OF 2025 
+
+
+A Bill further to amend the Jammu and Kashmir Reorganisation Act, 209. 
+
+
+BE it enacted by Parliament in the Seventy-sixth Year of the Republic of 
+India as follows:— 
+
+
+l. (7) This Act may be called the Jammu and Kashmir Reorganisation Short title and 
+
+
+(Amendment) Act, 2025. aca ea 
+(2) It shall come into force on such date as the Central Government may, by 
+notification in the Official Gazette, appoint. 
+34 of 209. 2. In section 54 of the Jammu and Kashmir Reorganisation Act, 209, after Amendment of 
+
+
+sub-section (5), the following sub-section shall be inserted, namely:— 00048 
+
+
+22 
+
+
+THE GAZETTE OF INDIA EXTRAORDINARY [Part H— 
+
+
+“(5A) A Minister, who for any period of thirty consecutive days during 
+holding the office as such, is arrested and detained in custody, on allegation 
+of committing an offence under any law for the time being in force, which is 
+punishable with imprisonment for a term which may extend to five years or 
+more, shall be removed from his office, by the Lieutenant Governor on the 
+advice of the Chief Minister to be tendered by the thirty-first day, after being 
+taken in such custody: 
+
+
+Provided that if the advice of the Chief Minister, for the removal of 
+such Minister is not tendered to the Lieutenant Governor by the 
+thirty-first day, he shall cease to be a Minister, with effect from the day 
+falling thereafter: 
+
+
+Provided further that in case of the Chief Minister, who for any period 
+of thirty consecutive days during holding the office as such, is arrested and 
+detained in custody, on allegation of committing an offence under any law 
+for the time being in force, which is punishable with imprisonment for a term 
+which may extend to five years or more, shall tender his resignation by the 
+thirty-first day after such arrest and detention, and if he does not tender his 
+resignation, he shall cease to be the Chief Minister, with effect from the day 
+falling thereafter: 
+
+
+Provided also that nothing in this sub-section shall prevent such Chief 
+Minister or Minister from being subsequently appointed as the Chief 
+Minister or a Minister, by the Lieutenant Governor, on his release from 
+custody, as per sub-section (/).”. 
+
+
+Sec. 2] THE GAZETTE OF INDIA EXTRAORDINARY 23 
+
+
+STATEMENT OF OBJECTS AND REASONS 
+The elected representatives represent hopes and aspirations of the people of 
+
+
+India. It is expected that they rise above political interests and act only in the 
+public interest and for the welfare of people. 
+
+
+2. It is expected that the character and conduct of Ministers holding the office 
+should be beyond any ray of suspicion. 
+
+
+3. A Minister, who is facing allegation of serious criminal offences, arrested 
+and detained in custody, may thwart or hinder the canons of constitutional morality 
+and principles of good governance and eventually diminish the constitutional trust 
+reposed by people in him. 
+
+
+4. However, there is no provision under the Jammu and Kashmir 
+Reorganisation Act, 20l9 (34 of 20l9) for removal of the Chief Minister or a 
+Minister who is arrested and detained in custody on account of serious criminal 
+charges. 
+
+
+5. In view of the above, there is a need to amend section 54 of the Jammu 
+and Kashmir Reorganisation Act, 209, for providing legal framework for removal 
+of the Chief Minister or a Minister in such cases. 
+
+
+6. The Bill seeks to achieve the above objectives. 
+
+
+New DELHI; AMIT SHAH. 
+The \9th August, 2025. 
+
+
+UTPAL KUMAR SINGH 
+Secretary General. 
+
+
+UPLOADED BY THE MANAGER, GOVERNMENT OF INDIA PRESS, MINTO ROAD, NEW DELHI-!0002 
+AND PUBLISHED BY THE CONTROLLER OF PUBLICATIONS, DELHI-—!0054. 
+
+
+KSHITIZ 
+MOHAN 
+
+
+MGIPMRND—(67GI(S4)—22-8-2025. 
+
+
