@@ -1,0 +1,96 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+गुारत = राजपत्र 
+
+
+Che Gazette of -ऊवधात 
+
+
+सी.जी.-डी.एल.-अ.-07082025-265273 
+CG-DL-E-07082025-265273 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग तर--खण्ड 3---उप-खण्ड (ii) 
+PART II—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+सं. 357] नई दिल्‍ली, बुधवार, अगस्त 6, 2025/श्रावण 5, 947 
+No. 357] NEW DELHI, WEDNESDAY, AUGUST 6, 2025/SHRAVANA I5, 947 
+
+
+इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 5 अगस्त, 2025 
+
+
+का.आ. 3603(अ).--केंद्रीय सरकार, सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 24) (जिसे इसमें इसके 
+पश्चात्‌ उक्त अधिनियम कहा गया है) की धारा 70 की उप-धारा () और उप-धारा (2) द्वारा प्रदत्त शक्तियों का प्रयोग करते 
+हुए, पंजाब एंड सिंध बैंक की नाजुक सूचना अवसंरचना होने के कारण महत्वपूर्ण बैंककारी समाधान (कोर बैंकिंग 
+सोल्यूशन) और एकीकृत भुगतान इंटरफेस स्विच (यूनिफ़ाइड पेमेंट्स इंटरफेस स्विच) से संबंधित कंप्यूटर संसाधनों एवं 
+उनसे सहयुक्त आश्रितताओं के कंप्यूटर संसाधनों को उक्त अधिनियम के प्रयोजनों के लिए एतद्वारा संरक्षित प्रणाली घोषित 
+करती है और पंजाब एंड सिंध बैंक को लिखित आदेश द्वारा निम्नलिखित व्यक्तियों को निर्दिष्ट करने के लिए प्राधिकृत करती 
+है, जो संरक्षित प्रणालियों तक पहुंच बनाने के लिए प्राधिकृत हैं, अर्थातः- 
+
+
+(क) संरक्षित प्रणाली तक पहुंच बनाने के लिए, पंजाब एंड सिंध बैंक का कोई भी अभिहित कर्मचारी; 
+
+
+(ख) संविदात्मक प्रबंधित सेवा-प्रदाता या तृतीय पक्षकार विक्रेता के दल का कोई सदस्य जिसे आवश्यकता के आधार 
+पर पहुँच प्रदान की जाए; तथा 
+
+
+(ग) मामला दर मामला के आधार पर, कोई परामर्शी, विनियामक, सरकारी पदाधिकारी, संपरीक्षक या पणधारी। 
+2. यह अधिसूचना राजपत्र में इसके प्रकाशन की तिथि से प्रवृत्त होगी। 
+[फा. सं. एए-44/2/2025-सीएसडी] 
+सविता उत्तरेजा, वैज्ञानिक जी 
+
+
+5245 GI/2025 () 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+NOTIFICATION 
+New Delhi, the 5th August, 2025 
+
+
+S.O. 3603(E).—In exercise of the powers conferred by sub-sections () and (2) of section 70 of the 
+Information Technology Act, 2000 (2l of 2000) (hereinafter referred to as the said Act), the Central Government 
+hereby declares the computer resources relating to the Core Banking Solution (CBS) and Unified Payments Interface 
+(UPI) Switch, being Critical Information Infrastructure of the Punjab & Sind Bank, and the computer resources of 
+their associated dependencies, to be protected systems for the purposes of the said Act and authorises the Punjab & 
+Sind Bank, to specify by order in writing, the following persons who are authorised to access the protected systems, 
+namely:— 
+
+
+(a) any designated employee of the Punjab & Sind Bank, to access the protected system; 
+
+
+(b) any team member of contractual managed service provider or third-party vendor, for need-based access; 
+and 
+
+
+(c) any consultant, regulator, Government official, auditor or stakeholder, on case-to-case basis. 
+
+
+2. This notification shall come into force on the date of its publication in the Official Gazette. 
+
+
+[F.No. AA-4/2/2025-CSD] 
+SAVITA UTREIJA, Scientist G 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-l0054.  sanves kumar — 
+
+
+SRIVASTAVA 
+
+
