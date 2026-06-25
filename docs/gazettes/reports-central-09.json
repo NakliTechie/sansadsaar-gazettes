@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-31.247725",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-31",
+      "ugid": "247725",
+      "title": "Extraordinary Gazette of India, 2023-07-31",
+      "ministry": "Cabinet Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "AoB amendment 372 regarding digital media, content, publishers and online advertisements",
+      "gazette_id": "CG-DL-E-31072023-247725",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247725.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-31.247725/247725.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-31.247725",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-31/247725.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-07-29.247891",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-07-29",
+      "ugid": "247891",
+      "title": "Weekly Gazette of India, 2023-07-29",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-07082023-247891",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247891.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-07-29.247891/247891.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-07-29.247891",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-07-29/247891.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2023-07-29.247846",
       "category": "weekly",
       "type_letter": "w",
@@ -57447,52 +57493,6 @@
       "ia_identifier": "in.gazette.central.e.2023-03-31.244833",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-03-31/244833.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-31.244832",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-31",
-      "ugid": "244832",
-      "title": "Extraordinary Gazette of India, 2023-03-31",
-      "ministry": "Ministry of Chemicals and Fertilizers",
-      "department": "Department of Chemicals and Petro Chemicals",
-      "office": "",
-      "subject": "Quality Control Order for Ethylene Vinyl Acetate Coopolymers, Polytehylene Material for Moulding and Extrusion, Polyester Continuous Filament Fully Drawn Yarn, Polyester Partially Oriented Yarn, Polyester Industrial Yarn and 100 Percent Polyester Spun Grey and White Yarn",
-      "gazette_id": "CG-DL-E-31032023-244832",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244832.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-31.244832/244832.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-31.244832",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-31/244832.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-31.244830",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-31",
-      "ugid": "244830",
-      "title": "Extraordinary Gazette of India, 2023-03-31",
-      "ministry": "Ministry of Law  and Justice",
-      "department": "Legislative Department",
-      "office": "Legislative Department",
-      "subject": "The Finance Act, 2023",
-      "gazette_id": "CG-DL-E-31032023-244830",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244830.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-31.244830/244830.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-31.244830",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-31/244830.pdf",
       "topics": []
     }
   ],

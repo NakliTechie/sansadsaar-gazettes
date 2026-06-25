@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-29.259039",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-29",
+      "ugid": "259039",
+      "title": "Extraordinary Gazette of India, 2024-11-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-29112024-259039",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259039.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-29.259039/259039.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-29.259039",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-29/259039.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-29.259039/259039_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-29.259038",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-29",
+      "ugid": "259038",
+      "title": "Extraordinary Gazette of India, 2024-11-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of corrigendum under Section 3a",
+      "gazette_id": "CG-DL-E-29112024-259038",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259038.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-29.259038/259038.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-29.259038",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-29/259038.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-29.259038/259038_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-29.259037",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-08-09/256229.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-09.256229/256229_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-09.256228",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-09",
-      "ugid": "256228",
-      "title": "Extraordinary Gazette of India, 2024-08-09",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Department of Commerce",
-      "office": "EP (Agri) Division",
-      "subject": "Spices Notification",
-      "gazette_id": "CG-DL-E-09082024-256228",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256228.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-09.256228/256228.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-09.256228",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-09/256228.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-09.256228/256228_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-09.256227",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-09",
-      "ugid": "256227",
-      "title": "Extraordinary Gazette of India, 2024-08-09",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Department of Commerce",
-      "office": "EP (Agri) Division",
-      "subject": "Rubber Notification",
-      "gazette_id": "CG-DL-E-09082024-256227",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256227.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-09.256227/256227.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-09.256227",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-09/256227.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-09.256227/256227_djvu.txt"
     }
   ],
   "count": 2500,

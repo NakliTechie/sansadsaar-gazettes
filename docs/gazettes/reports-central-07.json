@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-14.253090",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-14",
+      "ugid": "253090",
+      "title": "Extraordinary Gazette of India, 2024-03-14",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Imposition of Minimum Export Price (MEP) on export of Honey.",
+      "gazette_id": "CG-DL-E-16032024-253090",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253090.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-14.253090/253090.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-14.253090",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-14/253090.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-14.253090/253090_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-14.253085",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-14",
+      "ugid": "253085",
+      "title": "Extraordinary Gazette of India, 2024-03-14",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Department of Commerce",
+      "office": "EPZ Section",
+      "subject": "Publication of notification DLF Info City Hyderabad Ltd, an Information Technology and Information Technology Enabled Services at Gachibowli Village, Serilingampally Mandal, Ranga Reddy District, Telangana for partial Denotification of 4.767 Ha out of 10.617 Ha",
+      "gazette_id": "CG-DL-E-15032024-253085",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253085.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-14.253085/253085.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-14.253085",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-14/253085.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-14.253085/253085_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-14.253066",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59023,54 +59071,6 @@
       "mirror_path": "pdf/central/e/2023-12-01/250400.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-12-01.250400/250400_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-12-01.250399",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-12-01",
-      "ugid": "250399",
-      "title": "Extraordinary Gazette of India, 2023-12-01",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-04122023-250399",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250399.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-01.250399/250399.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-12-01.250399",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-12-01/250399.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-12-01.250399/250399_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-12-01.250398",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-12-01",
-      "ugid": "250398",
-      "title": "Extraordinary Gazette of India, 2023-12-01",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-04122023-250398",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250398.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-01.250398/250398.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-12-01.250398",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-12-01/250398.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-12-01.250398/250398_djvu.txt"
     }
   ],
   "count": 2500,

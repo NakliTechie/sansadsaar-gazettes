@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-31.244832",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-31",
+      "ugid": "244832",
+      "title": "Extraordinary Gazette of India, 2023-03-31",
+      "ministry": "Ministry of Chemicals and Fertilizers",
+      "department": "Department of Chemicals and Petro Chemicals",
+      "office": "",
+      "subject": "Quality Control Order for Ethylene Vinyl Acetate Coopolymers, Polytehylene Material for Moulding and Extrusion, Polyester Continuous Filament Fully Drawn Yarn, Polyester Partially Oriented Yarn, Polyester Industrial Yarn and 100 Percent Polyester Spun Grey and White Yarn",
+      "gazette_id": "CG-DL-E-31032023-244832",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244832.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-31.244832/244832.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-31.244832",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-31/244832.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-31.244830",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-31",
+      "ugid": "244830",
+      "title": "Extraordinary Gazette of India, 2023-03-31",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Legislative Department",
+      "office": "Legislative Department",
+      "subject": "The Finance Act, 2023",
+      "gazette_id": "CG-DL-E-31032023-244830",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244830.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-31.244830/244830.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-31.244830",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-31/244830.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-31.244829",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58189,52 +58235,6 @@
       "ia_identifier": "in.gazette.central.e.2022-12-16.241196",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-12-16/241196.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-16.241195",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-16",
-      "ugid": "241195",
-      "title": "Extraordinary Gazette of India, 2022-12-16",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a NHAI",
-      "gazette_id": "CG-DL-E-17122022-241195",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241195.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-16.241195/241195.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-16.241195",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-16/241195.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-16.241194",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-16",
-      "ugid": "241194",
-      "title": "Extraordinary Gazette of India, 2022-12-16",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a nhidcl",
-      "gazette_id": "CG-DL-E-17122022-241194",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241194.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-16.241194/241194.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-16.241194",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-16/241194.pdf",
       "topics": []
     }
   ],

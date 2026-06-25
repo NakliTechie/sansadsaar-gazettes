@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-19.261724",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-19",
+      "ugid": "261724",
+      "title": "Extraordinary Gazette of India, 2025-03-19",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Amendments to Indian standards",
+      "gazette_id": "CG-DL-E-19032025-261724",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261724.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-19.261724/261724.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-19.261724",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-19/261724.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-19.261724/261724_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-19.261723",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-19",
+      "ugid": "261723",
+      "title": "Extraordinary Gazette of India, 2025-03-19",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Bureau of Indian Standards hereby makes the following AMENDMENT to the NOTIFICATION of Government of India under the Ministry of Consumer Affairs, Food and Public Distribution",
+      "gazette_id": "CG-DL-E-19032025-261723",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261723.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-19.261723/261723.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-19.261723",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-19/261723.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-19.261723/261723_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-03-19.261722",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-29/259040.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-29.259040/259040_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-29.259039",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-29",
-      "ugid": "259039",
-      "title": "Extraordinary Gazette of India, 2024-11-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-29112024-259039",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259039.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-29.259039/259039.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-29.259039",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-29/259039.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-29.259039/259039_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-29.259038",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-29",
-      "ugid": "259038",
-      "title": "Extraordinary Gazette of India, 2024-11-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of corrigendum under Section 3a",
-      "gazette_id": "CG-DL-E-29112024-259038",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259038.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-29.259038/259038.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-29.259038",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-29/259038.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-29.259038/259038_djvu.txt"
     }
   ],
   "count": 2500,

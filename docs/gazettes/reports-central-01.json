@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-16.271009",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-16",
+      "ugid": "271009",
+      "title": "Extrordinary Gazette of India, 2026-03-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-18032026-271009",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271009.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-16.271009/271009.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-16.271009",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-16/271009.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-16.271008",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-16",
+      "ugid": "271008",
+      "title": "Extrordinary Gazette of India, 2026-03-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-18032026-271008",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271008.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-16.271008/271008.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-16.271008",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-16/271008.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-16.271007",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57452,52 +57498,6 @@
       "ia_identifier": "in.gazette.central.e.2025-12-08.268354",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2025-12-08/268354.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-08.268349",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-08",
-      "ugid": "268349",
-      "title": "Extrordinary Gazette of India, 2025-12-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "P and M file State of the uk",
-      "gazette_id": "CG-DL-E-09122025-268349",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268349.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-08.268349/268349.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-08.268349",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-08/268349.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-08.268347",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-08",
-      "ugid": "268347",
-      "title": "Extrordinary Gazette of India, 2025-12-08",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Economic Affairs",
-      "office": "Financial Market Division",
-      "subject": "Authorising the Securities and Exchange Board of India as the authorised agency",
-      "gazette_id": "CG-DL-E-08122025-268347",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268347.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-08.268347/268347.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-08.268347",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-08/268347.pdf",
       "topics": []
     }
   ],
