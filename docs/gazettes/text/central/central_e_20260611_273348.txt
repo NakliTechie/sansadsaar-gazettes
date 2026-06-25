@@ -1,0 +1,573 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Aid =  राज्जपतन्र 
+
+
+Che Gazette of Jndia 
+
+
+aM. -ZT. Wet. -37.- 1106202 6-27 3348 
+CG-DL-E-11062026-273348 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग 11_—a@ue 3--उप-खण्ड (i) 
+PART II—Section 3—Sub-section (i) 
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 416] नई दिल्ली, बृहस्पतिवार, जून 11, 2026/ज्येष्ठ 21, 1948 
+No. 416] NEW DELHI, THURSDAY, JUNE 11, 2026/JYAISTHA 21, 1948 
+संचार मंत्रालय 
+(दूरसंचार विभाग) 
+अधिसूचना 
+
+
+नई दिल्‍ली, 10 जून, 2026 
+
+
+सा.का.नि. 466(अ) .-- केंद्रीय सरकार भारतीय तार अधिनियम, 1885 (1885 का 13) की धारा 4 और 
+धारा 7 और भारतीय बेतार तारयांत्रिकी अधिनियम, 1933 (1933 का 17) की धारा 4 और धारा 10 द्वारा प्रदत्त 
+शक्तियों का प्रयोग करते हुए, निम्नलिखित नियम बनाती है, अर्थात्‌:- 
+
+
+1. _ संक्षिप्त शीर्षक और प्रारंभ — (1) इन नियमों का संक्षिप्त नाम 5.9 east बैंड में सेलुलर वाहन-से- 
+सबकुछ संचार के लिए ऑन बोर्ड यूनिट का उपयोग (अनुज्ञापन अपेक्षाओं से छूट) नियम, 2026 है। 
+
+
+(2) ये राजपत्र में उनके प्रकाशन की तारीख को प्रवृत्त होंगे। 
+2. लागू होना -- ये 5875-5905 मेगाहट््ज आवृत्ति बैंड की बाबत लागू होंगे। 
+
+
+4198 GI/2026 (1) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(4)] 
+
+
+3. परिभाषाएँ — (1) इन नियमों में, जब तक कि संदर्भ से अन्यथा अपेक्षित न हो,- 
+
+
+(क) 
+
+
+(ख) 
+
+
+(ग) 
+
+
+(घ) 
+
+
+(=) 
+
+
+(7) 
+
+
+(=) 
+
+
+"समतुल्य समहिक विकिरणित शक्ति" से कुल शक्ति जिसे एंटीना की सबसे मजबूत बीम की दिशा में 
+
+वास्तविक स्रोत के समान सिग्नल शक्ति देने के लिए एक काल्पनिक समहिक एंटीना द्वारा विकीर्ण 
+
+करना होगा, AAT है; 
+
+"व्यतिकरण" से रेडियो संचार प्रणाली में अभिग्रहण पर उत्सर्जन, विकिरण या प्रेरण के एक या 
+
+संयोजन के कारण अवांछित ऊर्जा का प्रभाव, किसी भी निष्पादन में गिरावट, गलत निर्वचन या 
+
+किसी सूचना की हानि से प्रकट होता है जो ऐसी अवांछित ऊर्जा की अनुपस्थिति में निकाला जा 
+
+सकता था, अभिय्रेत है; 
+
+"अंतर्राष्ट्रीय मानकों" से अंतर्राष्ट्रीय संगठनों जैसे अंतर्राष्ट्रीय दूरसंचार संघ, यूरोपीय दूरसंचार मानक 
+
+संस्थान, अमेरिकी राष्ट्रीय मानक संस्थान और गैर-आयनीकरण विकिरण संरक्षण संबंधी अंतर्राष्ट्रीय 
+
+आयोग द्वारा प्रकाशित मानक अभिप्रेत हैं; 
+
+"अधिकतम शक्ति वर्णक्रमीय घनत्व" से रेडियो उपस्कर के ऑपरेटिंग बैंड में विनिर्दिष्ट माप बैंडविड्थ 
+
+के भीतर अधिकतम शक्ति, 5875-5905 मेगाहर्ट्ज आवृत्ति बैंड में माप 1 मेगाहरट्ज की बैंडविड्थ 
+
+पर बनाया गया है, अभिष्रेत है; 
+
+"ऑन बोर्ड यूनिट" से ऐसा रेडियो उपस्कर (इसके एंटीना सहित) अभिप्रेत है, जो सड़क परिवहन के 
+
+प्रयोजन से स्थापित अभिज्ञ परिवहन प्रणाली के भाग के रूप में संचालित होता है और- 
+
+(i) एक वाहन पर स्थापित है; 
+
+(ii) एक वाहन का भाग बनता है, भले ही वह वाहन का भाग था जब इसे विनिर्मित किया गया था; 
+या 
+
+(iii) किसी वाहन के संबंध में किसी व्यक्ति द्वारा धारित या ले जाया जाता है; 
+
+
+“पोर्टल” से ऐसा पोर्टल जैसा कि केंद्रीय सरकार इस संबंध में दूरसंचार विभाग, भारत सरकार की 
+वेबसाइट पर विनिर्दिष्ट कर सकेगी, अभिप्रेत है; और 
+
+“शक्ति वर्णक्रमीय घनत्व” से स्पंद या स्पंदों के अनुक्रम से प्रति यूनिट बैंडविड्थ कुल ऊर्जा उत्पादन 
+जिसके लिए पारेषण शक्ति अपने अधिकतम स्तर पर है, स्पंद की कुल अवधि और स्पंद के बीच के 
+समय, जिसके दौरान पारेषण शक्ति बंद है या अपने अधिकतम स्तर से नीचे है, को छोड़कर कुल 
+समय के योग से विभाजित है, अभिप्रेत है। 
+
+
+(2) उन शब्दों और पदों के जो इन नियमों में प्रयुक्त है और परिभाषित नहीं है किंतु भारतीय तार अधिनियम, 
+1885 (1885 का 13), भारतीय बेतार तारयांत्रिकी अधिनियम, 1933 (1933 का 17), उक्त अधिनियमों के 
+अधीन बनाए गए नियमों या केंद्रीय सरकार की राष्ट्रीय आवृत्ति आबंटन योजना में परिभाषित है, वही अर्थ होंगें 
+जो क्रमशः उक्त अधिनियमों, नियमों या योजना में हैं। 
+
+
+[भाग ave 3(i)] भारत का राजपत्र : असाधारण 3 
+
+
+4. अनुज्ञापन अपेक्षा से छूट- (1) भारतीय Tare तारयांत्रिकी (कब्जा) नियम, 1965 में अंतर्विष्ट किसी भी 
+बात के होते हुए भी, उपनियम (2) से उपनियम (5) में विनिर्दिष्ट शर्तों की पूर्ति के अध्यधीन रहते हुए- 
+
+(क) किसी वाहन पर स्थापित ऑन बोर्ड यूनिट की स्थापना, रखरखाव या कार्य, ऐसे वाहन का भाग 
+बनाना या सेलुलर वाहन-से-सब कुछ संचार के एकमात्र प्रयोजन के लिए वाहन के संबंध में किसी 
+व्यक्ति द्वारा रखना या ले जाया जाना, जो 5875-5905 मेगाहट्ज़ आवृत्ति बैंड में अभिज्ञ परिवहन 
+प्रणाली के भाग के रूप में प्रचलित होता है, रेडियो आवृत्ति के समनुदेशन के बिना, गैर-व्यतिकरण, 
+गैर-सुरक्षा और गैर-अनन्य आधार पर अनुज्ञात किया जाएगा; और 
+
+(ख) किसी भी व्यक्ति द्वारा ऐसे ऑन बोर्ड यूनिट के कब्जे के लिए या किसी भी व्यवहारी द्वारा इसके विक्रय 
+या किराए के लिए कोई अनुज्ञप्ति अपेक्षित नहीं होगी। 
+
+
+(2) आन बोर्ड यूनिट नीचे दी गई सारणी में विनिर्दिष्ट मापदंडों के अनुरूप होगी: - 
+सारणी 
+इन-बैंड उत्सर्जन के लिए अधिकतम | इन-बैंड उत्सर्जन के लिए बैंड उत्सर्जन में से 
+आवृत्ति बैंड | शक्ति वर्णक्रमीय घनत्व समतुल्य. | अधिकतम समतुल्य समहिक | (अधिकतम शक्ति 
+समहिक विकिरित शक्ति विकिरित शक्ति वर्णक्रमीय घनत्व) 
+(1) (2) (3) (4) 
+
+5875-5905 23 डीबीएम/ मेगाहर्ट्ज़ 33 डीबीएम -30 बीएम/ मेगाहर्ट्ज़ 
+
+मेगाहटर्ज़ 
+
+
+(3) उपनियम (1) के अधीन अनुज्ञा और छूट, अनुसूची में उपवर्णित प्ररूप में पोर्टल पर इस संबंध में आवेदन 
+करके ऑन बोर्ड यूनिट के प्रत्येक उपस्कर प्रकार के लिए मांगी जाएगी: 
+
+परंतु ऐसा कोई आवेदन अपेक्षित नहीं होगा जहां सुसंगत STEHT प्रकार के लिए ऐसी मंजूरी पहले ही दी 
+जा चुकी है और पोर्टल पर प्रकाशित हो चुकी है। 
+
+
+(4) ऑन बोर्ड यूनिट ऐसे मानकों के अनुरूप होगी जो भारतीय मानक ब्यूरो या केंद्रीय सरकार या दोनों द्वारा 
+समय-समय पर अधिसूचित किए जाए: 
+
+परंतु जहां ऐसे कोई मानक प्रकाशित नहीं किए गए हैं, ऑन बोर्ड यूनिट सुसंगत अंतर्राष्ट्रीय मानकों के 
+अनुरूप होगा। 
+
+
+(5) भारतीय तार अधिनियम, 1885 (1885 का 13) और भारतीय बेतार तारयांत्रिकी अधिनियम, 1933 
+(1933 का 17) के अधीन अनुज्ञप्तिधारी व्यक्ति से कोई भी सूचना प्राप्त होने पर कि उसकी अनुज्ञप्ति प्राप्त प्रणाली 
+को इन नियमों के अधीन छूट प्राप्त किसी अन्य रेडियो उपस्कर से हानिकारक व्यतिकरण प्राप्त हो रहा है, केंद्रीय 
+सरकार या ऐसा अधिकारी जो इस संबंध में उसके द्वारा प्राधिकृत किया जाए, ऐसे छूट प्राप्त रेडियो उपस्कर के 
+उपयोक्‍ता को सीधे निदेशित कर सकेगा कि वह व्यतिकरण से बचने के लिए शीध्रता से और ऐसी समय सीमा जो 
+ऐसे निदेश में विनिर्दिष्ट की जाये के पहले उपाय करें जैसे उपस्कर का स्थानांतरण, इसकी शक्ति में कमी और 
+विर्निदिष्ट प्रकार के एंटीना के उपयोग | 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEC. 3(4)] 
+
+
+अनुसूची 
+[ नियम 4(3) देखें ] 
+उपस्कर प्रकार अनुमोदन के लिए आवेदन* 
+
+
+भाग क : आवेदक के ब्यौरे 
+
+
+1. 
+
+
+उपस्कर प्रकार अनुमोदन के लिए आवेदन करने वाले 
+विनिर्माता अभिकरण का नाम 
+विनिर्माता अभिकरण का डाक पता 
+
+
+प्रकार अनुमोदन के लिए आवेदन करने वाले भारतीय 
+अभिकरण का नाम और पता 
+
+उत्पाद का नाम और उत्पाद 
+
+पहचान (मॉडल सं आदि) 
+
+
+भाग ख: प्रेषित का वर्णन 
+
+
+5. 
+6. 
+7. 
+
+
+11. 
+
+
+आवृत्ति रेंज 
+प्रीसेट स्विचेबल चैनलों की संख्या 
+वॉइस/डाटा/टेलीविजन चैनलों की संख्या 
+(मल्टी-चैनल उपस्कर की दशा में) 
+टीएक्स-आरएक्स चैनल पृथक्लरण 
+(ड्प्लेक्स/मल्टी-चैनल STEHT की दशा में) 
+समीपवर्ती चैनल पृथक्करण 
+(मल्टी-चैनल उपस्कर की दशा में) 
+आवृत्ति स्थायित्व 
+अप्रामाणिक/हार्मोनिक विकिरण 
+(क) कैरियर सप्रेशन 
+(कैरियर सप्रेस्ड तंत्र की दशा में) 
+(4) swathed साइड बैंड सप्रेशन 
+(सिंगल साइड बैंड तंत्र की दशा में) 
+(ग) द्वितीय हार्मोनिक विकिरण 
+(घ) तृतीय हार्मोनिक विकिरण 
+अधिकतम आवृत्ति विचलन: 
+उत्सर्जन की रीति 
+उत्सर्जन की बैंडविड्थ 
+परीक्षण टोन विचलन 
+आधार बैंड आवृत्ति 
+(मल्टी-चैनल उपस्कर की दशा में) 
+अपेक्षित मॉड्यूलेशन का प्रकार 
+
+
+[भाग ave 3(i)] भारत का राजपत्र : असाधारण 5 
+
+
+18. 
+19. 
+20. 
+
+
+भागग: 
+Pa 
+22. 
+23. 
+24. 
+25. 
+26. 
+
+
+27. 
+28. 
+29. 
+30. 
+
+
+स्थान: 
+तारीख: 
+*टिप्पण 
+
+
+पूर्व-बल 
+शक्ति आउटपुट (एंटीना के इनपुट पर) 
+कोई अन्य जानकारी 
+
+
+प्राप्तकर्ताओं के ब्यौरे 
+आवृत्ति रेंज 
+
+प्राप्ति की रीति 
+
+प्राप्तकर्ता की अप्रमाणिक प्रतिक्रिया 
+संवेदनशीलता 
+
+आवृत्ति स्थायित्व 
+
+(ए) प्रभावी ध्वनि तापमान 
+(बी) भ्रेशोल्ड इनपुट स्तर 
+मध्यवर्ती आवृत्ति 
+डी-एम्फेसिस 
+
+चयनशीलता 
+
+कोई अन्य विशिष्टियाँ 
+
+
+आवेदक के हस्ताक्षर 
+
+
+: प्रत्येक प्रकार के उपस्कर के लिए अलग आवेदन प्रस्तुत किए जाने चाहिए 
+
+
+[फा. सं. आर-11018/02/2022-पीपी] 
+देवेंद्र कुमार राय, संयुक्त सचिव 
+
+
+MINISTRY OF COMMUNICATIONS 
+
+
+(Department of Telecommunications) 
+NOTIFICATION 
+New Delhi, the 10th June, 2026 
+G.S.R. 466(E).—In exercise of the powers conferred by sections 4 and 7 of the Indian Telegraph 
+
+
+Act, 1885 (13 of 1885) and sections 4 and 10 of the Indian Wireless Telegraphy Act, 1933 (17 of 1933), the 
+Central Government hereby makes the following rules, namely:— 
+
+
+6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(4)] 
+
+
+1. Short title and commencement.—(1) These rules may be called the Use of On Board Unit for Cellular 
+Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) 
+Rules, 2026. 
+
+
+(2) They shall come into force on the date of their publication in the Official Gazette. 
+2. Application.—They shall apply in respect of the 5875-5905 MHz frequency band. 
+
+
+3. Definitions.—(1) In these rules, unless the context otherwise requires,— 
+
+(a) “equivalent isotropic radiated power” means the total power that would have to be radiated by a 
+hypothetical isotropic antenna to give the same signal strength as the actual source in the direction 
+of the strongest beam of the antenna; 
+
+(b) “interference” shall mean the effect of unwanted energy due to one or a combination of emissions, 
+radiations or induction on reception in a radio communication system, manifested by any 
+performance degradation, misinterpretation or loss of information that could have been extracted 
+in the absence of such unwanted energy; 
+
+(c) “international standards” shall mean standards published by international organisations such as the 
+International Telecommunications Union, the European Telecommunications Standards Institute, 
+the American National Standards Institute and the International Commission on Non-Ionising 
+Radiation Protection; 
+
+(d) “maximum power spectral density” means the maximum power within the specified measurement 
+bandwidth, in the operating band of the radio equipment, with measurements in the 5875-5905 
+MHz frequency band being made over a bandwidth of 1 MHz; 
+
+(e) “On Board Unit” means a radio equipment (including its antenna), which is operated as part of an 
+intelligent transport system established for the purpose of road transport and— 
+
+(i) 1s installed on a vehicle; 
+
+(1) forms part of a vehicle, regardless of whether it was part of the vehicle when it 
+was manufactured; or 
+
+(i111) is held or carried by an individual in relation to a vehicle; 
+
+(f) “portal” means such portal as the Central Government may specify in this behalf on the website of 
+the Department of Telecommunications, Government of India; and 
+
+(g)“power spectral density” means the total energy output per unit bandwidth from a pulse or sequence 
+of pulses for which the transmit power is at its maximum level, divided by the summation of the 
+total duration of pulses and the total time exclusive of the time between pulses during which the 
+transmit power is off or below its maximum level. 
+
+
+(2) Words and expressions used in these rules and not defined but defined in the Indian Telegraph Act, 1885 
+(13 of 1885), the Indian Wireless Telegraphy Act, 1933 (17 of 1933), the rules made under the said Acts or 
+the National Frequency Allocation Plan of the Central Government shall have the meanings respectively 
+assigned to them in the said Acts, the rules or the plan. 
+
+
+4. Exemption from licensing requirement.—(1) Notwithstanding anything contained in the Indian Wireless 
+Telegraphy (Possession) Rules, 1965, subject to fulfilment of the conditions specified in sub-rules (2) to 
+(5),-- 
+
+(a) the establishment, maintenance or working of On Board Unit installed on a vehicle, forming a part 
+of such vehicle or held or carried by an individual in relation to a vehicle for the sole purpose of 
+cellular vehicle-to-everything communication, which is operated as part of an intelligent transport 
+system in the 5875-5905 MHz frequency band, shall be permitted without assignment of radio 
+frequency, on non-interference, non-protection and non-exclusive basis; and 
+
+(b) no license shall be required for possession of such On Board Unit by any person or its sale or hire by 
+any dealer. 
+
+
+(2) The On Board Unit shall conform to the parameters specified in the Table below:— 
+
+
+[भाग ave 3(i)] भारत का राजपत्र : असाधारण 7 
+
+
+TABLE 
+Freauené Maximum power spectral density | Maximum equivalent Out of band emissions 
+a d ” equivalent isotropic radiated isotropic radiated power (maximum power 
+power for in-band emissions for in-band emissions spectral density) 
+5875-5905 23 dBm/MHz 33 dBm 30 dBm/MHz 
+MHz 
+
+
+(3) Permission and exemption under sub-rule (1) shall be sought for each equipment type of On Board Unit 
+by making an application in this behalf on the portal in the form set out in the Schedule: 
+
+Provided that no such application shall be required where such approval has previously been 
+accorded for the relevant equipment type and is published on the portal. 
+
+
+(4) The On Board Unit shall be in conformity with such standards as may be notified from time to time by 
+the Bureau of Indian Standards or the Central Government or both: 
+
+
+Provided that where no such standards have been published, the On Board Unit shall conform to 
+relevant international standards. 
+
+
+(5) On receipt of any information from a person who holds a license under the Indian Telegraph Act, 1885 
+(13 of 1885) and the Indian Wireless Telegraphy Act, 1933 (17 of 1933) that his licensed system is receiving 
+harmful interference from any other radio equipment exempted under these rules, the Central Government or 
+such officer as may be authorised by it in this behalf may direct the user of such exempted radio equipment 
+to expeditiously and not later than such timeframe as may be specified in such direction, carry out measures 
+to avoid interference such as relocation of equipment, reduction in its power and use of antennae of specified 
+type. 
+
+
+SCHEDULE 
+[See rule 4(3)] 
+Form of application for equipment type approval* 
+
+
+Section A: Details of applicant 
+1. Name of manufacturing agency applying 
+for equipment type approval 
+
+
+2 Postal address of manufacturing agency 
+
+3. Name and address of Indian agency 
+applying for the type approval 
+
+4. Name of product and the product 
+
+
+identification (model number etc.) 
+
+
+Section B: Details of transmitter 
+
+
+5. Frequency range 
+
+6. Number of preset switchable channels 
+
+iz Number of voice/data/television channels 
+(In case of multi-channel equipment) 
+
+8. Tx-Rx channel separation 
+
+
+(In case of duplex/multi-channel equipment) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEC. 3(i)] 
+
+
+10. 
+11, 
+
+
+12. 
+13. 
+14. 
+15. 
+16. 
+
+
+17. 
+18. 
+19. 
+20. 
+
+
+Adjacent channel separation 
+(In case of multi-channel equipment) 
+Frequency stability 
+Spurious/harmonic radiations 
+(a) Carrier suppression 
+(In case of carrier suppressed systems) 
+(b) Unwanted side band suppression 
+(In case of single side band systems) 
+(०) 27 harmonic radiations 
+(d) 3 harmonic radiations 
+Maximum frequency deviation: 
+Mode of emission 
+Bandwidth of emission 
+Test tone deviation 
+Base band frequency 
+(In case of multi-channel equipment) 
+Type of modulation to be required 
+Pre-emphasis 
+Power output (At the input of antenna) 
+Any other information 
+
+
+Section C: Details of receivers 
+
+
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+
+
+27. 
+28. 
+29. 
+30. 
+
+
+Place: 
+Date: 
+
+
+Frequency range 
+
+Mode of reception 
+
+Spurious response of receiver 
+Sensitivity 
+
+Frequency stability 
+
+(a) Effective noise temperature 
+(b) Threshold input level 
+Intermediate frequency 
+De-emphasis 
+
+Selectivity 
+
+Any other particulars 
+
+
+Signature of the applicant 
+
+
+*Note: Separate application should be submitted for each type of equipment 
+
+
+[F.No. R-11018/02/2022-PP] 
+DEVENDRA KUMAR RAL Jt. Secy. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. 
+
+
+KUMER Digitally signed by 
+KUMER CHAND MEENA 
+CHAN D Date: 2026.06.11 
+
+
+MEENA 16:10:47 +0530' 
+
+
