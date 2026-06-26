@@ -553,6 +553,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-06-23.273772",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-23",
+      "ugid": "273772",
+      "title": "Extrordinary Gazette of India, 2026-06-23",
+      "ministry": "Ministry of Earth Sciences",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Piblication of the notification regarding enforcement of the amendment to the Indian Antarctic Act 2022",
+      "gazette_id": "CG-DL-E-24062026-273772",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273772.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-23.273772/273772.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-23.273772",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-23/273772.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-23.273771",
       "category": "extraordinary",
       "type_letter": "e",
@@ -757,6 +780,29 @@
       "ia_identifier": "in.gazette.central.e.2026-06-23.273758",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-23/273758.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-23.273757",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-23",
+      "ugid": "273757",
+      "title": "Extrordinary Gazette of India, 2026-06-23",
+      "ministry": "Ministry of Mines",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification for commencement of the Jan Vishwas Amendment of Provision Act 2026 for OAMDR Act 2002.",
+      "gazette_id": "CG-DL-E-23062026-273757",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273757.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-23.273757/273757.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-23.273757",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-23/273757.pdf",
       "topics": []
     },
     {
@@ -1634,6 +1680,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-06-22.273741",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-22",
+      "ugid": "273741",
+      "title": "Extrordinary Gazette of India, 2026-06-22",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "20A",
+      "gazette_id": "CG-CG-E-23062026-273741",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273741.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-22.273741/273741.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-22.273741",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-22/273741.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-22.273740",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1884,6 +1953,29 @@
       "ia_identifier": "in.gazette.central.e.2026-06-22.273721",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-22/273721.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-22.273720",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-22",
+      "ugid": "273720",
+      "title": "Extrordinary Gazette of India, 2026-06-22",
+      "ministry": "Ministry of Steel",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Steel and Steel Products (Quality Control) Amendment Order, 2026",
+      "gazette_id": "CG-DL-E-22062026-273720",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273720.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-22.273720/273720.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-22.273720",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-22/273720.pdf",
       "topics": []
     },
     {
@@ -57453,98 +57545,6 @@
       "ia_identifier": "in.gazette.central.e.2026-03-18.271061",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-03-18/271061.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-18.271060",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-18",
-      "ugid": "271060",
-      "title": "Extrordinary Gazette of India, 2026-03-18",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Directorate General of Lighthouses and Lightships",
-      "office": "",
-      "subject": "Appointment of Competent Authority",
-      "gazette_id": "CG-UP-E-19032026-271060",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271060.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-18.271060/271060.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-18.271060",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-18/271060.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-18.271059",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-18",
-      "ugid": "271059",
-      "title": "Extrordinary Gazette of India, 2026-03-18",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "The Petroleum and Natural Gas (Furnishing of Information) Order, 2026",
-      "gazette_id": "CG-DL-E-18032026-271059",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271059.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-18.271059/271059.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-18.271059",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-18/271059.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-18.271057",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-18",
-      "ugid": "271057",
-      "title": "Extrordinary Gazette of India, 2026-03-18",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "APPROPIATION NO 2 BILL 2026",
-      "gazette_id": "CG-DL-E-18032026-271057",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271057.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-18.271057/271057.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-18.271057",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-18/271057.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-18.271056",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-18",
-      "ugid": "271056",
-      "title": "Extrordinary Gazette of India, 2026-03-18",
-      "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying",
-      "department": "Department of Fisheries",
-      "office": "",
-      "subject": "Notification",
-      "gazette_id": "CG-DL-E-18032026-271056",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271056.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-18.271056/271056.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-18.271056",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-18/271056.pdf",
       "topics": []
     }
   ],

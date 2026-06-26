@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-04-01.244906",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-01",
+      "ugid": "244906",
+      "title": "Extraordinary Gazette of India, 2023-04-01",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendment in Import Policy Condition under Chapter 29 of ITC (HS) 2022, Schedule  I (Import Policy)",
+      "gazette_id": "CG-DL-E-03042023-244906",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244906.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-01.244906/244906.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-01.244906",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-01/244906.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-04-01.244887",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-01",
+      "ugid": "244887",
+      "title": "Extraordinary Gazette of India, 2023-04-01",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendment in Export Policy of items under HS Codes 27101241, 27101242, 27101243, 27101244, 27101249, 27101941, 27101944 and 27101949 of Chapter 27 of Schedule 2 of the ITC (HS) Export Policy",
+      "gazette_id": "CG-DL-E-01042023-244887",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244887.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-01.244887/244887.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-01.244887",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-01/244887.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-04-01.244886",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-01",
+      "ugid": "244886",
+      "title": "Extraordinary Gazette of India, 2023-04-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Customs Wing CBIC",
+      "subject": "In exercise of the powers conferred by sub section (1) of section 25 of the Customs Act, 1962 (52 of 1962), the Central Government being satisfied that it is necessary in the public interest so to do",
+      "gazette_id": "CG-DL-E-01042023-244886",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244886.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-01.244886/244886.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-01.244886",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-01/244886.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-04-01.244885",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-01",
+      "ugid": "244885",
+      "title": "Extraordinary Gazette of India, 2023-04-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Customs Wing CBIC",
+      "subject": "Customs Notifications in relation FTP 2023",
+      "gazette_id": "CG-DL-E-01042023-244885",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244885.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-01.244885/244885.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-01.244885",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-01/244885.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-04-01.244864",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58143,98 +58235,6 @@
       "ia_identifier": "in.gazette.central.e.2022-12-20.241246",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-12-20/241246.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-19.241347",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-19",
-      "ugid": "241347",
-      "title": "Extraordinary Gazette of India, 2022-12-19",
-      "ministry": "REGIONAL INSTITUTE OF PARAMEDICAL AND NURSING SCIENCES AIZAWL, MIZORAM",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by the proviso to article 309 of the Constitution and in supersession of the Recruitment Rules of Group A Faculty posts in Regional Institute of Paramedical and Nursing Sciences",
-      "gazette_id": "CG-MZ-E-23122022-241347",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241347.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-19.241347/241347.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-19.241347",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-19/241347.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-19.241328",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-19",
-      "ugid": "241328",
-      "title": "Extraordinary Gazette of India, 2022-12-19",
-      "ministry": "Ministry of Jal Shakti",
-      "department": "Department of Water Resources, River Development and Ganga Rejuvenation",
-      "office": "",
-      "subject": "Resolution regarding Nomination of two new members of Rajya Sabha as members of Hindi Salahkar Samiti",
-      "gazette_id": "CG-DL-E-23122022-241328",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241328.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-19.241328/241328.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-19.241328",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-19/241328.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-19.241278",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-19",
-      "ugid": "241278",
-      "title": "Extraordinary Gazette of India, 2022-12-19",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "THE REPEALING AND AMENDING BILL 2022",
-      "gazette_id": "CG-DL-E-22122022-241278",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241278.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-19.241278/241278.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-19.241278",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-19/241278.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-19.241261",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-19",
-      "ugid": "241261",
-      "title": "Extraordinary Gazette of India, 2022-12-19",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Prism",
-      "gazette_id": "CG-DL-E-21122022-241261",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241261.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-19.241261/241261.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-19.241261",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-19/241261.pdf",
       "topics": []
     }
   ],
