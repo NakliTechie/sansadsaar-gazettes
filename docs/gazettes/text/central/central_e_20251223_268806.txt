@@ -1,0 +1,211 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Jiitd = VistGa 
+Che Gazette of Jndia 
+
+
+सी.जी.-डी.एल.-अ.-25122025-268806 
+CG-DL-E-25122025-268806 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग 1--खण्ड 3—3Y-@us (ii) 
+PART II—Section 3—Sub-section (ii) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 5769] नई दिल्ली, मंगलवार, दिसम्बर 23, 2025/पौष 2, 1947 
+No. 5769] NEW DELHI, TUESDAY, DECEMBER 23, 2025/PAUSHA 2, 1947 
+
+
+विद्युत मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 23 दिसम्बर, 2025 
+
+
+का.आ. 5967(अ).--केंद्रीय सरकार, ऊर्जा संरक्षण अधिनियम, 2001 (2001 का 52) की धारा 14 के खंड (क) 
+द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए, ऊर्जा दक्षता ब्यूरो के परामर्श से भारत के राजपत्र, असाधारण, भाग 2, खंड 3, 
+
+
+उपखंड (1) में प्रकाशित विद्युत मंत्रालय, भारत सरकार की अधिसूचना संख्यांक का.आ. 185 (अ) तारीख 12 जनवरी,2009 
+में निम्नलिखित और संशोधन करती है अर्थात्‌:- 
+
+
+उक्त अधिसूचना में, - 
+(क) पैरा (1) के स्थान पर, निम्नलिखित पैरा रखा जाएगा, अर्थात्‌: - 
+"1. भारत में विनिर्मित, वाणिज्यिक रूप से क्रय या विक्रीत किया गया प्रत्येक वितरण ट्रांसफार्मर - 
+(क) टाइप परीक्षण मापदंडों की अनुपालन अपेक्षाओं को पूरा करें, अर्थात्‌:- 
+() आईएस 2026 (भाग 1):2011 के अनुसार शॉर्ट सर्किट प्रतिबाधा और लोड हानि का माप; 
+
+
+(ii) आईएस 2026 (भाग 1):2011 के अनुसार शून्य-लोड हानि और करंट का माप; 
+
+
+8642 GI/2025 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+(ख) भारतीय मानक ब्यूरो प्रमाणन चिह्न लगा होगा”; 
+(ख) पैरा 2 के, उप पैरा (2) में, - 
+(क) सारणी 2 में, अंक "2025" के स्थान पर, अंक "2026" रखे जाएंगे; 
+(ख) सारणी 3 में, अंक "2025" के स्थान पर, अंक "2026" रखे जाएंगे। 
+(ग) सारणी 3 के पश्चात्‌, निम्नलिखित सारणी अंतःस्थापित की जाएगी, अर्थात्‌: - 
+'सारणी - 4 (1 जनवरी, 2027 से 31 दिसंबर, 2029 तक विधिमान्य) 
+
+
+11 केवी वर्ग तक के वाट में मानक हानि 
+रेटिंग प्रतिबाधा 
+(कैवीए) | (प्रतिशत) 
+1 स्टार 2 स्टार 3 स्टार 4 स्टार 5 स्टार 
+50% | 100% | 50% | 100% | 50% | 100% | 50% | 100% | 50% | 100% 
+भार | भार भार | भार भार | भार भार | भार भार | भार 
+16 4.5 120 400 108 364 97 331 87 301 78 274 
+25 4.5 175 8595 158 541 142 493 128 448 115 408 
+63 4.5 B00 |1050 70 956 43 870 219 791 197 ‘720 
+100 4.5 435 |1500 392 1365 352 1242 317 (1130 85 1028 
+160 4.5 570 1700 513 1547 462 1408 416 1281 375 1166 
+200 4.5 070 2100 603 1911 543 1739 488 |1582 439 1440 
+250 4.5 920 (2700 864 488 811 2293 761 (2113 714 1947 
+315 45 955 2883 890 681 829 2494 772 2319 719 2157 
+400 4.5 1150 3330 1080 [3214 1013 3102 951 2994 892 2890 
+500 4.5 1430 4100 1354 [3909 1282 3727| 1215 [3554 1150 3389 
+630 4.5 1745 |4850 1637 4438 1536 4061 1441 |3717 1352 3401 
+800 5 147 (5838 015 5323 1892 4853| 1776 4425 1667 (4035 
+1000 5 620 (7000 460 6364 310 5785) 2170 5259 038 4781 
+1250 5 3220 8400 3142 [7670 3066 7003 | 2991 6394 919 [5838 
+1600 6.25 3970 11300 3753 10824 [547 | 10363| 3353 9924 3169 9504 
+2000 6.25 4790 14100 4543 ॥3254 4309 124591 4088 11711 3877 |11009 
+2500 6.25 5900 17500 5660 ॥6554 85430 15659} 5209 14813 4997 |14012 
+
+
+टिप्पण - सारणी-4 में केवीए रेटिंग विनिर्दिष्ट नहीं, बीआईएस द्वारा प्रमाणित ऊर्जा दक्षता स्तर लागू होगा। 
+
+
+[फा. सं. 10/8/2022-ईसी] 
+धीरज कुमार श्रीवास्तव, मुख्य इंजीनियर 
+
+
+टिप्पण - मूल अधिसूचना भारत के राजपत्र, असाधारण, भाग Il, खंड 3, उप-खंड (ii), संख्यांक का.आ. 185(अ), 
+तारीख 12 जनवरी, 2009 द्वारा प्रकाशित की गई थी, और तत्पश्चात्‌ अधिसूचना संख्यांक का.आ. 4062(अ), 
+तारीख 16 दिसंबर, 2016, का.आ. 513 (अ), तारीख 17 फरवरी, 2017, का.आ. 1665 (अ), तारीख 27 मई, 
+2020, का.आ. 5(अ), तारीख 2 जनवरी, 2023, का.आ. 5247(अ), तारीख 8 दिसंबर, 2023 और 
+का.आ. 5337(अ), तारीख 9 दिसंबर, 2024 द्वारा संशोधित किए गए थे। 
+
+
+[भाग ave 3(ii)] 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+9.0. 5967(E).— In exercise of the powers conferred by clause (a) of section 14 of the Energy Conservation 
+Act, 2001 (52 of 2001), the Central Government, in consultation with the Bureau of Energy Efficiency, hereby makes 
+the following further amendments in the notification of the Government of India, Ministry of Power, published in the 
+
+
+Gazette of India, Extraordinary, Part II, Section 3, Sub-section (ii), vide number S.O. 185(E), dated the 12™ January, 
+
+
+2009, namely: - 
+
+
+In the said notification, - 
+(A) for paragraph (1), the following paragraph shall be substituted, namely: - 
+
+
+MINISTRY OF POWER 
+NOTIFICATION 
+
+
+New Delhi, the 23rd December, 2025 
+
+
+“1. Every distribution transformer being manufactured, commercially purchased or sold in India shall - 
+
+
+(a) meet the compliance requirements of the type test parameters, namely:- 
+
+
+(i) measurement of short circuit impedance and load loss as per IS 2026 (part 1):2011; 
+(ii) measurement of no-load loss and current as per IS 2026 (part 1):2011; 
+
+
+(B) in paragraph 2, in sub-paragraph (2), — 
+
+
+(b) carry Bureau of Indian Standards certification mark.”; 
+
+
+(c) after Table 3, the following Table shall be inserted, namely: - 
+
+
+(a) in Table 2, for the figures “2025”, the figures “2026” shall be substituted; 
+
+
+(b) in Table 3, for the figures “2025”, the figures “2026” shall be substituted; 
+
+
+‘Table — 4 (Validity from 17 January, 2027 to 317 December, 2029) 
+
+
+Standard Losses in watts upto 11 kV Class 
+
+
+Impedance 
+Rating | (Percent) 1 Star 2 Star 3 Star 4 Star 5 Star 
+ies 50% | 100% 50% 100% | 50% 100% | 50% 100% 50% 100% 
+Load | Load Load | Load Load | Load Load | Load Load | Load 
+16 4.5 120 400. | 108 364 97 331 87 BO1 (78 274 
+25 4.5 175. 595 158 541 142 493 128 ५48 | 115 Hos 
+63 4.5 B00 |॥050 270 956 243 870 219 [791 197 720 
+100 4.5 435 1500 392 1365 B52 1242 317 {1130 285 1028 
+160 4.5 70. [1700 313 1547 462 1408 416 1281 375 1166 
+200 4.5 670 2100 603 1911 43 1739 488 |1582 439 1440 
+250 4.5 920. 2700 864 2488 811 2293 761 [2113 714 1947 
+315 4.5 955. 2883 890 2681 829 2494 772 [2319 1719 2157 
+400 4.5 1150 330 1080. 3214 1013 3102 951 [2994 892 2890 
+500 4.5 1430 4100 1354. 3909 1282 3727 1215 3554 1150. 3389 
+630 4.5 1745 4850 1637 4438 1536 4061 1441 3717 1352. 3401 
+800 5 2147 [5838 2015 = {5323 1892 4853 1776 4425 1667 4035 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(ii)] 
+
+
+1000 5 2620 7000 2460 6364 2310 5785 | 2170 5259 2038 A781 
+1250 5 B220 (8400 3142 [7070 B066 7003 | 2991 6394 2919 = 5838 
+1600 6.25 3970 |11300 3753 10821 33547 10363 | 3353 9924 3169 = 9504 
+2000 6.25 4790 14100 4543 13254 4309 12459 | 4088 j11711 3877 11009 
+2500 6.25 5900 | 17500 5660 16554 430 15659 | 5209 14813. 4997 14012 
+
+
+Note— For kVA ratings not specified in Table-4, the energy efficiency level certified by BIS shall be applicable. 
+
+
+[F. No. 10/8/2022-EC] 
+DHIRAJ KUMAR SRIVASTAVA, Chief Engineer 
+
+
+Note. - The principal notification was published in the Gazette of India, Extraordinary, Part I, Section 3, 
+Sub-section (ii), vide number S.O. 185(E), dated the 12" January, 2009, and subsequently amended vide notification 
+numbers S.O. 4062(E), dated the 16'" December, 2016, S.O. 513(E), dated the 17 February, 2017, 5.0. 1665(E), 
+dated the 27 May, 2020, S.O. 5(E), dated the 274 January, 2023, 5.0. 5247(E), dated the 8" December, 2023 
+and §.0.5337(E), dated the 97 December, 2024. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. Saverio 
+
+
+SRIVASTAVA 
+
+
