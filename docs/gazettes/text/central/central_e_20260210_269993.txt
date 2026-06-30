@@ -1,0 +1,756 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Jiitd = VistGa 
+Che Gazette of Jndia 
+
+
+Goh. -S). Wet. -37.-0022026-269993 
+CG-DL-E-0022026-269993 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग त--खण्ड 3----उप-खण्ड (i) 
+PART II—Section 3—Sub-section (i) 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+सं. 44] नई दिल्‍ली, मंगलवार, फरवरी 40, 2026/माघ 2, 947 
+No. 44] NEW DELHI, TUESDAY, FEBRUARY 0, 2026/MAGHA 2], 947 
+
+
+इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 40 फरवरी, 2026 
+
+
+सा.का.नि. 20(अ).-- केन्द्रीय सरकार, सूचना प्रौद्योगिकी अधिनियम, 2000 (2000 का 24) की धारा 87 की 
+उपधारा () और उपधारा (2) के खंड (A) और खंड (AS) के द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए, सूचना प्रौद्योगिकी 
+(मध्यवर्ती दिशानिर्देश और डिजिटल मीडिया आचार संहिता) नियम, 2024 का और संशोधन करने के लिए निम्नलिखित 
+नियम बनाती है, अर्थात्‌:-- 
+
+
+4. संक्षिप्त नाम ake area. —() इन नियमों का संक्षिप्त नाम सूचना प्रौद्योगिकी (मध्यवर्ती दिशानिर्देश और 
+डिजिटल मीडिया आचार संहिता) संशोधन नियम, 2026 है। 
+
+
+(2) ये तारीख 20 फ़रवरी, 2026 को प्रवृत्त होंगें। 
+
+
+2. सूचना प्रौद्योगिकी (मध्यवर्ती दिशानिर्देश और डिजिटल मीडिया आचार संहिता) नियम, 202 में, नियम 
+2 के,-- 
+
+
+(क) उप-नियम (॥) में,-- 
+
+
+(i) खंड (ग) के पश्चात्‌ निम्नलिखित खंड अंतःस्थापित किए जाएंगें, अर्थात्‌:-- 
+
+
+967 GI/2026 (4) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART IIH—SEC. 3(4)] 
+
+
+“(गक) “्रव्य, दृश्य या श्रव्य-दृश्य सूचना' से कोई भी श्रव्य, प्रतिबिंब, फोटोग्राफ, 
+ग्राफिक, वीडियो, गतिमान दृश्य अभिलेख, ध्वनि अभिलेख या कोई अन्य श्रव्य, दृश्य 
+या श्रव्य-दृश्य अंतर्वस्तु अभिप्रेत है, चाहे वह संगत श्रव्य सहित हो या बिना संगत श्रव्य 
+के, और चाहे वह किसी कंप्यूटर संसाधन के माध्यम से सृजित, जनित, उपांतरित या 
+परिवर्तित की गई हो;”। 
+
+
+(ii) खंड (ब) के पश्चात्‌ निम्नलिखित खंड अंतःस्थापित किए जाएंगें, अर्थात्‌:-- 
+
+
+“(बक) 'सिंथेटिक रूप से जनित सूचना' से ऐसी श्रव्य, दृश्य या श्रव्य-दृश्य सूचना अभिप्रेत 
+है, जो किसी कंप्यूटर संसाधन का उपयोग करके कृत्रिम रूप से या एल्गोरिथ्मिक रूप से 
+सृजित, जनित, उपांतरित या परिवर्तित की गई हो, इस प्रकार कि ऐसी सूचना 
+वास्तविक, प्रामाणिक या सत्य प्रतीत होती हो और किसी भी व्यक्ति या घटना का इस 
+प्रकार चित्रण या चित्रितीकरण करती हो कि वह किसी प्राकृतिक व्यक्ति या वास्तविक 
+संसार की घटना से अभेद्य होने के रूप में, या अभेद्य होने की संभावना के रूप में, प्रत्यक्ष 
+हो अथवा प्रत्यक्ष होने की संभावना हो; 
+
+
+परंतु यह कि इस खंड के प्रयोजनों के लिए, किसी श्रव्य, दृश्य या श्रव्य-दृश्य सूचना 
+को 'सिंथेटिक रूप से जनित सूचना' नहीं समझा जाएगा, जहां ऐसी श्रव्य, दृश्य या श्रव्य- 
+दृश्य सूचना निम्नलिखित से उत्पन्न होती है-- 
+
+
+(क) नियमित या सद्भावपूर्वक संपादन, FAST, उन्नयन, तकनीकी सुधार, 
+रंग समायोजन, शोर न्यूनीकरण, प्रतिलेखन, अथवा संपीड़न से उत्पन्न होती 
+है, जिससे मूलभूत श्रव्य, दृश्य या श्रव्य-दृश्य सूचना के तत्व, संदर्भ या अर्थ में 
+कोई भौतिक परिवर्तन, विकृति या भिथ्या प्रस्तुतीकरण नहीं होता है; या 
+
+
+(ख) दस्तावेजों, प्रस्तुतियों, पोर्टेबल डॉक्यूमेंट फॉर्मेट (PDF) फाइलों, शैक्षिक 
+या प्रशिक्षण सामग्रियों, शोध आउटपुट के नियमित या सद्भावपूर्वक सृजन, 
+तैयारी, स्वरूपण, प्रस्तुतीकरण या अभिकल्पन से, जिसके अन्तर्गत 
+दृष्टांतात्मक, काल्पनिक, मसौदा, टेम्पलेट-आधारित या अवधारणात्मक 
+अंतर्वस्तु का उपयोग भी शामिल है, जहां ऐसा सृजन या प्रस्तुतीकरण किसी 
+मिथ्या दस्तावेज या किसी मिथ्या इलेक्ट्रॉनिक अभिलेख के सृजन या जनन का 
+परिणाम नहीं होता है; या 
+
+
+(ग) पहुंचनीयता, स्पष्टता, गुणवत्ता, अनुवाद, विवरण, खोजनीयता या 
+अन्वेषणीयता में सुधार करने के लिए केवल कंप्यूटर संसाधनों के उपयोग से, 
+और मूलभूत श्रव्य, दृश्य या श्रव्य-दृश्य सूचना के किसी भी भौतिक भाग को 
+जनित किए बिना, उपांतरित किए बिना, परिवर्तित किए बिना या 
+अभिचालित किए बिना;”। 
+
+
+[भाग Lave 3(i)] 
+
+
+भारत का राजपत्र : असाधारण 3 
+
+
+(ख) उप-नियम () के पश्चात्‌ निम्नलिखित उप-नियम अंतःस्थापित किए जाएंगें, अर्थात्‌:-- 
+
+
+“//क) इन नियमों के प्रयोजनों के लिए, विधि-विरुद्ध कृत्य के कारित करने के लिए प्रयुक्त की 
+जाने वाली सूचना के संदर्भ में 'सूचना' के प्रति कोई भी संदर्भ, जिसके अन्तर्गत नियम 3 के उप- 
+नियम (॥) के खंड (ख) और खंड (घ) तथा नियम 4 के उप-नियम (2) और (4) शामिल हैं, तब 
+तक कि संदर्भ से अन्यथा अपेक्षित न हो, सिंथेटिक रूप से जनित सूचना को भी शामिल करने के 
+रूप में अर्थान्वित किया जाएगा। 
+
+
+(छा) इन नियमों के प्रयोजनों के लिए और संदेहों को दूर करने के लिए, एतट्वारा यह स्पष्ट किया 
+जाता है कि किसी मध्यवर्ती द्वारा इन नियमों के अनुपालन में, जिसके अन्तर्गत नियम 3 के उप- 
+नियम (4), उप-नियम (2) या उप-नियम (3) के अनुसार, या उसके अन्तर्गत किसी उल्लंघन के 
+प्रति युक्तियुक्त और उपयुक्त तकनीकी उपायों, जिसके अन्तर्गत ऑटोमेटेड उपकरण या अन्य 
+उपयुक्त तंत्र भी हैं, को परिनियोजित करके अवगत होने पर, किसी भी सूचना, जिसके अन्तर्गत 
+सिंथेटिक रूप से जनित सूचना, डेटा या संचार लिंक भी हैं, को हटाना या उस तक पहुंच को 
+असमर्थ करना, अधिनियम की धारा 79 की उप-धारा (2) के खंड (क) या खंड (ख) के अधीन 
+विनिर्दिष्ट शर्तों का उल्लंघन नहीं माना जाएगा।”। 
+
+
+3. उक्त नियम के नियम 3 के,-- 
+
+
+(क) उप-नियम (॥) में -- 
+
+
+(i) खंड (ख) के स्थान पर निम्नलिखित खंड प्रतिस्थापित किए जाएंगे, अर्थात्‌:-- 
+
+
+“/ग्र) कोई मध्यवर्ती, अपने उपयोक्ताओं को आवधिक रूप से, कम-से-कम प्रत्येक तीन 
+माह में एक बार, अपने नियमों और विनियमों, निजता नीति, उपयोक्ता करार, या 
+किसी अन्य उपयुक्त माध्यम से, सरल एवं प्रभावी तरीके से, अंग्रेज़ी में अथवा संविधान 
+की आठवीं अनुसूची में विनिर्दिष्ट किसी भी भाषा में, यह सूचित करेगा कि-- 
+
+
+() उक्त नियमों और विनियमों, निजता नीति या उपयोक्ता करार, चाहे वह 
+किसी भी नाम से जाना जाए, के अनुपालन में विफल रहने की स्थिति में, उसे 
+यह अधिकार होगा कि वह तुरंत उपयोक्ताओं के कंप्यूटर संसाधन तक पहुँच 
+या उपयोग के अधिकारों को समाप्त या निलंबित कर दे, या अनुपालन न करने 
+वाली सूचना को हटाए या उस तक पहुँच को असमर्थ कर दे, या यथास्थिति, 
+दोनों कर दे; 
+
+
+(ii) जहाँ ऐसा अनुपालन-भंग, तत्समय प्रवृत्त किसी विधि के उल्लंघन में, किसी 
+सूचना के सृजन, जनन, उपांतरण, परिवर्तन, होस्टिंग, प्रदर्शित करने, अपलोड 
+करने, प्रकाशित करने, प्रसारित करने, संग्रहीत करने, अद्यतन करने, साझा 
+करने अथवा अन्यथा प्रचारित करने से संबंधित हो, वहाँ ऐसे अनुपालन-भंग 
+के लिए उत्तरदायी उपयोक्ता, अधिनियम के उपबंधों या किसी अन्य लागू विधि 
+के अधीन दण्ड या दण्डनीयता का भागी हो सकता है; और 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEC. 3(4)] 
+
+
+(iii) जहाँ ऐसा उल्लंघन, तत्समय प्रवृत्त किसी विधि के अधीन किसी अपराध 
+के कारित करने से संबंधित हो, जैसे कि भारतीय नागरिक सुरक्षा संहिता, 
+2023 (2023 का 46) अथवा लैंगिक अपराधों से बालकों का संरक्षण 
+अधिनियम, 202 (202 का 32) के अधीन ऐसा अपराध, जिसका अनिवार्य 
+रूप से प्रतिवेदन किया जाना अपेक्षित है, वहाँ लागू विधि के उपबंधों के 
+अनुसार, ऐसे अपराध का समुचित प्राधिकारी को प्रतिवेदन किया जाएगा; 
+
+
+(यक) (ग) के उप-खंड (i) और (॥) को प्रतिकूल प्रभावित किए बिना, जहाँ उप-नियम 
+(3) के अधीन संदर्भित कोई मध्यवर्ती ऐसा कंप्यूटर संसाधन उपलब्ध कराता है, जो 
+सिंथेटिक रूप से जनित सूचना के रूप में सूचना के सृजन, जनन, उपांतरण, परिवर्तन, 
+प्रकाशन, प्रेषण, साझा करने या प्रचारित को सक्षम करता है, अनुमति देता है अथवा 
+सुगम बनाता है, ऐसा मध्यवर्ती, अपने उपयोक्ताओं को अतिरिक्त रूप से यह भी सूचित 
+करेगा कि-- 
+
+
+(i) उप-नियम (3) के खंड (क) के उप-खंड (i) के उल्लंघन में सिंथेटिक रूप से 
+जनित सूचना के रूप में सूचना के सृजन, जनन, उपांतरण, परिवर्तन, प्रकाशन, 
+प्रसारित, साझा करने या प्रचारित करने के लिए, मध्यवर्ती के कंप्यूटर संसाधन 
+को निर्देशित करना, अनुदेश देना अथवा अन्यथा कारण कारित करना, तत्समय 
+vad fret विधि के अधीन, जिसमें अधिनियम, भारतीय न्याय संहिता, 
+2023 (2023 का 45), लैंगिक अपराधों से बालकों का संरक्षण अधिनियम, 
+2042 (2042 का 32), लोक प्रतिनिधित्व अधिनियम, 7957 (954 का 
+43), स्त्री अशिष्ट रूपण (प्रतिषेध) अधिनियम, 7986 (4986 का 60), 
+महिलाओं का कार्यस्थल पर लैंगिक उत्पीड़न (निवारण, प्रतिषेध और 
+प्रतितोष) अधिनियम, 2043 (2043 का 44) तथा अनैतिक व्यापार 
+(निवारण) अधिनियम, 956 (4956 का 04) के उपबंध शामिल हैं, लागू 
+होने वाले दण्ड या दण्डनीयता को आकर्षित कर सकता है; और 
+
+
+(ii) उप-नियम (3) के खंड (क) के उप-खंड (i) का ऐसा कोई उल्लंघन, 
+निम्नलिखित का कारण हो सकता है-- 
+
+
+(l) ऐसी सूचना तक पहुँच को तुरंत असमर्थ किया जाना अथवा ऐसी 
+सूचना का हटा दिया जाना; 
+
+
+(॥) साक्ष्य को किसी भी प्रकार से अध:प्रभावित किए बिना, इस उप- 
+नियम का उल्लंघन करने वाले उपयोक्ता के उपयोक्ता एकाउंट का 
+निलंबन या समापन; 
+
+
+(Il) लागू विधि के अनुसार, ऐसे उपयोक्ता की पहचान तथा 
+उल्लंघनकारी उपयोक्ता की पहचान का शिकायतकर्ता को 
+प्रकटीकरण, जहाँ ऐसा शिकायतकर्ता, ऐसे उल्लंघन का पीड़ित हो, 
+अथवा पीड़ित की ओर से कार्यरत कोई व्यक्ति हो; और 
+
+
+[भाग ave 3(i)] भारत का राजपत्र : असाधारण 5 
+
+
+(IV) जहाँ ऐसा उल्लंघन, तत्समय प्रवृत्त किसी विधि के अधीन किसी 
+अपराध के कारित करने से संबंधित हो, जिसमें भारतीय नागरिक 
+सुरक्षा संहिता, 2023 (2023 का 46) अथवा लैंगिक अपराधों से 
+बालकों का संरक्षण अधिनियम, 20(2 (2042 का 32) के अधीन 
+ऐसा अपराध भी शामिल है, जिसका अनिवार्य रूप से प्रतिवेदन 
+किया जाना अपेक्षित है, वहाँ लागू विधि के उपबंधों के अनुसार, ऐसे 
+
+अपराध का समुचित प्राधिकारी को प्रतिवेदन किया जाना; 
+(Ta) जहाँ कोई मध्यवर्ती, स्वप्रेरणा से, अथवा वास्तविक जानकारी प्राप्त होने पर, 
+अथवा इन नियमों के अधीन प्राप्त किसी शिकायत, परिवाद या सूचना के आधार पर, 
+उप-नियम (3) के किसी भी उल्लंघन के संबंध में, उप-नियम (3) के खंड (क) के उप- 
+खंड (ii) & अंतर्गत आच्छादित सिंथेटिक रूप से जनित सूचना के रूप में सूचना के सृजन, 
+जनन, उपांतरण, परिवर्तन, होस्टिंग, प्रदर्शित करने, अपलोड करने, प्रकाशित करने, 
+प्रसारित करने, संग्रहीत करने, अद्यतन करने, साझा करने अथवा अन्यथा प्रचारित करने 
+के संबंध में, अवगत हो जाता है, तो वह शीघ्रतम एवं उपयुक्त कार्रवाई करेगा, जिसमें 
+
+खंड (TH) के उप-खंड (ii) F विनिर्दिष्ट कार्रवाई भी शामिल है;”। 
+(ii) a= (घ) में,-- 
+(/) प्रारंभिक भाग में, “छत्तीस घंटों” शब्दों के स्थान पर “तीन घंटों” शब्दों प्रतिस्थापित किए 
+जाएंगे; 
+(8) उप-खंड (ii) F, मद (I) F— 
+()) प्रारंभिक भाग में, “ऐसी सूचना जारी करने के प्रयोजनार्थ प्राधिकृत अधिकारी द्वारा 
+जारी” शब्दों के स्थान पर “ऐसी सूचना जारी करने के प्रयोजनार्थ, लिखित आदेश 
+द्वारा, प्राधिकृत अधिकारी द्वारा जारी” शब्दों प्रतिस्थापित किए जाएंगे; 
+
+
+(॥) प्रथम परंतुक के स्थान पर निम्नलिखित परंतुक प्रतिस्थापित किया जाएगा, 
+अर्थात्‌:-- 
+
+
+“परंतु जहाँ ऐसी सूचना पुलिस प्रशासन द्वारा जारी की जानी हो, वहाँ 
+एक या अधिक प्राधिकृत अधिकारी हो सकते हैं, जिनमें से प्रत्येक पुलिस उप 
+महानिरीक्षक के पद से नीचे का न हो, जिसे इस संबंध में विशेष रूप से समुचित 
+सरकार द्वारा प्राधिकृत किया गया ST" 
+
+
+(ख) उप-नियम (2) में,-- 
+(i) खंड (क) में, उप-खंड (i) F— 
+(0) प्रारंभिक भाग में, “पंद्रह दिनों” शब्दों के स्थान पर “सात दिनों” शब्दों प्रतिस्थापित किए 
+जाएंगे; और 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(4)] 
+
+
+(॥) प्रथम परंतुक में, “बहत्तर घंटों” शब्दों के स्थान पर “छत्तीस घंटों” शब्दों प्रतिस्थापित 
+किए जाएंगे; 
+
+
+(ii) खंड (ख) में, “24 घंटे” शब्दों के स्थान पर “दो घंटे” शब्दों प्रतिस्थापित किए जाएंगे। 
+
+
+(ग) उप-नियम (2) के पश्चात्‌ निम्नलिखित उप-नियम अंतःस्थापित किए जाएंगें, अर्थात्‌:-- 
+
+
+“(3) सिंथेटिक रूप से जनित सूचना के संबंध में उचित सावधानी: (क) जहाँ कोई मध्यवर्ती ऐसा 
+कंप्यूटर संसाधन उपलब्ध कराता है, जो सिंथेटिक रूप से जनित सूचना के रूप में सूचना के सृजन, 
+जनन, उपांतरण, परिवर्तन, प्रकाशन, प्रसारित, साझा करने या प्रचारित करने को सक्षम कर 
+सकता है, अनुमति दे सकता है अथवा सुगम बना सकता है, वह यह सुनिश्चित करेगा कि,-- 
+
+
+() वह युक्तियुक्त और समुचित तकनीकी उपाय, जिसके अंतर्गत ऑटोमेटेड उपकरण या 
+अन्य उपयुक्त तंत्र भी हैं, परिनियोजित करे, ताकि किसी भी उपयोक्ता को, यथास्थिति, 
+ऐसी किसी भी सिंथेटिक रूप से जनित सूचना का सृजन, जनन, उपांतरण, परिवर्तन, 
+प्रकाशन, प्रसारित, साझा करना या प्रचारित करना AGHAST न हो, जो तत्समय प्रवृत्त 
+किसी विधि का उल्लंघन करती हो, जिसमें अधिनियम, भारतीय न्याय संहिता, 2023 
+(2023 का 45), लैंगिक अपराधों से बालकों का संरक्षण अधिनियम, 202 (2042 का 
+32), विस्फोटक पदार्थ अधिनियम, 7908 (908 का 6) के उपबंध भी शामिल हैं, तथा 
+जिसमें ऐसी कोई भी सिंथेटिक रूप से जनित सूचना सम्मिलित है जो,-- 
+
+
+(I) बाल यौन शोषणकारी एवं दुर्व्यवहार सामग्री, अननुमोदित अंतरंग 
+छविचित्रण अंतर्वस्तु अंतर्विष्ट करती है, अथवा अश्लील, कामोद्दीपक, बाल योन 
+शोषण संबंधी, शारीरिक निजता सहित दूसरे की निजता को भंग करने वाली, 
+अशिष्ट, असभ्य, अथवा कामुकता व्यक्त करने वाली हो; या 
+
+
+(॥) किसी Fear दस्तावेज या मिथ्या इलैक्ट्रोनिक अभिलेख के सृजन, जनन, 
+उपांतरण या परिवर्तन का परिणाम हो; या 
+
+
+(Il) विस्फोटक सामग्री, आयुध अथवा गोलाबारूद की तैयारी, विकास या 
+प्राप्ति से संबंधित हो; या 
+
+
+(IV) किसी प्राकृतिक व्यक्ति अथवा वास्तविक संसार की घटना का rear 
+चित्रण या चित्रितीकरण करे, किसी व्यक्ति की पहचान, स्वर, आचरण, कार्य, 
+कथन, अथवा किसी घटना को घटित होने के रूप में, धोखा देने की संभावना 
+वाली रीति से गलत ढंग से प्रस्तुत करके, चाहे प्राकृतिक व्यक्ति की संलग्नता 
+सहित या बिना संलग्नता के; और 
+
+
+(ii) खंड (क) के उप-खंड (i) के अंतर्गत आच्छादित नहीं होने वाली प्रत्येक ऐसी सूचना 
+को, इस प्रकार स्पष्ट रूप से लेबल किया जाएगा कि दृश्य प्रदर्श में उसकी प्रमुख दृश्यता 
+सुनिश्चित हो, जो सहज रूप से दृष्टिगोचर तथा पर्याप्त रूप से बोधगम्य हो, या श्रव्य 
+
+
+[भाग Lave 3(i)] 
+
+
+भारत का राजपत्र : असाधारण 7 
+
+
+अंतर्वस्तु की दशा में, प्रमुख रूप से पूर्वसर्गित ser प्रकटीकरण के माध्यम से, जिससे 
+तुरंत यह पहचान किया जा सके कि ऐसी सूचना सिंथेटिक रूप से जनित सूचना है, जिसे 
+किसी कंप्यूटर संसाधन का उपयोग करके सृजित, जनित, उपांतरित या परिवर्तित किया 
+गया है; और ऐसी सूचना में, तकनीकी रूप से संभव सीमा तक, स्थायी मेटाडेटा अथवा 
+अन्य उपयुक्त तकनीकी उद्म-प्रमाण तंत्र, जिसमें एक अद्वितीय पहचानकर्ता भी शामिल 
+है, अंतर्नेहित किया जाएगा, ताकि ऐसी सूचना के सृजन, जनन, उपांतरण या परिवर्तन 
+के लिए प्रयुक्त मध्यवर्ती के कंप्यूटर संसाधन की पहचान की जा सके; 
+
+
+(ख) मध्यवर्ती, खंड (क) के उप-खंड (ii) के अनुसार प्रदर्शित अथवा अंतर्निहित किए गए 
+लेबल, स्थायी मेटाडेटा, जिसमें अद्वितीय पहचानकर्ता भी सम्मिलित है, के उपांतरण, 
+दमन या हटाए जाने को सक्षम नहीं करेगा।”। 
+
+
+4. उक्त नियम के नियम 4 के,-- 
+
+
+(क) उप-नियम (() के पश्चात्‌ निम्नलिखित उप-नियम अंतःस्थापित किए जाएंगें, अर्थात्‌:-- 
+
+
+“(h) कोई महत्वपूर्ण सोशल मीडिया मध्यवर्ती, जो अपने कंप्यूटर संसाधन पर किसी भी सूचना 
+को प्रदर्शित करने, अपलोड करने या प्रकाशित करने को सक्षम करता है, ऐसी सूचना के प्रदर्शन, 
+अपलोड या प्रकाशन से पूर्व,-- 
+
+
+(क) उपयोक्ताओं से यह घोषणा कराएगा कि क्या ऐसी सूचना सिंथेटिक रूप से जनित 
+सूचना है; 
+
+(ख) ऐसी घोषणा की शुद्धता का सत्यापन करने के लिए, ऐसी सूचना के स्वरूप, प्रारूप 
+और स्रोत को ध्यान में रखते हुए, समुचित तकनीकी उपाय, जिसके अंतर्गत ऑटोमेटेड 
+उपकरण या अन्य उपयुक्त तंत्र भी हैं, परिनियोजित करेगा; और 
+
+(ग) जहाँ ऐसी घोषणा या तकनीकी सत्यापन से यह पुष्टि होती है कि सूचना सिंथेटिक 
+रूप से जनित है, वहाँ यह सुनिश्चित करेगा कि उसी को एक उपयुक्त लेबल या सूचना- 
+पत्र के साथ, यह दर्शाते हुए कि अंतर्वस्तु सिंथेटिक रूप से जनित है, स्पष्ट रूप से तथा 
+प्रमुखता से प्रदर्शित किया जाए: 
+
+
+परंतु यह कि जहाँ ऐसा मध्यवर्ती अवगत हो जाता है, या यह अन्यथा स्थापित हो जाता 
+
+
+है, कि ऐसे मध्यवर्ती ने, इन नियमों के उल्लंघन में, ऐसी सिंथेटिक रूप से जनित सूचना को 
+जानबूझकर अनुमति दी, बढ़ावा दिया, अथवा उसके संबंध में कार्रवाई करने में विफल रहा, तो 
+ऐसा मध्यवर्ती इस उप-नियम के अधीन उचित सावधानी बरतने में विफल माना जाएगा। 
+
+
+स्पष्टीकरण.-- संदेहों को दूर करने के लिए, एतट्वारा यह स्पष्ट किया जाता है कि 
+
+
+महत्त्वपूर्ण सोशल मीडिया मध्यवर्ती का दायित्व, उपयोक्ता घोषणाओं की शुद्धता का सत्यापन 
+
+
+8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART IIH—SEC. 3(4)] 
+
+
+करने हेतु युक्तियुक्त और समानुपाती तकनीकी उपाय करने तक तथा यह सुनिश्चित करने तक 
+विस्तृत होगा कि किसी भी सिंथेटिक रूप से जनित सूचना का, ऐसी घोषणा या लेबल के बिना, 
+प्रकाशन न किया TT" 
+
+
+(ख) उप-नियम (4) में “प्रौद्योगिकी आधारित उपाय, जिसके अन्तर्गत उस सूचना जो चाहे सुव्यक्त हो या 
+विवक्षित, बलात्कार, बच्चों का लैंगिक शोषण या आचरण को किसी भी रूप में चित्रित करने वाले किसी 
+कृत्य या अनुरुषण या कोई अन्य सूचना जो उस सूचना की अनन्‍्तर्वस्तु के ठीक समान है जिसे नियम 3 के 
+उप-नियम (॥) के खंड (घ) के अधीन ऐसे मध्यवर्ती के कम्प्यूटर संसाधन पर पूर्व में हटा दिया गया है या 
+उस तक पहुंच को असमर्थ किया गया है, को चित्रित करने वाली पूर्व सक्रिय सूचना को पहचानने वाले 
+ऑटोमेटेड उपकरण या अन्य तंत्र भी हैं, करने का प्रयत्न करेगा” शब्दों के स्थान पर “समुचित तकनीकी 
+उपाय, जिसके अन्तर्गत उस सूचना जो चाहे सुव्यक्त हो या विवक्षित, बलात्कार, बच्चों का लैंगिक शोषण 
+या आचरण को किसी भी रूप में चित्रित करने वाले किसी कृत्य या अनुरुपण या कोई अन्य सूचना जो उस 
+सूचना की अन्तर्वस्तु के ठीक समान है जिसे नियम 3 के उप-नियम (4) के खंड (A) के अधीन ऐसे मध्यवर्ती 
+के कम्प्यूटर संसाधन पर पूर्व में हटा दिया गया है या उस तक पहुंच को असमर्थ किया गया है, को चित्रित 
+करने वाली पूर्व सक्रिय सूचना को पहचानने वाले ऑटोमेटेड उपकरण या अन्य उपयुक्त तंत्र भी हैं, 
+परिनियोजित करेगा” शब्दों रखे जाएंगें। 
+
+
+5. ved नियम के नियम 7 में “भारतीय दंड उपबंध” शब्दों के स्थान पर “भारतीय न्याय संहिता, 2023 
+(2023 का 45)” शब्दों, अंक और कोष्ठकों रखे जाएंगें। 
+
+
+[फा. सं. 2(5)/2025-साइबर ATT] 
+अजीत कुमार, संयुक्त सचिव 
+
+
+टिप्पण: मूल नियम भारत के राजपत्र, असाधारण, भाग Il, खंड 3, उप-खंड (i) में अधिसूचना संख्यांक सा.का.नि. 39(a), 
+तारीख 25 फरवरी, 2024 द्वारा प्रकाशित किए गए थे और तत्पश्चात्‌ अधिसूचना संख्यांक सा.का.नि. 794(अ), 
+तारीख 28 अक्टूबर, 2022; सा.का.नि. 275(अ), तारीख 6 अप्रैल, 2023; और सा.का.नि. 775(अ), 
+तारीख 22 अक्टूबर, 2025 द्वारा संशोधित किए गए थे। 
+
+
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+NOTIFICATION 
+New Delhi, the !0th February, 2026 
+
+
+G.S.R. 20(E).— In exercise of the powers conferred by sub-section (), clauses (z) and (zg) of sub-section 
+(2) of section 87 of the Information Technology Act, 2000 (2] of 2000), the Central Government hereby makes the 
+following rules to further amend the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) 
+Rules, 202, namely: — 
+
+
+. Short Title and Commencement.—() These rules may be called the Information Technology (Intermediary 
+Guidelines and Digital Media Ethics Code) Amendment Rules, 2026. 
+
+
+(2) They shall come into force on the 20 "day of February, 2026. 
+
+
+2. In the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 
+202| (hereafter referred to as the said rules), in rule 2,— 
+
+
+(a) in sub-rule ( ),--- 
+
+
+(i) after clause (c), the following clause shall be inserted, namely:— 
+
+
+[भाग Lave 36)] 
+
+
+भारत का राजपत्र : असाधारण 9 
+
+
+“(ca) ‘audio, visual or audio-visual information’ means any audio, image, photograph, 
+graphic, video, moving visual recording, sound recording or any other audio, visual or 
+audio-visual content, with or without accompanying audio, whether created, 
+generated, modified or altered through any computer resource;”. 
+
+
+(ii) after clause (w), the following clause shall be inserted, namely:— 
+
+
+“(wa) ‘synthetically generated information’ means audio, visual or audio-visual 
+information which is artificially or algorithmically created, generated, modified or 
+altered using a computer resource, in a manner that such information appears to be real, 
+authentic or true and depicts or portrays any individual or event in a manner that is, or 
+is likely to be perceived as indistinguishable from a natural person or real-world event; 
+
+
+Provided that the purposes of this clause, an audio, visual or audio-visual 
+information shall not be deemed to be ‘synthetically generated information’, where such 
+audio, visual or audio-visual information arises from— 
+
+
+(a) routine or good-faith editing, formatting, enhancement, technical correction, 
+colour adjustment, noise reduction, transcription, or compression that does not 
+materially alter, distort, or misrepresent the substance, context, or meaning of the 
+underlying audio, visual or audio-visual information; or 
+
+
+(b) the routine or good-faith creation, preparation, formatting, presentation or 
+design of documents, presentations, portable document format (PDF) files, 
+educational or training materials, research outputs, including the use of illustrative, 
+hypothetical, draft, template-based or conceptual content, where such creation or 
+presentation does not result in the creation or generation of any false document or 
+false electronic record; or 
+
+
+(c) the use of computer resources solely for improving accessibility, clarity, quality, 
+translation, description, searchability, or discoverability, without generating, 
+altering, or manipulating any material part of the underlying audio, visual or audio- 
+visual information;”. 
+
+
+(b) after sub-rule (), the following sub-rules shall be inserted, namely:— 
+
+
+“(IA) For the purposes of these rules, any reference to ‘information’ in the context of 
+information being used to commit an unlawful act, including under clauses (b) and (d) of 
+sub-rule (l) of rule 3 and sub-rules (2) and (4) of rule 4, shall be construed to include 
+synthetically generated information, unless the context otherwise requires. 
+
+
+(78) For the purposes of these rules and for the removal of doubts, it is hereby clarified that 
+the removal of, or disabling of access to, any information, including synthetically generated 
+information, data or communication link, by an intermediary in compliance with these rules, 
+including in accordance with sub-rule (l), sub-rule (2) or sub-rule (3) of rule 3, or upon 
+becoming aware of any violation thereunder by deploying reasonable and appropriate 
+technical measures, including automated tools or other suitable mechanisms, shall not 
+amount to a violation of the conditions specified under clauses (a) or (b) of sub-section (2) 
+of section 79 of the Act.”. 
+
+
+3. In the said rules, in rule 3,— 
+
+
+(a) in sub-rule (),— 
+
+
+(i) for clause (०), the following clauses shall be substituted, namely: — 
+
+
+“(c) an intermediary shall periodically inform its users, at least once every three months, in 
+a simple and effective manner through its rules and regulations, privacy policy, user 
+agreement, or any other appropriate means, in English or any language specified in the 
+Eighth Schedule to the Constitution, that— 
+
+
+(i) in case of non-compliance with such rules and regulations, privacy policy or 
+user agreement, by whatever name called, it has the right to terminate or 
+suspend the access or usage rights of the users to the computer resource 
+
+
+0 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEC. 30)] 
+
+
+immediately, or to remove or disable access to non-compliant information, or 
+both, as the case may be; 
+
+
+(ii) where such non-compliance relates to the creation, generation, modification, 
+alteration, hosting, displaying, uploading, publishing, transmitting, storing, 
+updating, sharing or otherwise disseminating of information in contravention 
+of any law for the time being in force, the user who is responsible for such non- 
+compliance may be liable to penalty or punishment under the provisions of the 
+Act or any other applicable law; and 
+
+
+(iii) where such violation relates to the commission of an offence under any law for 
+the time being in force, such as the Bharatiya Nagarik Suraksha Sanhita, 2023 
+(46 of 2023) or the Protection of Children from Sexual Offences Act, 202 (32 
+of 202) which requires such offence to be mandatorily reported, reporting of 
+such offence to the appropriate authority in accordance with the provisions of 
+the applicable law; 
+
+
+(ca) without prejudice to sub-clauses (i) and (॥) of clause (c), where an intermediary referred 
+to under sub-rule (3) offers a computer resource which enables, permits or facilitates 
+the creation, generation, modification, alteration, publication, transmission, sharing, or 
+dissemination of information as synthetically generated information, such intermediary 
+shall additionally inform its users that— 
+
+
+(i) directing, instructing or otherwise causing the computer resource of the 
+intermediary for creation, generation, modification, alteration publication, 
+transmission, sharing, or dissemination of information as_ synthetically 
+generated information in contravention of sub-clause (i) of clause (a) of sub- 
+tule (3) may attract penalty or punishment as may be applicable under any law 
+for the time being in force, including the provisions of the Act, the Bharatiya 
+Nyaya Sanhita, 2023 (45 of 2023), the Protection of Children from Sexual 
+Offences Act, 20l2 (32 of 202), the Representation of the People Act, 95] 
+(43 of 95), the Indecent Representation of Women (Prohibition) Act, 986 
+(60 of 986), the Sexual Harassment of Women at Workplace (Prevention, 
+Prohibition And Redressal) Act, 20I3 (4 of 203), and the Immoral Traffic 
+(Prevention) Act, 956 (04 of 956); and 
+
+
+(0) any such contravention of sub-clause (i) of clause (a) of sub-rule (3) may lead 
+to— 
+
+
+(I) the immediate disabling of access to or removal of such information; 
+
+
+(II) suspension or termination of the user account of the user who violates 
+this sub-rule without vitiating the evidence; 
+
+
+(IIT) in accordance with applicable law, identification of such user and 
+disclosure of the identity of the violating user to the complainant, where 
+such complainant is a victim of, or an individual acting on behalf of a 
+victim of, such contravention; and 
+
+
+(IV) where such violation relates to the commission of an offence under any 
+law for the time being in force, including the Bharatiya Nagarik Suraksha 
+Sanhita, 2023 (46 of 2023) or the Protection of Children from Sexual 
+Offences Act, 20I2 (32 of 20l2) which requires such offence to be 
+mandatorily reported, reporting of such offence to the appropriate 
+authority in accordance with the provisions of the applicable law; 
+
+
+(cb) where an intermediary becomes aware, either on its own accord or upon receipt of actual 
+knowledge or on the basis of any grievance, complaint or information received under 
+these rules, of any violation of sub-rule (3), in relation to the creation, generation, 
+modification, alteration, hosting, displaying, uploading, publishing, transmitting, 
+storing, updating, sharing or otherwise dissemination of information as synthetically 
+generated information covered under sub-clause (ii) of clause (a), it shall take 
+expeditious and appropriate action, including those specified in sub-clause (ii) of clause 
+(ca);”. 
+
+
+[भाग ।---खण्ड 36)] भारत का राजपत्र : असाधारण ] 
+
+
+(ii) in clause (d),— 
+
+
+(A) in the opening portion, for the words “thirty-six hours”, the words “within three hours” 
+shall be substituted; 
+
+
+(B) in sub-clause (ii), in item (I),— 
+
+
+(I) in the opening portion, for the words “issued by an officer authorised for the purpose 
+of issuing such intimation”, the words “issued by an officer authorised, by order in 
+writing, for the purpose of issuing such intimation” shall be substituted; 
+
+
+(II) for the first proviso, the following proviso shall be substituted, namely: — 
+
+
+“Provided that where such intimation is to be issued by the police administration, 
+there may be one or more authorised officers, each not below the rank of Deputy 
+Inspector General of Police, especially authorised by the Appropriate Government in 
+this behalf”. 
+
+
+(b) in sub-rule (2),— 
+(i) inclause (a), in sub-clause (i),— 
+
+
+(I) in the opening portion, for the words “fifteen days”, the words “seven days” shall be 
+substituted; and 
+
+
+(II) in the first proviso, for the words “seventy-two hours”, the words “thirty-six hours” shall 
+be substituted; 
+
+
+(ii) in clause (0), for the words “twenty-four hours”, the words “two hours” shall be substituted. 
+(c) after sub-rule (2), the following sub-rule shall be inserted, namely:— 
+
+
+“(3) Due diligence in relation to synthetically generated information: (a) Where an intermediary offers 
+a computer resource which may enable, permit, or facilitate the creation, generation, modification, 
+alteration, publication, transmission, sharing, or dissemination of information as synthetically generated 
+information, it shall ensure that,— 
+
+
+(0) it deploys reasonable and appropriate technical measures, including automated tools or other 
+suitable mechanisms, to not allow any user to create, generate, modify, alter, publish, transmit, 
+share, or disseminate, as the case may be, any such synthetically generated information that violates 
+any law for the time being in force, including the Act, Bharatiya Nyaya Sanhita, 2023 (45 of 2023), 
+Protection of Children from Sexual Offences Act, 202 (32 of 20i2), Explosive Substances Act, 
+908 (6 of 908), and includes any such synthetically generated information that,— 
+
+
+(I) contains child sexual exploitative and abuse material, non-consensual intimate imagery 
+content, or is obscene, pornographic, paedophilic, invasive of another person’s privacy, 
+including bodily privacy, vulgar, indecent or sexually explicit; or 
+
+
+(II) results in the creation, generation, modification or alteration of any false document or 
+false electronic record; or 
+
+
+(Il) ‘relates to the preparation, development or procurement of explosive material, arms or 
+ammunition; or 
+
+
+(IV) falsely depicts or portrays a natural person or real-world event by misrepresenting, in a 
+manner that is likely to deceive, such person’s identity, voice, conduct, action, statement, 
+or such event as having occurred, with or without the involvement of natural person; and 
+
+
+(ii) every such information not covered under sub-clause () of clause (a) is prominently labelled in 
+a manner that ensures prominent visibility in the visual display that is easily noticeable and 
+adequately perceivable, or, in the case of audio content, through a prominently prefixed audio 
+disclosure, that can be used to immediately identify that such information is synthetically 
+generated information which has been created, generated, modified or altered using a computer 
+resource and such information shall be embedded with a permanent metadata or other appropriate 
+technical provenance mechanisms, to the extent technically feasible, including a unique 
+identifier, to identify the computer resource of the intermediary used to create, generate, modify 
+or alter such information; 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART HI—SEC. 30)] 
+
+
+(b) the intermediary shall not enable the modification, suppression or removal of the label, permanent 
+metadata, including the unique identifier, displayed or embedded in accordance with sub-clause (ii) of 
+clause (a).”. 
+
+
+4. In the said rules, in rule 4,— 
+(a) after sub-rule (), the following sub-rule shall be inserted, namely:— 
+
+
+“(LA) A significant social media intermediary which enables displaying, uploading, or publishing 
+any information on its computer resource shall, prior to such display, uploading, or publication,— 
+
+
+(a) require users to declare whether such information is synthetically generated 
+information; 
+
+
+(b) deploy appropriate technical measures, including automated tools or other suitable 
+mechanisms, to verify the accuracy of such declaration, having regard to the nature, 
+format, and source of such information; and 
+
+
+(c) where such declaration or technical verification confirms that the information is 
+synthetically generated, ensure that the same is clearly and prominently displayed with 
+an appropriate label or notice, indicating that the content is synthetically generated: 
+
+
+Provided that where such intermediary becomes aware, or it is otherwise established, 
+that the intermediary knowingly permitted, promoted, or failed to act upon such synthetically 
+generated information in contravention of these rules, such intermediary shall be deemed to have 
+failed to exercise due diligence under this sub-rule. 
+
+
+Explanation.—For the removal of doubts, it is hereby clarified that the responsibility of the 
+significant social media intermediary shall extend to taking reasonable and proportionate 
+technical measures to verify the correctness of user declarations and to ensure that no 
+synthetically generated information is published without such declaration or label.”. 
+
+
+(b) in sub-rule (4), for the words “endeavour to deploy technology-based measures, including automated tools 
+or other mechanisms”, the words “deploy appropriate technical measures, including automated tools or other 
+suitable mechanisms” shall be substituted. 
+
+
+5. In the said rules, in rule 7, for the words “the Indian Penal Code’, the words, figures and brackets “the 
+Bharatiya Nyaya Sanhita, 2023 (45 of 2023)” shall be substituted. 
+
+
+[F. No. 2(5)/2025-CyberLaws] 
+AJIT KUMAR, Jt. Secy. 
+
+
+Note: The principal rules were published in the Gazette of India, Extraordinary, Part H, Section 3, Sub-section (i), vide 
+notification number G.S.R. l39(E), dated the 25" February, 202] and subsequently amended vide notification 
+number G.S.R. 794(E), dated the 287 October, 2022; G.S.R. 275(E), dated the 6" April, 2023; and G.S.R. 775(E), 
+dated the 22™ October, 2025. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-!0054. Saag NATH Prag eines cial 
+
+
+Date: 2026.02.0 5:37:5 +05'30' 
+
+
