@@ -1,0 +1,631 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+ANd =: राजजपनतन्र 
+
+
+Che Gazette of Jndia 
+
+
+सी.जी.-डी.एल.-अ.-28022026-270605 
+CG-DL-E-28022026-270605 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग क1--खण्ड 4 
+PART III—Section 4 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 126] नई दिल्ली, मंगलवार, फरवरी 24, 2026/फाल्गुन 5, 1947 
+No. 126] NEW DELHI, TUESDAY, FEBRUARY 24, 2026/PHALGUNA 5, 1947 
+
+
+भारतीय मानक ब्यूरो 
+(उपभोक्ता मामले विभाग) 
+अधिसूचना 
+नई दिल्‍ली, 20 फरवरी, 2026 
+
+संदर्भ: HQ-PUB013/1/2020-PUB-BIS (1439).---भारतीय मानक ब्यूरो नियम, 2018 के नियम 15 के 
+उपनियम (1) के अनुसरण में भारतीय मानक ब्यूरो एतदद्वारा अधिसूचित करता है की जिन भारतीय मानकों के विवरण 
+इसमें संलग्न अनूसूची के द्वितीय स्तंभ में दिये गये हैं, तीसरे स्तंभ में इंगित तिथि को स्थापित हो गये हैं| चौथे स्तंभ में दिये 
+गये मानकों के विवरण, यदि कोई हो तो वे भी साथ-साथ लागू रहेंगे जब तक वे पाँचवें स्तंभ में इंगित तिथि को वापस लिए 
+जाने हैं| 
+
+
+1330 01/2026 (1) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART III—SEc.4] 
+
+
+अनुसूची 
+
+
+स्थापित भारतीय मानकों की संख्या, वर्ष तथा 
+शीर्षक 
+
+
+प्रतिस्थापन तिथि 
+
+
+भारतीय मानकों, यदि वापस 
+लिए जाने हैं, की संख्या, वर्ष 
+तथा शीर्षक 
+
+
+वापस होने की 
+तिथि 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+आई एस/आई एस ओ/आई ई सी 11801-6 : 
+2017 
+
+
+सूचना प्रौद्योगिकी -- ग्राहक परिसर के लिए 
+सामान्य केबलिंग 
+
+
+भाग 6 वितरित इमारती सेवाएँ 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+आई एस/आई एस ओ/आई ई सी 11801- 
+9909 : 2020 
+
+
+सूचना प्रौद्योगिकी --ग्राहक परिसर के लिए 
+सामान्य केबलिंग 
+
+
+भाग 9909 30 मीटर से अधिक की पहुंच के 
+लिए 25 Gbit/s के समर्थन में संतुलित 
+केबलिंग का मूल्यांकन 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+आई एस/आई एस ओ/आई ई सी 11801- 
+9910 : 2020 
+
+
+सूचना प्रौद्योगिकी -- ग्राहक परिसर के लिए 
+सामान्य केबलिंग 
+
+
+भाग 9910 मॉड्यूलर प्लग-टर्मिनेटेड लिंक 
+केबलिंग के लिए विशिष्टि 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+आई एस 16910 (भाग 2/अनुभाग 11) : 
+2026 
+आई ई सी 62676-2-11 : 2024 
+वीडियो निगरानी प्रणाली के लिए सुरक्षा 
+अनुप्रयोगों में प्रयोग प्रणालियाँ 
+भाग 2 वीडियो पारेषण प्रोटोकॉल 
+अनुभाग 11 सुरक्षित शहरों और कानून प्रवर्तन 
+के लिए VMS और क्लाउड ५585 
+प्रणालियों के लिए इंटरऑप प्रोफाइल 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+आई एस1 6910 (भाग 2/अनुभाग 33) : 
+2026 
+आई ई सी 62676-2-33 : 2022 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+[भाग ave 4] 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+वीडियो निगरानी प्रणाली के लिए सुरक्षा 
+अनुप्रयोगों में प्रयोग प्रणालियाँ 
+भाग 2 वीडियो पारेषण प्रोटोकॉल 
+अनुभाग 33 क्लाउड अपलिंक एवं दूरस्थ 
+प्रबंधन प्रणाली अभिगमन 
+
+
+आई एस 16910 (भाग 5/अनुभाग 1) : 2026 
+आई ई सी 62676-5-1 : 2024 
+वीडियो निगरानी प्रणाली के लिए सुरक्षा 
+अनुप्रयोगों में प्रयोग प्रणालियाँ 
+भाग 5 कैमरा उपकरणों के लिए डेटा विशिष्षि 
+और छवि गुणवत्ता प्रदर्शन 
+अनुभाग 1 छवि गुणवत्ता प्रदर्शन के लिए 
+पर्यावरणीय परीक्षण पद्धतियाँ 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+आई एस/आई ई सी 62820-1-2 : 2017 
+इमारती आंतरिक संचार प्रणाली 
+भाग 1 सिस्टम अपेक्षाएँ 
+अनुभाग 2 इंटरनेट प्रोटोकॉल (आईपी) का 
+उपयोग करके इंटरकॉम सिस्टम बनाना 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+आई एस/आई ई सी 62820-2 : 2017 
+इमारती आंतरिक संचार प्रणाली 
+भाग 2 सिस्टम ater — इंटरनेट प्रोटोकॉल 
+(आईपी) 
+का उपयोग करके इंटरकॉम सिस्टम का निर्माण 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+आई एस/आई ई सी 62820-3-1: 2017 
+इमारती आंतरिक संचार प्रणाली 
+भाग 3 अनुप्रयोग दिशानिर्देश 
+अनुभाग 1 सामान्य 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+10 
+
+
+आई एस/आई ई सी 62820-3-2 : 2018 
+इमारती आंतरिक संचार प्रणाली 
+भाग 3 अनुप्रयोग दिशानिर्देश 
+अनुभाग 2 उन्नत सुरक्षा भवन इंटरकॉम 
+सिस्टम 
+(ए एस बी आई एस) 
+
+
+18 फ़रवरी 2026 
+
+
+लागू नहीं 
+
+
+लागू नहीं 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4] 
+आई एस/आई ई सी 62851-1:2014 | 18 फ़रवरी 2026 लागू नहीं लागू नहीं 
+अलार्म एवं इलेक्ट्रॉनिक सुरक्षा प्रणालियाँ -- 
+सामाजिक अलार्म प्रणालियाँ 
+
+
+भाग 1 तंत्र अपेक्षाएँ 
+
+
+12 
+
+
+आई एस/आई ई सी 62851-2:2014 | 18 फ़रवरी 2026 लागू नहीं लागू नहीं 
+अलार्म एवं इलेक्ट्रॉनिक सुरक्षा प्रणालियाँ -- 
+सामाजिक अलार्म प्रणालियाँ 
+भाग 2 ट्रिगर उपकरण 
+
+
+13 
+
+
+आई एस/आई ई सी 62851-3 : 2014... | 18 फ़रवरी 2026 लागू नहीं लागू नहीं 
+अलार्म एवं इलेक्ट्रॉनिक सुरक्षा प्रणालियाँ -- 
+सामाजिक अलार्म प्रणालियाँ 
+भाग 3 स्थानीय इकाई एवं नियंत्रक 
+
+
+14 
+
+
+आई एस/आई ई सी 62851-5: 2014. | 18 फ़रवरी 2026 लागू नहीं लागू नहीं 
+अलार्म एवं इलेक्ट्रॉनिक सुरक्षा प्रणालियाँ -- 
+सामाजिक अलार्म प्रणालियाँ 
+भाग 5 अंतर सम्बन्ध एवं संचार व्यवस्था 
+
+
+चित्रा गुप्ता, वैज्ञानिक जी एवं उप महानिदेशक (हॉलमार्किंग एवं ट्रेनिंग) 
+[विज्ञापन-ा/4/असा./701/2025-26] 
+
+
+[भाग पा---खण्ड 4] भारत का राजपत्र : असाधारण 5 
+
+
+BUREAU OF INDIAN STANDARDS 
+(Department of Consumer Affairs) 
+NOTIFICATION 
+New Delhi, the 20th February, 2026 
+Ref: HQ-PUB013/1/2020-PUB-BIS (1439).—In pursuance of Sub-rule (1) of Rule (15) of the Bureau of 
+
+
+Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards, particulars of which 
+are given in the second column of the schedule hereto annexed have been established on the date indicated against it in 
+
+
+third column. The particulars of the standards, if any which are given in the fourth column shall also remain in force 
+concurrently till they are withdrawn on the date indicated against them in the fifth column. 
+
+
+SCHEDULE 
+
+
+No., Year & Title of the Indian 
+Standards Established 
+
+
+Date of 
+Establishment 
+
+
+No. , Year & Title of the 
+Indian Standards to be 
+Withdrawn, if any 
+
+
+Date of 
+Withdrawal 
+
+
+(2) 
+
+
+(3) 
+
+
+(4) 
+
+
+(5) 
+
+
+IS/ISO/IEC 11801-6 : 2017 
+Information Technology — Generic 
+Cabling for Customer Premises 
+Part 6 Distributed Building Services 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+IS/AISO/IEC 11801-9909 : 2020 
+Information Technology — Generic 
+Cabling for Customer Premises 
+Part 9909 Evaluation of Balanced 
+Cabling in Support of 25 Gbit/s for 
+Reach Greater than 30 Metres 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+ISASO/IEC 11801-9910 : 2020 
+Information Technology — Generic 
+Cabling for Customer Premises 
+Part 9910 Specification for Modular 
+Plug-terminated Link Cabling 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+IS 16910 (Part 2/Sec 11) : 2026 
+IEC 62676-2-11 : 2024 
+Video Surveillance Systems (VSS) 
+for Use in Security Applications 
+Part 2 Video Transmission Protocols 
+Section 11 Interop Profiles for VMS 
+and Cloud VSaaS Systems for Safe 
+Cities and Law Enforcement 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+IS 16910 (Part 2/Sec 33) : 2026 
+IEC 62676-2-33 : 2022 
+Video Surveillance Systems for Use 
+in Security Applications 
+Part 2 Video Transmission Protocols 
+Cloud Uplink and Remote 
+Management System Access 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+IS 16910 16910 (Part 5/Sec 1) : 2026 
+IEC 62676-5-1 : 2024 
+Video Surveillance Systems for Use 
+in Security Applications 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART III—SEc.4] 
+
+
+Part 5 Data Specifications and Image 
+Quality Performance for Camera 
+Devices 
+Section | Environmental Test 
+Methods for Image Quality 
+Performance 
+
+
+IS/IEC 62820-1-2 : 2017 
+Building Intercom Systems 
+Part 1 System Requirements 
+Section 2 Building Intercom Systems 
+Using the Internet Protocol (IP) 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+IS/IEC 62820-2 : 2017 
+Building Intercom Systems 
+Part 2 System Requirements — 
+Building Intercom Systems Using 
+the Internet Protocol (IP) 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+IS/IEC 62820-3-1 : 2017 
+Building Intercom Systems 
+Part 3 Application Guidelines 
+Section 1 General 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+10 
+
+
+IS/IEC 62820-3-2 : 2018 
+Building Intercom Systems 
+Part 3 Application Guidelines 
+Section 2 Advanced Security 
+Building Intercom Systems (ASBIS) 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+11 
+
+
+IS/TEC 62851-1 : 2014 
+Alarm and Electronic Security 
+Systems — Social Alarm Systems 
+Part 1 System Requirements 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+12 
+
+
+IS/IEC 62851-2 : 2014 
+Alarm and Electronic Security 
+Systems — Social Alarm Systems 
+Part 2 Trigger Devices 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+13 
+
+
+IS/IEC 62851-3 : 2014 
+Alarm and Electronic Security 
+Systems — Social Alarm Systems 
+Part 3 Local Unit and Controller 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+14 
+
+
+IS/IEC 62851-5 : 2014 
+Alarm and Electronic Security 
+Systems — Social Alarm Systems 
+Part 5 Interconnections and 
+Communications 
+
+
+18 February 2026 
+
+
+NA 
+
+
+NA 
+
+
+CHITRA GUPTA, Scientist G & DDG (Hallmarking and Training) 
+[ADVT.-III/4/Exty./701/2025-26] 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. sarvest kumar 2» 
+
+
+SRIVASTAVA. Dat 
+
+
