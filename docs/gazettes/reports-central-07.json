@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2024-03-16.253100",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-03-16",
+      "ugid": "253100",
+      "title": "Weekly Gazette of India, 2024-03-16",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-16032024-253100",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253100.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-03-16.253100/253100.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-03-16.253100",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-03-16/253100.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-03-16.253100/253100_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-15.253218",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59112,29 +59136,6 @@
       "ia_identifier": "in.gazette.central.e.2023-12-07.250470",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-12-07/250470.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-12-07.250469",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-12-07",
-      "ugid": "250469",
-      "title": "Extraordinary Gazette of India, 2023-12-07",
-      "ministry": "Ministry of Chemicals and Fertilizers",
-      "department": "Department of Chemicals and Petro Chemicals",
-      "office": "",
-      "subject": "Quality Control Orders for 5 different types of Woven Sacks.",
-      "gazette_id": "CG-DL-E-07122023-250469",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250469.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-07.250469/250469.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-12-07.250469",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-12-07/250469.pdf",
       "topics": []
     }
   ],

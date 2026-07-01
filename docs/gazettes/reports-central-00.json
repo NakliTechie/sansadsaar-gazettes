@@ -1703,6 +1703,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-06-22.273822",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-22",
+      "ugid": "273822",
+      "title": "Extrordinary Gazette of India, 2026-06-22",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire of land under Section 20(A) for Central Railway Upgradation work of Electric Traction System for Pachora Badnera Section to meet 3000 MT loading target (Shirsoli TSS).",
+      "gazette_id": "CG-MH-E-25062026-273822",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273822.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-22.273822/273822.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-22.273822",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-22/273822.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-22.273811",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57522,29 +57545,6 @@
       "ia_identifier": "in.gazette.central.e.2026-03-19.271081",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-03-19/271081.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-19.271080",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-19",
-      "ugid": "271080",
-      "title": "Extrordinary Gazette of India, 2026-03-19",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-19032026-271080",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271080.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-19.271080/271080.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-19.271080",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-19/271080.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-19.271080",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-19",
+      "ugid": "271080",
+      "title": "Extrordinary Gazette of India, 2026-03-19",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-19032026-271080",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271080.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-19.271080/271080.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-19.271080",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-19/271080.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-19.271079",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59196,30 +59219,6 @@
       "mirror_path": "pdf/central/e/2025-12-10/268428.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-10.268428/268428_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-10.268427",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-10",
-      "ugid": "268427",
-      "title": "Extrordinary Gazette of India, 2025-12-10",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extraordinary Gazette of India under Section 3(1) of the Petroleum and Minerals Pipelines (ARUL) Act, 1962 regarding declaration of intention to acquire the Right of User in Land for East West Pipeline(EWPL)",
-      "gazette_id": "CG-DL-E-11122025-268427",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268427.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-10.268427/268427.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-10.268427",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-10/268427.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-10.268427/268427_djvu.txt"
     }
   ],
   "count": 2500,

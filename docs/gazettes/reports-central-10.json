@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-04-03.244947",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-03",
+      "ugid": "244947",
+      "title": "Extraordinary Gazette of India, 2023-04-03",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MoRTH",
+      "gazette_id": "CG-DL-E-06042023-244947",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244947.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-03.244947/244947.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-03.244947",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-03/244947.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-04-03.244946",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58212,29 +58235,6 @@
       "ia_identifier": "in.gazette.central.e.2022-12-20.241406",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-12-20/241406.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-20.241379",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-20",
-      "ugid": "241379",
-      "title": "Extraordinary Gazette of India, 2022-12-20",
-      "ministry": "Ministry of Railways",
-      "department": "NORTH CENTRAL RAILWAYS",
-      "office": "Construction Organisation",
-      "subject": "Publication of Gazette Notification for Declaration of acquisition under Section 20 E for land acquisition for 05 villages of Karchana Tehsil in Prayagraj District in connection with Pt. Deen Dayal Upadhyay Prayagraj 3rd line project in state of Uttar Pradesh",
-      "gazette_id": "CG-UP-E-24122022-241379",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241379.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-20.241379/241379.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-20.241379",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-20/241379.pdf",
       "topics": []
     }
   ],

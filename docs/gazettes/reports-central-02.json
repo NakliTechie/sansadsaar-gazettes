@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-12-10.268427",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-10",
+      "ugid": "268427",
+      "title": "Extrordinary Gazette of India, 2025-12-10",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extraordinary Gazette of India under Section 3(1) of the Petroleum and Minerals Pipelines (ARUL) Act, 1962 regarding declaration of intention to acquire the Right of User in Land for East West Pipeline(EWPL)",
+      "gazette_id": "CG-DL-E-11122025-268427",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268427.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-10.268427/268427.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-10.268427",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-10/268427.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-10.268427/268427_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-12-10.268415",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-15/264728.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-15.264728/264728_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-15.264727",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-15",
-      "ugid": "264727",
-      "title": "Extraordinary Gazette of India, 2025-07-15",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Request for Publication of Gazette Notification for the below mentioned Land Schedule under Sub section 1 of section 20A of the Railways Amendment Act 1989 24 89",
-      "gazette_id": "CG-OR-E-17072025-264727",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264727.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-15.264727/264727.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-15.264727",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-15/264727.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-15.264727/264727_djvu.txt"
     }
   ],
   "count": 2500,

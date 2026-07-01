@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-07-15.264727",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-15",
+      "ugid": "264727",
+      "title": "Extraordinary Gazette of India, 2025-07-15",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of Gazette Notification for the below mentioned Land Schedule under Sub section 1 of section 20A of the Railways Amendment Act 1989 24 89",
+      "gazette_id": "CG-OR-E-17072025-264727",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264727.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-15.264727/264727.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-15.264727",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-15/264727.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-15.264727/264727_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-07-15.264726",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-03-19/261929.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-19.261929/261929_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-19.261914",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-19",
-      "ugid": "261914",
-      "title": "Extraordinary Gazette of India, 2025-03-19",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
-      "gazette_id": "CG-DL-E-25032025-261914",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261914.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-19.261914/261914.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-19.261914",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-19/261914.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-19.261914/261914_djvu.txt"
     }
   ],
   "count": 2500,

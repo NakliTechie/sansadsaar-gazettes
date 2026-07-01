@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-19.261914",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-19",
+      "ugid": "261914",
+      "title": "Extraordinary Gazette of India, 2025-03-19",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
+      "gazette_id": "CG-DL-E-25032025-261914",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261914.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-19.261914/261914.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-19.261914",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-19/261914.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-19.261914/261914_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-03-19.261824",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-12-02/259162.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-02.259162/259162_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-12-02.259153",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-12-02",
-      "ugid": "259153",
-      "title": "Extraordinary Gazette of India, 2024-12-02",
-      "ministry": "Ministry of Defence",
-      "department": "Department of Defence",
-      "office": "D(Coord)",
-      "subject": "Jalapahar,.",
-      "gazette_id": "CG-DL-E-04122024-259153",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259153.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-02.259153/259153.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-12-02.259153",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-12-02/259153.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-02.259153/259153_djvu.txt"
     }
   ],
   "count": 2500,
