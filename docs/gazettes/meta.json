@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-07-03T20:15:33Z",
-  "elapsed_s": 128.5,
+  "generated_at": "2026-07-03T21:43:34Z",
+  "elapsed_s": 107.4,
   "totals": {
     "central": 29335
   },
@@ -32,13 +32,13 @@
       "search-bundle-07.json": 21920496,
       "search-bundle-08.json": 21131082,
       "search-bundle-09.json": 22143541,
-      "search-bundle-10.json": 22130434,
-      "search-bundle-11.json": 6284662
+      "search-bundle-10.json": 22117084,
+      "search-bundle-11.json": 6351378
     },
-    "total": 28161,
-    "truncated": 19772,
+    "total": 28168,
+    "truncated": 19776,
     "head_chars": 5000,
-    "size_bytes": 247542807,
+    "size_bytes": 247596173,
     "max_shard_bytes": 22478955
   },
   "search_index": {
@@ -154,32 +154,32 @@
       "search-index-48.json": 4609237,
       "search-index-49.json": 5079048,
       "search-index-50.json": 4308856,
-      "search-index-51.json": 4169431,
-      "search-index-52.json": 2771940,
-      "search-index-53.json": 13911184,
-      "search-index-54.json": 16235874,
-      "search-index-55.json": 21568175,
-      "search-index-56.json": 6594605
+      "search-index-51.json": 4165256,
+      "search-index-52.json": 2777790,
+      "search-index-53.json": 13848457,
+      "search-index-54.json": 16120063,
+      "search-index-55.json": 21235903,
+      "search-index-56.json": 7164063
     },
-    "total": 28161,
-    "size_bytes": 267402838,
-    "max_shard_bytes": 21568175
+    "total": 28168,
+    "size_bytes": 267463161,
+    "max_shard_bytes": 21235903
   },
   "audit": {
     "central_records": 29335,
-    "djvu_ok": 28161,
-    "djvu_pending": 1174,
+    "djvu_ok": 28168,
+    "djvu_pending": 1167,
     "no_text": 0,
     "topics_assigned": 0
   },
   "text_shards": {
-    "records_with_text": 28161,
+    "records_with_text": 28168,
     "shards": 385,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 54504,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 28161,
-    "txt_files_removed": 0
+    "txt_files_removed": 7
   }
 }
