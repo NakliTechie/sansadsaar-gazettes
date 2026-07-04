@@ -1,0 +1,668 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Ftd = VistWa 
+Che Gazette of Jndia 
+
+
+सी.जी.-डी.एल.-अ.-06042026-271584 
+CG-DL-E-06042026-271584 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग 1---खण्ड 3--उप-खण्ड (ii) 
+PART 1-8९टांणा 3—Sub-section (ii) 
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 1672] नई दिल्‍ली, सोमवार, अप्रैल 6, 2026/ चैत्र 16, 1948 
+No. 1672] NEW DELHI, MONDAY, APRIL 6, 2026/ CHAITRA 16, 1948 
+
+
+वाणिज्य और उद्योग मंत्रालय 
+(उद्योग संवर्धन और आंतरिक व्यापार विभाग) 
+आदेश 
+नई दिल्‍ली, 6 अप्रैल, 2026 
+
+
+का.आ. 1739(अ).--- भारतीय मानक ब्यूरो अधिनियम, 2016 (2016 का 11) की धारा 16 द्वारा प्रदत्त शक्तियों 
+का प्रयोग करते हुए, घरेलू, कर्मर्शियल और समान प्रकार के विद्युत उपकरणों की सुरक्षा (गुणवत्ता नियंत्रण) आदेश, 2025 
+का अधिक्रमण करते हुए, ऐसे अधिक्रमण से पहले की गई या करने से छोड़ी गई बातों को छोड़कर, केन्द्र सरकार का, ब्यूरो से 
+परामर्श करने के बाद यह मत है कि यह जनहित आवश्यक अथवा हितकर है, अत: एतट्दारा निम्नलिखित आदेश करती है, 
+नामतः- 
+
+
+1. संक्षिप्त शीर्षक, अनुप्रयोग और प्रारंभ.- (1) इस आदेश को घरेलू, कमर्शियल और समान प्रकार के विद्युत उपकरणों की 
+सुरक्षा (गुणवत्ता नियंत्रण) आदेश, 2026 कहा जाएगा। 
+
+
+(2) यह घरेलू, कमर्शियल या समान प्रकार के अनुप्रयोगों के लिए अभिप्रेत ऐसे सभी विद्युत उपकरणों पर लागू होगा, जिनका 
+Yes वोल्टेज सिंगल फेज उपकरणों के लिए 250 वोल्ट से अधिक नहीं है और एकदिश धारा (डायरेक्ट करंट) आपूर्ति वाले 
+उपकरणों और बैटरी चालित उपकरणों सहित अन्य उपकरणों के लिए 480 बोल्ट से अधिक नहीं है। 
+
+
+(3) यह उन विद्युत उपकरणों पर लागू नहीं होगा जो उक्त अधिनियम द्वारा जारी किसी अन्य गुणवत्ता नियंत्रण आदेश के 
+दायरे में आते हैं या किसी अन्य अधिनियम के तहत भारतीय मानक ब्यूरो के अनिवार्य प्रमाणन के लिए अधिसूचित हैं। 
+
+
+(4) यह आदेश दिनांक 1 अक्तूबर, 2026 से प्रभावी होगा। 
+
+
+2446 GI/2026 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(11)] 
+
+
+2. मानक Fret का अनिवार्य प्रयोग- तालिका के कॉलम (2) में विनिर्दिष्ट वस्तुएं या सामान तालिका के कॉलम (3) में 
+विनिर्दिष्ट तदनुरूपी भारतीय मानक के अनुरूप होंगे तथा उन पर भारतीय मानक ब्यूरो (अनुरूपता मूल्यांकन) विनियम, 
+2018 की अनुसूची-॥ की स्कीम-। के अनुसार ब्यूरो के लाइसेंस के तहत मानक चिह्न लगा होगा। 
+
+
+बशर्ते कि इस आदेश की कोई बात निर्यात के लिए घरेलू स्तर पर निर्मित वस्तुओं या वस्तुओं पर लागू नहीं होगी: 
+
+
+बशर्ते कि सूक्ष्म, लघु और मध्यम उद्यम विकास अधिनियम, 2006 (2006 का 27) के तहत परिभाषित लघु उद्यम 
+और सूक्ष्म उद्यम क्रमशः तालिका के कॉलम (6) और (7) में विनिर्दिष्ट संगत प्रविष्टि में विनिर्दिष्ट तिथि से ऐसे भारतीय मानकों 
+का अनुपालन करेंगे: 
+
+
+बशर्ते यह भी कि इस आदेश में कुछ भी घरेलू और इसी प्रकार के विद्युत उपकरणों के विनिर्माताओं द्वारा अनुसंधान 
+और विकास के उद्देश्य से प्रति वर्ष आयातित दो सौ वस्तुओं या सामानों के लिए लागू नहीं होगा, इस शर्त के साथ कि ऐसे 
+आयातित माल और सामान कमर्शियल रूप से बेचे नहीं जाएंगे और उन्हें स्क्रैप के रूप में निपटाया जाएगा और विनिर्माता 
+माल या सामान का वर्षवार रिकॉर्ड रखेंगे और मांगे जाने पर उसे केंद्र सरकार को प्रस्तुत करेंगे: 
+
+
+बशर्ते यह भी कि इस आदेश की कोई बात ब्यूरो द्वारा प्रमाणित विनिर्माता या ऐसे विनिर्माता द्वारा, जिसने सुसंगत 
+वस्तुओं और सामान के प्रमाणन के लिए ब्यूरो को आवेदन किया है, तालिका में उल्लिखित कार्यान्वयन की तारीख से पहले 
+घरेलू रूप से निर्मित या आयातित वस्तुओं या सामान पर लागू नहीं होगी और ऐसे विनिर्माता को तालिका में उल्लिखित 
+कार्यान्वयन की तारीख से छह माह तक ऐसे घोषित स्टॉक को बेचने या प्रदर्शित करने या उसे बिक्री हेतु प्रस्तुत करने की 
+अनुमति होगी, बशर्ते कि ऐसा विनिर्माता ब्यूरो के समक्ष इस आशय की घोषणा करेगा। 
+
+
+तालिका 
+्् सं. माल या सामान भारतीय | भारतीय मानक [सामान्यतः लघु उद्यमों के [सूक्ष्म उद्यमों 
+मानक का शीर्षक कार्यान्वयन |लिए के लिए 
+की तारीख [कार्यान्वयन की | कार्यान्वयन 
+(सूक्ष्म एवं [तारीख की तारीख 
+लघु उद्यमों 
+को छोड़कर) 
+(1) (2) (3) (4) (5) (6) (7) 
+घरेलू, कमर्शियल या इसी प्रकार के | आईएस [घरेलू 1 अक्तूबर, |1 जनवरी, 1 अप्रैल, 
+अनुप्रयोगों के लिए अभिप्रेत ऐसे 302 (भाग | और इसी प्रकार के | 2026 2027 2027 
+
+
+सभी विद्युत उपकरण, जिनका रेटेड | 1): 2024 (विद्युत 
+
+वोल्टेज सिंगल फेज उपकरणों के |आईईसी [उपकरण -- 
+लिए 250 वोल्ट से अधिक न हो |[60335-1: | सुरक्षा 
+
+और अन्य उपकरणों के लिए 480 | 2020 भाग 1 सामान्य 
+वोल्ट से अधिक न हो, जिसमें आवश्यकताएं 
+डायरेक्ट करेंट आपूर्ति वाले 
+उपकरण और बैटरी चालित 
+उपकरण भी शामिल हैं। 
+
+
+विद्युत उपकरणों की सूची नीचे दी 
+गई है: 
+
+1. वैक्यूम क्लीनर और वाटर AMT 
+क्लीनिंग उपकरण 
+
+2. स्पिन एक्सट्रैक्टर्स 
+
+
+कुर्किंग रेंज, हॉब्स, अवन और इसी 
+प्रकार के अन्य उपकरण 
+
+4. इलेक्ट्रिकल शेवर हेयर, क्लिपर और 
+इसी प्रकार के अन्य उपकरण 
+
+5. टम्बलर ड्रायर्स 
+
+a वार्मिंग प्लेट्स और इसी प्रकार के 
+उपकरण 
+
+
+[भाग U—ate 3(ii)] भारत का राजपत्र : असाधारण 
+
+
+7. फ्राइंग पैन, डीप फैट फ्रायर और 
+इसी प्रकार के उपकरण 
+
+| 8. | तरल पदार्थ गर्म करने के उपकरण 
+
+Po, - | मालिश संबंधी उपकरण 
+
+
+10. इलेक्ट्रिक फोर्स्ड कन्वेक्शन अवन, 
+स्टीम कुकर और स्टीम-कन्वेक्शन 
+अवन 
+
+11. इलेक्ट्रिक हीटिंग टूल्स 
+
+12. इलेक्ट्रिक स्टीम कुकर 
+
+13. sere किलर्स 
+
+14. इंडोर उपयोग के लिए इलेक्ट्रिक 
+कॉल TAT और TAT 
+
+
+15. इलेक्ट्रिक वॉटर बॉयलर 
+16. इलेक्ट्रिक कॉफी मेकर 
+17. इलेक्ट्रिक बीन स्‍लाइसर 
+
+
+18. इलेक्ट्रिक बेरी-जूस एक्सट्रैक्टर्स 
+19. इलेक्ट्रिक कैन ओपनर्स 
+20. इलेक्ट्रिक सेंट्रीफ्यूगल जूसर 
+
+
+21. इलेक्ट्रिक चर्न 
+
+22. इलेक्ट्रिक सिइट्रस-फ्रूट स्क्लीज़र 
+
+23. 500 ग्राम से कम हॉपर क्षमता वाले 
+इलेक्ट्रिक कॉफी fer 
+
+
+24. इलेक्ट्रिक क्रीम व्हिपर्स 
+
+25. इलेक्ट्रिक एग बीटर 
+
+26. इलेक्ट्रिक फ़ूड प्रोसेसर 
+
+27. 3 लीटर से कम हॉपर क्षमता वाले 
+इलेक्ट्रिक ग्राइंडर 
+
+28. इलेक्ट्रिक ग्रेटर्स 
+
+29. इलेक्ट्रिक आइसक्रीम मशीनें, जिनमें 
+रेफ्रिजरेटर और फ्रीजर में उपयोग 
+
+
+की जाने वाली मशीनें भी शामिल 
+हैं। 
+
+30. इलेक्ट्रिक नाइफ शार्पनर 
+
+31. इलेक्ट्रिक नाइफ 
+
+
+32. इलेक्ट्रिक नूडल मेकर 
+33. इलेक्ट्रिक पोटेटो पीलर्स 
+34. इलेक्ट्रिक श्रेडर 
+
+35. इलेक्ट्रिक सीविंग मशीनें 
+
+
+36. स्‍लाइसिंग मशीनें 
+
+37. इलेक्ट्रिक हॉट प्लेट्स 
+
+38. सिंगल वाल बेकिंग अवन 
+
+39. खाद्य सामग्री पीसने वाली कम गति 
+वाली मशीनें 
+
+40. डिशवाशर 
+
+41. फर्श सफाई करने वाली मशीनें और 
+
+
+वेट स्क्रबिंग मशीनें 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEC. 3(11)] 
+
+
+42. खाद्य अपशिष्ट डिस्पोजर्स 
+
+43. कंबल, पैड, कपड़े और इसी प्रकार के 
+फ्लेक्सिबल हीटिंग उपकरण 
+
+44. त्वचा के ऑप्टिकल 
+विकिरण एक्सपोज़र से संबंधित 
+उपकरण 
+
+45. कमर्शियल इलेक्ट्रिक कुकिंग रेंज, 
+अवन, 
+हॉब्स और हॉब एलीमेंट्स 
+
+46. कमर्शियल इलेक्ट्रिक डोनट फ्रायर 
+और 
+डीप फैट फ्रायर्स 
+
+47. कमर्शियल इलेक्ट्रिक ग्रिडल्स और 
+ग्रिडल 
+ग्रिल 
+
+48. कमर्शियल इलेक्ट्रिक मल्टीपर्पज 
+कुर्किंग 
+पैन्स 
+
+49. कमर्शियल इलेक्ट्रिक फोर्स्ड 
+कंवेक्शन 
+aad, eee कुकर और स्टीम- 
+कन्वेक्शन अवन 
+
+50. कपड़े सुखाने की मशीन और टॉवल 
+रेल 
+
+51. कमर्शियल इलेक्ट्रिक बॉइलिंग पैन 
+
+52. कमर्शियल इलेक्ट्रिक ग्रिलर्स और 
+टोस्टर्स 
+
+53. भोजन और बर्तनों को गर्म रखने के 
+लिए कमर्शियल इलेक्ट्रिक उपकरण 
+
+54. कमर्शियल इलेक्ट्रिक बैंस - मैरी 
+
+55. ओरल क्लीनिंग उपकरण 
+
+56. सॉना हीटिंग उपकरण और इन्फ्रारेड 
+केबिन 
+
+57. तरल पदार्थ या भाप का उपयोग 
+करके घर के फर्श की सफाई करने 
+वाले उपकरण 
+
+58. एक्रैरियम और गार्डन ors में 
+उपयोग के लिए विद्युत उपकरण 
+
+59. कमर्शियल इलेक्ट्रिक डिशवाशिंग 
+मशीनें 
+
+| 60. | व्हर्लपूल बाथ्स और व्हर्लपूल स्पास 
+
+61. थर्मल स्टोरेज रूम हीटर 
+
+62. कमर्शियल इलेक्ट्रिक रिंसिंग सिंक 
+
+63. कमर्शियल इलेक्ट्रिक किचन मशीनें 
+
+64. एयर-क्लीनिंग उपकरण 
+
+65. वाटर-बेड हीटर्स 
+
+| 66. | फिक्स्ड इमर्शन हीटर्स 
+
+
+[भाग प---खण्ड 3(ii)] भारत का राजपत्र : असाधारण 5 
+
+
+67. आउटडोर बारबीक्यूस 
+| 68. | फुट वार्मर्स और हीटिंग मैट्स 
+faa मनोरंजन मशीनें और व्यक्तिगत 
+
+
+सेवा संबंधी मशीनें 
+
+70. शौचालय संबंधी उपकरण 
+
+71. फैब्रिक स्टीमर 
+
+72. आवासीय उपयोग हेतु ऊर्ध्वाधर 
+गतिमान (वर्टिकली मूविंग) गैराज 
+दरवाज़ों के लिए ड्राइव 
+
+73. ह्यूमिडिफ़ायर 
+
+74. कमर्शियल इलेक्ट्रिक हुड्स 
+
+75. वेपोराइज़र 
+
+76. विद्युत कनेक्शन सहित गैस, तेल 
+और ठोस ईंधन जलाने वाले 
+उपकरण 
+
+Th इलेक्ट्रोलाइजर 
+
+78. लेज़र और तीव्र प्रकाश स्रोत से युक्त 
+सौंदर्य देखभाल उपकरण 
+
+79. पर्सनल-ई-ट्रांसपोर्टर्स 
+
+| 80. | त्वचा सौंदर्य देखभाल उपकरण 
+
+
+81. विद्युत मोटर लगे फर्नीचर 
+
+82. कमर्शियल वैक्यूम पैकेजिंग उपकरण 
+83. हाथ से पकड़े जाने वाले इलेक्ट्रिक 
+एंग्रेविंग टूल्स 
+
+84. डीसी सप्लाई/बैटरी चालित वैक्यूम 
+क्लीनर 
+
+85. डीसी सप्लाई/बैटरी चालित शेवर, 
+ट्रिमर, rat और समान प्रकार के 
+
+
+उपकरण 
+
+छिलके: डीसी सप्लाई/बैटरी चालित मालिश 
+संबंधी उपकरण 
+
+87. डीसी सप्लाई/बैटरी चालित ब्लेंडर, 
+जूसर 
+
+
+88. डीसी सप्लाई/बैटरी चालित ट्थब्रश 
+और अन्य ओरल FATT उपकरण 
+॥ ० 1 डीसी सप्लाई/बैटरी चालित फुट 
+वार्मर और हीटिंग मैट्स 
+in डीसी सप्लाई/बैटरी चालित एयर 
+प्यूरीफायर 
+
+
+#टिप्पणी: इस आदेश के प्रयोजनों के लिए, भारतीय मानकों का नवीनतम संस्करण लागू होगा। 
+
+
+3. प्रमाणन और प्रवर्तन प्राधिकरण - उक्त ब्यूरो, तालिका के कॉलम (2) में विनिर्दिष्ट वस्तुओं या सामान के लिए 
+प्रमाणन और प्रवर्तन प्राधिकरण होगा। 
+
+
+6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(11)] 
+
+
+4. उल्लंघन के लिए पेनल्टी- इस आदेश के प्रावधानों का उल्लंघन करने वाले व्यक्ति को भारतीय मानक ब्यूरो 
+अधिनियम, 2016 के प्रावधानों के तहत दंडित किया जाएगा। 
+
+
+[फा. सं. पी-29026/36/2023-एलईआई] 
+निधि केसरवानी, संयुक्त सचिव 
+
+
+MINISTRY OF COMMERCE AND INDUSTRY 
+(Department for Promotion of Industry and Internal Trade) 
+ORDER 
+New Delhi, the 6th April, 2026 
+
+
+5.0. 1739(E).— In exercise of the powers conferred by section 16 of the Bureau of Indian Standards Act, 
+2016 (11 of 2016) and in supersession of the Safety of Household, Commercial and Similar Electrical Appliances 
+(Quality Control) Order, 2025, except as respects things done or omitted to be done before such supersession, the 
+Central Government is of the opinion that it is necessary or expedient so to do in the public interest after consulting the 
+
+
+Bureau, hereby makes the following order, namely:- 
+
+
+1. Short title, application and commencement. - (1) This order may be called the Safety of Household, 
+Commercial and Similar Electrical Appliances (Quality Control) Order, 2026. 
+
+
+(2) It shall apply to all electrical appliance intended for household, commercial or similar application with rated voltage 
+not exceeding 250 V for single-phase appliances and 480 V for other appliances including direct current supplied 
+appliances and battery-operated appliances. 
+
+
+(3) It shall not apply to electrical appliances which fall under the scope of any other Quality Control Order issued by 
+the said Act or notified for mandatory Bureau of Indian Standard certification under any other Act. 
+
+
+(4) It shall come into force on the Ist of October, 2026. 
+
+
+2 Compulsory use of Standard Mark. - Goods or articles specified in column (2) of the Table shall conform to 
+the corresponding entry specified in column (3) of the Table and shall bear the Standard Mark under a licence from the 
+Bureau as per Scheme-1! of Schedule-II of the Bureau of Indian Standards (Conformity Assessment) Regulations, 2018: 
+
+
+Provided that nothing in this order shall apply to goods or articles manufactured domestically for export: 
+
+
+Provided further that small enterprises and micro enterprises, as defined under the Micro, Small and Medium 
+Enterprises Development Act, 2006 (27 of 2006) shall conform to such Indian Standards from the date specified in the 
+corresponding entry specified in columns (6) and (7) of the Table respectively: 
+
+
+Provided also that nothing in this order shall apply for two hundred numbers of goods or articles imported for 
+the purpose of research and development by manufacturers of household and similar electrical appliances per year with 
+the condition that such imported goods and articles shall not be sold commercially and may be disposed of as a scrap 
+and the manufacturers shall maintain a year-wise record of the goods or articles and furnish the same, if so desired to 
+
+
+the Central Government: 
+
+
+Provided also that nothing in this order shall apply to goods or articles domestically manufactured or imported 
+before the date of implementation as mentioned in the Table by the manufacturer certified by the Bureau or manufacturer 
+who has applied to the Bureau for certification of the relevant goods and articles and such manufacturer shall be 
+permitted to sell or display or offer to sell such declared stock upto six months from the date of implementation as 
+mentioned in the Table, subject to the condition that such manufacturer shall made a declaration to this effect to the 
+Bureau. 
+
+
+[भाग 1--खण्ड 3(ii)] 
+
+
+भारत का राजपत्र : असाधारण 
+
+
+Deep Fat Fryers 
+
+
+TABLE 
+SI. No. | Goods or articles Indian Title of Indian | Date of Date of Date of 
+Standard Standard implementation | implementation | Implementation 
+in general (other | for small for micro 
+than micro भाव | enterprises enterprises 
+small enterprises) 
+(1) (2) (3) (4) (5) (6) (7) 
+All electrical appliance intended for household, | IS 302 (Part 1): | Household 1* October, 2026 | 1“ January, 2027 | 1* April, 2027 
+commercial or similar application with rated voltage | 2024 and Similar 
+not exceeding 250 V for single-phase appliances and | IEC 60335-1: Electrical 
+480 ५४ for other appliances including direct | 2020 Appliances — 
+current supplied appliances and battery operated Safety 
+appliances Part 1 General 
+Following list of electrical appliances is given Requirements 
+below: 
+1. Vacuum Cleaners and Water Suction Cleaning 
+Appliances 
+2. Spin Extractors 
+3. Cooking Ranges, Hobs, Ovens and Similar 
+Appliances 
+4. Electrical Shavers Hair, Clippers and Similar 
+Appliances 
+5. Tumbler Dryers 
+| 6. | Warming Plates and Similar Appliances 
+7. Frying Pans, Deep Fat Fryers and similar 
+appliances 
+| __8.__| Appliances for Heating Liquids 
+| 9. _| Massage Appliances 
+10. | Electric Forced Convection Ovens, Steam 
+Cookers and Steam-Convection Ovens 
+11. | Electric Heating Tools 
+12. | Electric Steam Cookers 
+13. | Insect Killers 
+14. _| Electric Call Bells and Buzzers for Indoor Use 
+15. | Electric Water Boilers 
+16. | Electric Coffee Makers 
+17. _| Electric Bean Slicers 
+18. | Electric Berry-juice Extractors 
+19. | Electric Can Openers 
+20. | Electric Centrifugal Juicers 
+21. | Electric Churns 
+22. | Electric Citrus-fruit Squeezers 
+23. | Electric Coffee Mills not exceeding 500g 
+hopper capacity 
+24. | Electric Cream Whippers 
+25. | Electric Egg Beaters 
+26. | Electric Food Processors 
+27. | Electric Grain Grinders not exceeding 31 
+hopper capacity 
+28. | Electric Graters 
+29. | Electric Ice-Cream Machines, including those for 
+use in refrigerators and freezers 
+30. | Electric Knife Sharpeners 
+31. | Electric Knives 
+32. | Electric Noodle Makers 
+33. | Electric Potato Peelers 
+34. | Electric Shredders 
+35. | Electric Sieving Machines 
+36. | Slicing Machines 
+37. | Electric Hot Plates 
+38. | Single Walled Baking Ovens 
+39. | Low Speed Food Grinding Machines 
+40. | Dishwashers 
+41. | Floor Treatment Machines and Wet Scrubbing 
+Machines 
+42. | Food Waste Disposers 
+43. | Blankets, Pads, Clothing and Similar Flexible 
+Heating Appliances 
+44. | Appliances for Skin Exposure to Optical 
+Radiation 
+45. | Commercial Electric Cooking Ranges, Ovens, 
+Hobs and Hob Elements 
+46. | Commercial Electric Doughnut Fryers and 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+
+
+[PART II—SEC. 3(ii)] 
+
+
+47. | Commercial Electric Griddles and Griddle 
+Grills 
+
+48. | Commercial Electric Multi-purpose Cooking 
+Pans 
+
+49. |Commercial Electric Forced Convection 
+Ovens, Steam Cookers and Steam-Convection 
+Ovens 
+
+50. | Clothes Dryers and Towel Rails 
+
+51. | Commercial Electric Boiling Pans 
+
+52. | Commercial Electric Grillers and Toasters 
+
+53. | Commercial Electric Appliances for keeping 
+Food and Crockery Warm 
+
+54. | Commercial Electric Bains-Marie 
+
+55. | Oral Hygiene Appliances 
+
+56. | Sauna Heating Appliances and Infrared Cabins 
+
+57. | Surface-Cleaning Appliances for Household 
+use Employing Liquids or Steam 
+
+58. | Electrical Appliances for use with Aquariums 
+and Garden Ponds 
+
+59. | Commercial Electric Dishwashing Machines 
+
+| 60. | Whirlpool Baths and Whirlpool Spas 
+
+61. | Thermal Storage Room Heaters 
+
+62. | Commercial Electric Rinsing Sinks 
+
+63. | Commercial Electric Kitchen Machines 
+
+64. | Air-Cleaning Appliances 
+
+65. | Water-Bed Heaters 
+
+| 566. | Fixed Immersion Heaters 
+
+67. | Outdoor Barbecues 
+
+| 68. | Foot Warmers and Heating Mats 
+
+Pee Amusement Machines and Personal Service 
+Machines 
+
+70. | Toilet Appliances 
+
+71. _| Fabric Steamers 
+
+72. | Drives for Vertically Moving Garage Doors 
+for Residential Use 
+
+73. | Humidifiers 
+
+74. _| Commercial Electric Hoods 
+
+75. | Vaporizers 
+
+76. | Gas, Oil and Solid-Fuel Burning Appliances 
+Having Electrical Connections 
+
+77._| Electrolysers 
+
+78. | Beauty Care Appliances Incorporating Lasers 
+and Intense Light Sources 
+
+79. | Personal-e-Transporters 
+
+| 80. | Skin Beauty Care Appliances 
+
+81. | Furniture with Electrically Motorized Parts 
+
+82. | Commercial Vacuum Packaging Appliances 
+
+83. | Hand held electric Engraving Tools 
+
+84. | DC supplied/ battery-operated vacuum cleaners 
+
+85. | DC supplied/ battery-operated shavers, trimmers, 
+clippers and similar appliances 
+
+| 586. | DC supplied/ battery-operated Massage appliances 
+
+87. _| DC supplied/ battery-operated blenders, juicers 
+
+88. | DC supplied/ battery-operated toothbrush and other 
+oral hygiene appliances 
+
+Lee DC supplied/ battery-operated foot warmer and 
+heating mats 
+
+| 90. [0८ supplied/ battery-operated air purifier 
+
+
+#Note.- For the purposes of this order, the latest version of Indian Standards shall apply. 
+
+
+3. Certification and enforcement authority. - The Bureau shall be the certifying and enforcing authority for the goods 
+
+
+or articles specified in column (2) of the said Table. 
+
+
+4. Penalty for Contravention. -Any person who contravenes the provisions of this order shall be punishable under the 
+
+
+provisions of the Bureau of Indian Standards Act, 2016. 
+
+
+[F. No. P- 29026/36/2023-LEI] 
+NIDHI KESARWANTL, Jt. Secy. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+
+
+and Published by the Controller of Publications, Delhi-110054. 
+
+
+GORAKHA NATH YADAVA ए95270 78 //06 
+
+
