@@ -1,0 +1,115 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Fiitd = VistGa 
+Che Gazette of Jndia 
+
+
+सी.जी.-डी.एल.-अ.-16042026-271858 
+CG-DL-E-16042026-271858 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग 1--खण्ड 3--उप-खण्ड (i) 
+PART II—Section 3—Sub-section (i) 
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 261] नई दिल्ली, बृहस्पतिवार, अप्रैल 16, 2026/चैत्र 26, 1948 
+No. 261] NEW DELHI, THRUSDAY, APRIL 16, 2026/CHAITRA 26, 1948 
+
+
+संचार मंत्रालय 
+(दूरसंचार विभाग) 
+(दूरसंचार अभियांत्रिकी केंद्र) 
+अधिसूचना 
+नई दिल्‍ली, 15 अप्रैल, 2026 
+
+
+सा.का.नि. 285(अ).--केंद्रीय सरकार, दूरसंचार (मानक, अनुरूपता निर्धारण और प्रमाणन को अधिसूचित करने 
+की रूपरेखा) नियम, 2025 के नियम 5 के साथ पठित, दूरसंचार अधिनियम, 2023 (2023 का 44) की धारा 19 द्वारा 
+प्रदत्त शक्तियों का प्रयोग करते हुए, राजपत्र में इस अधिसूचना के प्रकाशन की तारीख़ से प्रभावी दूरसंचार उपकरण के लिए 
+निम्नलिखित पुनरिक्षित मानकों को अधिसूचित करती है, अर्थात:- 
+
+
+क्रम संख्या पुनरीक्षित मानकों की संख्या और नाम 
+(1) (2) 
+टी ई सी 73070:2025 वर्गीय अपेक्षाएँ 
+इलेक्ट्रॉनिक लोकेटर प्रणाली 
+टी ई सी 48141:2025 परीक्षण निर्देशिका 
+सर्वर 
+टी ई सी 49121:2025 परीक्षण निर्देशिका 
+
+
+2729 (01/2026 (1) 
+
+
+N 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART H—SEC. 3(1)] 
+
+
+यूनिफाइड श्रेट मैनेजमेंट 
+टी ई सी 87081:2025 परीक्षण निर्देशिका 
+ऑप्टिकल फाइबर hace के लिए स्प्लाइस क्लोज़र 
+टी ई सी 91021:2025 परीक्षण निर्देशिका 
+क्वांटम यादृच्छिक संख्या जनरेटर 
+टी ई सी 66111:2025 परीक्षण निर्देशिका 
+एसएमपीएस आधारित विद्युत संयंत्र 
+टी ई सी 49021:2025 परीक्षण निर्देशिका 
+इंटरनेशनल प्राइवेट लीज़्ड सर्किट ट्रैफिक लॉफुल इंटरसेप्शन एंड मॉनिटररिंग सिस्टम 
+टी ई सी 48041:2025 परीक्षण निर्देशिका 
+ale बैंड रिमोट एक्सेस सर्वर 
+
+
+[फा. सं. 24-03/2025-एसडी/टीईसी] 
+राजीव कुमार त्यागी, उप महानिदेशक 
+
+
+MINISTRY OF COMMUNICATIONS 
+(Department of Telecommunication) 
+(TELECOMMUNICATION ENGINEERING CENTRE) 
+NOTIFICATION 
+New Delhi, the 15th April, 2026 
+
+
+G.S.R. 285(E).—In exercise of the powers conferred by section 19 of the Telecommunications Act, 2023 (44 
+of 2023) read with rule 5 of the Telecommunication (Framework to Notify Standards, Conformity Assessment and 
+Certification) Rules, 2025, the Central Government hereby notifies the following revised standards for 
+telecommunication equipment with effect from the date of publication of this notification in the Official Gazette, 
+
+
+namely:— 
+SI. No. Number and name of revised standards 
+(1) (2) 
+1 TEC 73070:2025 Generic Requirements 
+. Electronic Locator System 
+2 TEC 48141:2025 Test Guide 
+Server 
+3 TEC 49121:2025 Test Guide 
+‘ Unified Threat Management 
+4 TEC 87081:2025 Test Guide 
+‘ Splice Closure for Optical Fibre Cables 
+5. TEC 91021:2025 Test Guide 
+Quantum Random Number Generator 
+aa TEC 66111:2025 Test Guide 
+SMPS Based Power Plants 
+7. TEC 49021:2025 Test Guide 
+International Private Leased Circuit Traffic Lawful Interception and Monitoring System 
+ca TEC 48041:2025 Test Guide 
+Broadband Remote Access Server 
+
+
+[F. No. 24-03/2025-SD/TEC] 
+RAJEEV KUMAR TYAGI, Dy. Director General 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi 
+and Published by the Controller of Publications, Delhi-110054. Stvastava  / 
+
+
