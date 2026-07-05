@@ -1,6 +1,121 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-12-23.241389",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-23",
+      "ugid": "241389",
+      "title": "Extraordinary Gazette of India, 2022-12-23",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of  notification in the Extraordinary Gazette of India u/s 3(1) of the PMP Act, 1962 (50 of 1962) related to the land schedule of Kochi Coimbatore Salem LPG pipeline project of Kochi Salem Pipeline Private Limited (KSPPL) in the State of Tamil Nadu in respect of Taluk Kinathukadavu, District Coimbatore",
+      "gazette_id": "CG-DL-E-24122022-241389",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241389.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-23.241389/241389.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-23.241389",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-23/241389.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-23.241388",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-23",
+      "ugid": "241388",
+      "title": "Extraordinary Gazette of India, 2022-12-23",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Official Language (OL) Division",
+      "office": "",
+      "subject": "Amendment to the Resolution be published in the gazette",
+      "gazette_id": "CG-DL-E-24122022-241388",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241388.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-23.241388/241388.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-23.241388",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-23/241388.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-23.241387",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-23",
+      "ugid": "241387",
+      "title": "Extraordinary Gazette of India, 2022-12-23",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Social Security I",
+      "office": "",
+      "subject": "ESI coverage in all the areas of Thiruvallur district, in addition to the already notified  areas of the said district, in the State of Tamil Nadu",
+      "gazette_id": "CG-DL-E-24122022-241387",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241387.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-23.241387/241387.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-23.241387",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-23/241387.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-23.241385",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-23",
+      "ugid": "241385",
+      "title": "Extraordinary Gazette of India, 2022-12-23",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Social Security I",
+      "office": "",
+      "subject": "ESI coverage in all the areas of Chamba, Kullu, Hamirpur, Kinnaur and Lahaul and Spiti districts in the State of Himachal Pradesh",
+      "gazette_id": "CG-DL-E-24122022-241385",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241385.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-23.241385/241385.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-23.241385",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-23/241385.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-23.241384",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-23",
+      "ugid": "241384",
+      "title": "Extraordinary Gazette of India, 2022-12-23",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Department of Legal Affairs",
+      "office": "Department of Legal Affairs",
+      "subject": "Publication of notification relating to New Delhi International Arbitration Centre",
+      "gazette_id": "CG-DL-E-24122022-241384",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241384.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-23.241384/241384.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-23.241384",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-23/241384.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-12-23.241383",
       "category": "extraordinary",
       "type_letter": "e",
@@ -44647,7 +44762,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1938,
+  "count": 1943,
   "category": "central",
   "shard_index": 11
 }
