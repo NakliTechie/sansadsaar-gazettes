@@ -1,0 +1,1427 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Vita = राजपत्र 
+Che Gazette of india 
+
+
+सी.जी.-डी.एल.-अ.-07052026-272304 
+CG-DL-E-07052026-272304 
+
+
+असाधारण 
+EXTRAORDINARY 
+
+
+भाग 1--खण्ड 1 
+PART I—Section 1 
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+
+
+सं. 122] नई दिल्ली, बुधवार, मई 6, 2026/वैशाख 16, 1948 
+No. 122] NEW DELHI, WEDNESDAY, MAY 6, 2026/VAISAKHA 16, 1948 
+
+
+सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय 
+अधिसूचना 
+नई दिल्‍ली, 27 अप्रैल, 2026 
+
+
+सं. Y-18020/9/2017- IIIC/CAP (?1.--भारत सरकार के विज्ञान एवं प्रौद्योगिकी मंत्रालय द्वारा मार्च 
+2012 में तैयार की गई राष्ट्रीय आंकड़ा भागिता और अभिगम्यता नीति (एनडीएसएपी) के अनुरूप, सांखियकी और कार्यक्रम 
+कार्यान्वयन मंत्रालय (एमओएसपीआई), भारत सरकार ने 2019 में सांख्यिकीय आंकड़ा प्रसारण के लिए दिशानिर्देश 
+(जीएसडीडी) अधिसूचित किए, ताकि एमओएसपीआई और अन्य सांख्यिकीय एजेंसियों द्वारा निर्मित साझा करने योग्य 
+और गैर-साझा करने योग्य सांख्यिकीय आँकड़ा को परिभाषित किया जा सके और उनके प्रसार के लिए नियम और शर्तें 
+निर्दिष्ट की जा सकें। तकनीकी प्रगति और आँकड़ा प्रसारण की विकसित होती पद्धतियों को ध्यान में रखते हुए, जीएसडीडी 
+2019 की समीक्षा की गई और उसमें संशोधन किया गया है। तदनुसार, एमओएसपीआई, भारत सरकार ने जीएसडीडी 
+2019 को निरस्त करते हुए, भारत में मौजूदा कानूनी प्रावधानों के अनुसार आँकड़ा गोपनीयता की सुरक्षा करते हुए, 
+सरकारी, अर्ध-सरकारी और निजी उपयोगकर्ताओं सहित सभी हितधारकों को आधिकारिक आँकड़े तक ata पहुंच प्रदान 
+करने के उद्देश्य से, इस अधिसूचना के साथ संलग्न अनुसूची में दिए गए विवरण के अनुसार संशोधित जीएसडीडी, 2026 को 
+अधिसूचित किया है। संशोधित दिशानिर्देश राजपत्र में उनके प्रकाशन की तारीख से लागू होंगे। 
+
+
+3148 GI/2026 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEc.1] 
+
+
+अनुसूची 
+सांख्यिकीय आंकड़ा प्रसारण के लिए संशोधित दिशानिर्देश (जीएसडीडी) 
+(एनडीएसएपी, 2012 के अनुसार) 
+पृष्ठभूमि : 
+
+
+1. सरकारी सांख्यिकी निर्णय-निर्धारण, नीति विकास, और सार्वजनिक तथा निजी क्षेत्र दोनों में अनुसंधान के लिए 
+अत्यंत महत्वपूर्ण है। हितधारकों के लिए आंकड़ों के प्रभावी प्रसार की आवश्यकता और संभावना को पहचानते हुए, 
+सांखियकी और कार्यक्रम कार्यान्वयन मंत्रालय (एमओएसपीआई), भारत सरकार ने मई, 1999 में राष्ट्रीय सांख्यिकीय 
+आंकड़ा प्रसारण नीति की घोषणा की थी ताकि सांख्यिकी आंकड़ा प्रसारण प्रणाली को सुव्यवस्थित किया जा सके। इसके 
+अतिरिक्त, मार्च 2012 में, विज्ञान एवं प्रौद्योगिकी मंत्रालय, भारत सरकार ने राष्ट्रीय आँकड़ा भागिता और अभिगम्यता 
+नीति (एनडीएसएपी) तैयार की जिसका उद्देश्य देश भर में एक वृहत्‌ क्षेत्र नेटवर्क के माध्यम से मशीनी पठनीय रूप में 
+भारत सरकार द्वारा स्वीकृत साझा करने योग्य आंकड़ों तक सुगम पहुँच प्रदान करना था। एनडीएसएपी के अंतर्गत, 
+मंत्रालयों/विभागों को "साझा करने योग्य आंकड़े' और 'साझा न करने योग्य आंकड़े' के संदर्भ में भू-स्थानिक और गैर- 
+स्थानिक दोनों रूप में सृजित उनके विभिन्न प्रकार के डेटासेटों को वर्गीकृत करने और प्रतिबंधित पहुँच के अंतर्गत आंकड़ों 
+की एक मूल्य निर्धारण नीति तैयार करने की आवश्यकता है। एनडीएसएपी 2012 के अनुसरण में, एमओएसपीआई ने वर्ष 
+2019 में, एमओएसपीआई और अन्य सांख्यिकीय एजेंसियों द्वारा सृजित साझा किए जा सकने योग्य और साझा न किए 
+जा सकने योग्य areata आंकड़ों को परिभाषित करने के लिए एनडीएसएपी, 2012 में निर्धारित समग्र ढांचे के भीतर 
+इसके प्रसार और मूल्य निर्धारण हेतु विशिष्ट निबंधन और शर्तों के साथ सांख्यिकीय आंकड़ा प्रसारण (जीएसडीडी) के लिए 
+दिशानिर्देश निर्धारित किए। 
+
+
+उद्देश्य: 
+
+
+2. समय बीतने और तकनीकी प्रगति के साथ, आंकड़ा प्रसार माध्यमों में बड़े परिवर्तन हुए हैं, जिसके लिए मौजूदा 
+दिशानिर्देशों में संशोधन की आवश्यकता पड़ी है। उपर्युक्त पृष्ठभूमि में, सरकारी, अर्ध-सरकारी, निजी ऑँकड़ा 
+उपयोगकर्ताओं सहित सभी हितधारकों को सांख्यिकीय atest तक निर्बाध पहुंच प्रदान करने और मौजूदा कानूनी 
+प्रावधानों के अनुसार गोपनीयता बनाए रखते हुए आँकड़ा-संचालित निर्णय लेने को बढ़ावा देने हेतु सांख्यिकीय आंकड़ा 
+प्रसारण के लिए संशोधित दिशानिर्देश अधिसूचित किए जा रहे हैं। इन दिशानिर्देशों का उद्देश्य सभी उपयोगकर्ताओं के 
+लिए आधिकारिक आंकड़ों तक सुगम पहुंच की सुविधा प्रदान करना है, साथ ही आधिकारिक आंकड़ों के लिए सबसे बड़ी 
+आधारभूत आवश्यकता को लागू करना है, अर्थात गोपनीयता बनाए रखना, और अंततः भारत में मौजूदा कानूनी 
+प्रावधानों के अनुसार आँकड़ा-संचालित संचालन और सभी के समावेशी विकास को बढ़ावा देना है। 
+
+
+कार्य-क्षेत्र: 
+
+
+3. ये दिशानिर्देश राष्ट्रीय सांख्यिकीय कार्यालय (एनएसओ), सांखियकी और कार्यक्रम कार्यान्वयन मंत्रालय द्वारा सीधे 
+एकत्रित, संकलित और उत्पादित सभी आंकड़ों पर या विभिन्न मंत्रालयों,विभागों या संगठनों से प्राप्त प्रयुक्त आंकड़ों पर 
+लागू होते हैं। 
+
+
+3.1 इन दिशा-निर्देशों में प्रयुक्त वे शब्द और अभिव्यक्तियाँ जो परिभाषित नहीं हैं, परन्तु सांख्यिकी संग्रहण (सीओएस) 
+अधिनियम, 2008, राष्ट्रीय आँकड़ा भागिता और अभिगम्यता नीति (एनडीएसएपी) 2012, डिजिटल वैयक्तिक डाटा 
+संरक्षण (डीपीडीपी) अधिनियम, 2023 और उनके अंतर्गत निर्मित नियमों में परिभाषित हैं, उनका वही अर्थ होगा जो उक्त 
+अधिनियमों एवं नियमों में दिया गया है। यह दिशा-निर्देश भारत में समय-समय पर लागू गोपनीयता एवं आँकड़ा निजता से 
+संबंधित अन्य सभी लागू कानूनों, नियमों, विनियमों, नीतियों और सरकारी दिशा-निर्देशों के साथ पढ़े जाएँगे और उनके 
+अध्यधीन होंगे। 
+
+
+[भाग 1---खण्ड 1] भारत का राजपत्र : असाधारण 3 
+
+
+आँकड़ा वर्गीकरण : 
+
+
+4. एमओएसपीआई नियमित आधार पर विभिन्न क्षेत्रों से संबंधित आँकड़े एकत्रित, संकलित और प्रसारित करता है, 
+साथ ही देश भर में विभिन्न प्रकार के बड़े पैमाने पर सर्वेक्षण भी करवाता है और उनके परिणाम प्रकाशित करता है। 
+आँकड़ों का वर्गीकरण और साझा करने योग्य तथा साझा न करने योग्य Sarde Al सूची एमओएसपीआई द्वारा समय- 
+समय पर संशोधित की जा सकती है। सभी आँकड़ों को निम्नलिखित प्रकार से वर्गीकृत किया जाएगा: 
+
+
+क. साझा करने योग्य आँकड़ा: 
+
+
+क.1 ऐसे ऑँकड़ा सेट, जो राष्ट्रीय सुरक्षा से समझौता नहीं करते हों, यदि उन्हें सार्वजनिक किया जाता है, या 
+जिनमें व्यक्तिगत सूचना प्रदान करने के साथ-साथ प्रतिष्ठानों की पहचान संबंधी विवरण शामिल नहीं होते हैं, 
+उन्हें सामान्यतः: साझा करने योग्य ही माना जाएगा। 
+
+
+क.2 पंजीकृत/प्रतिबंधित डेटासेट तक पहुँच प्राप्त करने वाली सभी संस्थाएँ/उपयोगकर्ता वैयक्तिक ऑआँकड़ों के 
+किसी भी आगे के प्रसंस्करण के लिए डिजिटल वैयक्तिक डाटा संरक्षण (डीपीडीपी) अधिनियम, 2023 और 
+उसके तहत बनाए गए नियमों का स्वतंत्र रूप से अनुपालन सुनिश्चित करेंगे। 
+
+
+क.3 साझा करने योग्य डेटासेट को आगे निम्नलिखित श्रेणियों में वर्गीकृत किया गया है: 
+
+
+क.3.1.) श्रेणी क (मुक्त अभिगम आँकड़े): 
+
+
+उपयोगकर्ताओं के साथ एकत्रित/विश्लेषित सूचना और प्रकाशन निःशुल्क साझा किए जाएँगे। इसमें 
+निम्नलिखित प्रकार के आँकड़े शामिल हैं, जो उदाहरणार्थ हैं: 
+
+
+(i) ९ राष्ट्रीय लेखा से संबंधित आँकड़े 
+
+(1) उपभोक्ता मूल्य सूचकांक (सीपीआई) 
+
+(1) ओद्योगिक उत्पादन सूचकांक (आईआईपी) - एनआईसी के 2 अंकों के स्तर 
+पर 
+
+(५) वार्षिक औद्योगिक सर्वेक्षण (एएसआई) खंड | 
+
+(४) कारखाना क्षेत्र के लिए एएसआई के सारांश परिणाम 
+
+(vi) केंद्रीय सांख्यिकी संबंधी रिपोर्ट 
+
+(vii) राष्ट्रीय प्रतिदर्श सर्वेक्षण (एनएसएस) की रिपोर्टे/फैक्टशीट। 
+
+क.3.2.) श्रेणी ख (पंजीकृत अभिगम ates): 
+
+
+(i) इसमें व्यक्तियों/परिवारों/प्रतिष्ठानों के पहचान विवरणों को प्रतिस्थापन या अनामीकरण करने के 
+बाद एमओएसपीआई द्वारा सर्वेक्षणों/अजनगणनाओं के माध्यम से एकत्रित प्राथमिक इकाई-स्तरीय आँकड़े 
+और द्वितीयक स्रोतों से एकत्रित मद-स्तरीय आँकड़े शामिल हैं। ऐसे आँकड़ों तक पंजीकरण द्वारा पहुँचा 
+जा सकता है। इसमें निम्न प्रकार के आँकड़ें शामिल हैं: 
+
+
+(क) आर्थिक गणना के इकाई स्तरीय आंकड़े 
+
+(ख) इकाई स्तरीय एनएसएस आंकड़े 
+
+(ग) मद स्तरीय आईआईपी आंकड़े 
+
+(घ). शहरी ढांचा सर्वेक्षण (यूएफएस) सारांश आँकड़े जिसमें शहरवार जांचकर्ता इकाइयों 
+
+
+की पूरी सूचना, यूएफएस ब्लॉक संख्याएं, परिवारों की संख्या, क्षेत्र प्रकार के साथ- 
+साथ मेटाडेटा शामिल है, सिवाय उन क्षेत्रों को छोड़कर जिनके लिए केवल सैन्य/अर्ध- 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEC.1] 
+
+
+सैन्य अधिकारियों आदि से विशिष्ट अनुमति के साथ यूएफएस का क्षेत्र कार्य किया गया 
+
+al 
+(ii) पंजीकृत अभिगम atest केवल गैर-वाणिज्यिक उपयोग, जिसमें अध्ययन/अनुसंधान उद्देश्य और भारत 
+सरकार तथा राज्य/किंद्र शासित प्रदेशों की सरकारों की एजेंसियों द्वारा उपयोग शामिल है, के लिए निःशुल्क 
+उपलब्ध कराया जाएगा | 
+
+
+(iii) व्यक्तियों और संस्थाओं द्वारा वाणिज्यिक उपयोग के लिए (“व्यावसायिक उपयोग” से तात्पर्य लाभ 
+कमाने के लिए मुख्य रूप से लक्षित कार्यकलाएों के लिए HAST के उपयोग से है; जिसमें आँकऱों से प्रत्यक्ष या 
+अप्रत्यक्ष रूप से ITA उत्पादों ATA या 7रिपोर्टो का विकास, विपणन या बिक्री शामिल है, लेकिन यह इन्हीं 
+तक सीमित नहीं &, पंजीकृत अभिगम आँकड़ों का मूल्य एमओएसपीआई द्वारा तय की गई मूल्य निर्धारण 
+
+नीति के अनुसार समय-समय पर तय किया जाएगा। 
+
+(iv) विदेशी उपयोगकर्ताओं (व्यक्तियों और संस्थाओं) को आँकड़ों तक पहुंच प्राप्त करने के लिए, उन्हें किसी 
+
+संस्थान या संगठन (जैसे विश्वाविद्यालय या अनुसंधान संस्थान या APT संगठन) से संबद्ध होना चाहिए, जिसे 
+
+भारत सरकार द्वारा आधिकारिक तौर पर मान्यता प्राप्त है। 
+
+
+क.3.3) श्रेणी ग॒ (प्रतिबंधित अभिगम आऑँकड़े): 
+
+
+क.3.3.1 इसमें यूएफएस ब्लॉकों के मानचित्र, आर्थिक गणना पर आधारित सांख्यिकीय व्यवसाय 
+रजिस्टर (एसबीआर) के ates (जिसमें प्रतिष्ठानों।भालिकों के पहचान संबंधी विवरण सम्मिलित हैं) 
+और वार्षिक औद्योगिक सर्वेक्षण (एएसआई) का ढांचा और पैनल आँकड़ा शामिल है। 
+
+
+क.3.3.2 यूएफएस ब्लॉक मानचित्रों तक पहुंच: 
+() ये मानचित्र भारत में सरकारी एजेंसियों (केंद्रीय और राज्य) को पूर्व अनुमति के अध्यधीन 
+निःशुल्क उपलब्ध कराए जाएंगे। 
+
+(1) अन्य सभी उपयोगकर्ताओं के लिए, जिनमें व्यावसायिक और गैर-व्यावसायिक उद्देश्यों के लिए 
+उपयोग करने वाले उपयोगकर्ता भी शामिल हैं, मानचित्र पूर्व अनुमति के अधीन उपलब्ध 
+कराए जाएंगे और इनका मूल्य समय-समय पर एमओएसपीआई द्वारा निर्धारित मूल्य नीति के 
+अनुसार होगा। 
+
+
+क.3.3.3 सांख्यिकीय व्यवसाय रजिस्टर (एसबीआर) ऑँकड़ों तक पहुंच: 
+
+(0) ये प्रतिबंधित ates पूर्व अनुमति के अध्यधीन केवल भारत सरकार की एजेंसियों और 
+राज्य/संघ राज्य क्षेत्र सरकारों को ही उपलब्ध होंगे। 
+
+(i) ये भारत सरकार और राज्य/ संघ राज्य क्षेत्र सरकारों की एजेंसियों को नि:शुल्क उपलब्ध कराए 
+जाएंगे। 
+
+(1) ये गैर-सरकारी एजेंसियों के लिए साझा करने योग्य नहीं होंगे। 
+
+
+क.3.3.4एएसआई पैनल आँकड़ों तक पहुंच: 
+
+(i) एएसआई 1998-99 से अनुरोध के आधार पर एएसआई पैनल आँकड़े, शैक्षणिक/अनुसंधान संस्थानों, 
+विश्वविद्यालयों और अन्य गैर-सरकारी एजेंसियों को केवल गैर-वाणिज्यिक उद्देश्यों के लिए और भारत 
+सरकार तथा राज्य/ संघ राज्य क्षेत्रों की सरकारों की एजेंसियों द्वारा उपयोग के लिए, पूर्व अनुमति के 
+अधीन, नि:शुल्क उपलब्ध कराए जाएंगे। 
+
+
+[भाग 1--खण्ड 1] 
+
+
+भारत का राजपत्र : असाधारण 5 
+
+
+(1)व्यक्तियों और संस्थाओं द्वारा व्यावसायिक उपयोग के लिए, पैनल ars, पूर्व अनुमति के अधीन, 
+उपलब्ध कराए जाएंगे और समय-समय पर एमओएसपीआई द्वारा निर्धारित मूल्य निर्धारण नीति के 
+अनुसार इनका मूल्य निर्धारित किया जाएगा। 
+
+
+क.3.3.5 एएसआई के ढांचे तक पहुंच: 
+
+
+() प्रतिबंधित एएसआई ढांचा विवरण /जैसे इकाई का नाम, इकाई का पता; इकाई का स्थान, राज्य 
+कोड, राज्य का नाम, जिला कोड, जिले का ATH, उद्योग कोड (4-अंकीय एनआईसी), कुल कार्यरत 
+व्यक्ति) अनुरोध पर शैक्षणिक/अनुसंधान संस्थानों, विश्वविद्यालयों और अन्य गैर-सरकारी एजेंसियों को 
+केवल गैर-व्यावसायिक उद्देश्यों के लिए और भारत सरकार तथा राज्य/ संघ राज्य क्षेत्रों की सरकारों की 
+एजेंसियों को, पूर्व अनुमति के अधीन, निःशुल्क उपलब्ध कराए जाएंगे। 
+
+(1 व्यक्तियों और संस्थाओं द्वारा व्यावसायिक उपयोग के लिए, पैनल आँकड़ा पूर्व प्राधिकरण के अधीन 
+उपलब्ध कराया जाएगा और समय-समय पर एमओएसपीआई द्वारा निर्धारित मूल्य निर्धारण नीति के 
+अनुसार इसका मूल्य निर्धारित किया जाएगा। 
+
+क.3.3.6 प्रतिबंधित पहुंच वाले आँकड़ों को विदेशी उपयोगकर्ताओं (व्यक्तियों और संस्थाओं) को उपलब्ध 
+नहीं कराया जाएगा, सिवाय ऐसे उपयोगकर्ताओं के जिन्हें एमओएसपीआई द्वारा निर्णित किया जाए। 
+
+
+ख. साझा न किए जा सकने वाला HST: 
+
+
+ख.1 
+
+
+इसमें वे सभी डेटासेट शामिल हैं जो साझा किए जाने योग्य आँकड़ों के दायरे से बाहर हैं। गैर-साझा 
+
+
+करने योग्य आँकड़ों में नैगेटिव लिस्ट / जैसा कि एनडीएसएपी, 2012 के प्रावधानों के अंतर्यत निर्दिष्ट है ) 
+शामिल है। इसमें निम्नलिखित शामिल हैं, परंतु इन्हीं तक सीमित नहीं हैं: 
+
+
+आँकड़ा प्रसार : 
+
+
+ख.1.1 यूएफएस atest या उन क्षेत्रों के मानचित्र जिनके लिए यूएफएस का क्षेत्र कार्य केवल सुरक्षा 
+एजेंसियों आदि से विशिष्ट अनुमति के साथ किया गया था। 
+
+
+ख.1.2 seme जिसमें व्यक्तिगत सूचनादाताओं/प्रतिष्ठानों के पहचान संबंधी विवरण शामिल हैं। इस 
+श्रेणी के कुछ उदाहरण हैं, आईआईपी, एएसआई और एनएसओ प्रतिदर्श सर्वेक्षणों के इकाई स्तरीय 
+आँकड़ों में सूचनादाताओं/प्रतिष्ठानों के पहचान विवरण; और सीपीआई तैयार करने के लिए चयनित 
+विभिन्न ग्रामीण और शहरी बाज़ारों की विभिन्न दुकानों से एकत्रित कीमतों पर आँकड़ें। 
+
+
+ख.1.3 कोई भी आऑँकड़ा जिसका प्रत्यक्ष या अप्रत्यक्ष रूप से किसी व्यक्तिगत सूचनादाता की पहचान या 
+सूचना को प्रकट करने के लिए उपयोग किया जा सकता है। 
+
+
+ख.1.4 एनएसओ के परिणाम/तकनीकी दस्तावेजों की तैयारी के लिए आँकड़ा जांच और सारणीकरण 
+आदि पर मध्यवर्ती कार्यपत्रक | 
+
+
+ख1.5 सी ए पी ई एक्स सर्वेक्षण का इकाई स्तर AST 
+ख.1.6 निगमित सेवा क्षेत्र उद्यमों के वार्षिक सर्वेक्षण (एएसआईएसएसई) का ढांचा संबंधी आँकड़ा। 
+
+
+5. साझा करने योग्य आँकड़ा का प्रसार की पूर्ण उपलब्धता, समानता, लचीलेपन, पारदर्शिता, कानूनी अनुरूपता, 
+गुणवत्ता, सुरक्षा, जवाबदेही आदि के अंतरराष्ट्रीय स्तर पर स्वीकृत सिद्धांतों के एक सेट द्वारा निर्देशित होगा और सूचना का 
+अधिकार (आरटीआई) अधिनियम, 2005 में निर्धारित सिद्धांतों का उल्लंघन किए बिना कार्यान्वित किया जाएगा। इसके 
+अतिरिक्त, नागरिकों की आवश्यकता को ध्यान में रखते हुए, आसान, उपयोगकर्ता के अनुकूल और समय पर प्रसार 
+सुनिश्चित करने के लिए निम्नलिखित दिशानिर्देश निर्धारित किए गए हैं: 
+
+
+5.1 
+
+
+5.2 
+
+
+एमओएसपीआई की वेबसाइट (https://www.mospi.gov.in) और माइक्रोडेटा पोर्टल के माध्यम से 
+सभी साझा करने योग्य आँकड़ा तक पहुँच उपलब्ध कराई जाएगी। 
+
+
+सभी साझा करने योग्य आँकड़े स्पष्ट और समझने योग्य रूप में प्रस्तुत किए जाएँगे और 
+
+
+मेटाडाटा मानक प्रारूप में उपलब्ध कराया जाएगा। 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEc.1] 
+
+
+5.3 
+
+
+5.4 
+5.5 
+
+
+5.6 
+
+
+5.7 
+
+
+आँकड़ा जारी करने संबंधी कैलेंडर एमओएसपीआई की वेबसाइट पर अग्रिम रूप से उपलब्ध कराया 
+जाएगा। 
+
+
+प्रसार कार्यक्रम में कोई भी परिवर्तन, यदि कोई हो, तो पहले से सार्वजनिक रुप में घोषित किया जाएगा। 
+
+
+उपयोगकर्ता की निजता की रक्षा के लिए पर्याप्त सुरक्षा प्रोटोकॉल का उपयोग करके सभी आकड़े 
+हस्तांतरित किए जाएंगे। 
+
+
+एमओएसपीआई का आँकड़ा प्रसार प्राधिकरण, आँकड़ा साझा करने से पहले, डीपीडीपी अधिनियम, 
+2023 और उसके तहत बनाए गए नियमों तथा किसी अन्य लागू गोपनीयता कानूनों के अनुपालन में, 
+पहचान योग्य जानकारी को हटाने के लिए सर्वोत्तम अनामीकरण तकनीक अपनाएगा। 
+
+
+आँकड़ों तक कैसे पहुँचें: 
+
+
+5.7.1 श्रेणी क के अंतर्गत आँकड़ों तक पहुँच: एमओएसपीआई की श्रेणी क (ओपन WR) डेटा 
+एक्सप्लोर करने के लिए एमओएसपीआई की वेबसाइट (https://www.mospi.gov.in) पर देखें, जो 
+बिना पंजीकरण के निःशुल्क उपलब्ध है। 
+
+
+5.7.2 श्रेणी ख के अंतर्गत आँकड़ों तक पहुँच: श्रेणी ख के तहत आँकड़ों तक पहुँच एमओएसपीआई के 
+माइक्रोडेटा पोर्टल (https://microdata.gov.in/) के माध्यम से प्रदान की जाएगी। 
+
+
+5.7.2.1 गैर-व्यावसायिक उपयोग: एमओएसपीआई के आधिकारिक माइक्रोडेटा पोर्टल 
+(https://microdata.gov.in/) पर एक बारी पंजीकरण अपेक्षित है। पंजीकरण के समय, 
+पंजीकृत एक्सेस डेटा के लिए आवेदन (अनुबंध-1) पूरा किया जाना चाहिए तथा ऑनलाइन 
+पोर्टल के माध्यम से प्रस्तुत किया जाना चाहिए। उपयोगकर्ता संदर्भ हेतु पोर्टल पर उपलब्ध 
+माइक्रोडेटा डाउनलोड करने के लिए उपयोगकर्ता सैतुअल का भी संदर्भ ले सकते Sl आवेदन 
+डेटा पहुँच समझौता/ शपथपत्र भी प्रदान करता है जिसका पालन आँकड़ा गोपनीयता और 
+सुरक्षा की रक्षा हेतु किया जाना चाहिए। 
+
+
+5.7.2.2 व्यावसायिक उपयोग: व्यावसायिक उद्देश्यों हेतु आँकड़ों का उपयोग करने वाले 
+संगठन और व्यक्ति को माइक्रोडेटा पोर्टल (https://microdata.gov.in/) पर पंजीकरण करना 
+अपेक्षित है। उपयोगकर्ताओं को आँकड़ों (सजग व्यवसायिक आवश्यकता को दर्शाते हुए) के 
+इच्छित उपयोग को स्पष्ट रूप से बताने वाला एक विस्तृत प्रस्ताव प्रस्तुत करना होगा, साथ ही 
+अनुरोधित विशिष्ट आँकड़ा सेट और लागू गोपनीयता सुरक्षा उपायों के साथ, और अनुबंध-। के 
+अनुसार आँकड़ा पहुँच समझौता/ शपथपत्र भी प्रस्तुत करना होगा। सभी संस्थाओं तथा व्यक्तियों 
+को निर्धारित आँकड़ा संरक्षण मानकों के अनुपालन की पुष्टि करते हुए शपथपत्र प्रस्तुत करना 
+होगा। समय-समय पर एमओएसपीआई द्वारा निर्धारण मूल्य नीति के अनुसार शुल्क का 
+भुगतान करने पर माइक्रोडेटा पोर्टल के माध्यम से पहुँच प्रदान की जाएगी। 
+
+
+5.7.3 श्रेणी ग के तहत आँकड़ा तक पहुँच: श्रेणी 'ग' के तहत साझा किए जाने योग्य आँकड़ा तक पहुँच के सभी 
+आवेदन निम्नलिखित स्थान पर प्रस्तुत किए जाने चाहिए: 
+
+
+5.7.3.1 यूएफएस ब्लॉक मानचित्र तक पहुँच: 
+क्षेत्रीय संकार्य प्रभाग, 
+सांख्यिकी और कार्यक्रम क्रायान्वयन मंत्रालय, 
+सांख्यिकी भवन, जीपीओए भवन, 
+सीबीडी शाहदरा, कड़कड़डूमा कोर्ट के पास, दिल्‍ली-110032, 
+दूरभाष: 011-22388155, 
+ईमेल: adg.fodhq@mospi.gov.in 
+
+
+[भाग 1---खण्ड 1] भारत का राजपत्र : असाधारण 7 
+
+
+5.7.3.2 सांख्यिकीय व्यावसायिक रजिस्टर (एसबीआर) आँकड़ा तक पहुँच: 
+आर्थिक सांख्यिकी प्रभाग, 
+सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय, 
+खुर्शीद लाल भवन, जनपथ,नई दिल्‍ली - 110001; 
+दूरभाष: 011-23455115; 
+ईमेल: adg-esd@mospi.gov.in. 
+5.7.3.3 एएसआई पैनल आँकड़ा तक पहुँच: 
+आंकड़ा सूचना विज्ञान और नवाचार प्रभाग, 
+सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय, 
+ईस्ट ब्लॉक-10, आर. के. TH, 
+नई दिल्‍ली - 110066 
+ईमेल: webunit.diid@mospi.gov.in 
+5.7.3.4 एएसआई ढ़ांचे तक पहुंच: 
+उद्यम सर्वेक्षण प्रभाग, 
+सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय, 
+1, काउंसिल हाउस स्ट्रीट, कोलकाता - 700001 
+ईमेल: cdn-csoisw@nic.in 
+5.7.4 आवेदन प्रक्रिया: 
+
+
+5.7.4.1 भारत सरकार और राज्य/संघ राज्य क्षेत्र की संस्थाओं हेतु: अनुबंध-। के अनुसार आवेदन प्रस्तुत करें। 
+अनुमोदन एमओएसपीआई द्वारा पूर्व अनुमति के अधीन है। 
+
+
+5.7.4.2 अन्य लोगों हेतु, जिनमें व्यवसायिक उपयोग हेतु आँकड़ों तक पहुँच की आवश्यकता होती है: अनुबंध-] 
+के अनुसार आवेदन प्रस्तुत करें। समय-समय पर एमओएसपीआई द्वारा निर्धारण मूल्य नीति के अनुसार शुल्क का 
+भुगतान करने पर माइक्रोडेटा पोर्टल के माध्यम से पहुँच प्रदान की जाएगी। 
+
+
+5.8 डेटा फ़ाइल को लोकप्रिय प्रारूपों ( सीएसवी, . एक्सएलएसएक्स, .डीबीएफ aie sara प्रारूप आदि) में मेटाडेटा के 
+साथ डाउनलोड करने हेतु कई विकल्प उपलब्ध कराए जाएंगे। 
+
+
+5.9 संशोधित अनंतिम आँकड़ा की उपलब्धता के साथ संशोधन का विशेष कारण वेबसाइट पर स्पष्ट रूप से दिया जाना 
+चाहिए। 
+निर्देशों की समीक्षा: 
+
+
+6. उपयोगकर्ताओं को एमओएसपीआई की वेबसाइट (https://mospi.gov.in/feedback) के माध्यम से या ईमेल: 
+gsdd-cicd@mospi.gov.in पर आँकड़ा प्रसार में सुधार हेतु प्रतिपुष्टि देने हेतु प्रोत्साहित किया जाता है। 
+एमओएसपीआई द्वारा समय-समय पर इन निर्देशों की समीक्षा की जाएगी, जिसमें उपयोगकर्ताओं की प्रतिपुष्टि को उचित 
+रूप से ध्यान में रखा जाएगा। 
+
+
+समीक्षा तथा कार्यान्वयन: 
+7. नीति और उसके प्रावधानों के कार्यान्वयन की सुविधा हेतु एक निगरानी समिति का गठन किया जाएगा। 
+
+
+सुप्रीत सिंह गुलाटी, संयुक्त सचिव 
+
+
+8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SECc.1] 
+
+
+अनुबंध | 
+श्रेणी 'ख' और “ग” के अधीन पंजीकृत/प्रतिबंधित atest तक पहुँच हेतु आवेदन 
+
+
+आँकड़ों के उपयोग के प्रकार गैर- व्यावसायिक/ व्यावसायिक उपयोग 
+आवेदक की श्रेणी व्यक्तिगत/संस्थान 
+संस्थान का विवरण (यदि लागू हो)) 
+संस्थान का नाम 
+संस्थान की श्रेणी ० सरकारी मंत्रालय/विभाग 
+० सरकारी एजेंसी (पीएसयू, स्वायत्त निकाय, आदि) 
+निर्दिष्ट करें: 
+० विश्वविद्यालय 
+० अनुसंधान केंद्र 
+o निजी कंपनी 
+० अंतर्राष्ट्रीय संगठन 
+० भारतीय गैर-सरकारी संगठन 
+० गैर-भारतीय गैर-सरकारी संगठन 
+० अन्य 
+निर्दिष्ट करें: 
+आवेदक की जानकारी 
+आवेदक का नाम शीर्षक: 
+पहला नाम: 
+मध्य नाम: 
+अंतिम नाम: 
+पदनाम/भूमिका 
+नागरिकता: 
+डाक पता 
+(सड़क, शहर, राज्य, डाक कोड, देश 
+शामिल करें) 
+संपर्क सं 
+(देश कोड के साथ) 
+ईमेल पता 
+संबद्धता विवरण (यदि लागू हो)) 
+
+
+विदेशी विश्वविद्यालयों/संगठनों से संबद्ध भारतीय नागरिकों के लिए 
+यदि आवेदक एक भारतीय नागारिक है और किसी विदेशी विश्वविद्यालय या संगठन के साथ कार्यरत है, तो संबद्धता संबंधी 
+विवरण प्रदान करें 
+
+
+श्रेणी “ग' (अर्थात्‌ प्रतिबंधित पहुँच आंकड़ा) विदेशी व्यक्तियों/संस्थाओं के लिए उपलब्ध नहीं Sl 
+
+
+[भाग 1--खण्ड 1] भारत का राजपत्र : असाधारण 9 
+विदेशी संगठन का नाम: 
+संगठन का प्रकार: ० विश्वविद्यालय 
+
+० अनुसंधान संस्थान 
+
+० अन्य 
+
+निर्दिष्ट करें: 
+
+विदेशी संगठन का पता: 
+गैर-भारतीय आवेदकों के लिए 
+
+
+यादि आवेदक एक विदेशी उपयोगकर्ता (व्यक्ति या संगठन) है; तो भारत सरकार द्वारा आधिकारिक तौर पर मान्यता ITT 
+भारतीय संगठन (FH, विश्वाविद्यालय या अनुसंधान संस्थान) का विवरण प्रदान करें जिसके साथ आवेदक YSWATE El 
+
+
+भारतीय संगठन का नाम 
+भारतीय संगठन का प्रकार ० विश्वविद्यालय 
+० अनुसंधान संस्थान 
+० अन्य 
+निर्दिष्टि करें: 
+भारतीय संगठन का पता 
+
+
+आँकड़ा उपयोग का उद्देश्य 
+
+
+आँकड़ा के इच्छित उपयोग का 
+विवरण: atest का उपयोग कैसे 
+
+
+किया जाएगा, इसका स्पष्ट सारांश 
+Tart करें (उदाहरण के लिए, 
+शैक्षणिक अनुसंधान, नीति विश्लेषण, 
+सांख्यिकीय मॉडलिंग, व्यावसायिक 
+उत्पाद विकास, आदि) परियोजना के 
+उद्देश्यों, अपेक्षित परिणामों और 
+आऑँकड़ा इन लक्ष्यों का समर्थन कैसे 
+करता है, इसका विवरण शामिल करें। 
+(200 शब्दों तक सीमित) 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEC.1] 
+
+
+आऑँकड़ा पहुँच समझौता/शपथपत्र 
+
+
+ASA [पूरा नाम/संगठन का नाम], एतद्वारा सांख्यिकी एवं कार्यक्रम कार्यान्वयन मंत्रालय (एमओएसपीआई) से अनुरोधित 
+आँकड़ा तक पहुँचने और उसका उपयोग करने के लिए निम्नलिखित नियमों तथा शर्तों का पालन करने का वचन देता[दिती हूँ 
+और सहमत हूँ: 
+
+
+— 
+— 
+
+
+12. 
+
+
+. अनुरोधित आँकड़ों तक पहुंच आवेदक तथा अकादमिक संस्था के मामलों के अलावा संगठन में प्राधिकृत कार्मिक को 
+
+
+संगठन की ओर से आवेदन किए जाने वाले मामलों तक ही सीमित होगी। सांख्यिकी और कार्यक्रम कार्यान्वयन 
+मंत्रालय (एमओएसपीआई) की पूर्व स्वीकृति के बिना ऑकड़ा किसी भी व्यक्ति या संगठन के साथ साझा नहीं किया 
+जाएगा। शैक्षिक संस्थाओं के मामले में, आँकड़ों की गोपनीयता के अनुरक्षण के अधीन आँकड़ा शैक्षिक उद्देश्य के 
+लिए संस्था के शोधकर्ताओं/विद्यार्थियों के साथ साझा किया जा सकता है। 
+
+आँकड़ा का उपयोग केवल बताए गए उद्देश्य(ओं) के लिए ही उपयोग होगा, किसी भी अवैध उद्देश्य के लिए नहीं 
+होगा। गैर-व्यावसायिक उपयोग के लिए प्राप्त आऑकड़ा का उपयोग व्यवसायिक उद्देश्यों के लिए नहीं किया जाएगा। 
+किसी भी व्यक्ति, परिवार, व्यवसाय, उद्यम आदि की पहचान करने का, प्रत्यक्ष या अप्रत्यक्ष रूप से, कोई प्रयास 
+नहीं किया जाएगा। यदि अनजाने में ऐसा कोई एकमात्र प्रकटीकरण होता है, तो पहचान किसी को नहीं बताई 
+जाएगी और न ही इस प्रकार ज्ञात व्यक्ति/इकाई की पहचान का कोई उपयोग किया जाएगा, और ऐसे मामलों की 
+पूरी जानकारी एमओएसपीआई को तत्काल रिपोर्ट की जाएगी। 
+
+आवेदक को प्राप्त आँकड़ा तक अनधिकृत पहुँच को रोकने के लिए पर्याप्त सुरक्षा उपाय (जैसे, पासवर्ड सुरक्षा, 
+सुरक्षित भंडारण, आदि) कार्यान्वित करेगा। किसी संभावित अनधिकृत प्रकटीकरण की सूचना तुरंत 
+एमओएसपीआई को दी जाएगी। 
+
+सभी व्यक्ति जिनकी पहुंच ऑकड़ों तक है, उन्हें जरूरी सुरक्षा आवश्यकताओं और प्रक्रियाओं से अवगत कराया 
+जाएगा। 
+
+आँकड़ा का उपयोग सांख्यिकी संग्रह (सीओएस) अधिनियम, 2008, राष्ट्रीय आंकड़ा भागिता और अभिगम्यता 
+नीति (एनडीएसएपी) 2012, डिजिटल वैयक्तिक डाटा संरक्षण (डीपीडीपी) अधिनियम, 2023 तथा सरकार और 
+
+
+देश के कानूनों के अन्य प्रचलित गोपनीयता और आँकड़ा गोपनीयता नियमों / नीतियों / दिशानिर्देशों के प्रावधानों 
+के अनुरूप होना चाहिए, जैसा की समय-समय पर संशोधित किया गया है। 
+
+
+कोई भी पुस्तक, लेख, दस्तावेज, शोधपत्र, रिपोर्ट, प्रकाशन आदि जो इस अनुरोध के तहत प्राप्त आंकड़ों का उपयोग 
+करते हैं, वे स्थापित मानदंडों/अभ्यासों के अनुसरण में आँकड़ों के स्रोत के बारे में बताएंगे। 
+एमओएसपीआई आँकड़ा के उपयोग या इस पर आधरित किसी भी स्पष्टीकरण के लिए उत्तरदायी नहीं है। 
+
+
+आँकड़ा तक पहुंच और उपयोग के संबंध में एमओएसपीआई द्वारा अधिसूचित किसी भी अतिरिक्त आवश्यकता का 
+अनुपालन किया जाएगा। 
+
+
+AST का कोई भी गलत उपयोग, जिसमें अनाधिकृत पहुंच, प्रकटीकरण या व्यावसायिक दुरुपयोग शामिल है 
+
+
+जिससे गोपनीयता को खतरा/हानि होती है, वह भारतीय न्याय संहिता, 2023, सूचना प्रौद्योगिकी अधिनियम, 
+2000, डिजिटल व्यक्तिगत आँकड़ा संरक्षण अधिनियम, 2023 और अन्य लागू कानूनों के तहत दंडात्मक कार्रवाई 
+
+
+के अधीन होगा, तथा लागू कानून जो एमओएसपीआई के आँकड़ों को भविष्य में पहुँच प्राप्त करने से 
+प्रतिबंधित/ब्लैकलिस्ट करना शामिल है। 
+
+
+. इन शर्तों के उल्लंघन करने की किसी भी स्थिति में एमओएसपीआई atest तक की पहुंच को निलंबित या रद्द 
+
+
+करने का अधिकार आरक्षित रखता है। आवेदक, एमओएसपीआई द्वारा निर्धारित समय- सीमा के भीतर, इन 
+नियमों और शर्तों के किसी भी कथित या वास्तविक उल्लंघन की जांच करने के लिए सांख्यिकी और कार्यक्रम 
+कार्यावयन मंत्रालय को आवश्यक सहायता प्रदान करेगा। 
+
+आवेदक atest के दुरुपयोग से उत्पन्न किसी भी हानि या क्षति के लिए एमओएसपीआई को क्षतिपूर्ति प्रदान 
+करेगा। 
+
+
+[भाग 1--खण्ड 1] भारत का राजपत्र : असाधारण 11 
+
+
+13. यह शपथपत्र देश के कानून द्वारा शासित होगी और उसी के अनुसार इसकी व्याख्या की जाएगी और इस शपथपत्र 
+से उत्पन्न होने वाले या इससे संबंधित सभी मामलों पर नई दिल्‍ली स्थित न्यायालयों का एकमात्र क्षेत्राधिकार 
+होगा। 
+
+14. मैं/हम एतट्वारा प्रमाणित करते हैं कि प्रदान की गई सभी जानकारी पूर्ण, सटीक और सही है, और किसी भी 
+परिवर्तन की सूचना तुरंत एमओएसपीआई को दी जाएगी। 
+
+15. इस शपथपत्र पर हस्ताक्षर करते समय, मैं/हम समझते/समझते हैं और स्वीकार करते हैं कि दी गई कोई भी गलत 
+
+
+जानकारी या इन शर्तों का उल्लंघन करने पर कानूनी और प्रशासनिक कार्रवाई की जा सकती है, जिसमें नीति के 
+अनुसार आँकड़ा तक पहुंच पर प्रतिबंध या सरकार के नियमों/नीतियों/दिशानिर्देशों और देश के कानूनों के तहत 
+लागू कोई अन्य कार्रवाई शामिल है। 
+
+
+आवेदक का हस्ताक्षर : 
+नाम (बड़े अक्षरों में): 
+पदनाम (यदि लागू हो): 
+संगठन (यदि लागू हो): 
+स्थान: 
+
+
+दिनांक: 
+
+
+जमा करने के निर्देश: भरा हुआ फॉर्म निम्न माध्यम से जमा करें: 
+
+
+e पंजीकरण के बाद श्रेणी ख आँकड़ा तक पहुंच के लिए सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय का 
+आधिकारिक माइक्रोआँकड़ा पोर्टल (https://microdata.gov.in/) 
+* श्रेणी ग आँकड़ा तक पहुँच के लिए: 
+
+० यूएफएस ब्लॉक मैप आँकड़ा तक पहुंच के लिए क्षेत्रीय संकार्य प्रभाग, एमओएसपीआई, सांख्यिकी भवन, 
+जीपीओए बिल्डिंग, सीबीडी शाहदरा, कड़कड़डूमा कोर्ट के पास, दिल्ली-110032, ईमेल: 
+adg.fodhq@mospi.gov.in, 
+
+० सांख्यिकीय व्यवसाय रजिस्टर (एसबीआर) आँकड़ा तक पहुंच के लिए आर्थिक सांखियकी प्रभाग, 
+एमओएसपीआई, खुर्शीद लाल भवन, जनपथ, नई दिल्‍ली - 110001, दूरभाष: 011-23455115, ईमेल: 
+adg-esd@mospi.gov.in 
+
+० एएसआई पैनल आँकड़ा तक पहुंच के लिए आंकड़ा सूचना विज्ञान और नवाचार प्रभाग (डीआईआईडी), 
+एमओएसपीआई, ईस्ट ब्लॉक-10, आर. के. पुरम, नई दिल्ली - 110066, ईमेल: 
+webunit.diid@mospi.gov.in 
+
+० एएसआई ढांचे तक पहुंच के लिए कृपया उद्यम सर्वेक्षण प्रभाग, एमओएसपीआई, काउंसिल हाउस स्ट्रीट, 
+कोलकाता - 700001, ईमेल: cdn-csoisw@nic.in 
+
+
+० या समय-समय पर एमओएसपीआई के दिशानिर्देशानुसार। 
+
+
+नोट: उपरोक्त आवेदन पत्र के माध्यम से एकत्रित की गई व्यक्तिगत जानकारी का उपयोग केवल डीपीडीपी अधिनियम, 
+2023 और उसके अंतर्गत निर्मित नियमों के अनुसार सत्यापन, संचार, प्राधिकरण आदि के लिए किया जाएगा। 
+
+
+12 THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEC.1] 
+
+
+MINISTRY OF STATISTICS AND PROGRAMME IMPLEMENTATION 
+NOTIFICATION 
+New Delhi, the 27th April, 2026 
+
+
+No. Y-18020/9/2017-IIIC/CAP(Part).—In line with the National Data Sharing and Accessibility 
+Policy (NDSAP) formulated by Ministry of Science & Technology, Government of India in March 2012, 
+the Ministry of Statistics & Programme Implementation (MoSPI), Government of India, notified the 
+Guidelines for Statistical Data Dissemination (GSDD) in 2019, to define shareable and non-shareable 
+statistical data generated by MoSPI and other statistical agencies, specify the terms and conditions for their 
+dissemination. Keeping in view technological advancements and the evolving practices of data 
+dissemination, GSDD 2019 has been reviewed and revised. Accordingly, in supersession of the GSDD 
+2019, MoSPI, Government of India, with an aim to provide seamless access to official statistics to all 
+stakeholders including government, semi-government, and private users while protecting data privacy as 
+per existing legal provisions in India, hereby notifies the revised GSDD, 2026 as per the details given in the 
+Schedule appended to this Notification. The revised guidelines shall come into force on the date of their 
+publication in the Official Gazette. 
+
+
+SCHEDULE 
+
+
+Revised Guidelines for Statistical Data Dissemination (GSDD) 
+(in accordance with NDSAP, 2012) 
+
+
+Background: 
+
+
+1. Official statistics are vital for decision-making, policy development, and research in both public 
+and private sectors. Recognizing the requirement and potential of effective dissemination of data to 
+stakeholders, the Ministry of Statistics & Programme Implementation (MoSPI), Government of India 
+announced the National Policy on Dissemination of Statistical Data in May, 1999 to streamline the 
+statistical data dissemination system. Further, in March 2012, the Ministry of Science & Technology, 
+Government of India formulated the National Data Sharing and Accessibility Policy (NDSAP) with an 
+objective to facilitate access to Government of India owned shareable data (along with its usage 
+information) in machine readable form through a wide area network all over the country. As per NDSAP, 
+Ministries/Departments are required to classify their different types of datasets generated both in geospatial 
+and non-spatial form in terms of ‘shareable data’ and ‘non-shareable data’, and come out with a pricing 
+policy of the data under restricted access. In accordance with NDSAP 2012, MoSPI, in 2019, laid down the 
+Guidelines for Statistical Data Dissemination (GSDD) to define shareable and non-shareable statistical data 
+generated by MoSPI and other statistical agencies, specify the terms and conditions for its dissemination 
+and pricing within the overall framework laid down in NDSAP, 2012. 
+
+
+Objective: 
+
+
+2. With the passage of time and technological advancements, the modes of data dissemination have 
+undergone major transformation requiring a modification of the existing guidelines. In the above backdrop, 
+the revised GSDD are being notified to provide seamless access of statistical data to all stakeholders 
+including Government, semi-Government, private data users, and promote data-driven decision making 
+while protecting the privacy as per prevalent legal provisions. The objective of these guidelines is to 
+facilitate easy access of official statistics to all the users while implementing the most fundamental 
+requirement for official statistics i.e. protecting confidentiality, and eventually leading to data-driven 
+governance and inclusive development of one and all as per prevalent legal provisions in India. 
+
+
+Scope: 
+3. These guidelines apply to all data collated, compiled and produced by the National Statistics Office 
+
+
+(NSO), MoSPI either directly or using data received from various Ministries, Departments, or 
+Organisations. 
+
+
+[भाग [खण्ड 1] भारत का राजपत्र : असाधारण 13 
+
+
+3.1 Words and expressions used in these guidelines and not defined but defined in the Collection 
+of Statistics (CoS) Act, 2008, National Data Sharing and Accessibility Policy (NDSAP) 2012, Digital 
+Personal Data Protection (DPDP) Act, 2023 and the rules framed thereunder shall have the same 
+meanings as assigned to them in the said Act and Rules. These Guidelines shall further be read in 
+conjunction with, and subject to, all other applicable laws, rules, regulations, policies, and governmental 
+guidelines relating to confidentiality and data privacy, as in force from time to time in India. 
+
+
+Data Classification: 
+
+
+4. MoSPI collects, compiles and disseminates data on a number of sectors on a regular basis, besides 
+conducting a variety of large-scale surveys across the country and publishing their results. The data 
+classifications and list of sharable and non-sharable datasets are subject to modification by MoSPI from 
+time to time. All the data will be categorized as under: 
+
+
+A. Shareable data: 
+
+
+A.1 Datasets, which do not compromise national security, if made public, or those which do not 
+contain identification particulars of individual informants as well as establishments, would 
+generally be considered shareable. 
+
+
+A.2 All entities/users accessing registered/restricted datasets shall independently ensure 
+compliance with the Digital Personal Data Protection (DPDP) Act, 2023 and Rules framed 
+thereunder for any further processing of personal data. 
+
+
+A.3 The shareable datasets are further categorized as follows: 
+
+
+A.3.1) Category A (open access data): 
+
+
+Aggregated/analyzed information and publications which will be shared free of cost with 
+users. This includes the following types of data, which is illustrative: 
+
+
+(i) Data relating to National Accounts 
+
+(11)Consumer Price Index (CPI) 
+
+(iii) Index of Industrial Production (IIP) - at NIC 2-digit level 
+(iv) Annual Survey of Industries (ASI) Volume I 
+
+(v)ASI Summary Results for Factory Sector 
+
+(vi) Reports of Central Statistics 
+
+(vii) Reports/factsheets of National Sample Surveys (NSS). 
+
+
+A.3.2) Category B (Registered access data): 
+
+
+(i) This includes primary unit level data collected by MoSPI through surveys/censuses, 
+and item level data collected from secondary sources, after suppression or anonymisation 
+of the identification details of individuals/ households/ establishments. Such data can be 
+accessed by registration. This includes the following types of data: 
+
+
+(a) Unit level data of Economic Census 
+
+(b) Unit level NSS data 
+
+(०) Item level ITP data 
+
+(d) Urban Frame Survey (UFS) summary data with town-wise complete information 
+of Investigator Units, UFS block numbers, number of households, area type 
+along with metadata except for the areas for which field work of the UFS has 
+been carried out only with the specific permission from military/ para-military 
+authorities etc. 
+
+
+14 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEc.1] 
+
+
+(11) The registered access data will be made available free of cost only for non-commercial 
+use including study/research purposes and use by the agencies of Government of India and 
+the Government of State/UTs. 
+
+
+(1) For commercial use by individuals and entities ("Commercial use" refers to 
+utilization of data for activities primarily intended to generate profit, including but not 
+limited to the development, marketing, or sale of products, services, or reports derived 
+directly or indirectly from the data), the registered access data shall be priced in 
+accordance with the pricing policy as decided by MoSPI from time to time. 
+
+
+(iv) For foreign users (individuals and entities) to access data, they must be 
+associated/affiliated with an Institution or organization (e.g. university or a research 
+institution or other organization) that is officially recognized by the Government of India. 
+
+
+A.3.3) Category C (Restricted access data): 
+
+
+A.3.3.1 This includes the maps of UFS blocks, data of Statistical Business Register (SBR) 
+based on the Economic Census (containing identification particulars of 
+establishments/proprietors) and frame and panel data of Annual Survey of Industries (ASI). 
+
+
+A.3.3.2 Access to UFS Block Maps: 
+
+
+(1) These maps will be made available free of cost to Government Agencies (Central and 
+State) in India, subject to prior authorization. 
+
+
+(ii) For all other users, including for commercial and non-commercial purposes, the maps 
+shall be made available subject to prior authorization and shall be priced in accordance 
+with the pricing policy as decided by MoSPI from time to time 
+
+
+A.3.3.3 Access to Statistical Business Register (SBR) Data: 
+
+
+(i) This restricted data shall be available only to Government of India agencies and 
+State/UT Governments, subject to prior authorization. 
+
+
+(ii) It shall be provided free of cost for agencies of Government of India and the 
+Government of State/UTs. 
+
+
+(iii) It shall be non-shareable for Non-Government agencies. 
+
+
+A.3.3.4 Access to ASI Panel Data: 
+
+
+(1) ASI panel data will be made available from ASI 1998-99 onwards on request basis, free 
+of charge to Academic/Research Institutes, Universities and Other Non-Government 
+agencies for non-commercial purposes only and for use by agencies of Government of 
+India and the Government of State/UTs, subject to prior authorization. 
+
+
+(11) For commercial use by individuals and entities, the Panel Data shall be made available 
+subject to prior authorization and shall be priced in accordance with the pricing policy 
+prescribed by MoSPI from time to time. 
+
+
+A.3.3.5 Access to ASI Frame: 
+(i) The restricted ASI frame particulars (viz. Name of the Unit, Address of the Unit, Place 
+
+
+of the Unit, State Code, State Name, District Code, District Name, Industry Code (4-digit 
+NIC), Total Persons Engaged) shall be available on request free of charge to 
+
+
+[भाग 1--खण्ड 1] 
+
+
+भारत का राजपत्र : असाधारण 15 
+
+
+Academic/Research Institutes, Universities and Other Non-Government agencies for non- 
+commercial purposes only and to agencies of Government of India and the Government of 
+State/UTs, subject to prior authorization. 
+
+
+(11) For commercial use by individuals and entities, the Panel Data shall be made available 
+subject to prior authorization and shall be priced in accordance with the pricing policy 
+prescribed by MoSPI from time to time. 
+
+
+A.3.3.6 Restricted access data will not be made available to foreign users (individuals and 
+entities), other than any such users as may be decided by MoSPI. 
+
+
+B. 
+
+
+B.1 
+
+
+Non-Shareable data: 
+
+
+This includes all datasets which are outside the purview of shareable data. The non- 
+
+
+sharable data will comprise of the Negative List (as specified under the provisions of NDSAP, 
+2012). These include but not limited to the following: 
+
+
+Dissemination: 
+
+
+8.1.1 The UFS data or maps of areas for which the field work of UFS was carried out 
+only with the specific permission from security agencies, etc. 
+
+
+B.1.2 Data sets containing identification particulars of individual 
+informants/establishments. Some examples in this category are identification particulars of 
+informants/establishments in unit level data of ITP, ASI and NSO sample surveys; and data 
+on prices collected from different shops of various rural and urban markets selected for 
+preparation of CPI. 
+
+
+8.1.3 Any data which can be directly or indirectly used to reveal the identity or 
+information of individual informant. 
+
+
+B.1.4 Intermediate worksheets on data scrutiny & tabulation etc., for preparation of 
+results / technical documents of NSO. 
+
+
+B.1.5 CAPEX Survey unit level data. 
+
+
+B.1.6 Annual Survey of Incorporated Services Sector Enterprises (ASISSE) frame data. 
+
+
+5: Dissemination of shareable data will be guided by a set of internationally accepted principles of 
+openness, equitableness, flexibility, transparency, legal conformity, quality, security, accountability, etc. 
+and will be implemented without infringing the principles laid down in the Right to Information (RTI) Act, 
+2005. Further, keeping citizens’ requirement as the focus, the following guidelines are laid down to ensure 
+easy, user friendly and timely dissemination: 
+
+
+5.1 
+
+
+3.2 
+
+
+5.3 
+
+
+5.4 
+
+
+5.5 
+
+
+Access to all shareable data will be made available through the MoSPI’s website and 
+microdata portal. 
+
+
+All shareable data will be presented in a clear and understandable form and metadata will 
+be made available in standard format. 
+
+
+Calendar of release of data will be made available in advance on MoSPI’s website. 
+Changes in dissemination schedule, if any, will be publicly announced in advance. 
+
+
+All data transfers will be made by using adequate security protocols to protect user privacy. 
+
+
+16 
+
+
+THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEc.1] 
+
+
+5.6 
+
+
+Def 
+
+
+The data dissemination authority of MoSPI will adopt best anonymization technique to 
+remove identifiable information, in compliance with DPDP Act, 2023 and Rules framed 
+thereunder, and any other applicable privacy laws, prior to sharing data. 
+
+
+How to Access Data: 
+
+
+5.7.1 Access to data under Category A: Visit MoSPI’s_ website 
+(hitps://www.mospi.gov.in) to explore Category A (open access) data of MoSPI, available 
+free without registration. 
+
+
+5.7.2 Access to data under Category 8: Access to data under Category B shall be 
+provided through MoSPI’s microdata portal (https://microdata.gov.in/). 
+
+
+5.7.2.1. Non-commercial use: One-time registration on MoSPI’s_ official 
+Microdata portal (https://microdata.gov.in/) is required. Upon registration, the 
+Application for Registered Access Data (Annex-I) is to be completed and 
+submitted via the online portal. Users can also refer to User Manual to Download 
+Microdata, available on the portal for reference. The application also provides a 
+Data Access Agreement/Undertaking which is to be complied with to protect data 
+
+
+privacy and security. 
+
+
+5.7.2.2. Commercial use: Entities and individuals intending to use data for 
+
+
+commercial purposes must register on Microdata Portal (https ://microdata.gov.in/). 
+Users must submit a detailed proposal specifying the intended use of the data 
+(demonstrating a legitimate business need) along with the specific datasets 
+requested and the confidentiality safeguards in place, along with a Data Access 
+Agreement/Undertaking, as per Annex-I. All entities and individuals must submit 
+the undertaking affirming compliance with prescribed data protection standards. 
+Access to be provided through Microdata Portal with payment of charges as per 
+the pricing policy as decided by MoSPI from time to time. 
+
+
+5.7.3 Access to data under Category C: All applications for accessing shareable data 
+under Category ‘C’ must be submitted to: 
+
+
+5.7.3.1 Access to UFS Block Maps: 
+Field Operations Division, 
+Ministry of Statistics and Programme Implementation (MoSPI), 
+Sankhiyiki Bhawan, GPOA Building at CBD Shahdara, Near Karkardooma 
+Court, Delhi-110032, 
+Tel: 011-22388155, 
+Email: adg.fodhq@mospi.gov.in. 
+
+
+5.7.3.2 Access to Statistical Business Register (SBR) Data: 
+Economics Statistics Division, 
+Ministry of Statistics and Programme Implementation (MoSP]), 
+Khurshid Lal Bhawan, Janpath, New Delhi — 110001; 
+Tel: 011-23455115; 
+Email: adg-esd@mospi.gov.in. 
+
+
+[भाग 1---खण्ड 1] भारत का राजपत्र : असाधारण 17 
+
+
+5.7.3.3 Access to ASI Panel Data: 
+Data Informatics & Innovation Division, 
+Ministry of Statistics and Programme Implementation (MoSPI), 
+East Block-10, R. K. Puram, New Delhi — 110066 
+Email: webunit.diid@mospi.gov.in 
+
+
+5.7.3.4 Access to ASI Frame: 
+Enterprise Survey Division, 
+Ministry of Statistics and Programme Implementation (MoSP]), 
+1, Council House Street, Kolkata — 700001 
+Email: cdn-csoisw@nic.in 
+
+
+5.7.4 Application Process: 
+
+
+5.7.4.1 For Government of India and State/UT Agencies: Submit the application 
+as per Annex-I. Approval is subject to authorization by MoSPI. 
+
+
+5.7.4.2 For others including those requiring data access for commercial use: 
+Submit the application as per Annex-I. Access will be provided after authorization 
+by MoSPI and payment of applicable charges as per the pricing policy, as decided 
+by MoSPI from time to time. 
+
+
+5.8 Multiple options for downloading the data file in popular formats (csv, .xlsx, .dbf and database 
+formats, etc.) along with its metadata will be made available. 
+
+
+5.9 Availability of revised final data along with specific reason for the revision should be expressly 
+communicated in the website. 
+
+
+Review of the Guidelines: 
+
+
+6. Users are encouraged to submit feedback for improvements in data dissemination via MoSPI 
+website (https://mospi.gov.in/feedback) or at email: gsdd-cicd@mospi.gov.in. These guidelines will be 
+periodically reviewed by MoSPI, duly considering users feedback. 
+
+
+Monitoring & implementation: 
+
+
+7. An oversight committee will be constituted for facilitating the implementation of the policy and its 
+provisions thereof. 
+
+
+SUPREET SINGH GULATLI, Jt. Secy. 
+
+
+18 THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SEC.1] 
+
+
+Annex-I 
+
+
+Application for Registered/Restricted Access Data under Category ‘B’ & ‘C’! 
+
+
+Type of Data Use Non-Commercial Use/ Commercial Use 
+
+
+Category of applicant Individual/Organization 
+
+
+Organization Details (if applicable) 
+
+
+Name of organization 
+
+
+Category of organization o Government Ministry/ Department 
+o Government agency (PSU, Autonomous body, etc.) 
+Specify: 
+o University 
+o Research Centre 
+०. Private Company 
+o International organization 
+o Indian Non-governmental organization 
+० Non-Indian Non-governmental organization 
+o Others 
+Specify: 
+Applicant Information 
+Name of applicant Title: 
+First Name: 
+Middle Name: 
+Last Name: 
+Designation/Role 
+Citizenship: 
+
+
+Postal address 
+(Include street, city, state, postal 
+code, country) 
+
+
+Contact No. 
+(Include country code) 
+
+
+Email Address 
+
+
+Affiliation Details (if applicable) 
+
+
+For Indian Citizens Affiliated with Foreign Universities/Organizations 
+If the applicant is an Indian citizen working with a foreign university or organization, provide details of the 
+
+
+affiliation 
+
+
+; Category C (i.e. Restricted access data) is not available to foreign individuals/entities. 
+
+
+[भाग I—ave 1] 
+
+
+भारत का राजपत्र : असाधारण 19 
+
+
+Name of Foreign Organization: 
+
+
+Type of Organization: 
+
+
+७ 
+oO 
+(2 
+
+
+University 
+
+Research Institution 
+
+Others 
+Specify: 
+
+
+Address of Foreign Organization: 
+
+
+For Non-Indian Applicants 
+
+
+If the applicant is a foreign user (individual or organization), provide details of the Indian organization (e.g., 
+university or research institution) officially recognized by the Government of India with which the applicant is 
+
+
+associated/affiliated. 
+
+
+Name of Indian Organization 
+
+
+Type of Indian Organization 
+
+
+(2 
+O 
+oO 
+
+
+University 
+
+Research Institution 
+
+Others 
+Specify: 
+
+
+Address of Indian Organization 
+
+
+Purpose of Data Use 
+
+
+Description of intended use of 
+data: Provide a clear summary of 
+how the data will be used (e.g., 
+academic research, policy 
+analysis, statistical modelling, 
+commercial product development, 
+etc.). Include the  project’s 
+objectives, expected outcomes, 
+and how the data supports these 
+goals. 
+
+
+(Limit to 200 words) 
+
+
+20 THE GAZETTE OF INDIA : EXTRAORDINARY [PART I—SECc.1] 
+
+
+Data Access Agreement/Undertaking 
+
+
+I/We [Full Name/Organization Name], hereby solemnly undertake and agree to comply with the 
+following terms and conditions for accessing and using the requested data from the Ministry of Statistics 
+and Programme Implementation (MoSPD: 
+
+
+1. Access to requested data shall be limited to the applicant, and in case of application made on behalf of 
+an organization, to the authorized personnel in the organization, except in the case of academic 
+institutions. The data shall not be shared with any individual or organization without prior approval 
+from the Ministry of Statistics and Programme Implementation (MoSPI). In case of academic 
+institutions, the data can be shared with researchers/students of the institution for academic purposes, 
+subject to the maintenance of confidentiality of the data. 
+
+
+2. The data shall be used only for the stated purpose(s) and not for illegal purposes. Data obtained for 
+non-commercial use shall not be used for commercial purposes. 
+
+
+3. No attempt shall be made to directly or indirectly identify any individual person, family, business, 
+enterprise, etc. If such a unique disclosure occurs inadvertently, the identification shall not be revealed 
+to anyone nor any use shall be made of the identity of any person/ entity discovered, and full details in 
+such cases shall be reported to MoSPI immediately. 
+
+
+4. The applicant shall implement adequate security measures (e.g., password protection, secure storage, 
+etc.) to prevent unauthorized access to data acquired. Any possible unauthorized disclosure shall be 
+immediately reported to MoSPI. 
+
+
+5. All individuals who have access to the data shall be made aware of the required security requirements 
+and procedures. 
+
+
+6. The use of data must be consistent with the provisions of Collection of Statistics (CoS) Act, 2008, 
+National Data Sharing and Accessibility Policy (NDSAP) 2012, Digital Personal Data Protection 
+(DPDP) Act, 2023 and other prevalent confidentiality & data privacy rules/ policies/ guidelines of the 
+Government and laws of the country, as amended from time to time. 
+
+
+7. Any books, articles, papers, theses, reports, publications, etc. that employ data obtained under this 
+request, shall cite the data source in accordance with the established norms/ practices. 
+
+
+8. MoSPI shall bear no responsibility for use of the data or for any interpretation based on it. 
+
+
+9. Any additional requirements notified by MoSPI regarding data access and use shall be complied with. 
+
+
+10. Any wrongful use of data, including unauthorized access, disclosure, or commercial misuse that 
+compromises confidentiality, shall be subject to penal action under the Bharatiya Nyaya Sanhita, 2023, 
+the Information Technology Act, 2000, the Digital Personal Data Protection Act, 2023, and other 
+applicable laws including debarment/blacklisting from future access to MoSPI data. 
+
+
+11. MoSPI reserves the right to suspend or revoke access to data in case of any breach of these terms. The 
+applicant shall provide necessary assistance to MoSPI to investigate any alleged or actual breach of 
+
+
+these terms and conditions within timelines as may be decided by MoSPI. 
+
+
+[भाग 1--खण्ड 1] भारत का राजपत्र : असाधारण 21 
+
+
+12. The applicant shall indemnify MoSPI against any loss or damage arising from misuse of the data. 
+
+
+13. This Undertaking shall be governed by and construed in accordance with the Law of the Land and the 
+Courts at New Delhi shall have exclusive jurisdiction over all matters arising out of or in connection 
+with this undertaking. 
+
+
+14. I/We hereby certify that all information provided is complete, accurate, and correct, and any changes 
+shall be reported to MoSPI immediately. 
+
+
+15. In signing this Undertaking, I/We understand and acknowledge any false information furnished or 
+violation of these terms may result in legal and administrative action, including restrictions on data 
+access as per policy or any other action as applicable under the rules/ policies/ guidelines of the 
+Government and laws of the country. 
+
+
+Applicant Signature: 
+
+
+Name (in Block Letters): 
+
+
+Designation (if applicable): 
+
+
+Organization (if applicable): 
+
+
+Place: 
+
+
+Date: 
+
+
+Submission Instructions: Submit the completed form via: 
+
+
+e MoSPI’s official Microdata portal (https://microdata.gov.in/) for access to Category B data after 
+registration 
+
+
+e For access to Category C data: 
+0. To Field Operations Division, MoSPI, Sankhiyiki Bhawan, GPOA Building at CBD Shahdara, 
+
+
+Near Karkardooma Court, Delhi-110032, email: adg.fodhq@mospi.gov.in for access to UFS 
+Block Maps data, 
+
+o To Economics Statistics Division, MoSPI, Khurshid Lal Bhawan, Janpath, New Delhi - 
+110001, Tel: 011-23455115, Email: adg-esd@mospi.gov.in for access to Statistical Business 
+Register (SBR) Data 
+
+o To Data Informatics & Innovation Division, MoSPI, East Block-10, R. K. Puram, New Delhi — 
+110066, Email: webunit.diid@mospi.gov.in for access to AST Panel Data 
+
+o To Enterprise Survey Division, MoSPI, 1, Council House Street, Kolkata — 700001, Email: 
+cdn-csoisw@nic.in for access to AST Frame 
+
+e Oras directed by MoSPI guidelines from time to time. 
+
+
+Note: The personal data collected through the above application form will be used only for verification, 
+communication, authorization, etc. in accordance with DPDP Act, 2023 and Rules framed thereunder. 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, 10011-1 10054... umegcuanp hen 
+
+
+MEENA 
+
+
