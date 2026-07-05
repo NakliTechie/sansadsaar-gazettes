@@ -1,6 +1,73 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-12-23.241392",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-23",
+      "ugid": "241392",
+      "title": "",
+      "ministry": "",
+      "department": "",
+      "office": "",
+      "subject": "",
+      "gazette_id": "",
+      "gazette_source_url": "",
+      "languages": [],
+      "pdf_url": "",
+      "ia_identifier": "in.gazette.central.e.2022-12-23.241392",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-23/241392.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-12-23.241392/241392_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-23.241391",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-23",
+      "ugid": "241391",
+      "title": "Extraordinary Gazette of India, 2022-12-23",
+      "ministry": "Ministry of External Affairs",
+      "department": "UNP Division",
+      "office": "",
+      "subject": "UN Security Council Act, 1947",
+      "gazette_id": "CG-DL-E-24122022-241391",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241391.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-23.241391/241391.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-23.241391",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-23/241391.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-23.241390",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-23",
+      "ugid": "241390",
+      "title": "Extraordinary Gazette of India, 2022-12-23",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "ESZ Division",
+      "office": "",
+      "subject": "Gazette Notification of Extension of Tenure of the Taj Trapezium Zone Pollution and Control Authority",
+      "gazette_id": "CG-DL-E-24122022-241390",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241390.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-23.241390/241390.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-23.241390",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-23/241390.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-12-23.241389",
       "category": "extraordinary",
       "type_letter": "e",
@@ -44762,7 +44829,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1943,
+  "count": 1946,
   "category": "central",
   "shard_index": 11
 }

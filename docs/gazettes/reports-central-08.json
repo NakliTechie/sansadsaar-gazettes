@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-12-11.250599",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-12-11",
+      "ugid": "250599",
+      "title": "Extraordinary Gazette of India, 2023-12-11",
+      "ministry": "International Financial Services Centres Authority",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "The International Financial Services Centres Authority, having considered the application by India International Bullion Exchange IFSC Limited",
+      "gazette_id": "CG-GJ-E-12122023-250599",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250599.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-11.250599/250599.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-12-11.250599",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-12-11/250599.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-12-11.250598",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-12-11",
+      "ugid": "250598",
+      "title": "Extraordinary Gazette of India, 2023-12-11",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
+      "gazette_id": "CG-DL-E-12122023-250598",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250598.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-11.250598/250598.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-12-11.250598",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-12-11/250598.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-12-11.250597",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-12-11",
+      "ugid": "250597",
+      "title": "Extraordinary Gazette of India, 2023-12-11",
+      "ministry": "Ministry of Railways",
+      "department": "Construction",
+      "office": "Chief Administrative Officer (Construction)",
+      "subject": "Publication of notification of extraordinary gazette under Part II section 3 Sub Section ii Notification under clause 7A of section 2 of the Railway Act 1989 24 of 1989 for Competent Authority is being issued for the land being acquired in Gujarat State for Special Railway Project Samakhiali Gandhidham Quadrupling Project 53 Km",
+      "gazette_id": "CG-MH-E-12122023-250597",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250597.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-11.250597/250597.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-12-11.250597",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-12-11/250597.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-12-11.250596",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58422,75 +58491,6 @@
       "ia_identifier": "in.gazette.central.e.2023-08-08.247936",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-08-08/247936.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-08-08.247935",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-08-08",
-      "ugid": "247935",
-      "title": "Extraordinary Gazette of India, 2023-08-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A morth",
-      "gazette_id": "CG-DL-E-09082023-247935",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247935.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-08.247935/247935.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-08-08.247935",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-08-08/247935.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-08-08.247934",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-08-08",
-      "ugid": "247934",
-      "title": "Extraordinary Gazette of India, 2023-08-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-09082023-247934",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247934.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-08.247934/247934.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-08-08.247934",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-08-08/247934.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-08-08.247933",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-08-08",
-      "ugid": "247933",
-      "title": "Extraordinary Gazette of India, 2023-08-08",
-      "ministry": "Ministry of Textiles",
-      "department": "Office of the Textile Commissioner",
-      "office": "",
-      "subject": "Cotton Bales (Quality Control) Amendment Order, 2023",
-      "gazette_id": "CG-DL-E-09082023-247933",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247933.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-08.247933/247933.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-08-08.247933",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-08-08/247933.pdf",
       "topics": []
     }
   ],

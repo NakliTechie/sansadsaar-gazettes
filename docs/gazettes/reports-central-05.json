@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-12-06.259235",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-06",
+      "ugid": "259235",
+      "title": "Extraordinary Gazette of India, 2024-12-06",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "37A",
+      "gazette_id": "CG-CG-E-06122024-259235",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259235.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259235/259235.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-06.259235",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-06/259235.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259235/259235_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-12-06.259234",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-06",
+      "ugid": "259234",
+      "title": "Extraordinary Gazette of India, 2024-12-06",
+      "ministry": "Ministry of Home Affairs",
+      "department": "N. E. Division",
+      "office": "",
+      "subject": "Constitution of Unlawful Activities Prevention Tribunal in the matter of the Hynniewtrep National Liberation Council HNLC of Meghalaya.",
+      "gazette_id": "CG-DL-E-06122024-259234",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259234.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259234/259234.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-06.259234",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-06/259234.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259234/259234_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-12-06.259233",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-06",
+      "ugid": "259233",
+      "title": "Extraordinary Gazette of India, 2024-12-06",
+      "ministry": "Ministry of Home Affairs",
+      "department": "CTCR DIVISION",
+      "office": "",
+      "subject": "Extension of tenure of Shri Subu Tapin as SPP in NIA",
+      "gazette_id": "CG-DL-E-06122024-259233",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259233.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259233/259233.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-06.259233",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-06/259233.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259233/259233_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-12-06.259232",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-08-16/256446.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256446/256446_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-16.256445",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-16",
-      "ugid": "256445",
-      "title": "Extraordinary Gazette of India, 2024-08-16",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
-      "office": "",
-      "subject": "Geographical Indication of Goods Holding Inquiry and Appeal Rules 2024",
-      "gazette_id": "CG-DL-E-16082024-256445",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256445.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256445/256445.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-16.256445",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-16/256445.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256445/256445_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-16.256444",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-16",
-      "ugid": "256444",
-      "title": "Extraordinary Gazette of India, 2024-08-16",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
-      "office": "",
-      "subject": "Trade Marks Holding Inquiry and Appeal Rules 2024",
-      "gazette_id": "CG-DL-E-16082024-256444",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256444.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256444/256444.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-16.256444",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-16/256444.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256444/256444_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-16.256443",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-16",
-      "ugid": "256443",
-      "title": "Extraordinary Gazette of India, 2024-08-16",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "CORRIGENDUM Commission Notification No. 508/AS/2024, dated 24th July, 2024",
-      "gazette_id": "CG-DL-E-16082024-256443",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256443.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256443/256443.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-16.256443",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-16/256443.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256443/256443_djvu.txt"
     }
   ],
   "count": 2500,

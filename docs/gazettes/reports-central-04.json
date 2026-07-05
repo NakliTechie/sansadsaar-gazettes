@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-24.261917",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-24",
+      "ugid": "261917",
+      "title": "Extraordinary Gazette of India, 2025-03-24",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
+      "office": "",
+      "subject": "QCO for Hinges",
+      "gazette_id": "CG-DL-E-24032025-261917",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261917.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-24.261917/261917.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-24.261917",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-24/261917.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-24.261917/261917_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-24.261903",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-24",
+      "ugid": "261903",
+      "title": "Extraordinary Gazette of India, 2025-03-24",
+      "ministry": "Ministry of Home Affairs",
+      "department": "CTCR DIVISION",
+      "office": "",
+      "subject": "Publication of Notification for delegation of Powers in the matter of declaration of JKIM as an unlawful association",
+      "gazette_id": "CG-DL-E-24032025-261903",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261903.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-24.261903/261903.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-24.261903",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-24/261903.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-24.261903/261903_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-24.261902",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-24",
+      "ugid": "261902",
+      "title": "Extraordinary Gazette of India, 2025-03-24",
+      "ministry": "Ministry of Home Affairs",
+      "department": "CTCR DIVISION",
+      "office": "",
+      "subject": "Publication of notification for delegation of powers in the matter of declaration of AAC as an Unlawful Association",
+      "gazette_id": "CG-DL-E-24032025-261902",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261902.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-24.261902/261902.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-24.261902",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-24/261902.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-24.261902/261902_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-03-24.261889",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-12-06/259237.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259237/259237_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-12-06.259235",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-12-06",
-      "ugid": "259235",
-      "title": "Extraordinary Gazette of India, 2024-12-06",
-      "ministry": "Ministry of Railways",
-      "department": "Sout East Central Railway",
-      "office": "",
-      "subject": "37A",
-      "gazette_id": "CG-CG-E-06122024-259235",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259235.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259235/259235.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-12-06.259235",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-12-06/259235.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259235/259235_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-12-06.259234",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-12-06",
-      "ugid": "259234",
-      "title": "Extraordinary Gazette of India, 2024-12-06",
-      "ministry": "Ministry of Home Affairs",
-      "department": "N. E. Division",
-      "office": "",
-      "subject": "Constitution of Unlawful Activities Prevention Tribunal in the matter of the Hynniewtrep National Liberation Council HNLC of Meghalaya.",
-      "gazette_id": "CG-DL-E-06122024-259234",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259234.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259234/259234.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-12-06.259234",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-12-06/259234.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259234/259234_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-12-06.259233",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-12-06",
-      "ugid": "259233",
-      "title": "Extraordinary Gazette of India, 2024-12-06",
-      "ministry": "Ministry of Home Affairs",
-      "department": "CTCR DIVISION",
-      "office": "",
-      "subject": "Extension of tenure of Shri Subu Tapin as SPP in NIA",
-      "gazette_id": "CG-DL-E-06122024-259233",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259233.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259233/259233.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-12-06.259233",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-12-06/259233.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-06.259233/259233_djvu.txt"
     }
   ],
   "count": 2500,

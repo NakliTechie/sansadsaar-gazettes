@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-08-08.247935",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-08-08",
+      "ugid": "247935",
+      "title": "Extraordinary Gazette of India, 2023-08-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A morth",
+      "gazette_id": "CG-DL-E-09082023-247935",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247935.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-08.247935/247935.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-08-08.247935",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-08-08/247935.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-08-08.247934",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-08-08",
+      "ugid": "247934",
+      "title": "Extraordinary Gazette of India, 2023-08-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-09082023-247934",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247934.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-08.247934/247934.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-08-08.247934",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-08-08/247934.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-08-08.247933",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-08-08",
+      "ugid": "247933",
+      "title": "Extraordinary Gazette of India, 2023-08-08",
+      "ministry": "Ministry of Textiles",
+      "department": "Office of the Textile Commissioner",
+      "office": "",
+      "subject": "Cotton Bales (Quality Control) Amendment Order, 2023",
+      "gazette_id": "CG-DL-E-09082023-247933",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247933.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-08.247933/247933.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-08-08.247933",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-08-08/247933.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-08-08.247932",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57424,75 +57493,6 @@
       "ia_identifier": "in.gazette.central.w.2023-04-08.245021",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/w/2023-04-08/245021.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-04-08.245020",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-04-08",
-      "ugid": "245020",
-      "title": "Weekly Gazette of India, 2023-04-08",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-08042023-245020",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245020.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-04-08.245020/245020.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-04-08.245020",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-04-08/245020.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-04-07.245060",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-04-07",
-      "ugid": "245060",
-      "title": "Extraordinary Gazette of India, 2023-04-07",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D MoRTH",
-      "gazette_id": "CG-DL-E-10042023-245060",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245060.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-07.245060/245060.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-04-07.245060",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-04-07/245060.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-04-07.245050",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-04-07",
-      "ugid": "245050",
-      "title": "Extraordinary Gazette of India, 2023-04-07",
-      "ministry": "Ministry of Railways",
-      "department": "Construction",
-      "office": "Chief Administrative Officer (Construction)",
-      "subject": "Publication of notification of extraordinary gazette under Part II section 3 Sub Section ii Notification under clause 7A of section 2 of the Railway Act 1989 24 of 1989 for competent authority in connection with Special Railway Project  Gauge Conversion of Dabhoi Samalaya 46Km including Samalaya Railway fly over bridge 8 Km and Lotana bye pass line 7Km for land acquisition in Vadodara District of Gujarat State",
-      "gazette_id": "CG-MH-E-10042023-245050",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245050.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-07.245050/245050.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-04-07.245050",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-04-07/245050.pdf",
       "topics": []
     }
   ],

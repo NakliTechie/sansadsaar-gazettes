@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-08-16.256445",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-16",
+      "ugid": "256445",
+      "title": "Extraordinary Gazette of India, 2024-08-16",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
+      "office": "",
+      "subject": "Geographical Indication of Goods Holding Inquiry and Appeal Rules 2024",
+      "gazette_id": "CG-DL-E-16082024-256445",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256445.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256445/256445.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-16.256445",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-16/256445.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256445/256445_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-08-16.256444",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-16",
+      "ugid": "256444",
+      "title": "Extraordinary Gazette of India, 2024-08-16",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
+      "office": "",
+      "subject": "Trade Marks Holding Inquiry and Appeal Rules 2024",
+      "gazette_id": "CG-DL-E-16082024-256444",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256444.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256444/256444.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-16.256444",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-16/256444.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256444/256444_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-08-16.256443",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-16",
+      "ugid": "256443",
+      "title": "Extraordinary Gazette of India, 2024-08-16",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "CORRIGENDUM Commission Notification No. 508/AS/2024, dated 24th July, 2024",
+      "gazette_id": "CG-DL-E-16082024-256443",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256443.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256443/256443.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-16.256443",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-16/256443.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-16.256443/256443_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-08-16.256442",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-03-20/253265.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-20.253265/253265_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-20.253264",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-20",
-      "ugid": "253264",
-      "title": "Extraordinary Gazette of India, 2024-03-20",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Department of Health and Family Welfare",
-      "office": "Medical Education Division",
-      "subject": "Notification of the National Commission for Allied and Healthcare Professions 7th (Removal of Difficulties) order, 2024",
-      "gazette_id": "CG-DL-E-20032024-253264",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253264.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-20.253264/253264.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-20.253264",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-20/253264.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-20.253264/253264_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-20.253262",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-20",
-      "ugid": "253262",
-      "title": "Extraordinary Gazette of India, 2024-03-20",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Resignation by three MPs",
-      "gazette_id": "CG-DL-E-20032024-253262",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253262.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-20.253262/253262.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-20.253262",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-20/253262.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-20.253262/253262_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-20.253259",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-20",
-      "ugid": "253259",
-      "title": "Extraordinary Gazette of India, 2024-03-20",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Corrigendum to Commission Notification No  434/MP HP/2024 dated 18th March, 2024",
-      "gazette_id": "CG-DL-E-20032024-253259",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253259.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-20.253259/253259.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-20.253259",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-20/253259.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-20.253259/253259_djvu.txt"
     }
   ],
   "count": 2500,

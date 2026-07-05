@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-12-16.268554",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-16",
+      "ugid": "268554",
+      "title": "Extrordinary Gazette of India, 2025-12-16",
+      "ministry": "Ministry of Home Affairs",
+      "department": "N. E. Division",
+      "office": "",
+      "subject": "Extension of time limit to submit report by Commission of Inquiry (Manipur) 2023",
+      "gazette_id": "CG-DL-E-16122025-268554",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268554.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268554/268554.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-16.268554",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-16/268554.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268554/268554_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-12-16.268553",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-16",
+      "ugid": "268553",
+      "title": "Extrordinary Gazette of India, 2025-12-16",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Financial Services",
+      "office": "",
+      "subject": "Reallocation of area of jurisdiction amongst the four DRTs",
+      "gazette_id": "CG-DL-E-16122025-268553",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268553.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268553/268553.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-16.268553",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-16/268553.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268553/268553_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-12-16.268552",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-16",
+      "ugid": "268552",
+      "title": "Extrordinary Gazette of India, 2025-12-16",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Environmental Impact Assessment (EIA) Division",
+      "office": "",
+      "subject": "Reconstitution of SEIAA and SEAC,Odisha",
+      "gazette_id": "CG-DL-E-16122025-268552",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268552.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268552/268552.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-16.268552",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-16/268552.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268552/268552_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-12-16.268550",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-21/264873.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-21.264873/264873_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-21.264872",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-21",
-      "ugid": "264872",
-      "title": "Extraordinary Gazette of India, 2025-07-21",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in the State of Gujarat",
-      "gazette_id": "CG-DL-E-21072025-264872",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264872.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-21.264872/264872.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-21.264872",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-21/264872.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-21.264872/264872_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-21.264871",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-21",
-      "ugid": "264871",
-      "title": "Extraordinary Gazette of India, 2025-07-21",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in the State of Gujarat",
-      "gazette_id": "CG-DL-E-21072025-264871",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264871.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-21.264871/264871.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-21.264871",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-21/264871.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-21.264871/264871_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-21.264870",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-21",
-      "ugid": "264870",
-      "title": "Extraordinary Gazette of India, 2025-07-21",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in the State of Gujarat",
-      "gazette_id": "CG-DL-E-21072025-264870",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264870.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-21.264870/264870.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-21.264870",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-21/264870.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-21.264870/264870_djvu.txt"
     }
   ],
   "count": 2500,

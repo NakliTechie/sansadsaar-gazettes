@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-20.271340",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-20",
+      "ugid": "271340",
+      "title": "Extrordinary Gazette of India, 2026-03-20",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "ADD investigation imports of Emulsion Styrene Butadiene Rubber of 1500 Exported from EU Japan Korea RP Russia and Thailand",
+      "gazette_id": "CG-DL-E-27032026-271340",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271340.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-20.271340/271340.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-20.271340",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-20/271340.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-20.271340/271340_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-20.271265",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-20",
+      "ugid": "271265",
+      "title": "Extrordinary Gazette of India, 2026-03-20",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "Initiation of SSR of Sodium Hydrosulphite from China PR",
+      "gazette_id": "CG-DL-E-25032026-271265",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271265.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-20.271265/271265.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-20.271265",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-20/271265.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-20.271265/271265_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-20.271255",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-20",
+      "ugid": "271255",
+      "title": "Extrordinary Gazette of India, 2026-03-20",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "Anti dumping investigation concerning imports of Sulphenamides Accelerators originating and exported from China PR EU and USA",
+      "gazette_id": "CG-DL-E-25032026-271255",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271255.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-20.271255/271255.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-20.271255",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-20/271255.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-20.271255/271255_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-20.271236",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-12-16/268555.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268555/268555_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-16.268554",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-16",
-      "ugid": "268554",
-      "title": "Extrordinary Gazette of India, 2025-12-16",
-      "ministry": "Ministry of Home Affairs",
-      "department": "N. E. Division",
-      "office": "",
-      "subject": "Extension of time limit to submit report by Commission of Inquiry (Manipur) 2023",
-      "gazette_id": "CG-DL-E-16122025-268554",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268554.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268554/268554.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-16.268554",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-16/268554.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268554/268554_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-16.268553",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-16",
-      "ugid": "268553",
-      "title": "Extrordinary Gazette of India, 2025-12-16",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Financial Services",
-      "office": "",
-      "subject": "Reallocation of area of jurisdiction amongst the four DRTs",
-      "gazette_id": "CG-DL-E-16122025-268553",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268553.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268553/268553.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-16.268553",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-16/268553.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268553/268553_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-16.268552",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-16",
-      "ugid": "268552",
-      "title": "Extrordinary Gazette of India, 2025-12-16",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Environmental Impact Assessment (EIA) Division",
-      "office": "",
-      "subject": "Reconstitution of SEIAA and SEAC,Odisha",
-      "gazette_id": "CG-DL-E-16122025-268552",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268552.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268552/268552.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-16.268552",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-16/268552.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-16.268552/268552_djvu.txt"
     }
   ],
   "count": 2500,
