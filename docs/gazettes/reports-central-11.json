@@ -1,6 +1,121 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-12-26.241421",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-26",
+      "ugid": "241421",
+      "title": "Extraordinary Gazette of India, 2022-12-26",
+      "ministry": "Ministry of Railways",
+      "department": "NORTH CENTRAL RAILWAYS",
+      "office": "Construction Organisation",
+      "subject": "Publication of Gazette Notification for Declaration of acquisition under Section 20 E for land acquisition for 04 villages of Meja Tehsil in Prayagraj District in connection with Pt. Deen Dayal Upadhyay Prayagraj 3rd line project in the state of Uttar Pradesh.",
+      "gazette_id": "CG-UP-E-26122022-241421",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241421.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-26.241421/241421.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-26.241421",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-26/241421.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-26.241420",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-26",
+      "ugid": "241420",
+      "title": "Extraordinary Gazette of India, 2022-12-26",
+      "ministry": "Cabinet Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "370th Amendment to the AoB Rules 1961 relating to online gaming and e sports",
+      "gazette_id": "CG-DL-E-26122022-241420",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241420.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-26.241420/241420.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-26.241420",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-26/241420.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-26.241419",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-26",
+      "ugid": "241419",
+      "title": "Extraordinary Gazette of India, 2022-12-26",
+      "ministry": "Institute of Company Secretaries of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Pursuant to Notification No. 1 of September, 2022, dated 7th September, 2022, the Election to the 14th Council of the Institute of Company Secretaries of India was held in accordance with Section 9 2   a  of the Company Secretaries Act",
+      "gazette_id": "CG-DL-E-26122022-241419",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241419.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-26.241419/241419.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-26.241419",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-26/241419.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-26.241418",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-26",
+      "ugid": "241418",
+      "title": "Extraordinary Gazette of India, 2022-12-26",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Budget Division",
+      "subject": "Auction for Sale (reissue) of (i) 6.69pc GS 2024 (ii) 7.10pc GS 2029 (iii) 7.41pc GS 2036 (iv) 7.40pc GS 2062",
+      "gazette_id": "CG-DL-E-26122022-241418",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241418.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-26.241418/241418.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-26.241418",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-26/241418.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-26.241417",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-26",
+      "ugid": "241417",
+      "title": "Extraordinary Gazette of India, 2022-12-26",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Social Security I",
+      "office": "",
+      "subject": "Corrigendum in Hindi",
+      "gazette_id": "CG-DL-E-26122022-241417",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241417.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-26.241417/241417.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-26.241417",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-26/241417.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-12-26.241416",
       "category": "extraordinary",
       "type_letter": "e",
@@ -45404,7 +45519,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1971,
+  "count": 1976,
   "category": "central",
   "shard_index": 11
 }
