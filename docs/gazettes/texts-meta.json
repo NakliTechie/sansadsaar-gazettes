@@ -6,11 +6,11 @@
     "records_with_text": 29443,
     "shards": 404,
     "r2_fallback": 0,
-    "total_text_bytes": 1406192,
+    "total_text_bytes": 0,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 29417,
-    "txt_files_removed": 26
+    "from_existing_shards": 29443,
+    "txt_files_removed": 0
   },
   "shards": [
     {
