@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 29492,
+    "records_with_text": 29495,
     "shards": 405,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 98019,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 29492,
-    "txt_files_removed": 0
+    "txt_files_removed": 3
   },
   "shards": [
     {
@@ -1535,13 +1535,13 @@
     },
     {
       "file": "texts-304.json",
-      "count": 105,
-      "bytes": 4603410
+      "count": 106,
+      "bytes": 4309100
     },
     {
       "file": "texts-305.json",
-      "count": 16,
-      "bytes": 2199298
+      "count": 18,
+      "bytes": 2594927
     },
     {
       "file": "texts-306.json",
@@ -30027,6 +30027,7 @@
     "central|central_e_20260701_274104": 304,
     "central|central_e_20260701_274105": 304,
     "central|central_e_20260701_274106": 304,
+    "central|central_e_20260701_274107": 304,
     "central|central_e_20260701_274108": 304,
     "central|central_e_20260701_274109": 304,
     "central|central_e_20260701_274111": 304,
@@ -30034,6 +30035,7 @@
     "central|central_e_20260701_274115": 304,
     "central|central_e_20260701_274116": 304,
     "central|central_e_20260701_274129": 304,
+    "central|central_e_20260701_274130": 304,
     "central|central_e_20260701_274131": 304,
     "central|central_e_20260701_274132": 304,
     "central|central_e_20260701_274147": 304,
@@ -30063,7 +30065,7 @@
     "central|central_e_20260703_274069": 304,
     "central|central_e_20260703_274070": 304,
     "central|central_e_20260703_274071": 304,
-    "central|central_e_20260703_274073": 304,
+    "central|central_e_20260703_274073": 305,
     "central|central_e_20260703_274074": 305,
     "central|central_e_20260703_274075": 305,
     "central|central_e_20260703_274076": 305,
@@ -30073,6 +30075,7 @@
     "central|central_e_20260703_274089": 305,
     "central|central_e_20260703_274090": 305,
     "central|central_e_20260704_274093": 305,
+    "central|central_e_20260704_274148": 305,
     "central|central_e_20260704_274149": 305,
     "central|central_e_20260704_274153": 305,
     "central|central_w_20221001_239261": 305,
