@@ -1,6 +1,121 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-12-28.241458",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-28",
+      "ugid": "241458",
+      "title": "Extraordinary Gazette of India, 2022-12-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-28122022-241458",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241458.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241458/241458.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-28.241458",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-28/241458.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-28.241457",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-28",
+      "ugid": "241457",
+      "title": "Extraordinary Gazette of India, 2022-12-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D morth",
+      "gazette_id": "CG-DL-E-28122022-241457",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241457.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241457/241457.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-28.241457",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-28/241457.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-28.241456",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-28",
+      "ugid": "241456",
+      "title": "Extraordinary Gazette of India, 2022-12-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D morth",
+      "gazette_id": "CG-DL-E-28122022-241456",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241456.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241456/241456.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-28.241456",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-28/241456.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-27.241581",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-27",
+      "ugid": "241581",
+      "title": "Extraordinary Gazette of India, 2022-12-27",
+      "ministry": "Central Electricity Authority",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Whereas the draft of the Central Electricity Authority Technical Standards for Construction of Electrical",
+      "gazette_id": "CG-DL-E-02012023-241581",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241581.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-27.241581/241581.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-27.241581",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-27/241581.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-27.241454",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-27",
+      "ugid": "241454",
+      "title": "Extraordinary Gazette of India, 2022-12-27",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of Judgment of Honble High Court of Jharkhand in Election Petition No 1 of 2016",
+      "gazette_id": "CG-DL-E-27122022-241454",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241454.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-27.241454/241454.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-27.241454",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-27/241454.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-12-27.241453",
       "category": "extraordinary",
       "type_letter": "e",
@@ -46278,7 +46393,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 2009,
+  "count": 2014,
   "category": "central",
   "shard_index": 11
 }
