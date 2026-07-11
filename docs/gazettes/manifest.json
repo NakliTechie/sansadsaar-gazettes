@@ -1,3 +1,18 @@
 {
-  "texts": {}
+  "texts": {
+    "central": {
+      "central_w_20260711_274389": {
+        "size": 239649,
+        "url": "text/central/central_w_20260711_274389.txt"
+      },
+      "central_w_20260711_274390": {
+        "size": 58089,
+        "url": "text/central/central_w_20260711_274390.txt"
+      },
+      "central_w_20260711_274391": {
+        "size": 404383,
+        "url": "text/central/central_w_20260711_274391.txt"
+      }
+    }
+  }
 }
