@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-12-17.268640",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-17",
+      "ugid": "268640",
+      "title": "Extrordinary Gazette of India, 2025-12-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-19122025-268640",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268640.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-17.268640/268640.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-17.268640",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-17/268640.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-17.268640/268640_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-12-17.268639",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-24/264951.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264951/264951_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-24.264947",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-24",
-      "ugid": "264947",
-      "title": "Extraordinary Gazette of India, 2025-07-24",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Western Railway",
-      "subject": "Publication of notification of extraordinary gazette under Part II section 3 Sub Section II Notification under clause 20 E of the Railway Act 1989 24 of 1989 for land to be  Acquired in connection with Special Railway Project Namely CONSTRUCTION CONSTRUCTION OF 2 LANE ROAD OVER    BRIDGE ROB IN LIEU OF LC NO 270 AT KM 444 BETWEEN  SECTION VADODARA GERATPUR OF VADODARA DIVISION ON WESTERN RAILWAY Project in District Kheda in the State of Gujarat",
-      "gazette_id": "CG-MH-E-25072025-264947",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264947.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264947/264947.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-24.264947",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-24/264947.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264947/264947_djvu.txt"
     }
   ],
   "count": 2500,

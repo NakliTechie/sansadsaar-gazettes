@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-12-10.259313",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-10",
+      "ugid": "259313",
+      "title": "Extraordinary Gazette of India, 2024-12-10",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-10122024-259313",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259313.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259313/259313.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-10.259313",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-10/259313.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259313/259313_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-12-10.259312",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-08-23/256596.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256596/256596_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-23.256595",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-23",
-      "ugid": "256595",
-      "title": "Extraordinary Gazette of India, 2024-08-23",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Economic Affairs",
-      "office": "Budget Division",
-      "subject": "Auction for Sale (re issue) of (i) 7.10pc GS 2034, (ii) 7.09pc GS 2054",
-      "gazette_id": "CG-DL-E-23082024-256595",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256595.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256595/256595.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-23.256595",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-23/256595.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256595/256595_djvu.txt"
     }
   ],
   "count": 2500,

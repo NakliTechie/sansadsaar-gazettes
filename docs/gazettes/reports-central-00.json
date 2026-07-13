@@ -361,6 +361,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-07-06.274177/274177_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.w.2026-07-04.274426",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-07-04",
+      "ugid": "274426",
+      "title": "Weekly Gazette of India, 2026-07-04",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-13072026-274426",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/274426.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-07-04.274426/274426.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-07-04.274426",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-07-04/274426.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-07-04.274188",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58954,30 +58977,6 @@
       "mirror_path": "pdf/central/e/2026-03-24/271269.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271269/271269_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-24.271268",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-24",
-      "ugid": "271268",
-      "title": "Extrordinary Gazette of India, 2026-03-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-25032026-271268",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271268.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271268/271268.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-24.271268",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-24/271268.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271268/271268_djvu.txt"
     }
   ],
   "count": 2500,

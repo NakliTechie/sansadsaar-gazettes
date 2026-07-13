@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-04-12.245138",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-12",
+      "ugid": "245138",
+      "title": "Extraordinary Gazette of India, 2023-04-12",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "",
+      "subject": "20E",
+      "gazette_id": "CG-CG-E-13042023-245138",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245138.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-12.245138/245138.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-12.245138",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-12/245138.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-04-12.245137",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58216,29 +58239,6 @@
       "ia_identifier": "in.gazette.central.e.2022-12-28.241460",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-12-28/241460.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-28.241459",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-28",
-      "ugid": "241459",
-      "title": "Extraordinary Gazette of India, 2022-12-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D morth",
-      "gazette_id": "CG-DL-E-28122022-241459",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241459.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241459/241459.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-28.241459",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-28/241459.pdf",
       "topics": []
     }
   ],

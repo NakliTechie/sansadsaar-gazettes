@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-22.253342",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-22",
+      "ugid": "253342",
+      "title": "Extraordinary Gazette of India, 2024-03-22",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Department of Health and Family Welfare",
+      "office": "Drugs Regulation Section",
+      "subject": "Notification of Member Institute Body of AIIMS Bathinda",
+      "gazette_id": "CG-DL-E-23032024-253342",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253342.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253342/253342.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-22.253342",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-22/253342.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253342/253342_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-22.253341",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59292,29 +59316,6 @@
       "ia_identifier": "in.gazette.central.e.2023-12-13.250662",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-12-13/250662.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-12-13.250660",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-12-13",
-      "ugid": "250660",
-      "title": "Extraordinary Gazette of India, 2023-12-13",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
-      "office": "DIRECTORATE OF MARKETING AND INSPECTION, HEAD OFFICE",
-      "subject": "Preliminary Notification of Ghee Grading and Marking Rules, 2023 under Agmark",
-      "gazette_id": "CG-HR-E-14122023-250660",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250660.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-13.250660/250660.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-12-13.250660",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-12-13/250660.pdf",
       "topics": []
     }
   ],

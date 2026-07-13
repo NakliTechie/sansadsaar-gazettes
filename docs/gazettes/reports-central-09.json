@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-08-10.248014",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-08-10",
+      "ugid": "248014",
+      "title": "Extraordinary Gazette of India, 2023-08-10",
+      "ministry": "Central Electricity Authority",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by Para 32 of the Tariff Based Competitive Bidding Guidelines",
+      "gazette_id": "CG-DL-E-11082023-248014",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248014.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-10.248014/248014.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-08-10.248014",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-08-10/248014.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-08-10.248013",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57472,29 +57495,6 @@
       "ia_identifier": "in.gazette.central.e.2023-04-12.245139",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-04-12/245139.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-04-12.245138",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-04-12",
-      "ugid": "245138",
-      "title": "Extraordinary Gazette of India, 2023-04-12",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "",
-      "subject": "20E",
-      "gazette_id": "CG-CG-E-13042023-245138",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245138.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-12.245138/245138.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-04-12.245138",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-04-12/245138.pdf",
       "topics": []
     }
   ],

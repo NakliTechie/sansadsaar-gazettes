@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-12-28.241459",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-28",
+      "ugid": "241459",
+      "title": "Extraordinary Gazette of India, 2022-12-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D morth",
+      "gazette_id": "CG-DL-E-28122022-241459",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241459.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241459/241459.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-28.241459",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-28/241459.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-12-28.241458",
       "category": "extraordinary",
       "type_letter": "e",
@@ -46393,7 +46416,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 2014,
+  "count": 2015,
   "category": "central",
   "shard_index": 11
 }

@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-24.271268",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-24",
+      "ugid": "271268",
+      "title": "Extrordinary Gazette of India, 2026-03-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-25032026-271268",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271268.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271268/271268.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-24.271268",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-24/271268.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271268/271268_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-24.271267",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-12-17/268641.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-17.268641/268641_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-17.268640",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-17",
-      "ugid": "268640",
-      "title": "Extrordinary Gazette of India, 2025-12-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-19122025-268640",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268640.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-17.268640/268640.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-17.268640",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-17/268640.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-17.268640/268640_djvu.txt"
     }
   ],
   "count": 2500,
