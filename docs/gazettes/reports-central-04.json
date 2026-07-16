@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-26.261994",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-26",
+      "ugid": "261994",
+      "title": "Extraordinary Gazette of India, 2025-03-26",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-27032025-261994",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261994.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-26.261994/261994.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-26.261994",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-26/261994.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-26.261994/261994_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-26.261993",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-26",
+      "ugid": "261993",
+      "title": "Extraordinary Gazette of India, 2025-03-26",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-27032025-261993",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261993.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-26.261993/261993.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-26.261993",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-26/261993.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-26.261993/261993_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-03-26.261992",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-12-10/259316.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259316/259316_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-12-10.259315",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-12-10",
-      "ugid": "259315",
-      "title": "Extraordinary Gazette of India, 2024-12-10",
-      "ministry": "Ministry of Textiles",
-      "department": "Jute Section",
-      "office": "",
-      "subject": "Notification for nomination of Shri Samik Bhattacharya, Member of Rajya Sabha to serve as member on the Board of National Jute Board",
-      "gazette_id": "CG-DL-E-10122024-259315",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259315.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259315/259315.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-12-10.259315",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-12-10/259315.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259315/259315_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-12-10.259314",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-12-10",
-      "ugid": "259314",
-      "title": "Extraordinary Gazette of India, 2024-12-10",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "PandM File",
-      "gazette_id": "CG-DL-E-10122024-259314",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259314.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259314/259314.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-12-10.259314",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-12-10/259314.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259314/259314_djvu.txt"
     }
   ],
   "count": 2500,

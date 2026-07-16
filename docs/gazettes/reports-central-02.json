@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-12-18.268616",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-18",
+      "ugid": "268616",
+      "title": "Extrordinary Gazette of India, 2025-12-18",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of intention to acquire of land under Section 20A for PH 16 Odha station Provision of stabling lines for handling Kumbh Mela traffic in 2027",
+      "gazette_id": "CG-MH-E-19122025-268616",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268616.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-18.268616/268616.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-18.268616",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-18/268616.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-18.268616/268616_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-12-17.268641",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-17",
+      "ugid": "268641",
+      "title": "Extrordinary Gazette of India, 2025-12-17",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "20E Notification",
+      "gazette_id": "CG-CG-E-19122025-268641",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268641.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-17.268641/268641.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-17.268641",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-17/268641.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-17.268641/268641_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-12-17.268640",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-24/264953.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264953/264953_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-24.264952",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-24",
-      "ugid": "264952",
-      "title": "Extraordinary Gazette of India, 2025-07-24",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Notification in the Extraordinary Gazette of India under section 3(1) of Petroleum and Minerals Pipelines Act, 1962 (50 of 1962), for acquisition of Right of User (ROU) in land for laying pipelines from PO 06 to JH 04, CBM Asset Bokaro District in the State of Jharkhand.",
-      "gazette_id": "CG-DL-E-25072025-264952",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264952.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264952/264952.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-24.264952",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-24/264952.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264952/264952_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-24.264951",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-24",
-      "ugid": "264951",
-      "title": "Extraordinary Gazette of India, 2025-07-24",
-      "ministry": "Ministry of Coal",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of Notification",
-      "gazette_id": "CG-DL-E-25072025-264951",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264951.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264951/264951.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-24.264951",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-24/264951.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264951/264951_djvu.txt"
     }
   ],
   "count": 2500,

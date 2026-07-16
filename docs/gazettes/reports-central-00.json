@@ -3466,6 +3466,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-06-25.274534",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-25",
+      "ugid": "274534",
+      "title": "Extrordinary Gazette of India, 2026-06-25",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notifying Merchant Shipping Load Lines Rules 2026 under Merchant Shipping Act 2025",
+      "gazette_id": "CG-DL-E-16072026-274534",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/274534.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-25.274534/274534.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-25.274534",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-25/274534.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-25.274151",
       "category": "extraordinary",
       "type_letter": "e",
@@ -4459,6 +4482,29 @@
       "ia_identifier": "in.gazette.central.e.2026-06-25.273829",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-25/273829.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-24.274543",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-24",
+      "ugid": "274543",
+      "title": "Extrordinary Gazette of India, 2026-06-24",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "Final findings of CVD of Calcium Carbonate Masterbatch from Vietnam",
+      "gazette_id": "CG-DL-E-16072026-274543",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/274543.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-24.274543/274543.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-24.274543",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-24/274543.pdf",
       "topics": []
     },
     {
@@ -58930,54 +58976,6 @@
       "mirror_path": "pdf/central/e/2026-03-24/271271.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271271/271271_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-24.271270",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-24",
-      "ugid": "271270",
-      "title": "Extrordinary Gazette of India, 2026-03-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-27032026-271270",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271270.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271270/271270.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-24.271270",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-24/271270.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271270/271270_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-24.271269",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-24",
-      "ugid": "271269",
-      "title": "Extrordinary Gazette of India, 2026-03-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of corrigendum under Section 3a",
-      "gazette_id": "CG-DL-E-25032026-271269",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271269.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271269/271269.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-24.271269",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-24/271269.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-24.271269/271269_djvu.txt"
     }
   ],
   "count": 2500,

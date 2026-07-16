@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-07-24.264952",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-24",
+      "ugid": "264952",
+      "title": "Extraordinary Gazette of India, 2025-07-24",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Exploration Division",
+      "office": "",
+      "subject": "Notification in the Extraordinary Gazette of India under section 3(1) of Petroleum and Minerals Pipelines Act, 1962 (50 of 1962), for acquisition of Right of User (ROU) in land for laying pipelines from PO 06 to JH 04, CBM Asset Bokaro District in the State of Jharkhand.",
+      "gazette_id": "CG-DL-E-25072025-264952",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264952.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264952/264952.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-24.264952",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-24/264952.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264952/264952_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-24.264951",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-24",
+      "ugid": "264951",
+      "title": "Extraordinary Gazette of India, 2025-07-24",
+      "ministry": "Ministry of Coal",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of Notification",
+      "gazette_id": "CG-DL-E-25072025-264951",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264951.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264951/264951.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-24.264951",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-24/264951.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-24.264951/264951_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-07-24.264947",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-03-26/261995.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-26.261995/261995_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-26.261994",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-26",
-      "ugid": "261994",
-      "title": "Extraordinary Gazette of India, 2025-03-26",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-27032025-261994",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261994.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-26.261994/261994.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-26.261994",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-26/261994.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-26.261994/261994_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-26.261993",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-26",
-      "ugid": "261993",
-      "title": "Extraordinary Gazette of India, 2025-03-26",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-27032025-261993",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261993.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-26.261993/261993.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-26.261993",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-26/261993.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-26.261993/261993_djvu.txt"
     }
   ],
   "count": 2500,

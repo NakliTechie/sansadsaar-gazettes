@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-22.253344",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-22",
+      "ugid": "253344",
+      "title": "Extraordinary Gazette of India, 2024-03-22",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Department of Health and Family Welfare",
+      "office": "Drugs Regulation Section",
+      "subject": "Notification of Member Institute Body of AIIMS Bathinda",
+      "gazette_id": "CG-DL-E-23032024-253344",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253344.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253344/253344.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-22.253344",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-22/253344.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253344/253344_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-22.253343",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-22",
+      "ugid": "253343",
+      "title": "Extraordinary Gazette of India, 2024-03-22",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Department of Health and Family Welfare",
+      "office": "Drugs Regulation Section",
+      "subject": "Notification of Member Institute Body of AIIMS Bathinda",
+      "gazette_id": "CG-DL-E-23032024-253343",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253343.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253343/253343.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-22.253343",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-22/253343.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253343/253343_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-22.253342",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59270,52 +59318,6 @@
       "ia_identifier": "in.gazette.central.e.2023-12-13.250666",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-12-13/250666.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-12-13.250663",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-12-13",
-      "ugid": "250663",
-      "title": "Extraordinary Gazette of India, 2023-12-13",
-      "ministry": "Ministry of Railways",
-      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
-      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
-      "subject": "Corrigendum required for correction in already published E Gazette Notification 2913 dated 10th July, 2023 for 20A publication for land acquisition in Manmad, Taluka Nandgaon in Connection with Daund Manmad doubling project.",
-      "gazette_id": "CG-MH-E-14122023-250663",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250663.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-13.250663/250663.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-12-13.250663",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-12-13/250663.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-12-13.250662",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-12-13",
-      "ugid": "250662",
-      "title": "Extraordinary Gazette of India, 2023-12-13",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Central Railway",
-      "subject": "PublicationofGazetteNotificationtodeclareConstructionofLHSLimitedHeightSubwayatLCNo47EatKm5837inAraSasaramSection",
-      "gazette_id": "CG-BR-E-14122023-250662",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250662.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-13.250662/250662.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-12-13.250662",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-12-13/250662.pdf",
       "topics": []
     }
   ],

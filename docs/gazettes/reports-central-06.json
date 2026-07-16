@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-08-23.256597",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-23",
+      "ugid": "256597",
+      "title": "Extraordinary Gazette of India, 2024-08-23",
+      "ministry": "Ministry of Social Justice and Empowerment",
+      "department": "Department of Social Justice and Empowerment",
+      "office": "",
+      "subject": "Regarding resignation of Shri Karsan D Ghavri from the post of Member in the National Commission for Safai Karamcharis",
+      "gazette_id": "CG-DL-E-23082024-256597",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256597.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256597/256597.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-23.256597",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-23/256597.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256597/256597_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-08-23.256596",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-23",
+      "ugid": "256596",
+      "title": "Extraordinary Gazette of India, 2024-08-23",
+      "ministry": "Ministry of Housing and Urban Affairs",
+      "department": "Works Division",
+      "office": "",
+      "subject": "In continuation of the Notification No  25011 7 85 W2 dated 24th July, 2019, it is hereby notified that Shri Kishori Lal, Member  Lok Sabha  and Smt. Kamaljeet Sehrawat, Member",
+      "gazette_id": "CG-DL-E-23082024-256596",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256596.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256596/256596.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-23.256596",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-23/256596.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256596/256596_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-08-23.256595",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-03-22/253345.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253345/253345_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-22.253344",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-22",
-      "ugid": "253344",
-      "title": "Extraordinary Gazette of India, 2024-03-22",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Department of Health and Family Welfare",
-      "office": "Drugs Regulation Section",
-      "subject": "Notification of Member Institute Body of AIIMS Bathinda",
-      "gazette_id": "CG-DL-E-23032024-253344",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253344.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253344/253344.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-22.253344",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-22/253344.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253344/253344_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-22.253343",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-22",
-      "ugid": "253343",
-      "title": "Extraordinary Gazette of India, 2024-03-22",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Department of Health and Family Welfare",
-      "office": "Drugs Regulation Section",
-      "subject": "Notification of Member Institute Body of AIIMS Bathinda",
-      "gazette_id": "CG-DL-E-23032024-253343",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253343.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253343/253343.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-22.253343",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-22/253343.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-22.253343/253343_djvu.txt"
     }
   ],
   "count": 2500,

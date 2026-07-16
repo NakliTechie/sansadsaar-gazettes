@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-04-12.245141",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-12",
+      "ugid": "245141",
+      "title": "Extraordinary Gazette of India, 2023-04-12",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-13042023-245141",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245141.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-12.245141/245141.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-12.245141",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-12/245141.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-04-12.245139",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-12",
+      "ugid": "245139",
+      "title": "Extraordinary Gazette of India, 2023-04-12",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Srikakulam Angul Natural Gas Pipeline (SAPL) of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-13042023-245139",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245139.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-12.245139/245139.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-12.245139",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-12/245139.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-04-12.245138",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58193,52 +58239,6 @@
       "ia_identifier": "in.gazette.central.e.2022-12-28.241462",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-12-28/241462.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-28.241461",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-28",
-      "ugid": "241461",
-      "title": "Extraordinary Gazette of India, 2022-12-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-28122022-241461",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241461.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241461/241461.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-28.241461",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-28/241461.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-28.241460",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-28",
-      "ugid": "241460",
-      "title": "Extraordinary Gazette of India, 2022-12-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-28122022-241460",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241460.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241460/241460.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-28.241460",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-28/241460.pdf",
       "topics": []
     }
   ],

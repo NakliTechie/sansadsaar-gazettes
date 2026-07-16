@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-12-10.259315",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-10",
+      "ugid": "259315",
+      "title": "Extraordinary Gazette of India, 2024-12-10",
+      "ministry": "Ministry of Textiles",
+      "department": "Jute Section",
+      "office": "",
+      "subject": "Notification for nomination of Shri Samik Bhattacharya, Member of Rajya Sabha to serve as member on the Board of National Jute Board",
+      "gazette_id": "CG-DL-E-10122024-259315",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259315.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259315/259315.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-10.259315",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-10/259315.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259315/259315_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-12-10.259314",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-10",
+      "ugid": "259314",
+      "title": "Extraordinary Gazette of India, 2024-12-10",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "PandM File",
+      "gazette_id": "CG-DL-E-10122024-259314",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259314.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259314/259314.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-10.259314",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-10/259314.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-10.259314/259314_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-12-10.259313",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-08-23/256598.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256598/256598_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-23.256597",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-23",
-      "ugid": "256597",
-      "title": "Extraordinary Gazette of India, 2024-08-23",
-      "ministry": "Ministry of Social Justice and Empowerment",
-      "department": "Department of Social Justice and Empowerment",
-      "office": "",
-      "subject": "Regarding resignation of Shri Karsan D Ghavri from the post of Member in the National Commission for Safai Karamcharis",
-      "gazette_id": "CG-DL-E-23082024-256597",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256597.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256597/256597.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-23.256597",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-23/256597.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256597/256597_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-23.256596",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-23",
-      "ugid": "256596",
-      "title": "Extraordinary Gazette of India, 2024-08-23",
-      "ministry": "Ministry of Housing and Urban Affairs",
-      "department": "Works Division",
-      "office": "",
-      "subject": "In continuation of the Notification No  25011 7 85 W2 dated 24th July, 2019, it is hereby notified that Shri Kishori Lal, Member  Lok Sabha  and Smt. Kamaljeet Sehrawat, Member",
-      "gazette_id": "CG-DL-E-23082024-256596",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256596.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256596/256596.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-23.256596",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-23/256596.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-23.256596/256596_djvu.txt"
     }
   ],
   "count": 2500,

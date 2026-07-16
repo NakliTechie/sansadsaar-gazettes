@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-08-10.248016",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-08-10",
+      "ugid": "248016",
+      "title": "Extraordinary Gazette of India, 2023-08-10",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
+      "office": "",
+      "subject": "Fire Extinguishers (Quality Control) Order, 2023",
+      "gazette_id": "CG-DL-E-11082023-248016",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248016.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-10.248016/248016.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-08-10.248016",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-08-10/248016.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-08-10.248015",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-08-10",
+      "ugid": "248015",
+      "title": "Extraordinary Gazette of India, 2023-08-10",
+      "ministry": "Institute of Chartered Accountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "With reference to the Notification No 3NCA 4120192020 published in The Gazette of India under",
+      "gazette_id": "CG-DL-E-11082023-248015",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248015.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-10.248015/248015.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-08-10.248015",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-08-10/248015.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-08-10.248014",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57449,52 +57495,6 @@
       "ia_identifier": "in.gazette.central.e.2023-04-12.245142",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-04-12/245142.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-04-12.245141",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-04-12",
-      "ugid": "245141",
-      "title": "Extraordinary Gazette of India, 2023-04-12",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
-      "gazette_id": "CG-DL-E-13042023-245141",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245141.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-12.245141/245141.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-04-12.245141",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-04-12/245141.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-04-12.245139",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-04-12",
-      "ugid": "245139",
-      "title": "Extraordinary Gazette of India, 2023-04-12",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Srikakulam Angul Natural Gas Pipeline (SAPL) of GAIL (India) Limited.",
-      "gazette_id": "CG-DL-E-13042023-245139",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245139.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-12.245139/245139.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-04-12.245139",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-04-12/245139.pdf",
       "topics": []
     }
   ],
