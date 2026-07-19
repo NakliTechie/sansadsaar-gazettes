@@ -1,6 +1,121 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-12-28.241466",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-28",
+      "ugid": "241466",
+      "title": "Extraordinary Gazette of India, 2022-12-28",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "37a",
+      "gazette_id": "CG-RJ-E-28122022-241466",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241466.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241466/241466.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-28.241466",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-28/241466.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-28.241465",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-28",
+      "ugid": "241465",
+      "title": "Extraordinary Gazette of India, 2022-12-28",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "1000242244 Ontario Inc",
+      "gazette_id": "CG-DL-E-28122022-241465",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241465.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241465/241465.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-28.241465",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-28/241465.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-28.241464",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-28",
+      "ugid": "241464",
+      "title": "Extraordinary Gazette of India, 2022-12-28",
+      "ministry": "Ministry of Home Affairs",
+      "department": "Police-I Division",
+      "office": "",
+      "subject": "Prime Minister Police Medal for Life Saving",
+      "gazette_id": "CG-DL-E-28122022-241464",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241464.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241464/241464.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-28.241464",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-28/241464.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-28.241463",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-28",
+      "ugid": "241463",
+      "title": "Extraordinary Gazette of India, 2022-12-28",
+      "ministry": "Ministry of Science and Technology",
+      "department": "Department of Science and Technology",
+      "office": "",
+      "subject": "National Geospatial Policy 2022",
+      "gazette_id": "CG-DL-E-28122022-241463",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241463.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241463/241463.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-28.241463",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-28/241463.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-28.241462",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-28",
+      "ugid": "241462",
+      "title": "Extraordinary Gazette of India, 2022-12-28",
+      "ministry": "Ministry of Home Affairs",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section  1  read with clauses a and c of sub section  2 of section 155 of the Sashastra Seema Bal Act",
+      "gazette_id": "CG-DL-E-28122022-241462",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241462.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-28.241462/241462.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-28.241462",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-28/241462.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-12-28.241461",
       "category": "extraordinary",
       "type_letter": "e",
@@ -46462,7 +46577,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 2017,
+  "count": 2022,
   "category": "central",
   "shard_index": 11
 }
