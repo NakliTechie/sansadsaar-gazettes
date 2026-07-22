@@ -1,6 +1,167 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-12-29.241542",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-29",
+      "ugid": "241542",
+      "title": "Extraordinary Gazette of India, 2022-12-29",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Department of Commerce",
+      "office": "Administration and General Service Division",
+      "subject": "Sankalp Hindi Salahkar Samiti",
+      "gazette_id": "CG-DL-E-05012023-241542",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241542.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-29.241542/241542.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-29.241542",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-29/241542.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-29.241541",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-29",
+      "ugid": "241541",
+      "title": "Extraordinary Gazette of India, 2022-12-29",
+      "ministry": "Ministry of Textiles",
+      "department": "Office of the Textile Commissioner",
+      "office": "",
+      "subject": "Notifying BIS Standard on VSF as QCO",
+      "gazette_id": "CG-DL-E-05012023-241541",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241541.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-29.241541/241541.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-29.241541",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-29/241541.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-29.241540",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-29",
+      "ugid": "241540",
+      "title": "Extraordinary Gazette of India, 2022-12-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-31122022-241540",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241540.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-29.241540/241540.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-29.241540",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-29/241540.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-29.241539",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-29",
+      "ugid": "241539",
+      "title": "Extraordinary Gazette of India, 2022-12-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A MoRTH",
+      "gazette_id": "CG-DL-E-31122022-241539",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241539.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-29.241539/241539.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-29.241539",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-29/241539.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-29.241538",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-29",
+      "ugid": "241538",
+      "title": "Extraordinary Gazette of India, 2022-12-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-31122022-241538",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241538.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-29.241538/241538.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-29.241538",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-29/241538.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-29.241537",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-29",
+      "ugid": "241537",
+      "title": "Extraordinary Gazette of India, 2022-12-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-31122022-241537",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241537.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-29.241537/241537.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-29.241537",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-29/241537.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-29.241536",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-29",
+      "ugid": "241536",
+      "title": "Extraordinary Gazette of India, 2022-12-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-31122022-241536",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241536.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-29.241536/241536.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-29.241536",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-29/241536.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-12-29.241535",
       "category": "extraordinary",
       "type_letter": "e",
@@ -47796,7 +47957,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 2075,
+  "count": 2082,
   "category": "central",
   "shard_index": 11
 }
