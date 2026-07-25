@@ -205,7 +205,8 @@
       "ia_identifier": "in.gazette.central.e.2026-07-24.274781",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-07-24/274781.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-07-24.274781/274781_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2026-07-23.274783",
@@ -274,7 +275,8 @@
       "ia_identifier": "in.gazette.central.e.2026-07-23.274774",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-07-23/274774.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-07-23.274774/274774_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2026-07-23.274773",
