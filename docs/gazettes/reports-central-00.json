@@ -3116,6 +3116,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-07-16.274606/274606_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-07-15.274750",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-07-15",
+      "ugid": "274750",
+      "title": "Extrordinary Gazette of India, 2026-07-15",
+      "ministry": "Ministry of Railways",
+      "department": "West Central Railway",
+      "office": "Bhopal Division",
+      "subject": "Publication of Section 20A",
+      "gazette_id": "CG-MP-E-24072026-274750",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/274750.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-07-15.274750/274750.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-07-15.274750",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-07-15/274750.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-07-15.274749",
       "category": "extraordinary",
       "type_letter": "e",
@@ -4158,6 +4181,29 @@
       "ia_identifier": "in.gazette.central.e.2026-07-13.274603",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-07-13/274603.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-07-11.274766",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-07-11",
+      "ugid": "274766",
+      "title": "Weekly Gazette of India, 2026-07-11",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-25072026-274766",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/274766.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-07-11.274766/274766.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-07-11.274766",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-07-11/274766.pdf",
       "topics": []
     },
     {
@@ -58842,54 +58888,6 @@
       "mirror_path": "pdf/central/e/2026-03-30/271468.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271468/271468_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-30.271467",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-30",
-      "ugid": "271467",
-      "title": "Extrordinary Gazette of India, 2026-03-30",
-      "ministry": "Ministry of Mines",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "The Minerals (Other than Atomic and Hydro Carbons Energy Minerals) Concession (Second Amendment) Rules, 2026.",
-      "gazette_id": "CG-DL-E-31032026-271467",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271467.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271467/271467.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-30.271467",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-30/271467.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271467/271467_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-30.271466",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-30",
-      "ugid": "271466",
-      "title": "Extrordinary Gazette of India, 2026-03-30",
-      "ministry": "Ministry of Railways",
-      "department": "Sout East Central Railway",
-      "office": "",
-      "subject": "20A notification",
-      "gazette_id": "CG-CG-E-31032026-271466",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271466.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271466/271466.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-30.271466",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-30/271466.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271466/271466_djvu.txt"
     }
   ],
   "count": 2500,

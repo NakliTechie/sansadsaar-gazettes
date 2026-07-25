@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2023-08-19.248471",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-08-19",
+      "ugid": "248471",
+      "title": "Weekly Gazette of India, 2023-08-19",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-02092023-248471",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248471.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-08-19.248471/248471.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-08-19.248471",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-08-19/248471.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-08-19.248364",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-08-19",
+      "ugid": "248364",
+      "title": "Weekly Gazette of India, 2023-08-19",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-26082023-248364",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248364.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-08-19.248364/248364.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-08-19.248364",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-08-19/248364.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2023-08-19.248195",
       "category": "weekly",
       "type_letter": "w",
@@ -57449,52 +57495,6 @@
       "ia_identifier": "in.gazette.central.e.2023-04-21.245337",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-04-21/245337.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-04-21.245336",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-04-21",
-      "ugid": "245336",
-      "title": "Extraordinary Gazette of India, 2023-04-21",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for North East Natural Gas Pipeline Grid Project of M/s. Indradhanush Gas Grid Limited (IGGL).",
-      "gazette_id": "CG-DL-E-22042023-245336",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245336.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-21.245336/245336.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-04-21.245336",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-04-21/245336.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-04-21.245335",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-04-21",
-      "ugid": "245335",
-      "title": "Extraordinary Gazette of India, 2023-04-21",
-      "ministry": "Ministry of Railways",
-      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
-      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
-      "subject": "Addendum required in already published E Gazette Notification number 240847 dated 05.12.2022 for 20A publication for land acquisition in Osmanabad Taluka in Connection with Solapur Osmanabad via Tuljapur New BG Line",
-      "gazette_id": "CG-MH-E-22042023-245335",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245335.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-21.245335/245335.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-04-21.245335",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-04-21/245335.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2025-03-29.262325",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-03-29",
+      "ugid": "262325",
+      "title": "Weekly Gazette of India, 2025-03-29",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-07042025-262325",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262325.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-03-29.262325/262325.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-03-29.262325",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-03-29/262325.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-03-29.262325/262325_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2025-03-29.262221",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-03-29",
+      "ugid": "262221",
+      "title": "Weekly Gazette of India, 2025-03-29",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-02042025-262221",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262221.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-03-29.262221/262221.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-03-29.262221",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-03-29/262221.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-03-29.262221/262221_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2025-03-29.262220",
       "category": "weekly",
       "type_letter": "w",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-12-18/259500.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-18.259500/259500_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-12-18.259499",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-12-18",
-      "ugid": "259499",
-      "title": "Extraordinary Gazette of India, 2024-12-18",
-      "ministry": "Ministry of Steel",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification for laying of Iron Ore Slurry Pipeline from Kalamang (West) Iron Ore Mine in District Sudargarh to Rugudih in District Keonjhar in Odisha by TATA Steel Limited",
-      "gazette_id": "CG-DL-E-18122024-259499",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259499.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-18.259499/259499.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-12-18.259499",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-12-18/259499.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-18.259499/259499_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-12-17.260508",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-12-17",
-      "ugid": "260508",
-      "title": "Extraordinary Gazette of India, 2024-12-17",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "The Constitution (One Hundred and Twenty Ninth Amendment)  Bill 2024 The UT Laws (Amendment) Bill 2024 The Appropriation (Number 3) Bill 2024",
-      "gazette_id": "CG-DL-E-27012025-260508",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/260508.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-17.260508/260508.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-12-17.260508",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-12-17/260508.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-17.260508/260508_djvu.txt"
     }
   ],
   "count": 2500,

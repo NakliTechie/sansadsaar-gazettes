@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-01-04.241660",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241660",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Department of Health Research",
+      "office": "",
+      "subject": "Notification for inclusion of one woman member of Rajya Sabha as Member in National Board",
+      "gazette_id": "CG-DL-E-04012023-241660",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241660.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241660/241660.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241660",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241660.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-04.241659",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241659",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-04012023-241659",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241659.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241659/241659.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241659",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241659.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-01-04.241658",
       "category": "extraordinary",
       "type_letter": "e",
@@ -50531,7 +50577,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 2194,
+  "count": 2196,
   "category": "central",
   "shard_index": 11
 }

@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-30.271467",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-30",
+      "ugid": "271467",
+      "title": "Extrordinary Gazette of India, 2026-03-30",
+      "ministry": "Ministry of Mines",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "The Minerals (Other than Atomic and Hydro Carbons Energy Minerals) Concession (Second Amendment) Rules, 2026.",
+      "gazette_id": "CG-DL-E-31032026-271467",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271467.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271467/271467.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-30.271467",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-30/271467.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271467/271467_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-30.271466",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-30",
+      "ugid": "271466",
+      "title": "Extrordinary Gazette of India, 2026-03-30",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "20A notification",
+      "gazette_id": "CG-CG-E-31032026-271466",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271466.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271466/271466.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-30.271466",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-30/271466.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271466/271466_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-30.271464",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-12-24/268853.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-24.268853/268853_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-24.268852",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-24",
-      "ugid": "268852",
-      "title": "Extrordinary Gazette of India, 2025-12-24",
-      "ministry": "Pension Fund Regulatory and Development Authority",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sub section 1 of Section 52 read with clauses",
-      "gazette_id": "CG-DL-E-27122025-268852",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268852.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-24.268852/268852.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-24.268852",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-24/268852.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-24.268852/268852_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-24.268851",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-24",
-      "ugid": "268851",
-      "title": "Extrordinary Gazette of India, 2025-12-24",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules",
-      "gazette_id": "CG-DL-E-27122025-268851",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268851.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-24.268851/268851.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-24.268851",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-24/268851.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-24.268851/268851_djvu.txt"
     }
   ],
   "count": 2500,

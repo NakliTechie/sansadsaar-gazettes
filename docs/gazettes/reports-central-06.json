@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-09-02.256856",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-09-02",
+      "ugid": "256856",
+      "title": "Extraordinary Gazette of India, 2024-09-02",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "North Eastern Railway",
+      "subject": "For publication in the Gazette of India under Sub section (6) of section 20 (F) of Railways amendment Act 2008",
+      "gazette_id": "CG-UP-E-03092024-256856",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256856.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-02.256856/256856.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-09-02.256856",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-09-02/256856.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-02.256856/256856_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-09-02.256854",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-09-02",
+      "ugid": "256854",
+      "title": "Extraordinary Gazette of India, 2024-09-02",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-03092024-256854",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256854.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-02.256854/256854.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-09-02.256854",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-09-02/256854.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-02.256854/256854_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-09-02.256853",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-04-03/253547.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-04-03.253547/253547_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-04-03.253545",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-04-03",
-      "ugid": "253545",
-      "title": "Extraordinary Gazette of India, 2024-04-03",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "WESTERN RAILWAY",
-      "subject": "notification of extraordinary gazette under Part II section3 Sub Section ii Notification under clause 20E of section 2 of the Railway Act 989 24 of 1989 for land to be acquired in connection with Special Railway Project   of   Nadiad Petlad Gauge Conversion",
-      "gazette_id": "CG-MH-E-04042024-253545",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253545.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-04-03.253545/253545.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-04-03.253545",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-04-03/253545.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-04-03.253545/253545_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-04-03.253542",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-04-03",
-      "ugid": "253542",
-      "title": "Extraordinary Gazette of India, 2024-04-03",
-      "ministry": "Ministry of Railways",
-      "department": "Northern Railway",
-      "office": "",
-      "subject": "Publication of Notification in the official Gazette under Section 20 E of Railways Act  1989 Amendment 2008 for acquisition of land for Special Railway Project namely Rosa Sitapur Doubling project in District Shahjehanpur State of UP",
-      "gazette_id": "CG-DL-E-03042024-253542",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253542.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-04-03.253542/253542.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-04-03.253542",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-04-03/253542.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-04-03.253542/253542_djvu.txt"
     }
   ],
   "count": 2500,
