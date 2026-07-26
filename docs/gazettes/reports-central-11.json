@@ -1,6 +1,213 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-01-04.241672",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241672",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Joint Electricity Regulatory Commission for the State of Goa and Union Territories",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In terms of Sub section 1 of Section1 5 of Right to Information Act, 2005, Shri Sunil Dutt Sharma, Director  Finance and Law  has been designated as Central Public Information Officer for the purpose of Right to Information Act,",
+      "gazette_id": "CG-HR-E-04012023-241672",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241672.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241672/241672.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241672",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241672.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-04.241671",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241671",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-04012023-241671",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241671.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241671/241671.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241671",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241671.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-04.241670",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241670",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-04012023-241670",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241670.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241670/241670.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241670",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241670.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-04.241669",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241669",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Women and Child Development",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Section 7 Notification under Aadhar Act 2016 for Schemes of Mission Shakti",
+      "gazette_id": "CG-DL-E-04012023-241669",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241669.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241669/241669.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241669",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241669.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-04.241667",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241667",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Home Affairs",
+      "department": "CTCR DIVISION",
+      "office": "",
+      "subject": "Publication of Notification (Extraordinary) in respect of designation of Aijaz Ahmad Ahangar alias Abu Usman Al Kashmiri as Terrorist under the Unlawful Activities (Prevention) Act 1967",
+      "gazette_id": "CG-DL-E-04012023-241667",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241667.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241667/241667.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241667",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241667.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-04.241666",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241666",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Chemicals and Fertilizers",
+      "department": "Department of Chemicals and Petro Chemicals",
+      "office": "",
+      "subject": "Notification for the Appointment of Estate Officer under Public Premises Unauthorized Occupant act 1971 reg",
+      "gazette_id": "CG-DL-E-04012023-241666",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241666.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241666/241666.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241666",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241666.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-04.241665",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241665",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-04012023-241665",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241665.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241665/241665.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241665",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241665.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-04.241663",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241663",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Control of Pollution Division",
+      "office": "",
+      "subject": "Regulation of Common Effluent Treatment Plants Rules, 2022",
+      "gazette_id": "CG-DL-E-04012023-241663",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241663.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241663/241663.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241663",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241663.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-04.241662",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-04",
+      "ugid": "241662",
+      "title": "Extraordinary Gazette of India, 2023-01-04",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "Corrigendum to the notification issued on 05.12.2022 for operationalization of the Central Universities (Amendment) Act, 2022",
+      "gazette_id": "CG-DL-E-04012023-241662",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241662.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241662/241662.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-04.241662",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-04/241662.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-01-04.241661",
       "category": "extraordinary",
       "type_letter": "e",
@@ -50600,7 +50807,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 2197,
+  "count": 2206,
   "category": "central",
   "shard_index": 11
 }
