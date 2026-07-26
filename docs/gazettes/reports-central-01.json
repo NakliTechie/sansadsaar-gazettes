@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-30.271468",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-30",
+      "ugid": "271468",
+      "title": "Extrordinary Gazette of India, 2026-03-30",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Western Railway Cantonment Bangalore",
+      "subject": "Publication of Notification in respect of Construction of ROB in lieu of LC No. 123 in terms of clause 20A Railway Act 1989",
+      "gazette_id": "CG-KA-E-31032026-271468",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271468.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271468/271468.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-30.271468",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-30/271468.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271468/271468_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-30.271467",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-12-24/268860.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-24.268860/268860_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-24.268853",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-24",
-      "ugid": "268853",
-      "title": "Extrordinary Gazette of India, 2025-12-24",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
-      "gazette_id": "CG-DL-E-27122025-268853",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268853.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-24.268853/268853.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-24.268853",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-24/268853.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-24.268853/268853_djvu.txt"
     }
   ],
   "count": 2500,

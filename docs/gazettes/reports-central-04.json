@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-29.262449",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-29",
+      "ugid": "262449",
+      "title": "Extraordinary Gazette of India, 2025-03-29",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "E P No.3 of 2019 form 10 Ferozepur PC Shri Kashmir Singh and others",
+      "gazette_id": "CG-DL-E-15042025-262449",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262449.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-29.262449/262449.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-29.262449",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-29/262449.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-29.262449/262449_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2025-03-29.262325",
       "category": "weekly",
       "type_letter": "w",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-12-18/259501.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-18.259501/259501_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-12-18.259500",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-12-18",
-      "ugid": "259500",
-      "title": "Extraordinary Gazette of India, 2024-12-18",
-      "ministry": "Ministry of Law  and Justice",
-      "department": "Department of Legal Affairs",
-      "office": "Department of Legal Affairs",
-      "subject": "In pursuance of sub rule 1 of rule 4 of the Notaries Rules 1956 the Central Government hereby designates",
-      "gazette_id": "CG-DL-E-18122024-259500",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259500.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-18.259500/259500.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-12-18.259500",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-12-18/259500.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-18.259500/259500_djvu.txt"
     }
   ],
   "count": 2500,

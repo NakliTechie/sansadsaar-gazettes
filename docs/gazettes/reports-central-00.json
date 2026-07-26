@@ -520,6 +520,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-07-22.274765",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-07-22",
+      "ugid": "274765",
+      "title": "Extrordinary Gazette of India, 2026-07-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24072026-274765",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/274765.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-07-22.274765/274765.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-07-22.274765",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-07-22/274765.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-07-22.274764",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58874,30 +58897,6 @@
       "mirror_path": "pdf/central/e/2026-03-30/271469.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271469/271469_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-30.271468",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-30",
-      "ugid": "271468",
-      "title": "Extrordinary Gazette of India, 2026-03-30",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Western Railway Cantonment Bangalore",
-      "subject": "Publication of Notification in respect of Construction of ROB in lieu of LC No. 123 in terms of clause 20A Railway Act 1989",
-      "gazette_id": "CG-KA-E-31032026-271468",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271468.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271468/271468.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-30.271468",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-30/271468.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-30.271468/271468_djvu.txt"
     }
   ],
   "count": 2500,

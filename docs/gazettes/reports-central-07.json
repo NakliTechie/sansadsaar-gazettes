@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-04-03.253547",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-04-03",
+      "ugid": "253547",
+      "title": "Extraordinary Gazette of India, 2024-04-03",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "New Baghuapal Flyover Railway Line 20Km and Construction of ROH shed",
+      "gazette_id": "CG-OR-E-08042024-253547",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/253547.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-04-03.253547/253547.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-04-03.253547",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-04-03/253547.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-04-03.253547/253547_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-04-03.253545",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59474,29 +59498,6 @@
       "ia_identifier": "in.gazette.central.e.2023-12-22.250889",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-12-22/250889.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-12-22.250888",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-12-22",
-      "ugid": "250888",
-      "title": "Extraordinary Gazette of India, 2023-12-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-26122023-250888",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250888.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-12-22.250888/250888.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-12-22.250888",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-12-22/250888.pdf",
       "topics": []
     }
   ],

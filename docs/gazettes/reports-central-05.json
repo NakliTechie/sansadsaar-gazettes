@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-12-18.259500",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-18",
+      "ugid": "259500",
+      "title": "Extraordinary Gazette of India, 2024-12-18",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Department of Legal Affairs",
+      "office": "Department of Legal Affairs",
+      "subject": "In pursuance of sub rule 1 of rule 4 of the Notaries Rules 1956 the Central Government hereby designates",
+      "gazette_id": "CG-DL-E-18122024-259500",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259500.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-18.259500/259500.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-18.259500",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-18/259500.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-18.259500/259500_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-12-18.259499",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-09-02/256858.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-02.256858/256858_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-02.256857",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-02",
-      "ugid": "256857",
-      "title": "Extraordinary Gazette of India, 2024-09-02",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "WESTERN RAILWAY",
-      "subject": "Notification of extraordinary gazette under Part II section 3 Sub Section ii Notification under clause 20E of section 2 of the Railway Act 1989 24 of 1989 for land to be acquired in connection with Special Railway Project 4TH LINE BETWEEN BAREJADI NANDEJ n district Ahmedabad in the state of Gujarat",
-      "gazette_id": "CG-MH-E-03092024-256857",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256857.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-02.256857/256857.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-02.256857",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-02/256857.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-02.256857/256857_djvu.txt"
     }
   ],
   "count": 2500,

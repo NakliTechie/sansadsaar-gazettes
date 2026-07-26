@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-04-21.245337",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-21",
+      "ugid": "245337",
+      "title": "Extraordinary Gazette of India, 2023-04-21",
+      "ministry": "Ministry of Railways",
+      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
+      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
+      "subject": "Addendum required in already published E Gazette Notification No 240858 dated 05.12.2022 for 20A publication for land acquisition in Osmanabad Taluka in Connection with Solapur Osmanabad via Tuljapur New BG Line.",
+      "gazette_id": "CG-MH-E-22042023-245337",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245337.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-21.245337/245337.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-21.245337",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-21/245337.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-04-21.245336",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58218,29 +58241,6 @@
       "ia_identifier": "in.gazette.central.e.2023-01-04.241662",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-01-04/241662.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-01-04.241661",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-01-04",
-      "ugid": "241661",
-      "title": "Extraordinary Gazette of India, 2023-01-04",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "GST Policy Wing CBIC",
-      "subject": "NOTIFICATION GIVING POWER TO ADDITIONAL ASSISTANT DIRECTOR",
-      "gazette_id": "CG-DL-E-04012023-241661",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241661.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-04.241661/241661.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-01-04.241661",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-01-04/241661.pdf",
       "topics": []
     }
   ],
