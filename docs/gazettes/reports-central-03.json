@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-08-08.265394",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-08-08",
+      "ugid": "265394",
+      "title": "Extrordinary Gazette of India, 2025-08-08",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of Gazettee Notification for the below mentioned Land Schedule under Subsection 1 of section 20A of the Railways Amendment Act 1989",
+      "gazette_id": "CG-OR-E-13082025-265394",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265394.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-08.265394/265394.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-08-08.265394",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-08-08/265394.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-08.265394/265394_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-08-08.265367",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-08-08",
+      "ugid": "265367",
+      "title": "Extrordinary Gazette of India, 2025-08-08",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Contruction",
+      "subject": "Publication of Gazette Notification for Declare intention to acquire of land under Section 20 A for land acquisition of villages Tadoli Tapvan Bahadurwadi Tokwadi Malnathpur and Khamgaon in Parli Taluka in connection with Ahmednagar Beed Parli vaijnath 261 Km New Line Maharashtra",
+      "gazette_id": "CG-MH-E-12082025-265367",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265367.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-08.265367/265367.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-08-08.265367",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-08-08/265367.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-08.265367/265367_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-08-08.265358",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-04-08/262370.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-08.262370/262370_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-04-08.262369",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-04-08",
-      "ugid": "262369",
-      "title": "Extraordinary Gazette of India, 2025-04-08",
-      "ministry": "Ministry of Textiles",
-      "department": "Jute Section",
-      "office": "",
-      "subject": "Notification for extension of validity of order issued under the jute packaging materials compulsory use in packing commodities act",
-      "gazette_id": "CG-DL-E-09042025-262369",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262369.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-08.262369/262369.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-04-08.262369",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-04-08/262369.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-08.262369/262369_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-04-08.262368",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-04-08",
-      "ugid": "262368",
-      "title": "Extraordinary Gazette of India, 2025-04-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-09042025-262368",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262368.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-08.262368/262368.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-04-08.262368",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-04-08/262368.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-08.262368/262368_djvu.txt"
     }
   ],
   "count": 2500,

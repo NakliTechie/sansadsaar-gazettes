@@ -2668,6 +2668,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-07-24.274954",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-07-24",
+      "ugid": "274954",
+      "title": "Extrordinary Gazette of India, 2026-07-24",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire of land under Section 20(A) under the Railways Act, 1989 (24 of 1989) for land acquisition for Manmad Jalgaon 4th Line.",
+      "gazette_id": "CG-MH-E-30072026-274954",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/274954.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-07-24.274954/274954.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-07-24.274954",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-07-24/274954.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-07-24.274924",
       "category": "extraordinary",
       "type_letter": "e",
@@ -5033,6 +5056,29 @@
       "ia_identifier": "in.gazette.central.e.2026-07-22.274722",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-07-22/274722.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-07-21.274970",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-07-21",
+      "ugid": "274970",
+      "title": "Extrordinary Gazette of India, 2026-07-21",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declare intention to acquire land under Section 20(A) under the Railways Act, 1989 (24 of 1989) for 3rd and 4th line between Pune Solapur Wadi (394.91Km).",
+      "gazette_id": "CG-MH-E-30072026-274970",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/274970.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-07-21.274970/274970.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-07-21.274970",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-07-21/274970.pdf",
       "topics": []
     },
     {
@@ -58724,54 +58770,6 @@
       "mirror_path": "pdf/central/e/2026-04-08/271649.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-08.271649/271649_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-08.271648",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-08",
-      "ugid": "271648",
-      "title": "Extrordinary Gazette of India, 2026-04-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-09042026-271648",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271648.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-08.271648/271648.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-08.271648",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-08/271648.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-08.271648/271648_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-08.271647",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-08",
-      "ugid": "271647",
-      "title": "Extrordinary Gazette of India, 2026-04-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-09042026-271647",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271647.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-08.271647/271647.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-08.271647",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-08/271647.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-08.271647/271647_djvu.txt"
     }
   ],
   "count": 2500,

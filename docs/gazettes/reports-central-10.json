@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-04-28.245541",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-28",
+      "ugid": "245541",
+      "title": "Extraordinary Gazette of India, 2023-04-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A morth",
+      "gazette_id": "CG-DL-E-29042023-245541",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245541.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-28.245541/245541.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-28.245541",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-28/245541.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-04-28.245540",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-04-28",
+      "ugid": "245540",
+      "title": "Extraordinary Gazette of India, 2023-04-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-29042023-245540",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245540.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-28.245540/245540.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-04-28.245540",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-04-28/245540.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-04-28.245539",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58174,54 +58220,6 @@
       "mirror_path": "pdf/central/e/2023-01-10/241858.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-10.241858/241858_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-01-10.241856",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-01-10",
-      "ugid": "241856",
-      "title": "Extraordinary Gazette of India, 2023-01-10",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "P and M file in the State up",
-      "gazette_id": "CG-DL-E-10012023-241856",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241856.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-10.241856/241856.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-01-10.241856",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-01-10/241856.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-10.241856/241856_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-01-10.241855",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-01-10",
-      "ugid": "241855",
-      "title": "Extraordinary Gazette of India, 2023-01-10",
-      "ministry": "Ministry of Textiles",
-      "department": "Jute Section",
-      "office": "",
-      "subject": "Notification for the merger of regional office of National Jute Board at Chennai and Hyderabad with its Head office at Kolkata.",
-      "gazette_id": "CG-DL-E-10012023-241855",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/241855.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-10.241855/241855.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-01-10.241855",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-01-10/241855.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-10.241855/241855_djvu.txt"
     }
   ],
   "count": 2500,

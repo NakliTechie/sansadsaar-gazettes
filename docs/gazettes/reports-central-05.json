@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-12-27.259686",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-27",
+      "ugid": "259686",
+      "title": "Extraordinary Gazette of India, 2024-12-27",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-29122024-259686",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259686.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-27.259686/259686.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-27.259686",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-27/259686.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-27.259686/259686_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-12-27.259685",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-12-27",
+      "ugid": "259685",
+      "title": "Extraordinary Gazette of India, 2024-12-27",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-29122024-259685",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259685.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-12-27.259685/259685.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-12-27.259685",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-12-27/259685.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-12-27.259685/259685_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-12-27.259684",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-09-10/257047.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-10.257047/257047_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-10.257046",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-10",
-      "ugid": "257046",
-      "title": "Extraordinary Gazette of India, 2024-09-10",
-      "ministry": "Ministry of Chemicals and Fertilizers",
-      "department": "Department of Pharmaceuticals",
-      "office": "National Pharmaceuticals Pricing Authority",
-      "subject": "Notification on ceiling price of Knee Implants",
-      "gazette_id": "CG-DL-E-10092024-257046",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257046.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-10.257046/257046.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-10.257046",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-10/257046.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-10.257046/257046_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-10.257045",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-10",
-      "ugid": "257045",
-      "title": "Extraordinary Gazette of India, 2024-09-10",
-      "ministry": "Ministry of Chemicals and Fertilizers",
-      "department": "Department of Pharmaceuticals",
-      "office": "National Pharmaceuticals Pricing Authority",
-      "subject": "Revised ceiling price of 1 scheduled formulation under Drugs (Prices Control) Order, 2013 based on review order",
-      "gazette_id": "CG-DL-E-10092024-257045",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257045.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-10.257045/257045.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-10.257045",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-10/257045.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-10.257045/257045_djvu.txt"
     }
   ],
   "count": 2500,

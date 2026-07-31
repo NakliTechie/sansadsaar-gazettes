@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-08-28.248393",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-08-28",
+      "ugid": "248393",
+      "title": "Extraordinary Gazette of India, 2023-08-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-29082023-248393",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248393.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-28.248393/248393.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-08-28.248393",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-08-28/248393.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-08-28.248392",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-08-28",
+      "ugid": "248392",
+      "title": "Extraordinary Gazette of India, 2023-08-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-29082023-248392",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248392.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-08-28.248392/248392.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-08-28.248392",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-08-28/248392.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-08-28.248391",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57451,52 +57497,6 @@
       "ia_identifier": "in.gazette.central.e.2023-04-28.245544",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-04-28/245544.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-04-28.245541",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-04-28",
-      "ugid": "245541",
-      "title": "Extraordinary Gazette of India, 2023-04-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A morth",
-      "gazette_id": "CG-DL-E-29042023-245541",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245541.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-28.245541/245541.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-04-28.245541",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-04-28/245541.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-04-28.245540",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-04-28",
-      "ugid": "245540",
-      "title": "Extraordinary Gazette of India, 2023-04-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-29042023-245540",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/245540.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-04-28.245540/245540.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-04-28.245540",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-04-28/245540.pdf",
       "topics": []
     }
   ],
