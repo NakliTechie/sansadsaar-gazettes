@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 29907,
-    "shards": 411,
+    "records_with_text": 29911,
+    "shards": 412,
     "r2_fallback": 0,
-    "total_text_bytes": 635306,
+    "total_text_bytes": 815485,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 29877,
-    "txt_files_removed": 30
+    "from_existing_shards": 29907,
+    "txt_files_removed": 4
   },
   "shards": [
     {
@@ -1560,13 +1560,13 @@
     },
     {
       "file": "texts-309.json",
-      "count": 91,
-      "bytes": 4637198
+      "count": 92,
+      "bytes": 4068315
     },
     {
       "file": "texts-310.json",
-      "count": 52,
-      "bytes": 3282633
+      "count": 53,
+      "bytes": 3920216
     },
     {
       "file": "texts-311.json",
@@ -2065,8 +2065,13 @@
     },
     {
       "file": "texts-410.json",
-      "count": 14,
-      "bytes": 4282946
+      "count": 15,
+      "bytes": 4303015
+    },
+    {
+      "file": "texts-411.json",
+      "count": 1,
+      "bytes": 742242
     }
   ],
   "record_to_shard": {
@@ -30435,6 +30440,8 @@
     "central|central_e_20260727_275016": 309,
     "central|central_e_20260727_275017": 309,
     "central|central_e_20260727_275018": 309,
+    "central|central_e_20260727_275023": 309,
+    "central|central_e_20260727_275024": 309,
     "central|central_e_20260727_275031": 309,
     "central|central_e_20260727_275034": 309,
     "central|central_e_20260728_274892": 309,
@@ -30448,7 +30455,7 @@
     "central|central_e_20260728_274919": 309,
     "central|central_e_20260728_274952": 309,
     "central|central_e_20260728_274953": 309,
-    "central|central_e_20260728_274957": 309,
+    "central|central_e_20260728_274957": 310,
     "central|central_e_20260728_274966": 310,
     "central|central_e_20260728_274972": 310,
     "central|central_e_20260728_274999": 310,
@@ -31974,8 +31981,10 @@
     "central|central_w_20260725_274797": 410,
     "central|central_w_20260725_274961": 410,
     "central|central_w_20260725_274965": 410,
+    "central|central_w_20260801_275039": 410,
     "central|central_w_20260801_275040": 410,
     "central|central_w_20260801_275041": 410,
-    "central|central_w_20260801_275042": 410
+    "central|central_w_20260801_275042": 410,
+    "central|central_w_20260801_275043": 411
   }
 }
