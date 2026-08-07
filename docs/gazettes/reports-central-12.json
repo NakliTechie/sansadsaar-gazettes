@@ -1,6 +1,121 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-04.239340",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239340",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Electronics and Information Technology",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Modified Scheme for setting up of Display Fabs in India",
+      "gazette_id": "CG-DL-E-06102022-239340",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239340.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239340/239340.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239340",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239340.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239339",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239339",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Electronics and Information Technology",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Modified Scheme for setting up of Semiconductor Fabs in India",
+      "gazette_id": "CG-DL-E-04102022-239339",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239339.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239339/239339.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239339",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239339.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239338",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239338",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Home Affairs",
+      "department": "CTCR DIVISION",
+      "office": "",
+      "subject": "Designation of Sheikh Jamil ur Rehman as Terrorist under UAPA 1967",
+      "gazette_id": "CG-DL-E-04102022-239338",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239338.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239338/239338.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239338",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239338.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239337",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239337",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Home Affairs",
+      "department": "CTCR DIVISION",
+      "office": "",
+      "subject": "Designation of Bilal Ahmad Beigh as Terrorist under UAPA 1967",
+      "gazette_id": "CG-DL-E-04102022-239337",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239337.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239337/239337.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239337",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239337.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239336",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239336",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Home Affairs",
+      "department": "CTCR DIVISION",
+      "office": "",
+      "subject": "Designation of Zafar Iqbal as Terrorist under UAPA 1967",
+      "gazette_id": "CG-DL-E-04102022-239336",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239336.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239336/239336.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239336",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239336.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-04.239335",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1957,7 +2072,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 83,
+  "count": 88,
   "category": "central",
   "shard_index": 12
 }
