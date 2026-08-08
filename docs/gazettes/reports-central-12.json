@@ -1,6 +1,213 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-04.239451",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239451",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MoRTH",
+      "gazette_id": "CG-DL-E-07102022-239451",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239451.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239451/239451.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239451",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239451.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239448",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239448",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Mumbai  Nagpur  Jharsuguda  Natural Gas Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-07102022-239448",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239448.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239448/239448.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239448",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239448.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239447",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239447",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Mumbai  Nagpur  Jharsuguda  Natural Gas Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-07102022-239447",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239447.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239447/239447.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239447",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239447.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239446",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239446",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Mumbai  Nagpur  Jharsuguda  Natural Gas Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-07102022-239446",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239446.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239446/239446.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239446",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239446.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239443",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239443",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-07102022-239443",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239443.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239443/239443.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239443",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239443.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239429",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239429",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-07102022-239429",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239429.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239429/239429.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239429",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239429.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239428",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239428",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-07102022-239428",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239428.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239428/239428.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239428",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239428.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239426",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239426",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MoRTH",
+      "gazette_id": "CG-DL-E-07102022-239426",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239426.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239426/239426.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239426",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239426.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-04.239414",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-04",
+      "ugid": "239414",
+      "title": "Extraordinary Gazette of India, 2022-10-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-07102022-239414",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239414.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-04.239414/239414.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-04.239414",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-04/239414.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-04.239413",
       "category": "extraordinary",
       "type_letter": "e",
@@ -2647,7 +2854,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 113,
+  "count": 122,
   "category": "central",
   "shard_index": 12
 }
