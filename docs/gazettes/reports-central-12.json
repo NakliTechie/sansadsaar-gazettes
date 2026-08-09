@@ -1,6 +1,165 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-06.239473",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-06",
+      "ugid": "239473",
+      "title": "Extraordinary Gazette of India, 2022-10-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-08102022-239473",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239473.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-06.239473/239473.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-06.239473",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-06/239473.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-06.239472",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-06",
+      "ugid": "239472",
+      "title": "",
+      "ministry": "",
+      "department": "",
+      "office": "",
+      "subject": "",
+      "gazette_id": "",
+      "gazette_source_url": "",
+      "languages": [],
+      "pdf_url": "",
+      "ia_identifier": "in.gazette.central.e.2022-10-06.239472",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-06/239472.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-10-06.239472/239472_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-06.239457",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-06",
+      "ugid": "239457",
+      "title": "Extraordinary Gazette of India, 2022-10-06",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Silvassa Spur Pipeline of Kakinada Bharuch Natural Gas Pipeline of M/s. Pipeline Infrastructure Limited.",
+      "gazette_id": "CG-DL-E-07102022-239457",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239457.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-06.239457/239457.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-06.239457",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-06/239457.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-06.239450",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-06",
+      "ugid": "239450",
+      "title": "Extraordinary Gazette of India, 2022-10-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MORTH",
+      "gazette_id": "CG-DL-E-07102022-239450",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239450.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-06.239450/239450.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-06.239450",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-06/239450.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-06.239449",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-06",
+      "ugid": "239449",
+      "title": "Extraordinary Gazette of India, 2022-10-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MORTH",
+      "gazette_id": "CG-DL-E-07102022-239449",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239449.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-06.239449/239449.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-06.239449",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-06/239449.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-06.239445",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-06",
+      "ugid": "239445",
+      "title": "Extraordinary Gazette of India, 2022-10-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MoRTH",
+      "gazette_id": "CG-DL-E-07102022-239445",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239445.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-06.239445/239445.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-06.239445",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-06/239445.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-06.239444",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-06",
+      "ugid": "239444",
+      "title": "Extraordinary Gazette of India, 2022-10-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-07102022-239444",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239444.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-06.239444/239444.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-06.239444",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-06/239444.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-06.239442",
       "category": "extraordinary",
       "type_letter": "e",
@@ -3795,7 +3954,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 163,
+  "count": 170,
   "category": "central",
   "shard_index": 12
 }
