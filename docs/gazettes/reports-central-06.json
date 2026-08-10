@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-09-19.257477",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-09-19",
+      "ugid": "257477",
+      "title": "Extraordinary Gazette of India, 2024-09-19",
+      "ministry": "Food Safety and Standards Authority of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "The following draft of certain regulations, further to amend the Food Safety and Standards (Contaminants",
+      "gazette_id": "CG-DL-E-25092024-257477",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257477.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-19.257477/257477.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-09-19.257477",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-09-19/257477.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-19.257477/257477_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-09-19.257448",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-05-06/254061.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-06.254061/254061_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-05-06.254058",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-05-06",
-      "ugid": "254058",
-      "title": "Extraordinary Gazette of India, 2024-05-06",
-      "ministry": "Reserve Bank of India",
-      "department": "Foreign Exchange Department",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sub section  2 of section 47 of the Foreign Exchange Management Act",
-      "gazette_id": "CG-MH-E-06052024-254058",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254058.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-06.254058/254058.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-05-06.254058",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-05-06/254058.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-06.254058/254058_djvu.txt"
     }
   ],
   "count": 2500,

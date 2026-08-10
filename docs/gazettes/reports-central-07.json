@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-05-06.254058",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-06",
+      "ugid": "254058",
+      "title": "Extraordinary Gazette of India, 2024-05-06",
+      "ministry": "Reserve Bank of India",
+      "department": "Foreign Exchange Department",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section  2 of section 47 of the Foreign Exchange Management Act",
+      "gazette_id": "CG-MH-E-06052024-254058",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254058.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-06.254058/254058.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-06.254058",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-06/254058.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-06.254058/254058_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-05-06.254057",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59947,30 +59971,6 @@
       "mirror_path": "pdf/central/e/2024-01-17/251394.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-17.251394/251394_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-01-17.251393",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-01-17",
-      "ugid": "251393",
-      "title": "Extraordinary Gazette of India, 2024-01-17",
-      "ministry": "Ministry of Railways",
-      "department": "North Western Railway",
-      "office": "",
-      "subject": "37ABYEPASS",
-      "gazette_id": "CG-RJ-E-17012024-251393",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251393.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-17.251393/251393.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-01-17.251393",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-01-17/251393.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-17.251393/251393_djvu.txt"
     }
   ],
   "count": 2500,

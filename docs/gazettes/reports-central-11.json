@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-01-23.242163",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-23",
+      "ugid": "242163",
+      "title": "Extraordinary Gazette of India, 2023-01-23",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Declaration of Competent Authority under Section 2 (a) of the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for GAIL (India) Limited in the State of Karnataka.",
+      "gazette_id": "CG-DL-E-23012023-242163",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/242163.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-23.242163/242163.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-23.242163",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-23/242163.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-23.242163/242163_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2023-01-21.243462",
       "category": "weekly",
       "type_letter": "w",
@@ -57808,29 +57832,6 @@
       "ia_identifier": "in.gazette.central.e.2022-10-06.239502",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-10-06/239502.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-06.239497",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-06",
-      "ugid": "239497",
-      "title": "Extraordinary Gazette of India, 2022-10-06",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for North East Natural Gas Pipeline Grid Project of M/s. Indradhanush Gas Grid Limited (IGGL).",
-      "gazette_id": "CG-DL-E-08102022-239497",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239497.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-06.239497/239497.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-06.239497",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-06/239497.pdf",
       "topics": []
     }
   ],

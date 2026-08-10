@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-01-13.269333",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-13",
+      "ugid": "269333",
+      "title": "Extrordinary Gazette of India, 2026-01-13",
+      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
+      "department": "Department of Personnel and Training",
+      "office": "",
+      "subject": "Bringing 16 new AIIMS under jurisdiction of CAT",
+      "gazette_id": "CG-DL-E-14012026-269333",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269333.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-13.269333/269333.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-13.269333",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-13/269333.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-13.269333/269333_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-01-13.269328",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-08-26/265744.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-26.265744/265744_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-08-26.265742",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-08-26",
-      "ugid": "265742",
-      "title": "Extrordinary Gazette of India, 2025-08-26",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "North Eastern Railway",
-      "subject": "20A Notification for the Special Railway Project namely Anandnagar to Ghughali New Line Project within the District Maharajganj in the State of Uttar Pradesh",
-      "gazette_id": "CG-UP-E-27082025-265742",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265742.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-26.265742/265742.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-08-26.265742",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-08-26/265742.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-26.265742/265742_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-04-20.271953",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-20",
+      "ugid": "271953",
+      "title": "Extrordinary Gazette of India, 2026-04-20",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-21042026-271953",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/271953.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-20.271953/271953.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-20.271953",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-20/271953.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-20.271953/271953_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-04-20.271952",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2026-01-13/269335.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-13.269335/269335_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-13.269333",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-13",
-      "ugid": "269333",
-      "title": "Extrordinary Gazette of India, 2026-01-13",
-      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
-      "department": "Department of Personnel and Training",
-      "office": "",
-      "subject": "Bringing 16 new AIIMS under jurisdiction of CAT",
-      "gazette_id": "CG-DL-E-14012026-269333",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269333.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-13.269333/269333.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-13.269333",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-13/269333.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-13.269333/269333_djvu.txt"
     }
   ],
   "count": 2500,

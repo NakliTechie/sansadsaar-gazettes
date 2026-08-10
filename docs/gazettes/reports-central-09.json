@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-09-13.248706",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-09-13",
+      "ugid": "248706",
+      "title": "Extraordinary Gazette of India, 2023-09-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of corrigendum under Section 3a NHAI",
+      "gazette_id": "CG-DL-E-14092023-248706",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248706.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-13.248706/248706.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-09-13.248706",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-09-13/248706.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-13.248706/248706_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-09-13.248705",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57708,29 +57732,6 @@
       "ia_identifier": "in.gazette.central.e.2023-05-23.246018",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-05-23/246018.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-05-23.246016",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-05-23",
-      "ugid": "246016",
-      "title": "Extraordinary Gazette of India, 2023-05-23",
-      "ministry": "Ministry of Power",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Electricity (Promoting Renewable Energy Through Green Energy Open Access) (Second Amendment) Rules, 2023.",
-      "gazette_id": "CG-DL-E-24052023-246016",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246016.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-23.246016/246016.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-05-23.246016",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-05-23/246016.pdf",
       "topics": []
     }
   ],

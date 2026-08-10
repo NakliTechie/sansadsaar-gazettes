@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-01-17.251393",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-01-17",
+      "ugid": "251393",
+      "title": "Extraordinary Gazette of India, 2024-01-17",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "37ABYEPASS",
+      "gazette_id": "CG-RJ-E-17012024-251393",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251393.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-17.251393/251393.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-01-17.251393",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-01-17/251393.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-17.251393/251393_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-01-17.251387",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58237,30 +58261,6 @@
       "mirror_path": "pdf/central/e/2023-09-13/248707.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-13.248707/248707_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-09-13.248706",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-09-13",
-      "ugid": "248706",
-      "title": "Extraordinary Gazette of India, 2023-09-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of corrigendum under Section 3a NHAI",
-      "gazette_id": "CG-DL-E-14092023-248706",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248706.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-13.248706/248706.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-09-13.248706",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-09-13/248706.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-13.248706/248706_djvu.txt"
     }
   ],
   "count": 2500,
