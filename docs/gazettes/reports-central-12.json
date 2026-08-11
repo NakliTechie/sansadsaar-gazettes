@@ -1,6 +1,144 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-07.239490",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239490",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-08102022-239490",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239490.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239490/239490.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239490",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239490.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-07.239489",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239489",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MORTH",
+      "gazette_id": "CG-DL-E-08102022-239489",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239489.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239489/239489.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239489",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239489.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-07.239488",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239488",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of corrigendum under Section 3A nhai",
+      "gazette_id": "CG-DL-E-08102022-239488",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239488.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239488/239488.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239488",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239488.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-07.239487",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239487",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHIDCL",
+      "gazette_id": "CG-DL-E-08102022-239487",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239487.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239487/239487.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239487",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239487.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-07.239486",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239486",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MORTH",
+      "gazette_id": "CG-DL-E-08102022-239486",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239486.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239486/239486.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239486",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239486.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-07.239485",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239485",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-08102022-239485",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239485.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239485/239485.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239485",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239485.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-07.239484",
       "category": "extraordinary",
       "type_letter": "e",
@@ -4552,7 +4690,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 196,
+  "count": 202,
   "category": "central",
   "shard_index": 12
 }
