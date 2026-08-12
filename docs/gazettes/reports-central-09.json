@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-09-14.248761",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-09-14",
+      "ugid": "248761",
+      "title": "Extraordinary Gazette of India, 2023-09-14",
+      "ministry": "Ministry of Coal",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Coal",
+      "gazette_id": "CG-DL-E-15092023-248761",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248761.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248761/248761.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-09-14.248761",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-09-14/248761.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248761/248761_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-09-14.248760",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-09-14",
+      "ugid": "248760",
+      "title": "Extraordinary Gazette of India, 2023-09-14",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-15092023-248760",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248760.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248760/248760.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-09-14.248760",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-09-14/248760.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248760/248760_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-09-14.248759",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57742,52 +57790,6 @@
       "ia_identifier": "in.gazette.central.e.2023-05-25.246082",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-05-25/246082.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-05-25.246081",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-05-25",
-      "ugid": "246081",
-      "title": "Extraordinary Gazette of India, 2023-05-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-26052023-246081",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246081.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-25.246081/246081.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-05-25.246081",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-05-25/246081.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-05-25.246080",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-05-25",
-      "ugid": "246080",
-      "title": "Extraordinary Gazette of India, 2023-05-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a morth",
-      "gazette_id": "CG-DL-E-26052023-246080",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246080.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-25.246080/246080.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-05-25.246080",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-05-25/246080.pdf",
       "topics": []
     }
   ],

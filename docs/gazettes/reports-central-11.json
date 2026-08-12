@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-01-25.243229",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-25",
+      "ugid": "243229",
+      "title": "Extraordinary Gazette of India, 2023-01-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-27012023-243229",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243229.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243229/243229.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-25.243229",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-25/243229.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243229/243229_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-01-25.243228",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-01-25",
+      "ugid": "243228",
+      "title": "Extraordinary Gazette of India, 2023-01-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-27012023-243228",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243228.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243228/243228.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-01-25.243228",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-01-25/243228.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243228/243228_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-01-25.243227",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57831,52 +57879,6 @@
       "ia_identifier": "in.gazette.central.e.2022-10-07.239531",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-10-07/239531.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-07.239528",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-07",
-      "ugid": "239528",
-      "title": "Extraordinary Gazette of India, 2022-10-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
-      "gazette_id": "CG-DL-E-10102022-239528",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239528.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239528/239528.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-07.239528",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-07/239528.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-07.239527",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-07",
-      "ugid": "239527",
-      "title": "Extraordinary Gazette of India, 2022-10-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) in respect of laying the underground pipeline for transportation of petroleum products of Bathinda Sangrur pipeline project of HPCL for Tehsil Dhanaula District Barnala, in the State of Punjab",
-      "gazette_id": "CG-DL-E-10102022-239527",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239527.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239527/239527.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-07.239527",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-07/239527.pdf",
       "topics": []
     }
   ],

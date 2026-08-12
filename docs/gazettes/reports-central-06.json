@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-09-21.257383",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-09-21",
+      "ugid": "257383",
+      "title": "Extraordinary Gazette of India, 2024-09-21",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 227 in the state of Karnataka in the District of Yadagir",
+      "gazette_id": "CG-TL-E-23092024-257383",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257383.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257383/257383.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-09-21.257383",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-09-21/257383.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257383/257383_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-09-21.257382",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-09-21",
+      "ugid": "257382",
+      "title": "Extraordinary Gazette of India, 2024-09-21",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 355 in the state of Andhra Pradesh in the District of Eluru",
+      "gazette_id": "CG-TL-E-23092024-257382",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257382.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257382/257382.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-09-21.257382",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-09-21/257382.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257382/257382_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-09-21.257380",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-05-08/254122.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-08.254122/254122_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-05-08.254121",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-05-08",
-      "ugid": "254121",
-      "title": "Extraordinary Gazette of India, 2024-05-08",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
-      "office": "",
-      "subject": "amendment in the Fertiliser Order, 1985",
-      "gazette_id": "CG-DL-E-09052024-254121",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254121.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-08.254121/254121.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-05-08.254121",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-05-08/254121.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-08.254121/254121_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-05-08.254119",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-05-08",
-      "ugid": "254119",
-      "title": "Extraordinary Gazette of India, 2024-05-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-08052024-254119",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254119.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-08.254119/254119.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-05-08.254119",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-05-08/254119.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-08.254119/254119_djvu.txt"
     }
   ],
   "count": 2500,

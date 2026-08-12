@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-04-30.262809",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-04-30",
+      "ugid": "262809",
+      "title": "Extraordinary Gazette of India, 2025-04-30",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "Income Tax Return Form 3 for A.Y. 2025 26",
+      "gazette_id": "CG-DL-E-01052025-262809",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262809.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262809/262809.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-04-30.262809",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-04-30/262809.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262809/262809_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-04-30.262802",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-04-30",
+      "ugid": "262802",
+      "title": "Extraordinary Gazette of India, 2025-04-30",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
+      "office": "",
+      "subject": "Publishing of notification of Recruitment Rules to the post of Staff Car Driver in Level 2 in Crops Development Directorate under Crops Division in Department of Agriculture and Farmers Welfare",
+      "gazette_id": "CG-DL-E-01052025-262802",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262802.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262802/262802.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-04-30.262802",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-04-30/262802.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262802/262802_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-04-30.262801",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-01-07/260056.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260056/260056_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-07.260055",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-07",
-      "ugid": "260055",
-      "title": "Extraordinary Gazette of India, 2025-01-07",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Western Railway",
-      "subject": "Notification under clause 20E of section 2 of the Railway Act 1989 24 of 1989 for land to be acquired in connection with Special Railway Project Namely new BG line project from Dahod to Indore in Dhar district Tehsil Dhar Village Ganganagar in the State of Madhya Pradesh",
-      "gazette_id": "CG-MH-E-08012025-260055",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260055.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260055/260055.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-07.260055",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-07/260055.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260055/260055_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-07.260053",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-07",
-      "ugid": "260053",
-      "title": "Extraordinary Gazette of India, 2025-01-07",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Western Railway",
-      "subject": "Notification under clause 20E of section 2 of the Railway Act 1989 24 of 1989 for land to be acquired in connection with Special Railway Project Namely new BG line project from Dahod to Indore in Dhar district Tehsil Dhar Village Chikliya in the State of Madhya Pradesh",
-      "gazette_id": "CG-MH-E-08012025-260053",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260053.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260053/260053.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-07.260053",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-07/260053.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260053/260053_djvu.txt"
     }
   ],
   "count": 2500,

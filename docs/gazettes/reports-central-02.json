@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-01-15.269395",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-15",
+      "ugid": "269395",
+      "title": "Extrordinary Gazette of India, 2026-01-15",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-16012026-269395",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269395.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269395/269395.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-15.269395",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-15/269395.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269395/269395_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-01-15.269392",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-15",
+      "ugid": "269392",
+      "title": "Extrordinary Gazette of India, 2026-01-15",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-16012026-269392",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269392.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269392/269392.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-15.269392",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-15/269392.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269392/269392_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-01-15.269391",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-08-29/265787.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-29.265787/265787_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-08-28.265830",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-08-28",
-      "ugid": "265830",
-      "title": "Extrordinary Gazette of India, 2025-08-28",
-      "ministry": "Delhi Development Authority",
-      "department": "Master Plan Section",
-      "office": "",
-      "subject": "The following modification which the Delhi Development Authority Central Government proposes to make to the Master Plan",
-      "gazette_id": "CG-DL-E-30082025-265830",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265830.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-28.265830/265830.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-08-28.265830",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-08-28/265830.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-28.265830/265830_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-08-28.265825",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-08-28",
-      "ugid": "265825",
-      "title": "Extrordinary Gazette of India, 2025-08-28",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Environmental Impact Assessment (EIA) Division",
-      "office": "",
-      "subject": "Reconstitution of SEIAA and SEAC of Kerala",
-      "gazette_id": "CG-DL-E-30082025-265825",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265825.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-28.265825/265825.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-08-28.265825",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-08-28/265825.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-28.265825/265825_djvu.txt"
     }
   ],
   "count": 2500,

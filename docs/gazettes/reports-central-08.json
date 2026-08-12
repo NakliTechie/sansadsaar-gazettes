@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-01-18.251455",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-01-18",
+      "ugid": "251455",
+      "title": "Extraordinary Gazette of India, 2024-01-18",
+      "ministry": "Ministry of Electronics and Information Technology",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Designated Officer under Information Technology Act 2000",
+      "gazette_id": "CG-DL-E-18012024-251455",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251455.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-18.251455/251455.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-01-18.251455",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-01-18/251455.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-18.251455/251455_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-01-18.251454",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-01-18",
+      "ugid": "251454",
+      "title": "Extraordinary Gazette of India, 2024-01-18",
+      "ministry": "Ministry of Railways",
+      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
+      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
+      "subject": "Publication of E gazette Notification for Declare intention to acquire land under Section 20(A) for land acquisition for Gauge Conversion of Pachora  Jamner with Extension upto Malkapur (84.34 Kms).",
+      "gazette_id": "CG-MH-E-18012024-251454",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251454.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-18.251454/251454.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-01-18.251454",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-01-18/251454.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-18.251454/251454_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-01-18.251453",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58185,54 +58233,6 @@
       "mirror_path": "pdf/central/e/2023-09-14/248764.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248764/248764_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-09-14.248761",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-09-14",
-      "ugid": "248761",
-      "title": "Extraordinary Gazette of India, 2023-09-14",
-      "ministry": "Ministry of Coal",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Coal",
-      "gazette_id": "CG-DL-E-15092023-248761",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248761.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248761/248761.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-09-14.248761",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-09-14/248761.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248761/248761_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-09-14.248760",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-09-14",
-      "ugid": "248760",
-      "title": "Extraordinary Gazette of India, 2023-09-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-15092023-248760",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248760.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248760/248760.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-09-14.248760",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-09-14/248760.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248760/248760_djvu.txt"
     }
   ],
   "count": 2500,

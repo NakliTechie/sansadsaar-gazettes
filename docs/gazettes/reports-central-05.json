@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-01-07.260055",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-07",
+      "ugid": "260055",
+      "title": "Extraordinary Gazette of India, 2025-01-07",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "Western Railway",
+      "subject": "Notification under clause 20E of section 2 of the Railway Act 1989 24 of 1989 for land to be acquired in connection with Special Railway Project Namely new BG line project from Dahod to Indore in Dhar district Tehsil Dhar Village Ganganagar in the State of Madhya Pradesh",
+      "gazette_id": "CG-MH-E-08012025-260055",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260055.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260055/260055.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-07.260055",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-07/260055.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260055/260055_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-01-07.260053",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-07",
+      "ugid": "260053",
+      "title": "Extraordinary Gazette of India, 2025-01-07",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "Western Railway",
+      "subject": "Notification under clause 20E of section 2 of the Railway Act 1989 24 of 1989 for land to be acquired in connection with Special Railway Project Namely new BG line project from Dahod to Indore in Dhar district Tehsil Dhar Village Chikliya in the State of Madhya Pradesh",
+      "gazette_id": "CG-MH-E-08012025-260053",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260053.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260053/260053.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-07.260053",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-07/260053.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260053/260053_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-01-07.260045",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-09-21/257385.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257385/257385_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-21.257383",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-21",
-      "ugid": "257383",
-      "title": "Extraordinary Gazette of India, 2024-09-21",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 227 in the state of Karnataka in the District of Yadagir",
-      "gazette_id": "CG-TL-E-23092024-257383",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257383.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257383/257383.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-21.257383",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-21/257383.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257383/257383_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-21.257382",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-21",
-      "ugid": "257382",
-      "title": "Extraordinary Gazette of India, 2024-09-21",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 355 in the state of Andhra Pradesh in the District of Eluru",
-      "gazette_id": "CG-TL-E-23092024-257382",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257382.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257382/257382.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-21.257382",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-21/257382.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257382/257382_djvu.txt"
     }
   ],
   "count": 2500,

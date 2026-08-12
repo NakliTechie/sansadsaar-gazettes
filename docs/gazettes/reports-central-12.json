@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-07.239528",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239528",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-10102022-239528",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239528.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239528/239528.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239528",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239528.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-07.239527",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239527",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) in respect of laying the underground pipeline for transportation of petroleum products of Bathinda Sangrur pipeline project of HPCL for Tehsil Dhanaula District Barnala, in the State of Punjab",
+      "gazette_id": "CG-DL-E-10102022-239527",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239527.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239527/239527.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239527",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239527.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-07.239526",
       "category": "extraordinary",
       "type_letter": "e",
@@ -5265,7 +5311,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 227,
+  "count": 229,
   "category": "central",
   "shard_index": 12
 }

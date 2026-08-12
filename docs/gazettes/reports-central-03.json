@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-08-28.265830",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-08-28",
+      "ugid": "265830",
+      "title": "Extrordinary Gazette of India, 2025-08-28",
+      "ministry": "Delhi Development Authority",
+      "department": "Master Plan Section",
+      "office": "",
+      "subject": "The following modification which the Delhi Development Authority Central Government proposes to make to the Master Plan",
+      "gazette_id": "CG-DL-E-30082025-265830",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265830.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-28.265830/265830.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-08-28.265830",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-08-28/265830.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-28.265830/265830_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-08-28.265825",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-08-28",
+      "ugid": "265825",
+      "title": "Extrordinary Gazette of India, 2025-08-28",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Environmental Impact Assessment (EIA) Division",
+      "office": "",
+      "subject": "Reconstitution of SEIAA and SEAC of Kerala",
+      "gazette_id": "CG-DL-E-30082025-265825",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265825.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-28.265825/265825.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-08-28.265825",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-08-28/265825.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-28.265825/265825_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-08-28.265821",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-04-30/262810.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262810/262810_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-04-30.262809",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-04-30",
-      "ugid": "262809",
-      "title": "Extraordinary Gazette of India, 2025-04-30",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Direct Taxes",
-      "subject": "Income Tax Return Form 3 for A.Y. 2025 26",
-      "gazette_id": "CG-DL-E-01052025-262809",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262809.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262809/262809.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-04-30.262809",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-04-30/262809.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262809/262809_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-04-30.262802",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-04-30",
-      "ugid": "262802",
-      "title": "Extraordinary Gazette of India, 2025-04-30",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
-      "office": "",
-      "subject": "Publishing of notification of Recruitment Rules to the post of Staff Car Driver in Level 2 in Crops Development Directorate under Crops Division in Department of Agriculture and Farmers Welfare",
-      "gazette_id": "CG-DL-E-01052025-262802",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262802.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262802/262802.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-04-30.262802",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-04-30/262802.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262802/262802_djvu.txt"
     }
   ],
   "count": 2500,

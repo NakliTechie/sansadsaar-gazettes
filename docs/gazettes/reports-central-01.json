@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-04-22.272015",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-22",
+      "ugid": "272015",
+      "title": "Extrordinary Gazette of India, 2026-04-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-23042026-272015",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272015.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272015/272015.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-22.272015",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-22/272015.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272015/272015_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-22.272014",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-22",
+      "ugid": "272014",
+      "title": "Extrordinary Gazette of India, 2026-04-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-23042026-272014",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272014.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272014/272014.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-22.272014",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-22/272014.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272014/272014_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-04-22.272013",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2026-01-15/269396.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269396/269396_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-15.269395",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-15",
-      "ugid": "269395",
-      "title": "Extrordinary Gazette of India, 2026-01-15",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-16012026-269395",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269395.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269395/269395.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-15.269395",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-15/269395.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269395/269395_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-15.269392",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-15",
-      "ugid": "269392",
-      "title": "Extrordinary Gazette of India, 2026-01-15",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-16012026-269392",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269392.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269392/269392.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-15.269392",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-15/269392.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269392/269392_djvu.txt"
     }
   ],
   "count": 2500,
