@@ -3084,7 +3084,8 @@
       "ia_identifier": "in.gazette.central.e.2026-08-05.275365",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-08-05/275365.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-05.275365/275365_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2026-08-05.275318",
