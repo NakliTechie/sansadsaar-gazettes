@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-07.239531",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239531",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of  Kandla Gorakhpur LPG Pipeline to be laid by IHB limited  for acquisition of ROU  Tehsil Lalganj, Distt Raebareli in the state of Uttar Pradesh",
+      "gazette_id": "CG-DL-E-10102022-239531",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239531.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239531/239531.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239531",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239531.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-07.239528",
       "category": "extraordinary",
       "type_letter": "e",
@@ -5311,7 +5334,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 229,
+  "count": 230,
   "category": "central",
   "shard_index": 12
 }

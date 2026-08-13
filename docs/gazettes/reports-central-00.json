@@ -4557,6 +4557,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-01.275055",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-01",
+      "ugid": "275055",
+      "title": "Extrordinary Gazette of India, 2026-08-01",
+      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
+      "department": "Department of Personnel and Training",
+      "office": "",
+      "subject": "Authorization of Shri A.S.Rajeev, Vigilance Commissioner, Central Vigilance Commission, to act as the Central Vigilance Commissioner, in the vacancy to be caused due to completion of the tenure of Shri Praveen Kumar Srivastava",
+      "gazette_id": "CG-DL-E-01082026-275055",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275055.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-01.275055/275055.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-01.275055",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-01/275055.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2026-08-01.275044",
       "category": "weekly",
       "type_letter": "w",
@@ -58702,30 +58725,6 @@
       "mirror_path": "pdf/central/e/2026-04-22/272035.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272035/272035_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-22.272016",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-22",
-      "ugid": "272016",
-      "title": "Extrordinary Gazette of India, 2026-04-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-23042026-272016",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272016.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272016/272016.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-22.272016",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-22/272016.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272016/272016_djvu.txt"
     }
   ],
   "count": 2500,

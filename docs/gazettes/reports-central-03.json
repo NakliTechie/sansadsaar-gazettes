@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-08-29.265787",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-08-29",
+      "ugid": "265787",
+      "title": "Extrordinary Gazette of India, 2025-08-29",
+      "ministry": "Food Safety and Standards Authority of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section (2) of section 43 of the Food Safety and Standards Act, 2006 (34 of 2006), the Food Safety and Standards Authority of India",
+      "gazette_id": "CG-DL-E-29082025-265787",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265787.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-29.265787/265787.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-08-29.265787",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-08-29/265787.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-29.265787/265787_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-08-28.265830",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-04-30/262820.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262820/262820_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-04-30.262810",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-04-30",
-      "ugid": "262810",
-      "title": "Extraordinary Gazette of India, 2025-04-30",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Request for Publication of extraordinary e Gazette Notification for Competent Authority for Spl. Land Acquisition Officer, Collectorate, Sambalpur for Land acquisition of Sambalpur to Jarapada 3rd and 4th line",
-      "gazette_id": "CG-OR-E-01052025-262810",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262810.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262810/262810.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-04-30.262810",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-04-30/262810.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262810/262810_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-01-18.251457",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-01-18",
+      "ugid": "251457",
+      "title": "Extraordinary Gazette of India, 2024-01-18",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-18012024-251457",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251457.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-18.251457/251457.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-01-18.251457",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-01-18/251457.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-18.251457/251457_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-01-18.251455",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58209,30 +58233,6 @@
       "mirror_path": "pdf/central/e/2023-09-14/248769.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248769/248769_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-09-14.248764",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-09-14",
-      "ugid": "248764",
-      "title": "Extraordinary Gazette of India, 2023-09-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-15092023-248764",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248764.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248764/248764.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-09-14.248764",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-09-14/248764.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248764/248764_djvu.txt"
     }
   ],
   "count": 2500,

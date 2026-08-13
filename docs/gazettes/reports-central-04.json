@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-04-30.262810",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-04-30",
+      "ugid": "262810",
+      "title": "Extraordinary Gazette of India, 2025-04-30",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of extraordinary e Gazette Notification for Competent Authority for Spl. Land Acquisition Officer, Collectorate, Sambalpur for Land acquisition of Sambalpur to Jarapada 3rd and 4th line",
+      "gazette_id": "CG-OR-E-01052025-262810",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262810.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262810/262810.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-04-30.262810",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-04-30/262810.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262810/262810_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-04-30.262809",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-01-07/260058.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260058/260058_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-07.260056",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-07",
-      "ugid": "260056",
-      "title": "Extraordinary Gazette of India, 2025-01-07",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Western Railway",
-      "subject": "Notification under clause 20E of section 2 of the Railway Act 1989 24 of 1989 for land to be acquired in connection with Special Railway Project Naliya Jakhau Port New Line (24.88KM) in the Gujarat State",
-      "gazette_id": "CG-MH-E-08012025-260056",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260056.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260056/260056.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-07.260056",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-07/260056.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260056/260056_djvu.txt"
     }
   ],
   "count": 2500,

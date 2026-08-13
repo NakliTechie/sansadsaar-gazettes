@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-09-21.257385",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-09-21",
+      "ugid": "257385",
+      "title": "Extraordinary Gazette of India, 2024-09-21",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 225 in the state of Karnataka in the District of Yadagir",
+      "gazette_id": "CG-TL-E-23092024-257385",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257385.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257385/257385.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-09-21.257385",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-09-21/257385.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257385/257385_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-09-21.257383",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-05-08/254123.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-08.254123/254123_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-05-08.254122",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-05-08",
-      "ugid": "254122",
-      "title": "Extraordinary Gazette of India, 2024-05-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-09052024-254122",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254122.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-08.254122/254122.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-05-08.254122",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-05-08/254122.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-08.254122/254122_djvu.txt"
     }
   ],
   "count": 2500,

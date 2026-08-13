@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-04-22.272016",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-22",
+      "ugid": "272016",
+      "title": "Extrordinary Gazette of India, 2026-04-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-23042026-272016",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272016.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272016/272016.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-22.272016",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-22/272016.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272016/272016_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-04-22.272015",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2026-01-15/269400.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269400/269400_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-15.269396",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-15",
-      "ugid": "269396",
-      "title": "Extrordinary Gazette of India, 2026-01-15",
-      "ministry": "Ministry of Railways",
-      "department": "Sout East Central Railway",
-      "office": "",
-      "subject": "20E Notification",
-      "gazette_id": "CG-CG-E-16012026-269396",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269396.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269396/269396.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-15.269396",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-15/269396.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269396/269396_djvu.txt"
     }
   ],
   "count": 2500,
