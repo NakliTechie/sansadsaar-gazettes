@@ -1,3 +1,10 @@
 {
-  "texts": {}
+  "texts": {
+    "central": {
+      "central_e_20260801_275055": {
+        "size": 3257,
+        "url": "text/central/central_e_20260801_275055.txt"
+      }
+    }
+  }
 }
