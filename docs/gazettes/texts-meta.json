@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 30227,
+    "records_with_text": 30228,
     "shards": 415,
     "r2_fallback": 0,
-    "total_text_bytes": 627351,
+    "total_text_bytes": 1006777,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
-    "from_existing_shards": 30214,
-    "txt_files_removed": 13
+    "from_existing_shards": 30227,
+    "txt_files_removed": 1
   },
   "shards": [
     {
@@ -1580,23 +1580,23 @@
     },
     {
       "file": "texts-313.json",
-      "count": 128,
-      "bytes": 4219227
+      "count": 126,
+      "bytes": 4548482
     },
     {
       "file": "texts-314.json",
-      "count": 6,
-      "bytes": 4560776
+      "count": 5,
+      "bytes": 4504438
     },
     {
       "file": "texts-315.json",
-      "count": 5,
-      "bytes": 4281606
+      "count": 8,
+      "bytes": 4202495
     },
     {
       "file": "texts-316.json",
-      "count": 11,
-      "bytes": 3020722
+      "count": 12,
+      "bytes": 3903966
     },
     {
       "file": "texts-317.json",
@@ -30705,6 +30705,7 @@
     "central|central_e_20260805_275236": 312,
     "central|central_e_20260805_275237": 312,
     "central|central_e_20260805_275318": 313,
+    "central|central_e_20260805_275365": 313,
     "central|central_e_20260806_275239": 313,
     "central|central_e_20260806_275240": 313,
     "central|central_e_20260806_275241": 313,
@@ -30829,20 +30830,20 @@
     "central|central_e_20260811_275383": 313,
     "central|central_w_20221001_239261": 313,
     "central|central_w_20221001_239262": 313,
-    "central|central_w_20221001_239264": 313,
-    "central|central_w_20221001_239265": 313,
-    "central|central_w_20221001_239288": 313,
+    "central|central_w_20221001_239264": 314,
+    "central|central_w_20221001_239265": 314,
+    "central|central_w_20221001_239288": 314,
     "central|central_w_20221001_239289": 314,
     "central|central_w_20221001_239611": 314,
-    "central|central_w_20221001_239795": 314,
-    "central|central_w_20221008_239459": 314,
-    "central|central_w_20221008_239460": 314,
-    "central|central_w_20221008_239461": 314,
+    "central|central_w_20221001_239795": 315,
+    "central|central_w_20221008_239459": 315,
+    "central|central_w_20221008_239460": 315,
+    "central|central_w_20221008_239461": 315,
     "central|central_w_20221008_239462": 315,
     "central|central_w_20221008_239463": 315,
     "central|central_w_20221008_239464": 315,
     "central|central_w_20221008_239699": 315,
-    "central|central_w_20221008_239755": 315,
+    "central|central_w_20221008_239755": 316,
     "central|central_w_20221008_239857": 316,
     "central|central_w_20221015_239669": 316,
     "central|central_w_20221015_239670": 316,
