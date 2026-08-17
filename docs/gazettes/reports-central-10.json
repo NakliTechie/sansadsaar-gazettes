@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-05-25.246085",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-05-25",
+      "ugid": "246085",
+      "title": "Extraordinary Gazette of India, 2023-05-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a morth",
+      "gazette_id": "CG-DL-E-26052023-246085",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246085.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-25.246085/246085.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-05-25.246085",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-05-25/246085.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-05-25.246084",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-05-25",
+      "ugid": "246084",
+      "title": "Extraordinary Gazette of India, 2023-05-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a morth",
+      "gazette_id": "CG-DL-E-26052023-246084",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246084.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-25.246084/246084.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-05-25.246084",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-05-25/246084.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-05-25.246083",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-05-25",
+      "ugid": "246083",
+      "title": "Extraordinary Gazette of India, 2023-05-25",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in Tehsil Dhrangadhra Distt Surendranagar  in the State of Gujarat",
+      "gazette_id": "CG-DL-E-26052023-246083",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246083.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-25.246083/246083.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-05-25.246083",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-05-25/246083.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-05-25.246082",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57809,78 +57878,6 @@
       "mirror_path": "pdf/central/e/2023-01-25/243234.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243234/243234_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-01-25.243233",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-01-25",
-      "ugid": "243233",
-      "title": "Extraordinary Gazette of India, 2023-01-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-27012023-243233",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243233.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243233/243233.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-01-25.243233",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-01-25/243233.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243233/243233_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-01-25.243232",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-01-25",
-      "ugid": "243232",
-      "title": "Extraordinary Gazette of India, 2023-01-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-27012023-243232",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243232.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243232/243232.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-01-25.243232",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-01-25/243232.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243232/243232_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-01-25.243231",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-01-25",
-      "ugid": "243231",
-      "title": "Extraordinary Gazette of India, 2023-01-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D morth",
-      "gazette_id": "CG-DL-E-27012023-243231",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243231.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243231/243231.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-01-25.243231",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-01-25/243231.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-01-25.243231/243231_djvu.txt"
     }
   ],
   "count": 2500,

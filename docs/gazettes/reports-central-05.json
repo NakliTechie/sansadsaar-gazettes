@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-01-07.260060",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-07",
+      "ugid": "260060",
+      "title": "Extraordinary Gazette of India, 2025-01-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-09012025-260060",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260060.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260060/260060.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-07.260060",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-07/260060.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260060/260060_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-01-07.260059",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-07",
+      "ugid": "260059",
+      "title": "Extraordinary Gazette of India, 2025-01-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-09012025-260059",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260059.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260059/260059.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-07.260059",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-07/260059.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260059/260059_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-01-07.260058",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-07",
+      "ugid": "260058",
+      "title": "Extraordinary Gazette of India, 2025-01-07",
+      "ministry": "Ministry of Science and Technology",
+      "department": "Department of Science and Technology",
+      "office": "",
+      "subject": "Appointment of members on the Technology Development Board",
+      "gazette_id": "CG-DL-E-08012025-260058",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260058.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260058/260058.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-07.260058",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-07/260058.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260058/260058_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-01-07.260056",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-09-21/257389.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257389/257389_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-21.257388",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-21",
-      "ugid": "257388",
-      "title": "Extraordinary Gazette of India, 2024-09-21",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 199 in the state of Andhra Pradesh in the District of Kurnool",
-      "gazette_id": "CG-TL-E-23092024-257388",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257388.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257388/257388.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-21.257388",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-21/257388.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257388/257388_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-21.257387",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-21",
-      "ugid": "257387",
-      "title": "Extraordinary Gazette of India, 2024-09-21",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 213 in the state of Karnataka in the District of Raichur",
-      "gazette_id": "CG-TL-E-23092024-257387",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257387.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257387/257387.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-21.257387",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-21/257387.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257387/257387_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-21.257386",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-21",
-      "ugid": "257386",
-      "title": "Extraordinary Gazette of India, 2024-09-21",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 214 in the state of Karnataka in the District of Raichur",
-      "gazette_id": "CG-TL-E-23092024-257386",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257386.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257386/257386.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-21.257386",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-21/257386.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-21.257386/257386_djvu.txt"
     }
   ],
   "count": 2500,

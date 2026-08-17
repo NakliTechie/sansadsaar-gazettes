@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-09-14.248774",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-09-14",
+      "ugid": "248774",
+      "title": "Extraordinary Gazette of India, 2023-09-14",
+      "ministry": "Ministry of Coal",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Coal",
+      "gazette_id": "CG-DL-E-15092023-248774",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248774.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248774/248774.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-09-14.248774",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-09-14/248774.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248774/248774_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-09-14.248771",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-09-14",
+      "ugid": "248771",
+      "title": "Extraordinary Gazette of India, 2023-09-14",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of revised Notification under section 20A of Railway Act 2008 Acquisition of land for Gauge Conversion of Akot to Amlakhurd of Akola to Khandwa for 6 villages of Burhanpur district in the state of Madya Pradesh",
+      "gazette_id": "CG-DL-E-15092023-248771",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248771.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248771/248771.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-09-14.248771",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-09-14/248771.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248771/248771_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-09-14.248769",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-09-14",
+      "ugid": "248769",
+      "title": "Extraordinary Gazette of India, 2023-09-14",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-15092023-248769",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248769.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248769/248769.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-09-14.248769",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-09-14/248769.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-14.248769/248769_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-09-14.248764",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57722,75 +57794,6 @@
       "ia_identifier": "in.gazette.central.e.2023-05-25.246086",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-05-25/246086.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-05-25.246085",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-05-25",
-      "ugid": "246085",
-      "title": "Extraordinary Gazette of India, 2023-05-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a morth",
-      "gazette_id": "CG-DL-E-26052023-246085",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246085.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-25.246085/246085.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-05-25.246085",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-05-25/246085.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-05-25.246084",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-05-25",
-      "ugid": "246084",
-      "title": "Extraordinary Gazette of India, 2023-05-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a morth",
-      "gazette_id": "CG-DL-E-26052023-246084",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246084.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-25.246084/246084.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-05-25.246084",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-05-25/246084.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-05-25.246083",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-05-25",
-      "ugid": "246083",
-      "title": "Extraordinary Gazette of India, 2023-05-25",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in Tehsil Dhrangadhra Distt Surendranagar  in the State of Gujarat",
-      "gazette_id": "CG-DL-E-26052023-246083",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246083.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-05-25.246083/246083.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-05-25.246083",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-05-25/246083.pdf",
       "topics": []
     }
   ],

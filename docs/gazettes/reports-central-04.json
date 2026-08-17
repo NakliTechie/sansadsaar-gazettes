@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-04-30.262829",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-04-30",
+      "ugid": "262829",
+      "title": "Extraordinary Gazette of India, 2025-04-30",
+      "ministry": "Petroleum and Natural Gas Regulatory Board",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by section 61 of the Petroleum and Natural Gas Regulatory Board Act",
+      "gazette_id": "CG-DL-E-02052025-262829",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262829.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262829/262829.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-04-30.262829",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-04-30/262829.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262829/262829_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-04-30.262824",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-04-30",
+      "ugid": "262824",
+      "title": "Extraordinary Gazette of India, 2025-04-30",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of extraordinary e Gazette Notification for Spl. Land Acquisition Officer, Collectorate, Sambalpur for Land acquisition of Jharsuguda to Sason 3rd and 4th line",
+      "gazette_id": "CG-OR-E-01052025-262824",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262824.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262824/262824.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-04-30.262824",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-04-30/262824.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262824/262824_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-04-30.262820",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-04-30",
+      "ugid": "262820",
+      "title": "Extraordinary Gazette of India, 2025-04-30",
+      "ministry": "Securities and Exchange Board of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sections 4, 8A and 31 of the Securities Contracts Regulation Act,",
+      "gazette_id": "CG-MH-E-01052025-262820",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262820.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262820/262820.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-04-30.262820",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-04-30/262820.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262820/262820_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-04-30.262810",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-01-07/260061.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260061/260061_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-07.260060",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-07",
-      "ugid": "260060",
-      "title": "Extraordinary Gazette of India, 2025-01-07",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-09012025-260060",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260060.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260060/260060.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-07.260060",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-07/260060.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260060/260060_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-07.260059",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-07",
-      "ugid": "260059",
-      "title": "Extraordinary Gazette of India, 2025-01-07",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-09012025-260059",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260059.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260059/260059.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-07.260059",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-07/260059.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260059/260059_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-07.260058",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-07",
-      "ugid": "260058",
-      "title": "Extraordinary Gazette of India, 2025-01-07",
-      "ministry": "Ministry of Science and Technology",
-      "department": "Department of Science and Technology",
-      "office": "",
-      "subject": "Appointment of members on the Technology Development Board",
-      "gazette_id": "CG-DL-E-08012025-260058",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260058.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260058/260058.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-07.260058",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-07/260058.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-07.260058/260058_djvu.txt"
     }
   ],
   "count": 2500,

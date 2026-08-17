@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-08-29.265793",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-08-29",
+      "ugid": "265793",
+      "title": "Extrordinary Gazette of India, 2025-08-29",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "Customs Notification",
+      "gazette_id": "CG-DL-E-29082025-265793",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265793.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-29.265793/265793.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-08-29.265793",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-08-29/265793.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-29.265793/265793_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-08-29.265792",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-08-29",
+      "ugid": "265792",
+      "title": "Extrordinary Gazette of India, 2025-08-29",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Financial Services",
+      "office": "",
+      "subject": "Insurance",
+      "gazette_id": "CG-DL-E-29082025-265792",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265792.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-29.265792/265792.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-08-29.265792",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-08-29/265792.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-29.265792/265792_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-08-29.265791",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-08-29",
+      "ugid": "265791",
+      "title": "Extrordinary Gazette of India, 2025-08-29",
+      "ministry": "Ministry of Communications",
+      "department": "Department of Telecommunications",
+      "office": "",
+      "subject": "Department of Telecommunications, Stenographers Grade II Group C post Recruitment Rules 2025",
+      "gazette_id": "CG-DL-E-29082025-265791",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265791.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-08-29.265791/265791.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-08-29.265791",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-08-29/265791.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-08-29.265791/265791_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-08-29.265787",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-05-01/262811.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-01.262811/262811_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-04-30.262829",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-04-30",
-      "ugid": "262829",
-      "title": "Extraordinary Gazette of India, 2025-04-30",
-      "ministry": "Petroleum and Natural Gas Regulatory Board",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by section 61 of the Petroleum and Natural Gas Regulatory Board Act",
-      "gazette_id": "CG-DL-E-02052025-262829",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262829.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262829/262829.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-04-30.262829",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-04-30/262829.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262829/262829_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-04-30.262824",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-04-30",
-      "ugid": "262824",
-      "title": "Extraordinary Gazette of India, 2025-04-30",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Request for Publication of extraordinary e Gazette Notification for Spl. Land Acquisition Officer, Collectorate, Sambalpur for Land acquisition of Jharsuguda to Sason 3rd and 4th line",
-      "gazette_id": "CG-OR-E-01052025-262824",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262824.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262824/262824.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-04-30.262824",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-04-30/262824.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262824/262824_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-04-30.262820",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-04-30",
-      "ugid": "262820",
-      "title": "Extraordinary Gazette of India, 2025-04-30",
-      "ministry": "Securities and Exchange Board of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sections 4, 8A and 31 of the Securities Contracts Regulation Act,",
-      "gazette_id": "CG-MH-E-01052025-262820",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262820.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262820/262820.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-04-30.262820",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-04-30/262820.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-04-30.262820/262820_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-04-22.272085",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-22",
+      "ugid": "272085",
+      "title": "Extrordinary Gazette of India, 2026-04-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-25042026-272085",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272085.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272085/272085.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-22.272085",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-22/272085.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272085/272085_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-22.272036",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-22",
+      "ugid": "272036",
+      "title": "Extrordinary Gazette of India, 2026-04-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Arbitrator File in the state uk",
+      "gazette_id": "CG-DL-E-24042026-272036",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272036.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272036/272036.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-22.272036",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-22/272036.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272036/272036_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-22.272035",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-22",
+      "ugid": "272035",
+      "title": "Extrordinary Gazette of India, 2026-04-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-24042026-272035",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272035.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272035/272035.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-22.272035",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-22/272035.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-22.272035/272035_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-04-22.272016",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2026-01-15/269418.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269418/269418_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-15.269414",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-15",
-      "ugid": "269414",
-      "title": "Extrordinary Gazette of India, 2026-01-15",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Environmental Impact Assessment (EIA) Division",
-      "office": "",
-      "subject": "Environmental (Protection) Fund Rules, 2026",
-      "gazette_id": "CG-DL-E-17012026-269414",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269414.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269414/269414.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-15.269414",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-15/269414.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269414/269414_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-15.269401",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-15",
-      "ugid": "269401",
-      "title": "Extrordinary Gazette of India, 2026-01-15",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-16012026-269401",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269401.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269401/269401.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-15.269401",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-15/269401.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269401/269401_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-15.269400",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-15",
-      "ugid": "269400",
-      "title": "Extrordinary Gazette of India, 2026-01-15",
-      "ministry": "Ministry of Textiles",
-      "department": "Jute Section",
-      "office": "",
-      "subject": "Amendment to the CSB Rules 1955 enhancement of Financial Limit of the Board under Rule 22 1",
-      "gazette_id": "CG-DL-E-16012026-269400",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269400.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269400/269400.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-15.269400",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-15/269400.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-15.269400/269400_djvu.txt"
     }
   ],
   "count": 2500,
