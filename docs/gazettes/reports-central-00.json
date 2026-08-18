@@ -69,7 +69,8 @@
       "ia_identifier": "in.gazette.central.w.2026-08-15.275506",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-08-15/275506.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-08-15.275506/275506_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2026-08-11.275383",
