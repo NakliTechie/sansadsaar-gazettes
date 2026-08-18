@@ -1,6 +1,121 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2022-10-08.239462",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2022-10-08",
+      "ugid": "239462",
+      "title": "Weekly Gazette of India, 2022-10-08",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-08102022-239462",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239462.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2022-10-08.239462/239462.pdf",
+      "ia_identifier": "in.gazette.central.w.2022-10-08.239462",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/w/2022-10-08/239462.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2022-10-08.239461",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2022-10-08",
+      "ugid": "239461",
+      "title": "Weekly Gazette of India, 2022-10-08",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-08102022-239461",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239461.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2022-10-08.239461/239461.pdf",
+      "ia_identifier": "in.gazette.central.w.2022-10-08.239461",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/w/2022-10-08/239461.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2022-10-08.239460",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2022-10-08",
+      "ugid": "239460",
+      "title": "Weekly Gazette of India, 2022-10-08",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-08102022-239460",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239460.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2022-10-08.239460/239460.pdf",
+      "ia_identifier": "in.gazette.central.w.2022-10-08.239460",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/w/2022-10-08/239460.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2022-10-08.239459",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2022-10-08",
+      "ugid": "239459",
+      "title": "Weekly Gazette of India, 2022-10-08",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-08102022-239459",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239459.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2022-10-08.239459/239459.pdf",
+      "ia_identifier": "in.gazette.central.w.2022-10-08.239459",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/w/2022-10-08/239459.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-07.239560",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-07",
+      "ugid": "239560",
+      "title": "Extraordinary Gazette of India, 2022-10-07",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-11102022-239560",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239560.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-07.239560/239560.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-07.239560",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-07/239560.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-07.239557",
       "category": "extraordinary",
       "type_letter": "e",
@@ -5403,7 +5518,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 233,
+  "count": 238,
   "category": "central",
   "shard_index": 12
 }
