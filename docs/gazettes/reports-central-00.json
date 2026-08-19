@@ -1224,6 +1224,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-14.275463/275463_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-13.275549",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-13",
+      "ugid": "275549",
+      "title": "Extrordinary Gazette of India, 2026-08-13",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 20A of Railways Act, 1989 Acquisition of land for Doubling of Track between Mahabubnagar and Dhone Section Bypass Line for Nandyal district in the state of Andhra Pradesh.",
+      "gazette_id": "CG-TL-E-18082026-275549",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275549.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-13.275549/275549.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-13.275549",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-13/275549.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-13.275531",
       "category": "extraordinary",
       "type_letter": "e",
@@ -3929,6 +3952,29 @@
       "mirror_path": "pdf/central/e/2026-08-07/275264.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-07.275264/275264_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-06.275538",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-06",
+      "ugid": "275538",
+      "title": "Extrordinary Gazette of India, 2026-08-06",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Clement Town Cantt Board",
+      "gazette_id": "CG-DL-E-18082026-275538",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275538.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-06.275538/275538.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-06.275538",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-06/275538.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-08-06.275313",
@@ -7792,6 +7838,52 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-07-30.275563",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-07-30",
+      "ugid": "275563",
+      "title": "Extrordinary Gazette of India, 2026-07-30",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Subathu Cantt Board",
+      "gazette_id": "CG-DL-E-19082026-275563",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275563.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-07-30.275563/275563.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-07-30.275563",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-07-30/275563.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-07-30.275562",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-07-30",
+      "ugid": "275562",
+      "title": "Extrordinary Gazette of India, 2026-07-30",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Ambala Cantt Board",
+      "gazette_id": "CG-DL-E-19082026-275562",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275562.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-07-30.275562/275562.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-07-30.275562",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-07-30/275562.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-07-30.275366",
       "category": "extraordinary",
       "type_letter": "e",
@@ -9750,6 +9842,29 @@
       "mirror_path": "pdf/central/e/2026-07-29/274914.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-07-29.274914/274914_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-07-28.275425",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-07-28",
+      "ugid": "275425",
+      "title": "Extrordinary Gazette of India, 2026-07-28",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Ranikhet,.",
+      "gazette_id": "CG-DL-E-13082026-275425",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275425.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-07-28.275425/275425.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-07-28.275425",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-07-28/275425.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-07-28.275341",
@@ -58607,126 +58722,6 @@
       "mirror_path": "pdf/central/e/2026-04-24/272068.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272068/272068_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-24.272061",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-24",
-      "ugid": "272061",
-      "title": "Extrordinary Gazette of India, 2026-04-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-24042026-272061",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272061.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272061/272061.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-24.272061",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-24/272061.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272061/272061_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-24.272060",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-24",
-      "ugid": "272060",
-      "title": "Extrordinary Gazette of India, 2026-04-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-24042026-272060",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272060.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272060/272060.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-24.272060",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-24/272060.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272060/272060_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-24.272059",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-24",
-      "ugid": "272059",
-      "title": "Extrordinary Gazette of India, 2026-04-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-24042026-272059",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272059.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272059/272059.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-24.272059",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-24/272059.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272059/272059_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-24.272057",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-24",
-      "ugid": "272057",
-      "title": "Extrordinary Gazette of India, 2026-04-24",
-      "ministry": "Ministry of Home Affairs",
-      "department": "CTCR DIVISION",
-      "office": "",
-      "subject": "Appointment of SPP",
-      "gazette_id": "CG-DL-E-24042026-272057",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272057.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272057/272057.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-24.272057",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-24/272057.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272057/272057_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-24.272055",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-24",
-      "ugid": "272055",
-      "title": "Extrordinary Gazette of India, 2026-04-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-24042026-272055",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272055.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272055/272055.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-24.272055",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-24/272055.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-24.272055/272055_djvu.txt"
     }
   ],
   "count": 2500,

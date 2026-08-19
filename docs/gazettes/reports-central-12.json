@@ -1,6 +1,121 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-12.239593",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-12",
+      "ugid": "239593",
+      "title": "Extraordinary Gazette of India, 2022-10-12",
+      "ministry": "International Financial Services Centres Authority",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of powers conferred by sub section 1  of Section 28, read with sub section 1 of Section 12 and sub section  1  of Section 13 of the International Financial Services Centres Authority Act,",
+      "gazette_id": "CG-GJ-E-12102022-239593",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239593.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-12.239593/239593.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-12.239593",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-12/239593.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-12.239592",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-12",
+      "ugid": "239592",
+      "title": "Extraordinary Gazette of India, 2022-10-12",
+      "ministry": "Food Safety and Standards Authority of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Whereas the draft Food Safety and Standards Approval for Non Specified Food and Food Ingredients Amendment Regulations, were published as required by sub section",
+      "gazette_id": "CG-DL-E-12102022-239592",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239592.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-12.239592/239592.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-12.239592",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-12/239592.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-12.239591",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-12",
+      "ugid": "239591",
+      "title": "Extraordinary Gazette of India, 2022-10-12",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendment of import policy conditions for item under Exim code 07019000 of Chapter 07 of ITC (HS), 2022, Schedule I (Import Policy).",
+      "gazette_id": "CG-DL-E-12102022-239591",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239591.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-12.239591/239591.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-12.239591",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-12/239591.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-12.239590",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-12",
+      "ugid": "239590",
+      "title": "Extraordinary Gazette of India, 2022-10-12",
+      "ministry": "Food Safety and Standards Authority of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section 1 of Section 43 of the Food Safety and Standards Act",
+      "gazette_id": "CG-DL-E-12102022-239590",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239590.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-12.239590/239590.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-12.239590",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-12/239590.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-12.239589",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-12",
+      "ugid": "239589",
+      "title": "Extraordinary Gazette of India, 2022-10-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a MORTH",
+      "gazette_id": "CG-DL-E-12102022-239589",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239589.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-12.239589/239589.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-12.239589",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-12/239589.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-12.239588",
       "category": "extraordinary",
       "type_letter": "e",
@@ -6826,7 +6941,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 295,
+  "count": 300,
   "category": "central",
   "shard_index": 12
 }
