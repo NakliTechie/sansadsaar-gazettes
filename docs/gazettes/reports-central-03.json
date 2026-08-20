@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-09-03.265978",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-03",
+      "ugid": "265978",
+      "title": "Extrordinary Gazette of India, 2025-09-03",
+      "ministry": "Ministry of Science and Technology",
+      "department": "Department of Biotechnology",
+      "office": "",
+      "subject": "Recruitment Rules (RRs) 2025 for the post of Director/Executive Director in Institution of Biotechnology Research and Innovation Council (iBRIC)",
+      "gazette_id": "CG-DL-E-04092025-265978",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265978.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-03.265978/265978.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-03.265978",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-03/265978.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-03.265978/265978_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-09-03.265969",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-03",
+      "ugid": "265969",
+      "title": "Extrordinary Gazette of India, 2025-09-03",
+      "ministry": "Ministry of Mines",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Combined Geo Scientist Examination Rules 2026",
+      "gazette_id": "CG-DL-E-06092025-265969",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265969.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-03.265969/265969.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-03.265969",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-03/265969.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-03.265969/265969_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-09-03.265968",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-05-06/262941.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-06.262941/262941_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-06.262939",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-06",
-      "ugid": "262939",
-      "title": "Extraordinary Gazette of India, 2025-05-06",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "ESZ Division",
-      "office": "",
-      "subject": "Amendment of ESZ around Rowa Wildlife Sanctuary Tripura",
-      "gazette_id": "CG-DL-E-06052025-262939",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262939.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-06.262939/262939.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-06.262939",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-06/262939.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-06.262939/262939_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-06.262938",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-06",
-      "ugid": "262938",
-      "title": "Extraordinary Gazette of India, 2025-05-06",
-      "ministry": "Ministry of Railways",
-      "department": "North Central Railway",
-      "office": "",
-      "subject": "Construction of 02 lane road over bridge in lieu of level crossing no 538 at Km 1418 08 10 and  550 at Km 1444 17 19 in Agra Palwal Section in Agra Division of North Central Railway Construction of 02 lane road over bridge in lieu of level crossing no 556A at Km 1457 14 16 in Agra Palwal Section in Agra Division of North Central Railway",
-      "gazette_id": "CG-UP-E-06052025-262938",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262938.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-06.262938/262938.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-06.262938",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-06/262938.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-06.262938/262938_djvu.txt"
     }
   ],
   "count": 2500,

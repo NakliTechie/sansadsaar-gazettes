@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-05-17.254248",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-17",
+      "ugid": "254248",
+      "title": "Extraordinary Gazette of India, 2024-05-17",
+      "ministry": "Central  Electricity  Regulatory Commission",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of paragraph 5 1 and paragraph 6 4 of the Ministry of Power s Resolution dated 22 07 2020 on Guidelines for Tariff Based Competitive Bidding Process",
+      "gazette_id": "CG-DL-E-18052024-254248",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254248.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-17.254248/254248.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-17.254248",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-17/254248.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-17.254248/254248_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-05-17.254247",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-17",
+      "ugid": "254247",
+      "title": "Extraordinary Gazette of India, 2024-05-17",
+      "ministry": "Central  Electricity  Regulatory Commission",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of the Tariff based Competitive bidding Guidelines for Transmission Service, amended up to 10th October, 2008, issued by the Ministry of Power",
+      "gazette_id": "CG-DL-E-18052024-254247",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254247.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-17.254247/254247.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-17.254247",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-17/254247.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-17.254247/254247_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-05-17.254246",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-01-23/251579.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-23.251579/251579_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-01-23.251576",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-01-23",
-      "ugid": "251576",
-      "title": "Extraordinary Gazette of India, 2024-01-23",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Notification in the Gazette of India U/S 6(1) of the Petroleum and Minerals Pipelines Act, 1962 (50 of 1962) for acquisition of ROU in land for laying pipelines under Cauvery Asset Pipeline Project in Thaplampuliyur village of  Thiruvarur Taluk of Thiruvarur District of Tamil Nadu State.",
-      "gazette_id": "CG-DL-E-24012024-251576",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251576.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-23.251576/251576.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-01-23.251576",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-01-23/251576.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-23.251576/251576_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-01-23.251575",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-01-23",
-      "ugid": "251575",
-      "title": "Extraordinary Gazette of India, 2024-01-23",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Notification in the Gazette of India under section 6(1) of the Petroleum and Minerals Pipelines Act, 1962 (50 of 1962) relating to the land schedule in respect of laying underground pipeline from WELL157 TO WELL 760 (GGS IV) in State of Gujarat.",
-      "gazette_id": "CG-DL-E-24012024-251575",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251575.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-23.251575/251575.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-01-23.251575",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-01-23/251575.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-23.251575/251575_djvu.txt"
     }
   ],
   "count": 2500,

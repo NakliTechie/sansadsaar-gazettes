@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-01-13.260193",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-13",
+      "ugid": "260193",
+      "title": "Extraordinary Gazette of India, 2025-01-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-14012025-260193",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260193.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-13.260193/260193.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-13.260193",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-13/260193.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-13.260193/260193_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-01-13.260192",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-13",
+      "ugid": "260192",
+      "title": "Extraordinary Gazette of India, 2025-01-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-14012025-260192",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260192.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-13.260192/260192.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-13.260192",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-13/260192.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-13.260192/260192_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-01-13.260191",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-09-26/257523.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-26.257523/257523_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-26.257519",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-26",
-      "ugid": "257519",
-      "title": "Extraordinary Gazette of India, 2024-09-26",
-      "ministry": "Ministry of Home Affairs",
-      "department": "Office of the Registrar General, India",
-      "office": "",
-      "subject": "Appointment of Ms Bharati Hollikeri, IAS (TG 2010) an officer belonging to Telangana Cadre of the Indian Administrative Service as Director of Census Operations/Director of Citizen Registration, Telangana with effect from 06.09.2024 (FN) under the CSS",
-      "gazette_id": "CG-DL-E-26092024-257519",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257519.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-26.257519/257519.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-26.257519",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-26/257519.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-26.257519/257519_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-25.257593",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-25",
-      "ugid": "257593",
-      "title": "Extraordinary Gazette of India, 2024-09-25",
-      "ministry": "Department of Atomic Energy",
-      "department": "Department of Atomic Energy",
-      "office": "",
-      "subject": "Administration cadre recruitment rules",
-      "gazette_id": "CG-MH-E-30092024-257593",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257593.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-25.257593/257593.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-25.257593",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-25/257593.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-25.257593/257593_djvu.txt"
     }
   ],
   "count": 2500,

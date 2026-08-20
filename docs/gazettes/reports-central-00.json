@@ -2261,6 +2261,52 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-14.275463/275463_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-13.275615",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-13",
+      "ugid": "275615",
+      "title": "Extrordinary Gazette of India, 2026-08-13",
+      "ministry": "Pharmacy Council of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by Regulation 10 of the Master of Pharmacy  M Pharm Course Regulations, 2014, the Pharmacy Council of India,",
+      "gazette_id": "CG-DL-E-20082026-275615",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275615.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-13.275615/275615.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-13.275615",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-13/275615.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-13.275590",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-13",
+      "ugid": "275590",
+      "title": "Extrordinary Gazette of India, 2026-08-13",
+      "ministry": "Joint Electricity Regulatory Commission for UT of Jammu &amp; Kashmir and UT of Ladakh",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under Section 181 read with Section 91 4 of the Electricity Act",
+      "gazette_id": "CG-JK-E-19082026-275590",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275590.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-13.275590/275590.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-13.275590",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-13/275590.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-13.275580",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58658,54 +58704,6 @@
       "mirror_path": "pdf/central/e/2026-04-27/272141.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-27.272141/272141_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-27.272138",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-27",
-      "ugid": "272138",
-      "title": "Extrordinary Gazette of India, 2026-04-27",
-      "ministry": "Employees State Insurance Corporation",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of powers conferred by Section 32 2 of the Code on Social Security, 2020  36 of 2020  and Regulation 95 A of the  Employees  State Insurance  General  Regulations, 1950 read with section",
-      "gazette_id": "CG-DL-E-28042026-272138",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272138.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-27.272138/272138.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-27.272138",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-27/272138.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-27.272138/272138_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-27.272137",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-27",
-      "ugid": "272137",
-      "title": "Extrordinary Gazette of India, 2026-04-27",
-      "ministry": "Employees State Insurance Corporation",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of powers conferred by Section 32 2 of the Code on Social Security, 2020  36 of 2020) and Regulation 95 A of the  Employees  State Insurance (General) Regulations,",
-      "gazette_id": "CG-DL-E-28042026-272137",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272137.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-27.272137/272137.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-27.272137",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-27/272137.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-27.272137/272137_djvu.txt"
     }
   ],
   "count": 2500,

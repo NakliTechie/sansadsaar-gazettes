@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-09-21.248901",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-09-21",
+      "ugid": "248901",
+      "title": "Extraordinary Gazette of India, 2023-09-21",
+      "ministry": "Food Safety and Standards Authority of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under clause ii of sub rule 1 of rule 2 1 3 of the Food Safety and Standards Rules",
+      "gazette_id": "CG-DL-E-22092023-248901",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248901.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-21.248901/248901.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-09-21.248901",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-09-21/248901.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-21.248901/248901_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-09-21.248900",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-09-21",
+      "ugid": "248900",
+      "title": "Extraordinary Gazette of India, 2023-09-21",
+      "ministry": "Petroleum and Natural Gas Regulatory Board",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by Section 61 of the Petroleum and Natural Gas Regulatory Board Act",
+      "gazette_id": "CG-DL-E-22092023-248900",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248900.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-21.248900/248900.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-09-21.248900",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-09-21/248900.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-21.248900/248900_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-09-21.248894",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57862,52 +57910,6 @@
       "ia_identifier": "in.gazette.central.e.2023-06-01.246218",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-06-01/246218.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-01.246217",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-01",
-      "ugid": "246217",
-      "title": "Extraordinary Gazette of India, 2023-06-01",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Uran Usar Pipeline of GAIL (India) Limited.",
-      "gazette_id": "CG-DL-E-01062023-246217",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246217.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-01.246217/246217.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-01.246217",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-01/246217.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-01.246216",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-01",
-      "ugid": "246216",
-      "title": "Extraordinary Gazette of India, 2023-06-01",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
-      "office": "",
-      "subject": "Insecticide",
-      "gazette_id": "CG-DL-E-01062023-246216",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246216.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-01.246216/246216.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-01.246216",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-01/246216.pdf",
       "topics": []
     }
   ],

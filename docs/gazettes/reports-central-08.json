@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-01-23.251576",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-01-23",
+      "ugid": "251576",
+      "title": "Extraordinary Gazette of India, 2024-01-23",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Exploration Division",
+      "office": "",
+      "subject": "Notification in the Gazette of India U/S 6(1) of the Petroleum and Minerals Pipelines Act, 1962 (50 of 1962) for acquisition of ROU in land for laying pipelines under Cauvery Asset Pipeline Project in Thaplampuliyur village of  Thiruvarur Taluk of Thiruvarur District of Tamil Nadu State.",
+      "gazette_id": "CG-DL-E-24012024-251576",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251576.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-23.251576/251576.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-01-23.251576",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-01-23/251576.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-23.251576/251576_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-01-23.251575",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-01-23",
+      "ugid": "251575",
+      "title": "Extraordinary Gazette of India, 2024-01-23",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Exploration Division",
+      "office": "",
+      "subject": "Notification in the Gazette of India under section 6(1) of the Petroleum and Minerals Pipelines Act, 1962 (50 of 1962) relating to the land schedule in respect of laying underground pipeline from WELL157 TO WELL 760 (GGS IV) in State of Gujarat.",
+      "gazette_id": "CG-DL-E-24012024-251575",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251575.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-23.251575/251575.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-01-23.251575",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-01-23/251575.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-23.251575/251575_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-01-23.251572",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58185,54 +58233,6 @@
       "mirror_path": "pdf/central/e/2023-09-21/248902.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-21.248902/248902_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-09-21.248901",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-09-21",
-      "ugid": "248901",
-      "title": "Extraordinary Gazette of India, 2023-09-21",
-      "ministry": "Food Safety and Standards Authority of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred under clause ii of sub rule 1 of rule 2 1 3 of the Food Safety and Standards Rules",
-      "gazette_id": "CG-DL-E-22092023-248901",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248901.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-21.248901/248901.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-09-21.248901",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-09-21/248901.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-21.248901/248901_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-09-21.248900",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-09-21",
-      "ugid": "248900",
-      "title": "Extraordinary Gazette of India, 2023-09-21",
-      "ministry": "Petroleum and Natural Gas Regulatory Board",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by Section 61 of the Petroleum and Natural Gas Regulatory Board Act",
-      "gazette_id": "CG-DL-E-22092023-248900",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248900.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-21.248900/248900.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-09-21.248900",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-09-21/248900.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-21.248900/248900_djvu.txt"
     }
   ],
   "count": 2500,

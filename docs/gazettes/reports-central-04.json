@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-05-06.262939",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-06",
+      "ugid": "262939",
+      "title": "Extraordinary Gazette of India, 2025-05-06",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "ESZ Division",
+      "office": "",
+      "subject": "Amendment of ESZ around Rowa Wildlife Sanctuary Tripura",
+      "gazette_id": "CG-DL-E-06052025-262939",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262939.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-06.262939/262939.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-06.262939",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-06/262939.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-06.262939/262939_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-05-06.262938",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-06",
+      "ugid": "262938",
+      "title": "Extraordinary Gazette of India, 2025-05-06",
+      "ministry": "Ministry of Railways",
+      "department": "North Central Railway",
+      "office": "",
+      "subject": "Construction of 02 lane road over bridge in lieu of level crossing no 538 at Km 1418 08 10 and  550 at Km 1444 17 19 in Agra Palwal Section in Agra Division of North Central Railway Construction of 02 lane road over bridge in lieu of level crossing no 556A at Km 1457 14 16 in Agra Palwal Section in Agra Division of North Central Railway",
+      "gazette_id": "CG-UP-E-06052025-262938",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/262938.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-06.262938/262938.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-06.262938",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-06/262938.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-06.262938/262938_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-05-06.262937",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-01-13/260194.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-13.260194/260194_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-13.260193",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-13",
-      "ugid": "260193",
-      "title": "Extraordinary Gazette of India, 2025-01-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-14012025-260193",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260193.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-13.260193/260193.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-13.260193",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-13/260193.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-13.260193/260193_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-13.260192",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-13",
-      "ugid": "260192",
-      "title": "Extraordinary Gazette of India, 2025-01-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-14012025-260192",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260192.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-13.260192/260192.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-13.260192",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-13/260192.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-13.260192/260192_djvu.txt"
     }
   ],
   "count": 2500,

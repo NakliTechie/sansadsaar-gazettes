@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-14.239653",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-14",
+      "ugid": "239653",
+      "title": "Extraordinary Gazette of India, 2022-10-14",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "Notification of Norges Bank for purposes of section 10(23FE) of the Income tax Act , 1961",
+      "gazette_id": "CG-DL-E-14102022-239653",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239653.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-14.239653/239653.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-14.239653",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-14/239653.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-14.239652",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-14",
+      "ugid": "239652",
+      "title": "Extraordinary Gazette of India, 2022-10-14",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for North East Natural Gas Pipeline Grid Project of M/s. Indradhanush Gas Grid Limited (IGGL).",
+      "gazette_id": "CG-DL-E-14102022-239652",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239652.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-14.239652/239652.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-14.239652",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-14/239652.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-14.239649",
       "category": "extraordinary",
       "type_letter": "e",
@@ -7990,7 +8036,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 345,
+  "count": 347,
   "category": "central",
   "shard_index": 12
 }

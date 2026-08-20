@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-01-20.269566",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-20",
+      "ugid": "269566",
+      "title": "Extrordinary Gazette of India, 2026-01-20",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Department of Health and Family Welfare",
+      "office": "",
+      "subject": "Draft Notification Amendment to NDCT Rules 2019 for Waiver of Sub Acute Animal Toxicity Studies",
+      "gazette_id": "CG-DL-E-27012026-269566",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269566.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-20.269566/269566.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-20.269566",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-20/269566.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-20.269566/269566_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-01-20.269559",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-01-20",
+      "ugid": "269559",
+      "title": "Extrordinary Gazette of India, 2026-01-20",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-24012026-269559",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269559.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-20.269559/269559.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-01-20.269559",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-01-20/269559.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-20.269559/269559_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-01-20.269557",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-09-03/265979.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-03.265979/265979_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-03.265978",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-03",
-      "ugid": "265978",
-      "title": "Extrordinary Gazette of India, 2025-09-03",
-      "ministry": "Ministry of Science and Technology",
-      "department": "Department of Biotechnology",
-      "office": "",
-      "subject": "Recruitment Rules (RRs) 2025 for the post of Director/Executive Director in Institution of Biotechnology Research and Innovation Council (iBRIC)",
-      "gazette_id": "CG-DL-E-04092025-265978",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265978.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-03.265978/265978.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-03.265978",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-03/265978.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-03.265978/265978_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-03.265969",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-03",
-      "ugid": "265969",
-      "title": "Extrordinary Gazette of India, 2025-09-03",
-      "ministry": "Ministry of Mines",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Combined Geo Scientist Examination Rules 2026",
-      "gazette_id": "CG-DL-E-06092025-265969",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/265969.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-03.265969/265969.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-03.265969",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-03/265969.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-03.265969/265969_djvu.txt"
     }
   ],
   "count": 2500,

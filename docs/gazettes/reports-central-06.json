@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-09-26.257519",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-09-26",
+      "ugid": "257519",
+      "title": "Extraordinary Gazette of India, 2024-09-26",
+      "ministry": "Ministry of Home Affairs",
+      "department": "Office of the Registrar General, India",
+      "office": "",
+      "subject": "Appointment of Ms Bharati Hollikeri, IAS (TG 2010) an officer belonging to Telangana Cadre of the Indian Administrative Service as Director of Census Operations/Director of Citizen Registration, Telangana with effect from 06.09.2024 (FN) under the CSS",
+      "gazette_id": "CG-DL-E-26092024-257519",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257519.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-26.257519/257519.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-09-26.257519",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-09-26/257519.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-26.257519/257519_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-09-25.257593",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-09-25",
+      "ugid": "257593",
+      "title": "Extraordinary Gazette of India, 2024-09-25",
+      "ministry": "Department of Atomic Energy",
+      "department": "Department of Atomic Energy",
+      "office": "",
+      "subject": "Administration cadre recruitment rules",
+      "gazette_id": "CG-MH-E-30092024-257593",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257593.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-25.257593/257593.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-09-25.257593",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-09-25/257593.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-25.257593/257593_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-09-25.257578",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-05-17/254249.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-17.254249/254249_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-05-17.254248",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-05-17",
-      "ugid": "254248",
-      "title": "Extraordinary Gazette of India, 2024-05-17",
-      "ministry": "Central  Electricity  Regulatory Commission",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of paragraph 5 1 and paragraph 6 4 of the Ministry of Power s Resolution dated 22 07 2020 on Guidelines for Tariff Based Competitive Bidding Process",
-      "gazette_id": "CG-DL-E-18052024-254248",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254248.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-17.254248/254248.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-05-17.254248",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-05-17/254248.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-17.254248/254248_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-05-17.254247",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-05-17",
-      "ugid": "254247",
-      "title": "Extraordinary Gazette of India, 2024-05-17",
-      "ministry": "Central  Electricity  Regulatory Commission",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of the Tariff based Competitive bidding Guidelines for Transmission Service, amended up to 10th October, 2008, issued by the Ministry of Power",
-      "gazette_id": "CG-DL-E-18052024-254247",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254247.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-17.254247/254247.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-05-17.254247",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-05-17/254247.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-17.254247/254247_djvu.txt"
     }
   ],
   "count": 2500,

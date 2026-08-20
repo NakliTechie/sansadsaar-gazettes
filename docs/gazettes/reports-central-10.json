@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-01.246217",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-01",
+      "ugid": "246217",
+      "title": "Extraordinary Gazette of India, 2023-06-01",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Uran Usar Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-01062023-246217",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246217.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-01.246217/246217.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-01.246217",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-01/246217.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-01.246216",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-01",
+      "ugid": "246216",
+      "title": "Extraordinary Gazette of India, 2023-06-01",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
+      "office": "",
+      "subject": "Insecticide",
+      "gazette_id": "CG-DL-E-01062023-246216",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246216.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-01.246216/246216.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-01.246216",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-01/246216.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-01.246215",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57814,52 +57860,6 @@
       "ia_identifier": "in.gazette.central.e.2023-02-02.243360",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-02-02/243360.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-02.243359",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-02",
-      "ugid": "243359",
-      "title": "Extraordinary Gazette of India, 2023-02-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of user fee notification",
-      "gazette_id": "CG-DL-E-02022023-243359",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243359.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-02.243359/243359.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-02.243359",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-02/243359.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-02.243358",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-02",
-      "ugid": "243358",
-      "title": "Extraordinary Gazette of India, 2023-02-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of user fee notification",
-      "gazette_id": "CG-DL-E-02022023-243358",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243358.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-02.243358/243358.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-02.243358",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-02/243358.pdf",
       "topics": []
     }
   ],

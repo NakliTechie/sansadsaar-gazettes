@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-04-27.272138",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-27",
+      "ugid": "272138",
+      "title": "Extrordinary Gazette of India, 2026-04-27",
+      "ministry": "Employees State Insurance Corporation",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of powers conferred by Section 32 2 of the Code on Social Security, 2020  36 of 2020  and Regulation 95 A of the  Employees  State Insurance  General  Regulations, 1950 read with section",
+      "gazette_id": "CG-DL-E-28042026-272138",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272138.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-27.272138/272138.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-27.272138",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-27/272138.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-27.272138/272138_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-04-27.272137",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-27",
+      "ugid": "272137",
+      "title": "Extrordinary Gazette of India, 2026-04-27",
+      "ministry": "Employees State Insurance Corporation",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of powers conferred by Section 32 2 of the Code on Social Security, 2020  36 of 2020) and Regulation 95 A of the  Employees  State Insurance (General) Regulations,",
+      "gazette_id": "CG-DL-E-28042026-272137",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272137.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-27.272137/272137.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-27.272137",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-27/272137.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-27.272137/272137_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-04-27.272125",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2026-01-20/269592.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-20.269592/269592_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-20.269566",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-20",
-      "ugid": "269566",
-      "title": "Extrordinary Gazette of India, 2026-01-20",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Department of Health and Family Welfare",
-      "office": "",
-      "subject": "Draft Notification Amendment to NDCT Rules 2019 for Waiver of Sub Acute Animal Toxicity Studies",
-      "gazette_id": "CG-DL-E-27012026-269566",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269566.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-20.269566/269566.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-20.269566",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-20/269566.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-20.269566/269566_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-20.269559",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-20",
-      "ugid": "269559",
-      "title": "Extrordinary Gazette of India, 2026-01-20",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-24012026-269559",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269559.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-20.269559/269559.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-20.269559",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-20/269559.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-20.269559/269559_djvu.txt"
     }
   ],
   "count": 2500,
