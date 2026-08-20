@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T21:46:40Z",
+  "generated_at": "2026-08-20T21:51:46Z",
   "shard_size": 2500,
   "totals": {
-    "central": 30325
+    "central": 30345
   },
   "shards": {
     "central": [
@@ -68,7 +68,7 @@
       },
       {
         "file": "reports-central-12.json",
-        "count": 325,
+        "count": 345,
         "shard_index": 12
       }
     ]
