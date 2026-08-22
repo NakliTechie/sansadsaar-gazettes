@@ -1,6 +1,167 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-17.239706",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-17",
+      "ugid": "239706",
+      "title": "Extraordinary Gazette of India, 2022-10-17",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of  Notification in the Extraordinary Gazette of India u/s 6(1) of the PMP Act, 1962 (50 of 1962) relating to land schedule in respect of Hassan Cherlapalli LPG Pipeline Project of Hindustan Petroleum Corporation Limited for acquisition of ROU in the State of Andhra Pradesh Mandal Atmakur, Distt  Ananthapuramu",
+      "gazette_id": "CG-DL-E-17102022-239706",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239706.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-17.239706/239706.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-17.239706",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-17/239706.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-17.239705",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-17",
+      "ugid": "239705",
+      "title": "Extraordinary Gazette of India, 2022-10-17",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of  Notification in the Extraordinary Gazette of India u/s 3(1) of the PMP Act, 1962 (50 of 1962) relating to land schedule in respect of Hassan Cherlapalli LPG Pipeline Project of Hindustan Petroleum Corporation Limited for acquisition of ROU in the State of Andhra Pradesh Manda Dhone, Krishnagiri, Gudur, Kallur , Kurnool, District Kurnool",
+      "gazette_id": "CG-DL-E-17102022-239705",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239705.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-17.239705/239705.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-17.239705",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-17/239705.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-17.239704",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-17",
+      "ugid": "239704",
+      "title": "Extraordinary Gazette of India, 2022-10-17",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of  Notification in the Extraordinary Gazette of India us 3(1) of the PMP Act, 1962 (50 of 1962) relating to land schedule in respect of Hassan Cherlapalli LPG Pipeline Project of Hindustan Petroleum Corporation Limited for acquisition of ROU in the State of Andhra Pradesh Mandal Amarapuram, Kundurpi, Kambadur, Kalyandurgam, Atmakur, Kudair, Ananthapuramu, Bukkarayasamudram, Pamidi, Guntakal and Gooty, District Ananthapuramu",
+      "gazette_id": "CG-DL-E-17102022-239704",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239704.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-17.239704/239704.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-17.239704",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-17/239704.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-17.239703",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-17",
+      "ugid": "239703",
+      "title": "Extraordinary Gazette of India, 2022-10-17",
+      "ministry": "Ministry of Textiles",
+      "department": "Jute Section",
+      "office": "",
+      "subject": "reconstitution of National Jute Board Official Members",
+      "gazette_id": "CG-DL-E-17102022-239703",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239703.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-17.239703/239703.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-17.239703",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-17/239703.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-17.239702",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-17",
+      "ugid": "239702",
+      "title": "Extraordinary Gazette of India, 2022-10-17",
+      "ministry": "Ministry of Steel",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Declaration of Occupier in respect of Bokaro Steel Plant",
+      "gazette_id": "CG-DL-E-17102022-239702",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239702.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-17.239702/239702.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-17.239702",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-17/239702.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-17.239701",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-17",
+      "ugid": "239701",
+      "title": "Extraordinary Gazette of India, 2022-10-17",
+      "ministry": "Ministry of Education",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication Notification",
+      "gazette_id": "CG-DL-E-17102022-239701",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239701.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-17.239701/239701.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-17.239701",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-17/239701.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-17.239700",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-17",
+      "ugid": "239700",
+      "title": "Extraordinary Gazette of India, 2022-10-17",
+      "ministry": "Indian Nursing Council",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under Section 14 of Indian Nursing Council Act, 1947   XLVIII of 1947, the Indian Nursing Council hereby issues the following order",
+      "gazette_id": "CG-DL-E-17102022-239700",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239700.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-17.239700/239700.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-17.239700",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-17/239700.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-17.239698",
       "category": "extraordinary",
       "type_letter": "e",
@@ -9078,7 +9239,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 391,
+  "count": 398,
   "category": "central",
   "shard_index": 12
 }
