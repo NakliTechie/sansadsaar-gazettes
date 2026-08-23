@@ -1,0 +1,776 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+Vita = राजपत्र 
+Che Gazette of india 
+
+
+सी.जी.-डी.एल.-अ.-22082026-275686 
+CG-DL-E-22082026-275686 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग ---खण्ड 4 
+PART III—Section 4 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+सं. 56] नई दिल्‍ली, बुधवार, अगस्त 9, 2026/श्रावण 28, 948 
+No. 56] NEW DELHI, WEDNESDAY, AUGUST 9, 2026/SHRAVAN 28, 948 
+
+
+पेट्रोलियम एवं प्राकृतिक गैस विनियामक बोर्ड 
+अधिसूचना 
+नई दिल्‍ली, 7 अगस्त, 2026 
+फा.सं. पीएनजीआरबी/तकनीकी/7-टी4एसपीआई/(2)/2023 (ई-4292).--पेट्रोलियम और प्राकृतिक गैस 
+नियामक बोर्ड अधिनियम, 2006 (2006 का 49) की धारा 67 ST प्रदत्त शक्तियों का उपयोग करते हुए, पेट्रोलियम और 
+
+
+प्राकृतिक गैस विनियामक बोर्ड एतद्वारा पेट्रोलियम और प्राकृतिक गैस नियामक बोर्ड (पेट्रोलियम स्थापनाओं के लिए सुरक्षा 
+मानक सहित तकनीकी मानक और विशिष्टियां) विनियम, 2020 को और संशोधित करने के लिए निम्नलिखित विनियम 
+
+
+बनाता है, अर्थात्‌: - 
+q. लघु शीर्षक और प्रारंभण 
+
+
+(l) इन विनियमों को पेट्रोलियम और प्राकृतिक गैस विनियामक बोर्ड (पेट्रोलियम स्थापनाओं के लिए सुरक्षा मानक 
+सहित तकनीकी मानक और विशिष्टियां) संशोधन विनियम, 2026 कहा जाएगा। 
+
+
+(2) ये सरकारी राजपत्र में इनके प्रकाशन की तारीख से लागू होंगे। 
+
+
+6400 GI/2026 (4) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SECc.4] 
+
+
+2. पेट्रोलियम और प्राकृतिक गैस विनियामक बोर्ड (पेट्रोलियम स्थापनाओं के लिए सुरक्षा मानक सहित तकनीकी मानक 
+और विशिष्टियां) विनियम, 2020 में, - 
+
+
+(a) नियम 6 में, क्रम संख्या (a) में शब्दों “....भाग - |” के बाद और शब्दों “जो कि कवर करता है....” के पहले, शब्द 
+“और भाग - L” जोड़ा जाएगा। 
+
+
+(2) अनुसूची- में, भाग -के (ल्यूब विनिर्माण और फिलिंग संयंत्र ) के बाद, निम्नलिखित जोड़ा जाएगा, अर्थात्‌: 
+
+
+अनुसूची - एल 
+(अग्नि और आपातकालीन प्रतिक्रिया संवर्धन-एफईआरए) 
+44.0 अग्नि और आपातकालीन प्रतिक्रिया संवर्धन सुविधाएँ 
+4. फेरा (एफईआरए) सुविधाएँ: दर्शन: 
+
+
+स्तर-॥| एक आपातकालीन स्थिति या ऐसी घटना है, जिसका स्थल के बाहर प्रभाव हो सकता Sl यह विनाशकारी हो 
+सकती है तथा इसका स्थापना के अंदर और बाहर जनसंख्या, संपत्ति और पर्यावरण को प्रभावित करने की संभावना है। 
+इसलिए, किसी घटना को लेवल-॥॥ आपातकाल में बदलने से रोकने के लिए, 'अत्यधिक जोखिम' वाले स्थानों के लिए 
+विशेषज्ञ एवं विशेष रूप से प्रशिक्षित अग्निशमन कर्मियों सहित अग्नि एवं आपातकालीन प्रतिक्रिया संवर्धन आवश्यक है। 
+अग्निशमन सुविधाओं/आपातकालीन प्रतिक्रिया व्यवस्था का सुदृढ़ीकरण आवश्यक है, ताकि आग/रिसाव/स्पिल (रसायन के 
+
+
+फैलाव) जैसी किसी भी आपातकालीन घटना के घटित होने के समय से अधिकतम 30 मिनट के भीतर तत्काल प्रतिक्रिया 
+आरंभ की जा सके तथा अग्निशमन कार्य प्रारंभ होने के 65 मिनट के भीतर आग पर नियंत्रण अथवा उसे पूर्णतः बुझाया जा 
+
+
+सके, जिससे किसी भी प्रकार के विनाशकारी प्रभाव को रोका जा सकें। उच्च जोखिम वाले स्थानों के लिए, धारा = (अग्नि 
+सुरक्षा और निवारण सुविधाएँ) की आवश्यकताओं और अग्नि पानी, जल स्प्रिंकलर प्रणाली, फोम सिस्टम, आपातकालीन 
+प्रतिक्रिया, आपसी सहायता और अग्निशामक मानव संसाधन तैनाती आदि से संबंधित किसी भी अन्य प्रावधान को पहचाने 
+गए अत्यधिक जोखिम वाले स्थानों के लिए इस भाग द्वारा पूरक किया जाएगा। 
+
+44.2 प्रयोज्यता: 
+
+
+यह प्रावधान अत्यधिक जोखिम' श्रेणी के अंतर्गत आने वाले प्राथमिकता वाले स्थलों (वर्तमान एवं प्रस्तावित दोनों) पर 
+निम्नानुसार लागू होगा: 
+
+(i) ऐसी पेट्रोलियम स्थापना, जिसमें श्रेणी ए और श्रेणी बी पेट्रोलियम उत्पादों का कुल भंडारण 750 टीकेएल से अधिक हो 
+(जहां सह-अस्तित्व में हों, वहां श्रेणी सी को भी माना जाएं)। 
+
+(ii) कच्चे तेल भंडारण टर्मिनल, तटीय कच्चे तेल प्राप्ति भंडारण टर्मिनल और इसी प्रकार के रणनीतिक महत्व के कच्चे तेल 
+हैंडलिंग टर्मिनल जिनकी कुल भंडारण क्षमता 200 टीकेएल से अधिक है। 
+
+(#) पेट्रोलियम प्रतिष्ठानों का समूह (समीपवर्ती या नजदीकी स्थान, अर्थात्‌ 0 किलोमीटर की परिधि (त्रिज्या) के भीतर 
+स्थित) जिनका संचयी भंडारण 50 टीकेएल से अधिक हों और जिसमें श्रेणी ए और श्रेणी बी पेट्रोलियम उत्पाद (जहां सह- 
+अस्तित्व में हो, वहां श्रेणी सी को भी माना जाएं) शामिल हों। 
+
+
+[भाग Wave 4] भारत का राजपत्र : असाधारण 3 
+
+
+टिप्पणी: फेरा सुविधाओं के कार्यान्वयन की समय-सीमा निम्नानुसार होगी: 
+
+
+क्रम संख्या भंडारण क्षमता कार्यान्वयन की समय-सीमा (राजपत्र में प्रकाशन की तिथि से) 
+(टीकेएल में) 
+] 450-200 5 वर्ष के भीतर 
+2 200-300 3 वर्ष के भीतर 
+3 300 और उससे अधिक 2 वर्ष के भीतर 
+
+
+44.3 फेरा (एफईआरए) का उद्देश्य: 
+
+
+() प्राथमिकता श्रेणी में आने वाले उच्च भंडारण क्षमता वाले पेट्रोलियम प्रतिष्ठानों हेतु अत्याधुनिक अग्निशमन एवं 
+आपातकालीन प्रबंधन सुविधाओं की उपलब्धता तथा उनकी परिचालनात्मक तत्परता सुनिश्चित करना। 
+
+() प्रत्येक प्राथमिकता प्राप्त स्थान पर फेरा सुविधाओं की स्थापना एवं उनका अनुरक्षण इस उद्देश्य से किया जाएगा 
+कि किसी भी प्रमुख दुर्घटना को उसके प्रारम्भिक चरण में ही नियंत्रित किया जा सके तथा उसे SATII (FAT!) 
+आपातकाल में परिवर्तित होने से रोका जा सकें। आग/रिसाव/स्पिल (रसायन के फैलाव) जैसी किसी भी घटना के घटित 
+होने पर अग्निशमन कार्यवाही तत्काल प्रारम्भ की जाएगी, परंतु किसी भी स्थिति में घटना के घटित होने के 30 मिनट 
+से अधिक विलंब नहीं होना चाहिए। अग्निशमन कार्य प्रारम्भ होने के 65 मिनट के भीतर आग पर नियंत्रण प्राप्त कर 
+लिया जाना चाहिए अथवा उसे पूर्णतः बुझा दिया जाना चाहिए। 
+
+(iii) तात्कालिक और प्रभावी आपातकालीन प्रतिक्रिया के लिए प्राथमिकता वाले स्थानों पर विशेषज्ञ और निपुण 
+अग्निशामक कर्मियों की तैनाती करना। 
+
+(iv) एफईआरए के तहत उपकरणों के समूहों में कार्याव्वयन और परस्पर सहयोग के लिए एक समन्वित दृष्टिकोण 
+स्थापित करना। 
+
+
+44.4 फेरा (एफईआरए) सुविधाएँ: रूपरेखा, अवसंरचना, उपकरण और मानव संसाधन: 
+
+
+44.4. रूपरेखा 
+
+
+अग्नि सुरक्षा प्रणाली के लिए आधारभूत रूपरेखा इन नियमों के भाग ई और लागू एनएफपीए मानकों के अनुसार 
+होगा, जो भी अधिक हो, जिसमें निम्नलिखित शामिल हैं:- 
+
+
+() प्रत्येक प्राथमिकता वाले स्थान को जिसे धारा 4.2 के तहत पहचाना गया है, उसे होस्ट इंस्टॉलेशन (विशेषकर 
+क्लस्टर के भीतर सबसे ज़्यादा डायमीटर वाले टैंक) में एफईआरए सुविधाएं स्थापित और बनाए रखनी चाहिए। 
+
+(i) अग्निशामक जल, फोम और अन्य अग्निशमन और बचाव उपकरण आदि को क्लस्टर में स्थित संयंत्रों के बीच साझा 
+किया जाएगा और आपातकालीन स्थिति में erect के अंतर्गत अन्य संयंत्रों के साथ अधिकतम 50% उपलब्ध 
+अग्रिशामक जल और फोम साझा किया जा सकेगा। 
+
+(iii) एफईआरए सुविधाओं का एकीकृत आपातकालीन नियंत्रण केंद्र (आईईसीसी) प्राथमिकता के रूप में क्लस्टरों के 
+भीतर होस्ट इंस्टॉलेशन के उपलब्ध आपातकालीन नियंत्रण केंद्र (ईसीसी) में स्थापित किया जाना चाहिए। लगातार 
+क्लस्टर होने की स्थिति में एकीकृत ईआरडीएमपी दस्तावेज तैयार किया जाएगा। 
+
+(iv) यदि उपर्युक्त उप-खंड (i),(ii) एवं (॥) के प्रावधान भौगोलिक सीमाओं अथवा अन्य कारणों से व्यावहारिक रूप से 
+लागू करना संभव न हो, तो प्रत्येक पृथक स्थान को प्रमुख दुर्घटना (से प्रभावी ढंग से निपटने हेतु अपनी स्वयं की 
+अग्निशमन एवं आपातकालीन प्रतिक्रिया सुविधाएँ विकसित करनी होंगी। ऐसे स्थानों पर आग/रिसाव/स्पिल 
+
+
+4 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+(रसायन के फैलाव) जैसी किसी भी घटना के घटित होने पर आपातकालीन प्रतिक्रिया तत्काल प्रारंभ की जाएगी, 
+परंतु किसी भी स्थिति में घटना के घटित होने के 30 मिनट के भीतर प्रतिक्रिया प्रारंभ होना अनिवार्य होगा। साथ 
+ही, अग्निशमन कार्य प्रारंभ होने के 65 मिनट के भीतर आग पर नियंत्रण प्राप्त कर लिया जाना चाहिए अथवा उसे 
+
+
+पूर्णतः बुझा दिया जाना चाहिए। इसके अतिरिक्त, ऐसे स्थानों पर उपर्युक्त मूल अभिकल्प में निर्दिष्ट आवश्यकताओं के 
+अतिरिक्त 20% अधिक जल एवं फोम भंडारण क्षमता तथा फोम/जल पम्पिंग दर उपलब्ध कराई जाएगी। 
+(v) चरम जोखिम वाले स्थानों पर फोम यौगिक को एक Feet के भीतर समान प्रकार/विशेषताओं का होना चाहिए। 
+
+
+(vi) किसी भी आपातकालीन घटना के उपरांत, अग्निशमन जल, फोम तथा अन्य आवश्यक संसाधनों की पुनः पूर्ति इस 
+प्रकार सुनिश्चित की जाएगी कि अग्निशमन कार्य प्रारंभ होने के 2 घंटे के भीतर उनकी उपलब्धता वैधानिक न्यूनतम 
+आवश्यकता के कम-से-कम 50% तक पुनर्स्थापित हो जाए तथा 'ऑल PRAIA सायरन बजाए जाने के 24 घंटे के 
+भीतर उन्हें वैधानिक न्यूनतम आवश्यकता के 700% स्तर तक पूर्णतः पुनः पूरित कर दिया जाए। 
+
+
+44.4.2 होस्ट इंस्टॉलेशन में बुनियादी ढांचा और उपकरण। 
+
+
+(i) सभी उपकरणों और सहायक अवसंरचना की आवश्यकताएँ, जिनमें अग्नि और फोम सुरक्षा प्रणाली, अग्नि जल 
+प्रणाली, अग्नि जल और फोम भंडारण, अग्नि जल पंप आदि शामिल हैं, इन नियमों के भाग ई के अनुसार या 
+नवीनतम एनएफपीए मानकों के अनुसार होंगी, जो भी उच्चतर हों। अग्नि, जल और फोम प्रणालियों का संवर्धन 
+ज़ोखिम मूल्यांकन पर आधारित होगा, जिसमें संचयी भंडारण और आवश्यक जल/फोम के उपरांत गणना की 
+जाएगी, उपलब्ध अग्नि-निरोधक सुविधाओं सहित किसी भी बाधा को ध्यान में रखते हुए, ताकि आवश्यक जल/फोम 
+का अनुप्रयोग सुनिश्चित किया जा सकें, जिसमें भंडारण, पंपिंग और वितरण दर/दबाव शामिल है। 
+
+
+(ii) मौजूदा अग्ने जल और फोम नेटवर्क को आवश्यक होने पर इस प्रकार संशोधित किया जाएं कि क्लस्टर के भीतर 
+पर्याप्त प्रवाह दर और पानी/फोम का साझा करना सुनिश्चित हो सकें। संशोधनों में जल/फोम भंडारण, पंप Ta 
+पाइपलाइन, पंप डिस्चार्ज पाइपलाइन आदि का अंतरसंबंध शामिल होना चाहिए। 
+
+
+(ii) यदि किसी पंपिंग का संवर्धन आवश्यक हों, तो इसे सर्वोच्च पंपिंग क्षमता वाले स्थान पर करना उचित होगा और 
+डिस्चार्ज पाइपलाइन को क्लस्टर के प्रत्येक इंस्टॉलेशन तक वरीयता के अनुसार सबसे बड़े व्यास वाले टैंक के पास 
+बढ़ाया जाना चाहिए। 
+
+
+(iv) पर्याप्त संख्या में उपकरण जैसे कि स्थिर और मोबाइल एचवीएलआर (ट्रॉली माउंटेड) के साथ-साथ पर्याप्त व्यास की 
+नलिकाएँ (आवश्यक प्रवाह दर को सहयोग करने वाली), अग्नि निकटता सूट, एससीबीए सेट, पीपीई आदि इच्छित 
+स्थान पर प्रदान किए जाएंगे। 
+
+(५) एफईआरए सुविधाओं का एकीकृत आपातकालीन नियंत्रण केंद्र (आईईसीसी) सभी आवश्यक दस्तावेज़ों, संचार 
+सुविधाओं (हॉटलाइन सेवा सहित), अलार्म सिस्टम, सीसीटीवी निगरानी, ड्रोन आदि से लैस होना चाहिए, जो कि 
+क्लस्टर के भीतर सभी स्थापनाओं के लिए आवश्यक हैं, जैसा कि प्रत्येक स्थापना के आपातकालीन संचालन केंद्र 
+(ईसीसी) के लिए अनिवार्य है। 
+
+
+(vi) समर्पित एफईआरए स्टेशन को मानव शक्ति के साथ-साथ आवश्यक ay शमन उपकरण रखने के लिए डिजाइन 
+किया जाएगा, अधिमानतः आईईसीसी के निकट और ऐसे स्थान पर जहां से सभी सहायक स्थापनाओं तक प्रतिक्रिया 
+समय न्यूनतम हों। 
+
+(vii) सबसे बड़े व्यास वाले टैंक के लिए आवश्यक अधिकतम अग्निशमन जल प्रवाह तथा प्रभावी प्रक्षेपण दूरी की 
+आवश्यकता के अनुसार एक उच्च क्षमता का परिवर्तनीय मोबाइल एचवीएलआर फोम मॉनिटर (अधिकतम 
+
+
+आवश्यकता के अनुरूप) अथवा दो मध्यम क्षमता के परिवर्तनीय मोबाइल एचवीएलआर फोम मॉनिटर (अधिकतम 
+आवश्यकता के आंशिक अनुरूप) उपलब्ध कराए जाएंगे। 
+
+
+[भाग Wave 4] भारत का राजपत्र : असाधारण 5 
+
+
+(viii) 42,500 एलपीएम (लगभग 3,300 GPM) तक की क्षमता वाले एचवीएलआर का अभिकल्प भारतीय मानक 
+आईएस: 587 के अनुरूप होगा। 42,500 एलपीएम से अधिक क्षमता वाले एचवीएलआर के लिए सामग्री संबंधी 
+विनिर्देश आईएस:45844 के अनुरूप होंगे। एचवीएलआर के अन्य विनिर्देश, जैसे प्रवाह, प्रक्षेपण दूरी आदि, 
+पेट्रोलियम स्थापना विनियम, 2020 हेतु टी4एस के लिए तकनीकी समिति द्वारा अंतिम रूप से निर्धारित विनिर्देशों 
+के अनुसार होंगे, जब तक कि इस संबंध में भारतीय मानक ब्यूरो द्वारा संबंधित मानक अधिसूचित नहीं किया जाता। 
+
+(ix) एचवीएलओआर किसी राष्ट्रीय या अंतर्राष्ट्रीय प्रमाणन संस्था जैसे बीआईएस, यूएल या एफएम या समकक्ष मान्यता 
+प्राप्त एचवीएलआर प्रमाणित एजेंसियों द्वारा सूचीबद्ध अथवा अनुमोदित होना चाहिए | 
+
+44.4.3 मानव संसाधन/प्रशिक्षित कर्मियों की आवश्यकताएँ। 
+
+
+किसी भी अग्नि या आपातकालीन स्थिति में त्वरित और प्रभावी प्रतिक्रिया सुनिश्चित करने के लिए एफईआरए स्टेशन में 
+विशेषीकृत और विशेषज्ञ अग्निशमन दल तैनात किया जाएगा। 
+
+
+() एफईआरए सुविधाओं को पूरी तरह से समर्पित अग्निशमन दल द्वारा चौबीसों घंटे बनाए रखा जाएगा, जिसमें प्रत्येक 
+पारी में चार (4) कर्मी होंगे, जिनमें एक पारी अधिकारी शामिल है। 
+
+
+(ii) सामान्य पाली में एक अधिकारी, जिसे पूरे अग्निशमन संचालन, सुरक्षा और प्रशिक्षण देने में विशेषज्ञता प्राप्त हों। 
+(ii) एफईआरए अग्निशमन दल के लिए योग्यता मानदंड निम्नलिखित होंगे: 
+
+
+जोखिमपरक उद्योग में 
+क्र. सं. पदनाम ड्यूटी/शिफ्ट पद योग्यता अग्निशमन 
+का न्यूनतम अनुभव 
+अग्नि अभियांत्रिकी अथवा 
+; एफईआरए सामान्य पाली अग्नि एवं सुरक्षा pope 
+प्रभारी प्रभारी अभियांत्रिकी में 
+बी.ई./बी.टेक. उपाधि 
+; एफईआरए ean मान्यता प्राप्त संस्थान से स्टेशन seas 
+अधिकारी अधिकारी प्रमाणपत्र के साथ स्नातक 
+मान्यता प्राप्त संस्थान से सहायक 
+2 THRACE दल पाली दल अधिकारी प्रमाणपत्र के साथ स्नातक 02 वर्ष 
+(५) प्रत्येक दल को एचवीएलआर संचालन, अग्नि पंप संचालन, फोम तैनाती, एससीबीए उपयोग और आपातकालीन 
+समन्वय आदि में कुशल होना चाहिए। 
+
+
+(५) तैनात किया गया मानव बल सभी उपकरणों का रखरखाव करेगा साथ ही साथ उपकरणों की नियमित 
+जाँच/पीएमसी करेगा, ate fea में भाग लेगा आदि, जिसमें अग्रिशमन में इकाई के कर्मियों को प्रशिक्षण देना भी 
+शामिल है। 
+
+
+(vi) एफईआरए अग्निशमन दल को शासी समिति द्वारा निर्धारित योग्य एजेंसी/व्यक्ति द्वारा वर्ष में एक बार प्रशिक्षित 
+किया जाना चाहिए। 
+
+
+(भी) एफईआरए दल नियमित रूप से अधिकारियों/सुरक्षा कर्मियों, ठेकेदार कर्मचारियों को जोखिम और आपातकालीन 
+प्रबंधन के संबंध में प्रशिक्षण प्रदान करेगा। 
+
+
+44.5 एफईआरए सुविधाएं: स्वामित्व और संचालन मॉडल: 
+
+
+(a) एफईआरए सुविधाएं निम्नानुसार प्रदान की जाएंगी: 
+
+
+6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4] 
+
+
+(i) एकल पृथक स्थापना के मामले में, संबंधित इकाई को एफईआरए सुविधाएँ स्वयं स्थापित करनी होंगी और 
+आवश्यक मानव बल या तो स्वयं प्रदान करनी होगी या अधिकृत अनुबंधों के माध्यम से पेशेवर अग्निशमन 
+एजेंसी(ओं) के माध्यम से आउटसोर्स करनी होगी। 
+
+
+(ii) Saat के समूह के मामले में, सभी संबंधित इकाइयां अपनी-अपनी कुल टैंक भंडारण क्षमता के अनुपात में 
+लागत-साझेदारी के आधार पर संयुक्त रूप से फेरा सुविधाओं की स्थापना करेंगी और आवश्यक मानव शक्ति 
+को स्वयं या अधिकृत अनुबंधों के माध्यम से पेशेवर अग्निशमन एजेंसी(ओं) के माध्यम से आउटसोर्सिंग के 
+जरिए प्रदान करना होगा। 
+
+
+(७) आउटसोर्सिंग के मामले में, विक्रेता का चयन क्यूसीबीएस टेंडर्रिंग (तकनीकी मानदंडों का भारिता-70%) के 
+
+
+आधार पर किया जाना चाहिए। निविदा/अनुबंध की शर्तों और नियमों में विक्रेता के लिए सख्त दंड प्रावधान 
+शामिल होंगे। यदि कोई भी वैधानिक नियम/विनियम का पालन न किया गया हों या मॉक Stet या वास्तविक 
+आपात स्थिति के दौरान प्रदर्शन में कमी रहें, तो दंड दिया जा सकता है। 
+
+
+(०) एक संचालन समिति का गठन किया जाएगा जिसमें क्लस्टर के भीतर सभी स्थापनाओं के सदस्य शामिल होंगे, 
+जो निम्नलिखित को परिभाषित करेंगे/निर्णय देंगें:- 
+
+
+(0) एफईआरए सुविधा संपदा के लिए स्वामित्व स्थान, संरक्षण और रखरखाव की जिम्मेदारी; 
+
+
+(ii) क्लस्टर के भीतर किसी भी स्थापना में एफईआरए सुविधाओं को गतिशील करने के लिए सक्रियण प्रोटोकॉल, 
+जिसमें संचार और प्राधिकृत करने के चरण शामिल हैं; 
+
+
+(iit) किसी घटना के दौरान काबू पाना और नियंत्रण, 
+(iv) पारस्परिक सहायता सदस्यों, स्थानीय/जिला संकट समूहों और बाहरी आपातकालीन प्रतिक्रिया एजेंसियों के 
+
+
+साथ समन्वय के लिए प्रबंधन; 
+(५) पूंजी व्यय और संचालन व्यय के लिए लागत साझा करना, वित्तपोषण और प्रतिपूर्ति व्यवस्था; 
+
+
+(vi) आपातकाल में प्रयुक्त एफईआरए सुविधाओं के संसाधनों के लिए दायित्व, क्षतिपूर्ति और नुकसान/पुनःपूर्ति; 
+और 
+
+
+(vii) तैयारियों की समीक्षा, रखरखाव, पद्धति, क्षमता सुनिश्चित करना, रिपोर्टिंग और ऑडिट के लिए प्रक्रियाएँ 
+(शा) किसी अन्य प्रक्रिया या एसओपी जो कि शासन समिति द्वारा उपयुक्त समझी जाती हों, आदि 
+
+
+(ix) किसी अन्य तेल और गैस स्थापना को लागत साझा करने के आधार पर एफईआरए सुविधाओं का उपयोग 
+करने की अनुमति देना 
+
+
+44.6 लेखापरीक्षा और अनुपालन: 
+
+
+(a) एफईआरए प्रभारी एफईआरए सुविधाओं का मासिक आंतरिक ऑडिट करेगा तथा समीक्षा और आवश्यक कार्रवाई 
+के लिए ऑडिट रिपोर्ट को संचालन समिति को प्रस्तुत करेगा। 
+
+
+(b) संचालन समिति लागू वैधानिक और नियामक आवश्यकताओं का पालन सुनिश्चित करने के लिए एफईआरए 
+प्रणाली का वार्षिक ऑडिट करेगी। 
+
+
+(०) पेट्रोलियम स्थापनाओं के लिए टी4एस और ईआरडीएमपी ऑडिट क्रमशः हर तीन (3) वर्ष और पांच (5) वर्ष में 
+किए जाएंगे। यह प्रावधान है कि यदि ऑडिट की जा रही स्थापना एफईआरए सुविधाओं वाले समूह का हिस्सा है, 
+तो ऐसे एफईआरए सुविधाओं का ऑडिट और ArH ड्रील समूह-व्यापी मूल्यांकन के हिस्से के रूप में किया जाएगा। 
+
+
+[भाग Ware 4] भारत का राजपत्र : असाधारण 7 
+
+
+(d) क्‍्लस्टर-आधारित एफईआरए सुविधा के मामले में, एफईआरए सुविधाओं के प्री-कमिशर्निंग के समय 
+
+
+पीएनजीआरबी द्वारा मान्यता प्राप्त टीपीआईए द्वारा ऑडिट किया जाएगा। 
+
+
+अनुप्रयुक्त कोड, मानक और नियम: 
+
+
+आईएस 505: स्थिर स्वचालित स्प्रिंकलर अग्निशमन प्रणाली की रूपरेखा और स्थापना--आचार संहिता 
+
+
+आईएस 75847 : अग्निशमन के लिए स्व-प्रेरण, वायु-मिश्रित एवं अवायु-मिश्रित जेट तथा स्प्रे/फॉग नोज़ल युक्त 
+दीर्घ-परास जल-फोम मॉनिटर -- विशिष्टियां। 
+
+
+एनएफपीए- 77 : निम्न, मध्यम और उच्च विस्तार फोम के लिए मानक 
+
+एनएफपीए - 43 : स्प्रिंकलर सिस्टम स्थापित करने का मानक 
+
+एनएफपीए - 44 : स्टैंडपाइप और होज़ सिस्टम्स की स्थापना के लिए मानक 
+
+एनएफपीए - 75: अग्नि सुरक्षा के लिए जल छिड़काव स्थिर प्रणालियों के लिए मानक 
+
+एनएफपीए - 20 : अग्नि सुरक्षा के लिए स्थिर पंपों की स्थापना हेतु मानक 
+
+एनएफपीए 22 : निजी अग्नि संरक्षण हेतु जल भंडारण टंकियों संबंधी मानक। 
+
+एनएफपीए - 24 : निजी अग्निशमन सेवा मुख्य और उनके सहायक उपकरणों की स्थापना के लिए मानक 
+
+
+अंजन कुमार मिश्रा, सचिव 
+[वविज्ञापन-॥॥/4/असा./285/2026-27] 
+
+
+पाद टिप्पणी: 
+
+
+l. 
+
+
+मूल विनियम, पेट्रोलियम और प्राकृतिक गैस विनियामक बोर्ड (पेट्रोलियम स्थापनाओं के लिए सुरक्षा मानक 
+सहित तकनीकी मानक और विशिष्टियां) नियम, 2020, भारत के राजपत्र में दिनांक नवम्बर, 2020 को फा. 
+सं. पीएनजीआरबी/तकनीकी/7-टी4एस पीआई(4)/2020 के माध्यम से अधिसूचित किए गए थे। 
+
+पेट्रोलियम और प्राकृतिक गैस विनियामक बोर्ड (पेट्रोलियम स्थापनाओं के लिए सुरक्षा मानक सहित तकनीकी 
+मानक और विशिष्टियां) संशोधित विनियम, 2023, को भारत के राजपत्र में दिनांक 29 मार्च 2023 
+फा.सं.पीएनजीआरबी/तकनीकी/7-टी4एसपीआई/(4)/2022 (Ht-46) के माध्यम से अधिसूचित किए गए थे | 
+पेट्रोलियम और प्राकृतिक गैस विनियामक बोर्ड (पेट्रोलियम स्थापनाओं के लिए सुरक्षा मानक सहित तकनीकी 
+मानक और विशिष्टियां) विनियम, 2020) संशोधित विनियम, 2025, भारत के राजपत्र में दिनांक 23 जुलाई 
+2025 को पीएनजीआरबी/तकनीकी/8-जुर्माना-टी4एसआरपंजीकरण./(9)/2024(ई-5488)/ के माध्यम से 
+अधिसूचित किए गए थे। 
+
+
+PETROLEUM AND NATURAL GAS REGULATORY BOARD 
+NOTIFICATION 
+New Delhi, the l7th August, 2026 
+F. No. PNGRB/Tech/7-T4SPI/(2)/2023 (E-4292) .— In exercise of the powers conferred by section 6 of 
+
+
+the Petroleum and Natural Gas Regulatory Board Act, 2006 (9 of 2006), the Petroleum and Natural Gas Regulatory 
+Board hereby makes the following Regulations to further amend the Petroleum and Natural Gas Regulatory Board 
+(Technical Standards and Specifications including Safety Standards for Petroleum Installations) Regulations, 2020, 
+namely: - 
+
+
+8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SECc.4] 
+
+
+l. Short title and commencement: - 
+
+
+l) These regulations may be called the Petroleum and Natural Gas Regulatory Board (Technical Standards and 
+Specifications including Safety Standards for Petroleum Installations) Amendment Regulations, 2026. 
+
+
+2) They shall come into force on the date of their publication in the Official Gazette. 
+
+
+2. In the Petroleum and Natural Gas Regulatory Board (Technical Standards and Specifications 
+including Safety Standards for Petroleum Installations) Regulations, 2020, - 
+
+
+(a) In Regulation 6, in serial no. (a)after the words “.... Part - 77 and before the words “which covers....”, the 
+word “and Part - L” shall be inserted. 
+
+
+(0) In Schedule-|, after PART-K (Lube manufacturing and filling plants), the following shall be inserted, 
+namely: - 
+
+
+Part—L 
+(Fire & Emergency Response Augmentation -FERA) 
+
+4.0 Fire & Emergency Response Augmentation Facilities 
+
+4.] FERA Facilities: Philosophy: 
+
+Level - III is an emergency or an incident with off-site impact which could be catastrophic and is likely to affect the 
+population, property, and environment inside and outside the installation. Hence, to prevent the progression of an 
+incident to a Level — III emergency, Fire & Emergency Response Augmentation including expert/specialized 
+firefighters are required for ‘Extreme risk’ Locations. Augmentation of Fire Facilities/Emergency Response is needed 
+to initiate response to any emergency immediately but not later than 30 minutes from the time of occurrence of 
+fire/leakage/spill and control / extinguish the fire within 65 minutes from initiation of firefighting to prevent a 
+catastrophic impact. The requirements of Part E (Fire Protection and Prevention Facilities) and any other provisions in 
+
+
+these regulations relating to fire water, water sprinkler system, foam systems, emergency response, mutual aid and 
+firefighting manpower deployment etc., shall be supplemented by this Part for identified Extreme Risk Locations. 
+
+
+4.2 Applicability: 
+This part will be applicable to Priority locations (both existing and upcoming) falling under the category of ‘Extreme 
+Risk’ locations as under: 
+(i) Petroleum installation having total storage in excess of !50 TKL of Class A and Class B petroleum products 
+(with Class C considered where co-existing). 
+
+
+(ii) Crude oil storage terminals, coastal crude receipt storage terminals and similar crude handling terminals of 
+strategic significance having total storage in excess of 50 TKL. 
+
+
+(iii) Cluster of petroleum installations (adjacent / nearby location i.e. located within l0 kms radius) having 
+cumulative storage in excess of I50 TKL of Class A and Class B petroleum products (with Class C considered 
+where co-existing). 
+
+
+Note: Timeline for Implementation of FERA facilities shall be as under: 
+
+
+S. No Storage Capacity in TKL Implementation Schedule (from the date of publication in 
+official gazette) 
+| 50-200 within 5 years 
+2 200-300 within 3 years 
+3 300 and above Within 2 years 
+
+
+4.3, Objective of FERA: 
+
+
+(i) To ensure state-of-the-art Firefighting/Emergency handling facilities and operational readiness for petroleum 
+installations with high storage volumes falling under the Priority Location category. 
+
+
+(ii) Each Priority Location shall establish and maintain FERA facilities with the intent to control major incidents 
+in its early stages and to prevent escalation into a Level-III emergency. Response to any fire shall commence 
+immediately but not later than 30 minutes from the time of occurrence of fire/leakage/spill and Fire should be 
+controlled / extinguished within 65 minutes from initiation of firefighting. 
+
+
+(iii) To deploy expert and specialized firefighting personnel at Priority Locations for rapid and effective 
+emergency response. 
+
+
+[भागवता--खण्ड 4] भारत का राजपत्र : असाधारण 9 
+
+
+(iv) To establish a coordinated approach for implementation and mutual support under FERA across clusters of 
+installations. 
+
+
+4.4 FERA Facilities: Design, Infrastructure, Equipment and Manpower: 
+4.4.l Design. 
+
+
+The basic design for fire protection system shall be as per Part E of these Regulations and applicable NFPA standards, 
+whichever is higher, including the following: 
+
+
+(i) Each Priority Location identified under clause l4.2 shall establish and maintain FERA facilities at a Host 
+Installation preferably with the highest diameter tanks, within the Cluster. 
+
+
+(ii) The fire water, foam and other Firefighting and rescue equipment etc. shall be shared between installations in a 
+cluster, to the maximum 50% of available fire water and foam shall be shared with other installations in case 
+of emergency within the cluster. 
+
+
+(iii) The Integrated Emergency Control Centre (IECC) of FERA facilities shall be preferably established at the 
+available Emergency Control Centre (ECC) of the Host installation within the clusters. Integrated ERDMP 
+document shall be prepared in case of continuous cluster. 
+
+
+(iv) In case the provisions under sub-clauses (i), (ii) and (iii) above are not feasible due to geographical constraints 
+etc., each isolated locations should develop its own facilities to combat major incident. Such locations shall 
+initiate response immediately but not later than 30 minutes from the time of occurrence of fire/leakage/spill 
+and Fire should be controlled / extinguished within 65 minutes from initiation of firefighting and shall have 
+20% more water and foam storage/pumping rate, in addition to the Basic design mentioned above. 
+
+
+(v) Foam compound at the Priority locations should be of similar type/specifications within a cluster. 
+
+
+(vi) After any emergency, fire water, foam & other resources shall be replenished to at least 50% (of statutory 
+minimum requirement) within 2 hours from the initiation of firefighting and fully replenished (l00% of 
+statutory minimum requirement) within 24 hours of all clear siren. 
+
+
+4.4.2 Infrastructure & Equipment at the Host Installation. 
+
+
+(i) All the requirements of the equipment and supporting infrastructure including Fire and Foam Protection 
+System, Fire Water System, Fire Water & foam Storage, Fire water pumps, etc., shall be as per Part E of these 
+Regulations or latest NFPA standards, whichever is higher. Augmentation of fire water & foam systems shall 
+be based on risk assessment for cumulative storage and subsequent calculation of required water/foam, taking 
+into account available firefighting facilities including any bottlenecks, to ensure the required water/foam 
+application including storage, pumping and delivery rate/pressure. 
+
+
+(ii) Existing fire water & foam network shall be modified, if required, to ensure adequate flow rate and sharing of 
+water/foam within the cluster. Modifications should include interconnection of water/foam storage, pump 
+suction pipelines, pump discharge pipelines, etc. 
+
+
+(iii) If any augmentation of pumping is required, it shall preferably be done location having highest pumping 
+capacity, and discharge pipeline shall be extended to each installation within the cluster, preferably near to the 
+tank with the highest diameter. 
+
+
+(iv) Adequate number of equipment such as fixed & mobile HVLRs (trolly mounted) along with hoses of adequate 
+diameter (supporting the required flow rate), fire proximity suits, SCBA sets, PPEs, etc. shall be provided at 
+desired location. 
+
+
+(v) The Integrated Emergency Control Centre (IECC) of FERA facilities shall be equipped with all required 
+documents, communication facilities (including hotline service), Alarm Systems, CCTV monitoring, Drone etc. 
+for all installations within the cluster, as mandated for Emergency control centre (ECC) of each installation. 
+
+
+(vi) Dedicated FERA station shall be designed to house manpower as well as required equipment for 
+firefighting/emergency handling preferably near to the IECC and at location from where the response time to 
+all assisted installations is optimum. 
+
+
+(vii) As per maximum firewater flow/range requirement for the largest dia. tank, either one (of max. requirement) 
+high-capacity or two (part of max. requirement) medium-capacity, variable mobile HVLR foam monitor(s) 
+shall be provided. 
+
+
+(vill) Design of HVLR for capacity up to !2500 LPM (~3300 GPM) shall be as per IS:!58ll. HVLR of higher 
+capacity (more than !2500 LPM) shall conform to material specifications as per IS: I58ll. Other 
+specifications of HVLR based on flow, range etc. shall be as finalized by the Technical Committee for T4S for 
+
+
+0 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEC.4] 
+
+
+Petroleum Installations Regulations, 2020, until BIS standard for the same is notified. 
+
+
+(ix) HVLR shall be listed or approved by national or international certification such as BIS, UL or FM or 
+equivalent recognised HVLR certifying agencies. 
+
+
+4.4.3. Manpower/Trained Personnel Requirements. 
+
+
+Specialised and expert firefighting crew shall be deployed in FERA Station to ensure quick and effective response in 
+case of any fire or emergency. 
+
+
+(i) The FERA Facilities shall be maintained by a dedicated firefighting crew deployed on a round-the-clock basis, 
+with four (4) personnel per shift including one shift officer. 
+
+
+(ii) One officer in general shift with expertise in overseeing the entire firefighting operations, safety and providing 
+training. 
+
+
+(iii) The qualification criteria for the FERA firefighting crew shall be as follows: 
+
+
+Minimum Experience of 
+Sr. Designation Duty/Shift Position | Qualification 80222 
+Hazardous industry 
+No. 
+FERA General Shift BE/B Tech in Fire Engineering or 07 years 
+Incharge Fire & Safety Engineering 
+Incharge 
+FERA Graduate with Station officer 
+2 Officer Shift Incharge certification from recognized Institute 05 years 
+Graduate with Sub officer 
+3 FERA Crew Shift Crew certification from a recognized 02 years 
+Institute 
+
+
+(iv) Each team must be competent in HVLR operation, fire pump operation, foam deployment, SCBA use, and 
+emergency coordination, etc. 
+
+
+(v) The manpower deployed shall maintain all the equipment besides carrying out routine checks/PMS of the 
+equipment, participate in mock drills etc. including providing training to the personnel of entity in firefighting. 
+
+
+(vi) FERA firefighting crew should be trained by competent agency/ person as decided by Governing committee 
+once in a year. 
+
+
+(vii) FERA Crew will regularly impart training to officials/security personnel, contractor manpower with respect to 
+hazards and emergency handling. 
+
+
+4.5 FERA Facilities: Ownership and Operating Models: 
+(a) FERA facilities shall be provided as per following: 
+
+
+(i) In case of single isolated installation, the concerned entity shall set up FERA facilities and provide 
+required manpower on its own or through outsourcing to professional firefighting agency(s) through 
+authorized contracts. 
+
+
+(ii) In case of cluster of locations, all concerned entities shall jointly setup FERA facilities on cost sharing 
+basis in proportion to their total tank storage capacity and provide required manpower on their own or 
+through outsourcing to professional firefighting agency(s) through authorized contracts. 
+
+
+(b) In case of outsourcing, vendor selection should be based on QCBS tendering (having Technical Criteria 
+weightage-70%). The tender/contract terms and conditions shall include stringent penalty provisions for the 
+vendor in case of any non-compliance of statutory rules/regulations or deficiency in performance during 
+mock drill or actual emergency. 
+
+
+(c) A governing committee shall be formed constituting of members of all installations within the cluster who 
+shall define/decide: 
+
+
+(i) ownership, location, custody and maintenance responsibility for the FERA Facilities assets; 
+
+
+(ii) activation protocol for mobilisation of the FERA Facilities to any installation within the Cluster, including 
+communication and authorisation steps; 
+
+
+[भाग Il—ave 4] भारत का राजपत्र : असाधारण ] 
+
+
+(iii) command and control during an incident, 
+
+
+(iv) arrangements for coordination with mutual aid members, local / district crisis groups and off-site 
+emergency response agencies. 
+
+
+(v) cost sharing, funding and reimbursement arrangements for capital expenditure and operating 
+expenditure; 
+
+
+(vi) liability, indemnification and damage to / replenishment of FERA Facilities resources used in an 
+emergency; and 
+
+
+(vii) procedures for readiness review, maintenance, drills, competency assurance, reporting and audit. 
+(viii) Any other processes or SOPs as deemed fit by the governing committee, etc. 
+
+
+(ix) Allowing any other oil and gas installation to use FERA facilities on cost sharing basis. 
+
+
+4.6 Audits and Compliances: 
+
+
+(a) The FERA In-charge shall carry out a monthly internal audit of the FERA facilities and submit the audit report 
+
+
+to the Governing Committee for review and necessary action. 
+
+
+(b) The Governing Committee shall conduct an annual audit of the FERA system to ensure compliance with 
+
+
+applicable statutory and regulatory requirements. 
+
+
+(c) T4S and ERDMP audits for Petroleum Installations shall be carried out every three (3) years and five (5) 
+
+
+years respectively. Provided that where the auditee installation forms part of a cluster housing FERA 
+facilities, the audit and mock drill of such FERA facilities shall be undertaken as part of the cluster-wide 
+assessment. 
+
+
+(d) In case of a cluster-based FERA facility, an audit shall be conducted by a PNGRB- empaneled TPIA at the 
+
+
+time of pre-commissioning of the FERA facilities. 
+
+
+Applicable Codes, Standards and Regulations: 
+
+
+e IS I505: Design And Installation of Fixed Automatic Sprinkler Fire Extinguishing Systems — Code of 
+Practice 
+e IS I58l]: Long-Range Water-cum-Foam Monitor with Self-Inducting, Aspirating and Non-Aspirating Jet and 
+Spray/Fog Nozzle for Fire Fighting -Specification 
+e NFPA - |: Standard for Low-, Medium-, and High-Expansion Foam 
+e NFPA - |3: Standard for the Installation of Sprinkler Systems 
+e NFPA - /4: Standard for the Installation of Standpipe and Hose Systems 
+e NFPA - |5: Standard for Water Spray Fixed Systems for Fire Protection 
+e NFPA - 20: Standard for the Installation of Stationary Pumps for Fire Protection 
+@ NFPA - 22: Standard for Water Tanks for Private Fire Protection 
+e NFPA - 24: Standard for the Installation of Private Fire Service Mains and Their Appurtenances 
+ANJAN KUMAR MISHRA, Secy. 
+[ADVT.-III/4/Exty./285/2026-27] 
+Foot Note: 
+l. The principal regulations, Petroleum and Natural Gas Regulatory Board (Technical Standards and 
+Specifications including Safety Standards for Petroleum Installations) Regulations, 2020, were notified in 
+the official Gazette vide F. No. PNGRB/Tech/7- T4SPI ()/2020, dated ‘ November 2020 
+2. The Petroleum and Natural Gas Regulatory Board (Technical Standards and Specifications including Safety 
+Standards for Petroleum Installations) Amendment Regulations, 2023, were notified in the official Gazette 
+vide F. No. PNGRB/Tech/7- T4SPI/()/2022 (P-46), dated 29" March 2023. 
+3. The Petroleum and Natural Gas Regulatory Board (Technical Standards and Specifications including Safety 
+
+
+Standards for Petroleum Installations) Regulations, 2020) Amendment Regulations, 2025, were notifies in 
+the official Gazette vide PNGRB/ Tech/I8-penalty-T4S Reg./(9)/2024(E-5488)/ dated 237 July 2025 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-0064 
+and Published by the Controller of Publications, Delhi-]l0054. ssw« हि के 
+
+
