@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-04-30.272204",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-04-30",
+      "ugid": "272204",
+      "title": "Extrordinary Gazette of India, 2026-04-30",
+      "ministry": "Pharmacy Council of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "As required under section 15 of the Pharmacy Act, 1948, the declarations under section 12 made by resolutions passed at the following meeting of the Central Counci",
+      "gazette_id": "CG-DL-E-02052026-272204",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272204.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-30.272204/272204.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-04-30.272204",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-04-30/272204.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-30.272204/272204_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-04-30.272202",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/w/2026-01-24/269552.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-01-24.269552/269552_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-01-23.269616",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-01-23",
-      "ugid": "269616",
-      "title": "Extrordinary Gazette of India, 2026-01-23",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Western Railway",
-      "subject": "Publication of notification of extraordinary gazette under Part II section 3 Sub Section (II)     Notification under clause 20 E of the Railway Act 1989 (24 of 1989) for Land to be acquired in    connection with Special Railway Project, namely New Broadgauge line Intersection 5 (NOS)     Between Geratpur Sanand and Botad Ahmedabad (16.51 KM) in the State of Gujarat.",
-      "gazette_id": "CG-MH-E-28012026-269616",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269616.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-01-23.269616/269616.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-01-23.269616",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-01-23/269616.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-01-23.269616/269616_djvu.txt"
     }
   ],
   "count": 2500,

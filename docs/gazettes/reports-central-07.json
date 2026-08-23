@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-05-21.254318",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-21",
+      "ugid": "254318",
+      "title": "Extraordinary Gazette of India, 2024-05-21",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-24052024-254318",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254318.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-21.254318/254318.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-21.254318",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-21/254318.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-21.254318/254318_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-05-21.254315",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-01-30/251650.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-30.251650/251650_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-01-30.251649",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-01-30",
-      "ugid": "251649",
-      "title": "Extraordinary Gazette of India, 2024-01-30",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Forest and Wildlife Division",
-      "office": "",
-      "subject": "Publication of Recruitment Rules for the post of LDC",
-      "gazette_id": "CG-DL-E-30012024-251649",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251649.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-30.251649/251649.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-01-30.251649",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-01-30/251649.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-30.251649/251649_djvu.txt"
     }
   ],
   "count": 2500,

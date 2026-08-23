@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-01-15.260265",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-15",
+      "ugid": "260265",
+      "title": "Extraordinary Gazette of India, 2025-01-15",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-16012025-260265",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260265.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-15.260265/260265.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-15.260265",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-15/260265.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-15.260265/260265_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-01-15.260264",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-09-30/257610.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-30.257610/257610_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-09-30.257608",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-09-30",
-      "ugid": "257608",
-      "title": "Extraordinary Gazette of India, 2024-09-30",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "",
-      "subject": "SARDEGABHALUMUDA",
-      "gazette_id": "CG-CG-E-30092024-257608",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257608.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-09-30.257608/257608.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-09-30.257608",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-09-30/257608.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-09-30.257608/257608_djvu.txt"
     }
   ],
   "count": 2500,

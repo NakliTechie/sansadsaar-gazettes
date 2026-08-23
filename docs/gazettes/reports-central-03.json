@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-09-09.266043",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-09",
+      "ugid": "266043",
+      "title": "Extrordinary Gazette of India, 2025-09-09",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Central Railway",
+      "subject": "Publication of Gazette Notification for declaration of Competent Authority for Land Acquisition (CALA) in District of Latehar (Jharkhand) for New Railway Line between Kumandih  Barwadih (18.5km) as a Special Railway Project under Dhanbad Division of East Central railway",
+      "gazette_id": "CG-BR-E-10092025-266043",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266043.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-09.266043/266043.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-09.266043",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-09/266043.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-09.266043/266043_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-09-09.266042",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-05-09/263020.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-09.263020/263020_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-09.263019",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-09",
-      "ugid": "263019",
-      "title": "Extraordinary Gazette of India, 2025-05-09",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-10052025-263019",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263019.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-09.263019/263019.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-09.263019",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-09/263019.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-09.263019/263019_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-08-22.275676",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-22",
+      "ugid": "275676",
+      "title": "Extrordinary Gazette of India, 2026-08-22",
+      "ministry": "Ministry of Mines",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Commencement of MMDR Amendment Act, 2026",
+      "gazette_id": "CG-DL-E-22082026-275676",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275676.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-22.275676/275676.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-22.275676",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-22/275676.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2026-08-22.275675",
       "category": "weekly",
       "type_letter": "w",
@@ -58626,30 +58649,6 @@
       "mirror_path": "pdf/central/e/2026-04-30/272208.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-30.272208/272208_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-04-30.272204",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-04-30",
-      "ugid": "272204",
-      "title": "Extrordinary Gazette of India, 2026-04-30",
-      "ministry": "Pharmacy Council of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "As required under section 15 of the Pharmacy Act, 1948, the declarations under section 12 made by resolutions passed at the following meeting of the Central Counci",
-      "gazette_id": "CG-DL-E-02052026-272204",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272204.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-04-30.272204/272204.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-04-30.272204",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-04-30/272204.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-04-30.272204/272204_djvu.txt"
     }
   ],
   "count": 2500,

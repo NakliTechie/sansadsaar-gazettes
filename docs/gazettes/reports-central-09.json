@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-09-22.248964",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-09-22",
+      "ugid": "248964",
+      "title": "Extraordinary Gazette of India, 2023-09-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a NHIDCL",
+      "gazette_id": "CG-DL-E-26092023-248964",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/248964.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-09-22.248964/248964.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-09-22.248964",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-09-22/248964.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-09-22.248964/248964_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-09-22.248963",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57954,29 +57978,6 @@
       "ia_identifier": "in.gazette.central.e.2023-06-05.246288",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-06-05/246288.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-05.246287",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-05",
-      "ugid": "246287",
-      "title": "Extraordinary Gazette of India, 2023-06-05",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Siju and Paradeep coaching yard Flyover Line (7.00 Kms) of East Coast Railway in the State of Odisha.",
-      "gazette_id": "CG-OR-E-05062023-246287",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246287.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-05.246287/246287.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-05.246287",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-05/246287.pdf",
       "topics": []
     }
   ],
