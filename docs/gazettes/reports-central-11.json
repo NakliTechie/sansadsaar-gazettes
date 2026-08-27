@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-02-03.243437",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-03",
+      "ugid": "243437",
+      "title": "Extraordinary Gazette of India, 2023-02-03",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a morth",
+      "gazette_id": "CG-DL-E-04022023-243437",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243437.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-03.243437/243437.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-03.243437",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-03/243437.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-02-03.243436",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57832,29 +57855,6 @@
       "ia_identifier": "in.gazette.central.e.2022-10-18.239727",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-10-18/239727.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-18.239726",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-18",
-      "ugid": "239726",
-      "title": "Extraordinary Gazette of India, 2022-10-18",
-      "ministry": "Central  Electricity  Regulatory Commission",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Clause 5 6 vi of Ministry of Power  MOP  Notification on  Guidelines for Determination of Tariff by Bidding Process for Procurement of Power by Distribution Licensees  dated 19 01 2005 as amended from time to time, MOP communication to the Central Electricity Regulatory Commission",
-      "gazette_id": "CG-DL-E-18102022-239726",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239726.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-18.239726/239726.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-18.239726",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-18/239726.pdf",
       "topics": []
     }
   ],

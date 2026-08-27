@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-05-21.254320",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-21",
+      "ugid": "254320",
+      "title": "Extraordinary Gazette of India, 2024-05-21",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-24052024-254320",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254320.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-21.254320/254320.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-21.254320",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-21/254320.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-21.254320/254320_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-05-21.254318",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-01-30/251651.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-30.251651/251651_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-01-30.251650",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-01-30",
-      "ugid": "251650",
-      "title": "Extraordinary Gazette of India, 2024-01-30",
-      "ministry": "Ministry of Law  and Justice",
-      "department": "Legislative Department",
-      "office": "",
-      "subject": "Publication of Notifications under sections 71 of the Representation of the People Act 1951  on the 30th January 2024 regarding nomination of member to the Council of States Rajya Sabha by the President",
-      "gazette_id": "CG-DL-E-30012024-251650",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251650.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-01-30.251650/251650.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-01-30.251650",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-01-30/251650.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-01-30.251650/251650_djvu.txt"
     }
   ],
   "count": 2500,
