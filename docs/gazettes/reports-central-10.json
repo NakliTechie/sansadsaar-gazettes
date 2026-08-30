@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2023-06-10.246440",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-06-10",
+      "ugid": "246440",
+      "title": "Weekly Gazette of India, 2023-06-10",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-10062023-246440",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246440.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-06-10.246440/246440.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-06-10.246440",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-06-10/246440.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-06-10.246438",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-06-10",
+      "ugid": "246438",
+      "title": "Weekly Gazette of India, 2023-06-10",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-10062023-246438",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246438.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-06-10.246438/246438.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-06-10.246438",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-06-10/246438.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-09.246454",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-09",
+      "ugid": "246454",
+      "title": "Extraordinary Gazette of India, 2023-06-09",
+      "ministry": "Ministry of Railways",
+      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
+      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
+      "subject": "Publication of Notification for Declaration of acquisition under Section 20E for land acquisition for 06 villages Bavi, Uttami ka, Shekapur, Sanja, Upla Ma and Shingoli of Taluka Osmanabad in connection with Solapur Osmanabad via Tuljapur new Railway line",
+      "gazette_id": "CG-MH-E-10062023-246454",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246454.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-09.246454/246454.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-09.246454",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-09/246454.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-09.246452",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-09",
+      "ugid": "246452",
+      "title": "Extraordinary Gazette of India, 2023-06-09",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of notification under section 37A of Railway Act 2008 Acquisition of Land for Doubling of track between Pendekallu Gooty of Karnool and Ananthapuram District of state of Andhra Pradesh",
+      "gazette_id": "CG-DL-E-10062023-246452",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246452.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-09.246452/246452.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-09.246452",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-09/246452.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-09.246451",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57774,98 +57866,6 @@
       "ia_identifier": "in.gazette.central.e.2023-02-14.243593",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-02-14/243593.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243592",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243592",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D morth",
-      "gazette_id": "CG-DL-E-14022023-243592",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243592.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243592/243592.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243592",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243592.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243591",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243591",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-14022023-243591",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243591.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243591/243591.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243591",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243591.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243590",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243590",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "notification regarding Nomination of Shri R Lakshmanan, Joint Secretary, M/o Por1s, Shipping and Waterways as a part time member of IWAI Board",
-      "gazette_id": "CG-DL-E-14022023-243590",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243590.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243590/243590.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243590",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243590.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243589",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243589",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
-      "department": "Department of Personnel and Training",
-      "office": "Department of Personnel and Training",
-      "subject": "In partial Modification of Notification GSR 36E dated 21 January 2022",
-      "gazette_id": "CG-DL-E-14022023-243589",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243589.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243589/243589.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243589",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243589.pdf",
       "topics": []
     }
   ],

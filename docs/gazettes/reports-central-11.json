@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-02-14.243592",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-14",
+      "ugid": "243592",
+      "title": "Extraordinary Gazette of India, 2023-02-14",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D morth",
+      "gazette_id": "CG-DL-E-14022023-243592",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243592.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243592/243592.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-14.243592",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-14/243592.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-14.243591",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-14",
+      "ugid": "243591",
+      "title": "Extraordinary Gazette of India, 2023-02-14",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-14022023-243591",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243591.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243591/243591.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-14.243591",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-14/243591.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-14.243590",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-14",
+      "ugid": "243590",
+      "title": "Extraordinary Gazette of India, 2023-02-14",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "notification regarding Nomination of Shri R Lakshmanan, Joint Secretary, M/o Por1s, Shipping and Waterways as a part time member of IWAI Board",
+      "gazette_id": "CG-DL-E-14022023-243590",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243590.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243590/243590.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-14.243590",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-14/243590.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-14.243589",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-14",
+      "ugid": "243589",
+      "title": "Extraordinary Gazette of India, 2023-02-14",
+      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
+      "department": "Department of Personnel and Training",
+      "office": "Department of Personnel and Training",
+      "subject": "In partial Modification of Notification GSR 36E dated 21 January 2022",
+      "gazette_id": "CG-DL-E-14022023-243589",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243589.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243589/243589.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-14.243589",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-14/243589.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-02-14.243588",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57760,99 +57852,6 @@
       "ia_identifier": "in.gazette.central.e.2022-10-27.239905",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-10-27/239905.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-27.239904",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-27",
-      "ugid": "239904",
-      "title": "Extraordinary Gazette of India, 2022-10-27",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-27102022-239904",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239904.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-27.239904/239904.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-27.239904",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-27/239904.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-27.239903",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-27",
-      "ugid": "239903",
-      "title": "Extraordinary Gazette of India, 2022-10-27",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-27102022-239903",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239903.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-27.239903/239903.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-27.239903",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-27/239903.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-10-27.239903/239903_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-27.239900",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-27",
-      "ugid": "239900",
-      "title": "Extraordinary Gazette of India, 2022-10-27",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-27102022-239900",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239900.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-27.239900/239900.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-27.239900",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-27/239900.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-27.239899",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-27",
-      "ugid": "239899",
-      "title": "Extraordinary Gazette of India, 2022-10-27",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-27102022-239899",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239899.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-27.239899/239899.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-27.239899",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-27/239899.pdf",
       "topics": []
     }
   ],
