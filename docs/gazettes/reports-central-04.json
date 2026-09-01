@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-05-16.263182",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-16",
+      "ugid": "263182",
+      "title": "Extraordinary Gazette of India, 2025-05-16",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Forest Conservation Division",
+      "office": "",
+      "subject": "Notification of appointment of Shri Sanjay Kumar Jha Member of Parliament Rajya Sabha as Member of the National Tiger Conservation Authority",
+      "gazette_id": "CG-DL-E-17052025-263182",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263182.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-16.263182/263182.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-16.263182",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-16/263182.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-16.263182/263182_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-05-16.263177",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-16",
+      "ugid": "263177",
+      "title": "Extraordinary Gazette of India, 2025-05-16",
+      "ministry": "Ministry of Railways",
+      "department": "Northern Railway",
+      "office": "",
+      "subject": "Publication of Notification in the official Gazette under Section 20 E of Railways Act 1989 Amendment 2008 for declaration of acquisition of 1 point 5187 Hectare of land for Special Railway Project namely Construction of Loop Line No 04 in Doubling of Amethi Pratapgarh Janghai Gaura Railway Station Project in District Pratapgarh in district Pratapgarh of State Uttar Pradesh",
+      "gazette_id": "CG-DL-E-17052025-263177",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263177.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-16.263177/263177.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-16.263177",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-16/263177.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-16.263177/263177_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-05-16.263166",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-16",
+      "ugid": "263166",
+      "title": "Extraordinary Gazette of India, 2025-05-16",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Environmental Impact Assessment (EIA) Division",
+      "office": "",
+      "subject": "Amendment in S.O. 4361 dated 19.09.2022 of SEIAA SEAC Odisha",
+      "gazette_id": "CG-DL-E-16052025-263166",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263166.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-16.263166/263166.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-16.263166",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-16/263166.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-16.263166/263166_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-05-16.263165",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-01-22/260427.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260427/260427_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-22.260425",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-22",
-      "ugid": "260425",
-      "title": "Extraordinary Gazette of India, 2025-01-22",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 54 in the state of Telengana in the District of Warangal",
-      "gazette_id": "CG-TL-E-24012025-260425",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260425.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260425/260425.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-22.260425",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-22/260425.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260425/260425_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-22.260424",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-22",
-      "ugid": "260424",
-      "title": "Extraordinary Gazette of India, 2025-01-22",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 69 in the state of Telengana in the District of Warangal",
-      "gazette_id": "CG-TL-E-24012025-260424",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260424.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260424/260424.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-22.260424",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-22/260424.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260424/260424_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-22.260423",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-22",
-      "ugid": "260423",
-      "title": "Extraordinary Gazette of India, 2025-01-22",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of Notification under section 37A of the Railways Act, 1989 Acquisition of land for Construction of Road Over Bridge in lieu of Level Crossing No 68 in the state of Telengana in the District of Mancherial",
-      "gazette_id": "CG-TL-E-24012025-260423",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260423.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260423/260423.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-22.260423",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-22/260423.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260423/260423_djvu.txt"
     }
   ],
   "count": 2500,

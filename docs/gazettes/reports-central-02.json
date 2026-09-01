@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-01.269752",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-01",
+      "ugid": "269752",
+      "title": "Extrordinary Gazette of India, 2026-02-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Customs Wing CBIC",
+      "subject": "Seeks to amend Notification No 26 2016 in view of New Baggage Rules 2026",
+      "gazette_id": "CG-DL-E-01022026-269752",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269752.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269752/269752.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-01.269752",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-01/269752.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269752/269752_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-01.269751",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-01",
+      "ugid": "269751",
+      "title": "Extrordinary Gazette of India, 2026-02-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Customs Wing CBIC",
+      "subject": "Seeks to rescind to Notification No 11 2004 dated 08 January 2004 and Notification No 27 2016 dated 31 March 2016 in view of New Baggage Rules 2026",
+      "gazette_id": "CG-DL-E-01022026-269751",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269751.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269751/269751.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-01.269751",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-01/269751.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269751/269751_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-01.269749",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-01",
+      "ugid": "269749",
+      "title": "Extrordinary Gazette of India, 2026-02-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Customs Wing CBIC",
+      "subject": "AEO Notificaiton",
+      "gazette_id": "CG-DL-E-01022026-269749",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269749.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269749/269749.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-01.269749",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-01/269749.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269749/269749_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-01.269748",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-09-17/266237.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-17.266237/266237_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-17.266236",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-17",
-      "ugid": "266236",
-      "title": "Extrordinary Gazette of India, 2025-09-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-18092025-266236",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266236.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-17.266236/266236.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-17.266236",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-17/266236.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-17.266236/266236_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-17.266235",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-17",
-      "ugid": "266235",
-      "title": "Extrordinary Gazette of India, 2025-09-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-19092025-266235",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266235.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-17.266235/266235.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-17.266235",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-17/266235.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-17.266235/266235_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-17.266234",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-17",
-      "ugid": "266234",
-      "title": "Extrordinary Gazette of India, 2025-09-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-19092025-266234",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266234.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-17.266234/266234.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-17.266234",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-17/266234.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-17.266234/266234_djvu.txt"
     }
   ],
   "count": 2500,

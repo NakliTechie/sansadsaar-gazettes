@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2026-08-31.275866",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-08-31",
+      "ugid": "275866",
+      "title": "Weekly Gazette of India, 2026-08-31",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-31082026-275866",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275866.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-08-31.275866/275866.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-08-31.275866",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-08-31/275866.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-08-29.275865",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-08-29",
+      "ugid": "275865",
+      "title": "Weekly Gazette of India, 2026-08-29",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-31082026-275865",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275865.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-08-29.275865/275865.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-08-29.275865",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-08-29/275865.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-08-29.275864",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-08-29",
+      "ugid": "275864",
+      "title": "Weekly Gazette of India, 2026-08-29",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-31082026-275864",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275864.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-08-29.275864/275864.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-08-29.275864",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-08-29/275864.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2026-08-29.275850",
       "category": "weekly",
       "type_letter": "w",
@@ -58583,78 +58652,6 @@
       "mirror_path": "pdf/central/e/2026-05-07/272357.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272357/272357_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-07.272356",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-07",
-      "ugid": "272356",
-      "title": "Extrordinary Gazette of India, 2026-05-07",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-08052026-272356",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272356.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272356/272356.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-07.272356",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-07/272356.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272356/272356_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-07.272354",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-07",
-      "ugid": "272354",
-      "title": "Extrordinary Gazette of India, 2026-05-07",
-      "ministry": "UNIQUE IDENTIFICATION AUTHORITY OF INDIA",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sub sections  1  and  2 of section 54 of the Aadhaar Targeted Delivery of Financial and Other Subsidies, Benefits and Services  Act",
-      "gazette_id": "CG-DL-E-08052026-272354",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272354.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272354/272354.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-07.272354",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-07/272354.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272354/272354_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-07.272352",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-07",
-      "ugid": "272352",
-      "title": "Extrordinary Gazette of India, 2026-05-07",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Western Railway Cantonment Bangalore",
-      "subject": "Publication of Notification in respect of Construction of ROB in lieu of LC No 10 in terms of clause 7A and 20F of the Railway Act 1989",
-      "gazette_id": "CG-KA-E-08052026-272352",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272352.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272352/272352.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-07.272352",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-07/272352.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272352/272352_djvu.txt"
     }
   ],
   "count": 2500,

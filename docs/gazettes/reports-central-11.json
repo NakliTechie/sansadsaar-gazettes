@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-02-14.243595",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-14",
+      "ugid": "243595",
+      "title": "Extraordinary Gazette of India, 2023-02-14",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendment in Export Policy of Biomass",
+      "gazette_id": "CG-DL-E-14022023-243595",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243595.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243595/243595.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-14.243595",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-14/243595.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-14.243594",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-14",
+      "ugid": "243594",
+      "title": "Extraordinary Gazette of India, 2023-02-14",
+      "ministry": "Securities and Exchange Board of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under section 30 read with section 11 and section 12 of the Securities and Exchange Board of India Act",
+      "gazette_id": "CG-MH-E-14022023-243594",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243594.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243594/243594.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-14.243594",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-14/243594.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-14.243593",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-14",
+      "ugid": "243593",
+      "title": "Extraordinary Gazette of India, 2023-02-14",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-14022023-243593",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243593.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243593/243593.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-14.243593",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-14/243593.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-02-14.243592",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57783,75 +57852,6 @@
       "ia_identifier": "in.gazette.central.e.2022-10-27.239908",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-10-27/239908.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-27.239907",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-27",
-      "ugid": "239907",
-      "title": "Extraordinary Gazette of India, 2022-10-27",
-      "ministry": "Ministry of Railways",
-      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
-      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
-      "subject": "Publication of E Gazette Notification for Nomination of Special Land Acquisition Officer1 UTPH Jalgaon as a competent authority for land acquisition for Pachora Jamner with extension upto Malkapur Narrow Gauge to Broad Gauge",
-      "gazette_id": "CG-MH-E-28102022-239907",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239907.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-27.239907/239907.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-27.239907",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-27/239907.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-27.239906",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-27",
-      "ugid": "239906",
-      "title": "Extraordinary Gazette of India, 2022-10-27",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-27102022-239906",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239906.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-27.239906/239906.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-27.239906",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-27/239906.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-10-27.239905",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-10-27",
-      "ugid": "239905",
-      "title": "Extraordinary Gazette of India, 2022-10-27",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-27102022-239905",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239905.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-27.239905/239905.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-10-27.239905",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-10-27/239905.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2023-06-10.246443",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-06-10",
+      "ugid": "246443",
+      "title": "Weekly Gazette of India, 2023-06-10",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-10062023-246443",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246443.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-06-10.246443/246443.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-06-10.246443",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-06-10/246443.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-06-10.246442",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-06-10",
+      "ugid": "246442",
+      "title": "Weekly Gazette of India, 2023-06-10",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-10062023-246442",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246442.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-06-10.246442/246442.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-06-10.246442",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-06-10/246442.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-06-10.246441",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-06-10",
+      "ugid": "246441",
+      "title": "Weekly Gazette of India, 2023-06-10",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-10062023-246441",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246441.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-06-10.246441/246441.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-06-10.246441",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-06-10/246441.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2023-06-10.246440",
       "category": "weekly",
       "type_letter": "w",
@@ -57798,75 +57867,6 @@
       "mirror_path": "pdf/central/e/2023-02-14/243596.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243596/243596_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243595",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243595",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Amendment in Export Policy of Biomass",
-      "gazette_id": "CG-DL-E-14022023-243595",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243595.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243595/243595.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243595",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243595.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243594",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243594",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Securities and Exchange Board of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred under section 30 read with section 11 and section 12 of the Securities and Exchange Board of India Act",
-      "gazette_id": "CG-MH-E-14022023-243594",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243594.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243594/243594.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243594",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243594.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243593",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243593",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of user fee notification",
-      "gazette_id": "CG-DL-E-14022023-243593",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243593.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243593/243593.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243593",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243593.pdf",
-      "topics": []
     }
   ],
   "count": 2500,

@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-05-30.254497",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-30",
+      "ugid": "254497",
+      "title": "Extraordinary Gazette of India, 2024-05-30",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule  1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Amendments",
+      "gazette_id": "CG-DL-E-01062024-254497",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254497.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-30.254497/254497.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-30.254497",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-30/254497.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-30.254497/254497_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-05-30.254489",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-30",
+      "ugid": "254489",
+      "title": "Extraordinary Gazette of India, 2024-05-30",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 37A of Railways Act, 1989 Acquisition of land for Proposed siding connectivity to Kodla Cement Plant of Ms Shree Cement Ltd, with extension from dead end of their existing Gati Shakti Multi Modal Cargo Terminal served by Sulehalli station on SC to Wadi section in the State of Karnataka in the District of Kalaburagi",
+      "gazette_id": "CG-TL-E-01062024-254489",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254489.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-30.254489/254489.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-30.254489",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-30/254489.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-30.254489/254489_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-05-30.254460",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-30",
+      "ugid": "254460",
+      "title": "Extraordinary Gazette of India, 2024-05-30",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of additional AROs for counting of Votes in General Election to Lok Sabha, 2024 from Uttar Pradesh State from 39 Pratapgarh and 70 Ghosi PCs",
+      "gazette_id": "CG-DL-E-30052024-254460",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254460.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-30.254460/254460.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-30.254460",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-30/254460.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-30.254460/254460_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-05-30.254459",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-05/251808.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251808/251808_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-05.251807",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-05",
-      "ugid": "251807",
-      "title": "Extraordinary Gazette of India, 2024-02-05",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Directorate General of Lighthouses and Lightships",
-      "office": "",
-      "subject": "Shri Sushil Kumar Singh Joint Secretary as an Ex officio Member of the Board of V O Chidambaranar Port Authority",
-      "gazette_id": "CG-UP-E-05022024-251807",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251807.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251807/251807.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-05.251807",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-05/251807.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251807/251807_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-05.251806",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-05",
-      "ugid": "251806",
-      "title": "Extraordinary Gazette of India, 2024-02-05",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Department of Health and Family Welfare",
-      "office": "",
-      "subject": "Whereas a draft of certain rules further to amend the Drugs Rules, 1945, was published, as required under sub section",
-      "gazette_id": "CG-DL-E-05022024-251806",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251806.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251806/251806.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-05.251806",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-05/251806.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251806/251806_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-05.251805",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-05",
-      "ugid": "251805",
-      "title": "Extraordinary Gazette of India, 2024-02-05",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Financial Services",
-      "office": "",
-      "subject": "Authorisation of Chairperson of DRAT Mumbai discharging the functions of Chairperson DRAT Delhi",
-      "gazette_id": "CG-DL-E-05022024-251805",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251805.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251805/251805.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-05.251805",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-05/251805.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251805/251805_djvu.txt"
     }
   ],
   "count": 2500,

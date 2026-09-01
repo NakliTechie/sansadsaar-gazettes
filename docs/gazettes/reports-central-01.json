@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-05-07.272356",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-07",
+      "ugid": "272356",
+      "title": "Extrordinary Gazette of India, 2026-05-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-08052026-272356",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272356.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272356/272356.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-07.272356",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-07/272356.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272356/272356_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-07.272354",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-07",
+      "ugid": "272354",
+      "title": "Extrordinary Gazette of India, 2026-05-07",
+      "ministry": "UNIQUE IDENTIFICATION AUTHORITY OF INDIA",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub sections  1  and  2 of section 54 of the Aadhaar Targeted Delivery of Financial and Other Subsidies, Benefits and Services  Act",
+      "gazette_id": "CG-DL-E-08052026-272354",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272354.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272354/272354.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-07.272354",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-07/272354.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272354/272354_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-07.272352",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-07",
+      "ugid": "272352",
+      "title": "Extrordinary Gazette of India, 2026-05-07",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Western Railway Cantonment Bangalore",
+      "subject": "Publication of Notification in respect of Construction of ROB in lieu of LC No 10 in terms of clause 7A and 20F of the Railway Act 1989",
+      "gazette_id": "CG-KA-E-08052026-272352",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272352.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272352/272352.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-07.272352",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-07/272352.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-07.272352/272352_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-07.272351",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59925,78 +59997,6 @@
       "mirror_path": "pdf/central/e/2026-02-01/269753.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269753/269753_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-01.269752",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-01",
-      "ugid": "269752",
-      "title": "Extrordinary Gazette of India, 2026-02-01",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Customs Wing CBIC",
-      "subject": "Seeks to amend Notification No 26 2016 in view of New Baggage Rules 2026",
-      "gazette_id": "CG-DL-E-01022026-269752",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269752.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269752/269752.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-01.269752",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-01/269752.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269752/269752_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-01.269751",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-01",
-      "ugid": "269751",
-      "title": "Extrordinary Gazette of India, 2026-02-01",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Customs Wing CBIC",
-      "subject": "Seeks to rescind to Notification No 11 2004 dated 08 January 2004 and Notification No 27 2016 dated 31 March 2016 in view of New Baggage Rules 2026",
-      "gazette_id": "CG-DL-E-01022026-269751",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269751.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269751/269751.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-01.269751",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-01/269751.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269751/269751_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-01.269749",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-01",
-      "ugid": "269749",
-      "title": "Extrordinary Gazette of India, 2026-02-01",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Customs Wing CBIC",
-      "subject": "AEO Notificaiton",
-      "gazette_id": "CG-DL-E-01022026-269749",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269749.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269749/269749.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-01.269749",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-01/269749.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-01.269749/269749_djvu.txt"
     }
   ],
   "count": 2500,

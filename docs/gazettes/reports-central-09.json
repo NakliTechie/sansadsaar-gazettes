@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2023-09-30.249436",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-09-30",
+      "ugid": "249436",
+      "title": "Weekly Gazette of India, 2023-09-30",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-14102023-249436",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249436.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-09-30.249436/249436.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-09-30.249436",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-09-30/249436.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2023-09-30.249436/249436_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-09-30.249195",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-09-30",
+      "ugid": "249195",
+      "title": "Weekly Gazette of India, 2023-09-30",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-06102023-249195",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249195.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-09-30.249195/249195.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-09-30.249195",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-09-30/249195.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2023-09-30.249195/249195_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-09-30.249191",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-09-30",
+      "ugid": "249191",
+      "title": "Weekly Gazette of India, 2023-09-30",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-06102023-249191",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249191.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-09-30.249191/249191.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-09-30.249191",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-09-30/249191.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2023-09-30.249191/249191_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2023-09-30.249190",
       "category": "weekly",
       "type_letter": "w",
@@ -58059,75 +58131,6 @@
       "ia_identifier": "in.gazette.central.w.2023-06-10.246560",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/w/2023-06-10/246560.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-06-10.246443",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-06-10",
-      "ugid": "246443",
-      "title": "Weekly Gazette of India, 2023-06-10",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-10062023-246443",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246443.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-06-10.246443/246443.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-06-10.246443",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-06-10/246443.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-06-10.246442",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-06-10",
-      "ugid": "246442",
-      "title": "Weekly Gazette of India, 2023-06-10",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-10062023-246442",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246442.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-06-10.246442/246442.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-06-10.246442",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-06-10/246442.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-06-10.246441",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-06-10",
-      "ugid": "246441",
-      "title": "Weekly Gazette of India, 2023-06-10",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-10062023-246441",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246441.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-06-10.246441/246441.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-06-10.246441",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-06-10/246441.pdf",
       "topics": []
     }
   ],
