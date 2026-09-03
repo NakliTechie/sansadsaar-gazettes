@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-05.251875",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-05",
+      "ugid": "251875",
+      "title": "Extraordinary Gazette of India, 2024-02-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-06022024-251875",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251875.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251875/251875.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-05.251875",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-05/251875.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251875/251875_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-05.251874",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58209,30 +58233,6 @@
       "mirror_path": "pdf/central/e/2023-10-04/249142.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-04.249142/249142_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-04.249141",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-04",
-      "ugid": "249141",
-      "title": "Extraordinary Gazette of India, 2023-10-04",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "",
-      "subject": "Publication of Notification regarding Rule 54 and Rule 55 of NDPS Rules, 1985",
-      "gazette_id": "CG-DL-E-04102023-249141",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249141.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-04.249141/249141.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-04.249141",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-04/249141.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-04.249141/249141_djvu.txt"
     }
   ],
   "count": 2500,

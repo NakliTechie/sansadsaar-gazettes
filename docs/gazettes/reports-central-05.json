@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-01-23.260490",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-23",
+      "ugid": "260490",
+      "title": "Extraordinary Gazette of India, 2025-01-23",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Central Railway",
+      "subject": "PublicationofGazetteNotificationfordeclarationofArbitratorforlandacquisitioninDistrictofBhojpurBihar forAraBypassLinetobeConnectedfromJagjivanHalttoexistingARASasaramlinethroughlinkcabinYconnectivityatAra306KM",
+      "gazette_id": "CG-BR-E-25012025-260490",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260490.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-23.260490/260490.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-23.260490",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-23/260490.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-23.260490/260490_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-01-23.260489",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-10-12/257813.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257813/257813_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-10.257995",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-10",
-      "ugid": "257995",
-      "title": "Extraordinary Gazette of India, 2024-10-10",
-      "ministry": "Baroda Rajasthan Kshetriya Gramin Bank",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by Section 30 read with sub section 1 of section 17 of the Regional Rural Banks Act",
-      "gazette_id": "CG-RJ-E-18102024-257995",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257995.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-10.257995/257995.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-10.257995",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-10/257995.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-10.257995/257995_djvu.txt"
     }
   ],
   "count": 2500,

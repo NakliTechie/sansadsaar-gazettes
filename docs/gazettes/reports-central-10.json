@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-13.246495",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-13",
+      "ugid": "246495",
+      "title": "Extraordinary Gazette of India, 2023-06-13",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Environmental Impact Assessment (EIA) Division",
+      "office": "",
+      "subject": "Reconstitution of SEAC, Gujarat",
+      "gazette_id": "CG-DL-E-13062023-246495",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246495.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-13.246495/246495.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-13.246495",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-13/246495.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-13.246494",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57847,29 +57870,6 @@
       "ia_identifier": "in.gazette.central.e.2023-02-15.243643",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-02-15/243643.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-15.243641",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-15",
-      "ugid": "243641",
-      "title": "Extraordinary Gazette of India, 2023-02-15",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for North East Natural Gas Pipeline Grid Project of M/s. Indradhanush Gas Grid Limited (IGGL).",
-      "gazette_id": "CG-DL-E-16022023-243641",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243641.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-15.243641/243641.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-15.243641",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-15/243641.pdf",
       "topics": []
     }
   ],

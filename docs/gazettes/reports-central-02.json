@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-03.269855",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-03",
+      "ugid": "269855",
+      "title": "Extrordinary Gazette of India, 2026-02-03",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of corrigendum under Section 3a",
+      "gazette_id": "CG-DL-E-05022026-269855",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269855.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-03.269855/269855.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-03.269855",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-03/269855.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-03.269855/269855_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-03.269848",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-09-22/266343.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-22.266343/266343_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-22.266303",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-22",
-      "ugid": "266303",
-      "title": "Extrordinary Gazette of India, 2025-09-22",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Contruction",
-      "subject": "Publication of E gazette Notification for Declaration of intention to acquire of land under Section 20(A) for Kherwadi Railway station development of circulating area of Goods shed in UP direction for holding passengers during Kumbh Mela traffic in 2027.",
-      "gazette_id": "CG-MH-E-22092025-266303",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266303.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-22.266303/266303.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-22.266303",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-22/266303.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-22.266303/266303_djvu.txt"
     }
   ],
   "count": 2500,

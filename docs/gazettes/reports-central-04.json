@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-05-20.263241",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-20",
+      "ugid": "263241",
+      "title": "Extraordinary Gazette of India, 2025-05-20",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Declaration of Competent Authority under Section 2 (a) of the Petroleum and Minerals Pipelines (Acquisition of Right of User in Land) Act, 1962 (Act No. 50 of 1962) for M/s GAIL (India) Limited in the State of Andhra Pradesh.",
+      "gazette_id": "CG-DL-E-20052025-263241",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263241.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-20.263241/263241.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-20.263241",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-20/263241.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-20.263241/263241_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-05-20.263240",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-01-23/260491.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-23.260491/260491_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-23.260490",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-23",
-      "ugid": "260490",
-      "title": "Extraordinary Gazette of India, 2025-01-23",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Central Railway",
-      "subject": "PublicationofGazetteNotificationfordeclarationofArbitratorforlandacquisitioninDistrictofBhojpurBihar forAraBypassLinetobeConnectedfromJagjivanHalttoexistingARASasaramlinethroughlinkcabinYconnectivityatAra306KM",
-      "gazette_id": "CG-BR-E-25012025-260490",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260490.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-23.260490/260490.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-23.260490",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-23/260490.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-23.260490/260490_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-05-08.272389",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-08",
+      "ugid": "272389",
+      "title": "Extrordinary Gazette of India, 2026-05-08",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification under Section 2(68) of CoSS, 2020",
+      "gazette_id": "CG-DL-E-09052026-272389",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272389.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272389/272389.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-08.272389",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-08/272389.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272389/272389_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-08.272388",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59972,30 +59996,6 @@
       "mirror_path": "pdf/central/e/2026-02-03/269960.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-03.269960/269960_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-03.269855",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-03",
-      "ugid": "269855",
-      "title": "Extrordinary Gazette of India, 2026-02-03",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of corrigendum under Section 3a",
-      "gazette_id": "CG-DL-E-05022026-269855",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269855.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-03.269855/269855.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-03.269855",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-03/269855.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-03.269855/269855_djvu.txt"
     }
   ],
   "count": 2500,

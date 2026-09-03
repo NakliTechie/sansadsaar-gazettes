@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-04.249141",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-04",
+      "ugid": "249141",
+      "title": "Extraordinary Gazette of India, 2023-10-04",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "Publication of Notification regarding Rule 54 and Rule 55 of NDPS Rules, 1985",
+      "gazette_id": "CG-DL-E-04102023-249141",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249141.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-04.249141/249141.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-04.249141",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-04/249141.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-04.249141/249141_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-04.249140",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58161,29 +58185,6 @@
       "ia_identifier": "in.gazette.central.e.2023-06-13.246497",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-06-13/246497.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-13.246495",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-13",
-      "ugid": "246495",
-      "title": "Extraordinary Gazette of India, 2023-06-13",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Environmental Impact Assessment (EIA) Division",
-      "office": "",
-      "subject": "Reconstitution of SEAC, Gujarat",
-      "gazette_id": "CG-DL-E-13062023-246495",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246495.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-13.246495/246495.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-13.246495",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-13/246495.pdf",
       "topics": []
     }
   ],

@@ -622,6 +622,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.w.2026-08-29.275932",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-08-29",
+      "ugid": "275932",
+      "title": "Weekly Gazette of India, 2026-08-29",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-02092026-275932",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275932.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-08-29.275932/275932.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-08-29.275932",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-08-29/275932.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-29.275902",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58576,30 +58599,6 @@
       "mirror_path": "pdf/central/e/2026-05-08/272390.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272390/272390_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272389",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272389",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification under Section 2(68) of CoSS, 2020",
-      "gazette_id": "CG-DL-E-09052026-272389",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272389.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272389/272389.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272389",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272389.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272389/272389_djvu.txt"
     }
   ],
   "count": 2500,

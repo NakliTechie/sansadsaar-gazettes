@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-10-10.257995",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-10-10",
+      "ugid": "257995",
+      "title": "Extraordinary Gazette of India, 2024-10-10",
+      "ministry": "Baroda Rajasthan Kshetriya Gramin Bank",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by Section 30 read with sub section 1 of section 17 of the Regional Rural Banks Act",
+      "gazette_id": "CG-RJ-E-18102024-257995",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257995.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-10.257995/257995.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-10-10.257995",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-10-10/257995.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-10.257995/257995_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-10-10.257994",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-06-03/254525.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-03.254525/254525_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-06-03.254524",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-06-03",
-      "ugid": "254524",
-      "title": "Extraordinary Gazette of India, 2024-06-03",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Amendment in  Appendix 6B of  FTP HBP2023 Regarding",
-      "gazette_id": "CG-DL-E-04062024-254524",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254524.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-03.254524/254524.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-06-03.254524",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-06-03/254524.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-03.254524/254524_djvu.txt"
     }
   ],
   "count": 2500,

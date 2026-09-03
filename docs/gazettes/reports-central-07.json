@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-06-03.254524",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-06-03",
+      "ugid": "254524",
+      "title": "Extraordinary Gazette of India, 2024-06-03",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendment in  Appendix 6B of  FTP HBP2023 Regarding",
+      "gazette_id": "CG-DL-E-04062024-254524",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254524.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-03.254524/254524.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-06-03.254524",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-06-03/254524.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-03.254524/254524_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-06-03.254523",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-05/251876.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251876/251876_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-05.251875",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-05",
-      "ugid": "251875",
-      "title": "Extraordinary Gazette of India, 2024-02-05",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-06022024-251875",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251875.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251875/251875.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-05.251875",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-05/251875.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251875/251875_djvu.txt"
     }
   ],
   "count": 2500,

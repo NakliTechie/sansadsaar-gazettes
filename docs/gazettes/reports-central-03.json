@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-09-22.266303",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-22",
+      "ugid": "266303",
+      "title": "Extrordinary Gazette of India, 2025-09-22",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Contruction",
+      "subject": "Publication of E gazette Notification for Declaration of intention to acquire of land under Section 20(A) for Kherwadi Railway station development of circulating area of Goods shed in UP direction for holding passengers during Kumbh Mela traffic in 2027.",
+      "gazette_id": "CG-MH-E-22092025-266303",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266303.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-22.266303/266303.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-22.266303",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-22/266303.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-22.266303/266303_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-09-22.266302",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-05-20/263242.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-20.263242/263242_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-20.263241",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-20",
-      "ugid": "263241",
-      "title": "Extraordinary Gazette of India, 2025-05-20",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Declaration of Competent Authority under Section 2 (a) of the Petroleum and Minerals Pipelines (Acquisition of Right of User in Land) Act, 1962 (Act No. 50 of 1962) for M/s GAIL (India) Limited in the State of Andhra Pradesh.",
-      "gazette_id": "CG-DL-E-20052025-263241",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263241.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-20.263241/263241.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-20.263241",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-20/263241.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-20.263241/263241_djvu.txt"
     }
   ],
   "count": 2500,
