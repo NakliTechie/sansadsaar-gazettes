@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-05-08.272342",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-08",
+      "ugid": "272342",
+      "title": "Extrordinary Gazette of India, 2026-05-08",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Department of Labour and Employment",
+      "office": "",
+      "subject": "Specifying Gazetted Officers for Compounding of Offences under section 89(1) of the Industrial Relations Code 2020",
+      "gazette_id": "CG-DL-E-08052026-272342",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272342.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272342/272342.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-08.272342",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-08/272342.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272342/272342_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-08.272341",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-08",
+      "ugid": "272341",
+      "title": "Extrordinary Gazette of India, 2026-05-08",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Department of Labour and Employment",
+      "office": "",
+      "subject": "Model Standing Orders 2026",
+      "gazette_id": "CG-DL-E-08052026-272341",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272341.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272341/272341.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-08.272341",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-08/272341.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272341/272341_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-08.272337",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-08",
+      "ugid": "272337",
+      "title": "Extrordinary Gazette of India, 2026-05-08",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Department of Labour and Employment",
+      "office": "",
+      "subject": "Appointing Certifying Officer under section 2(g) of the IR Code 2020",
+      "gazette_id": "CG-DL-E-08052026-272337",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272337.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272337/272337.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-08.272337",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-08/272337.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272337/272337_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-08.272336",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59924,78 +59996,6 @@
       "mirror_path": "pdf/central/e/2026-02-02/269784.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269784/269784_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-02.269783",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-02",
-      "ugid": "269783",
-      "title": "Extrordinary Gazette of India, 2026-02-02",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of notification of extraordinary Gazette under Part II section 3 Sub Section (ii). Notification under clause (7A) of section 2 of the Railways Act, 1989 in connection with the Construction of Road Over Bridge in lieu of Level Crossing No. 427 at Km. 635/28 30  in between Samalkot Pithapuram stations in the District of Kakinada in the of State of Andhra Pradesh",
-      "gazette_id": "CG-TL-E-02022026-269783",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269783.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269783/269783.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-02.269783",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-02/269783.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269783/269783_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-02.269782",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-02",
-      "ugid": "269782",
-      "title": "Extrordinary Gazette of India, 2026-02-02",
-      "ministry": "Ministry of Home Affairs",
-      "department": "UT DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Gazette of India Extra Ordinary PartII section 3 subsection i recruitment rules for the post of Storeman technical ASI in Delhi Police",
-      "gazette_id": "CG-DL-E-02022026-269782",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269782.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269782/269782.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-02.269782",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-02/269782.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269782/269782_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-02.269781",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-02",
-      "ugid": "269781",
-      "title": "Extrordinary Gazette of India, 2026-02-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-02022026-269781",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269781.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269781/269781.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-02.269781",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-02/269781.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269781/269781_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-28.239928",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-28",
+      "ugid": "239928",
+      "title": "Extraordinary Gazette of India, 2022-10-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-28102022-239928",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239928.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-28.239928/239928.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-28.239928",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-28/239928.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-28.239927",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-28",
+      "ugid": "239927",
+      "title": "Extraordinary Gazette of India, 2022-10-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-28102022-239927",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239927.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-28.239927/239927.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-28.239927",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-28/239927.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-28.239926",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-28",
+      "ugid": "239926",
+      "title": "Extraordinary Gazette of India, 2022-10-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-28102022-239926",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239926.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-28.239926/239926.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-28.239926",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-28/239926.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-28.239925",
       "category": "extraordinary",
       "type_letter": "e",
@@ -13562,7 +13631,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 586,
+  "count": 589,
   "category": "central",
   "shard_index": 12
 }

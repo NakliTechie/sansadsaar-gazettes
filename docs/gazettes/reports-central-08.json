@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-05.251835",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-05",
+      "ugid": "251835",
+      "title": "Extraordinary Gazette of India, 2024-02-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-06022024-251835",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251835.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251835/251835.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-05.251835",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-05/251835.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251835/251835_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-05.251834",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-05",
+      "ugid": "251834",
+      "title": "Extraordinary Gazette of India, 2024-02-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-06022024-251834",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251834.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251834/251834.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-05.251834",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-05/251834.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251834/251834_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-05.251833",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-05",
+      "ugid": "251833",
+      "title": "Extraordinary Gazette of India, 2024-02-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-06022024-251833",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251833.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251833/251833.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-05.251833",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-05/251833.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251833/251833_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-05.251832",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58161,78 +58233,6 @@
       "mirror_path": "pdf/central/e/2023-10-03/249150.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249150/249150_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-03.249145",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-03",
-      "ugid": "249145",
-      "title": "Extraordinary Gazette of India, 2023-10-03",
-      "ministry": "Ministry of Civil Aviation",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Drone (Amendment) Rules, 2023",
-      "gazette_id": "CG-DL-E-04102023-249145",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249145.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249145/249145.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-03.249145",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-03/249145.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249145/249145_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-03.249144",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-03",
-      "ugid": "249144",
-      "title": "Extraordinary Gazette of India, 2023-10-03",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-04102023-249144",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249144.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249144/249144.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-03.249144",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-03/249144.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249144/249144_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-03.249143",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-03",
-      "ugid": "249143",
-      "title": "Extraordinary Gazette of India, 2023-10-03",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
-      "office": "",
-      "subject": "ADD on imports of Roller Chains from China PR.",
-      "gazette_id": "CG-DL-E-04102023-249143",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249143.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249143/249143.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-03.249143",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-03/249143.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249143/249143_djvu.txt"
     }
   ],
   "count": 2500,

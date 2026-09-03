@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-03.249145",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-03",
+      "ugid": "249145",
+      "title": "Extraordinary Gazette of India, 2023-10-03",
+      "ministry": "Ministry of Civil Aviation",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Drone (Amendment) Rules, 2023",
+      "gazette_id": "CG-DL-E-04102023-249145",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249145.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249145/249145.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-03.249145",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-03/249145.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249145/249145_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-03.249144",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-03",
+      "ugid": "249144",
+      "title": "Extraordinary Gazette of India, 2023-10-03",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-04102023-249144",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249144.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249144/249144.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-03.249144",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-03/249144.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249144/249144_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-03.249143",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-03",
+      "ugid": "249143",
+      "title": "Extraordinary Gazette of India, 2023-10-03",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "ADD on imports of Roller Chains from China PR.",
+      "gazette_id": "CG-DL-E-04102023-249143",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249143.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249143/249143.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-03.249143",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-03/249143.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-03.249143/249143_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-03.249139",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58080,75 +58152,6 @@
       "ia_identifier": "in.gazette.central.e.2023-06-12.246474",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-06-12/246474.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-12.246473",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-12",
-      "ugid": "246473",
-      "title": "Extraordinary Gazette of India, 2023-06-12",
-      "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying",
-      "department": "Department of Fisheries",
-      "office": "",
-      "subject": "Notification of Fishery Survey of India as National Agency for marine fish stock assessment determination and dissemination  reg",
-      "gazette_id": "CG-DL-E-13062023-246473",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246473.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-12.246473/246473.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-12.246473",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-12/246473.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-12.246471",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-12",
-      "ugid": "246471",
-      "title": "Extraordinary Gazette of India, 2023-06-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-13062023-246471",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246471.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-12.246471/246471.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-12.246471",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-12/246471.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-12.246470",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-12",
-      "ugid": "246470",
-      "title": "Extraordinary Gazette of India, 2023-06-12",
-      "ministry": "Ministry of Railways",
-      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
-      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
-      "subject": "Publication of E gazette Notification for Nomination of SDO as a competent authority for land acquisition for Daund Manmad Doubling project",
-      "gazette_id": "CG-MH-E-13062023-246470",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246470.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-12.246470/246470.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-12.246470",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-12/246470.pdf",
       "topics": []
     }
   ],

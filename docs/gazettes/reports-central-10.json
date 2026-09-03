@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-12.246473",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-12",
+      "ugid": "246473",
+      "title": "Extraordinary Gazette of India, 2023-06-12",
+      "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying",
+      "department": "Department of Fisheries",
+      "office": "",
+      "subject": "Notification of Fishery Survey of India as National Agency for marine fish stock assessment determination and dissemination  reg",
+      "gazette_id": "CG-DL-E-13062023-246473",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246473.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-12.246473/246473.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-12.246473",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-12/246473.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-12.246471",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-12",
+      "ugid": "246471",
+      "title": "Extraordinary Gazette of India, 2023-06-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-13062023-246471",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246471.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-12.246471/246471.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-12.246471",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-12/246471.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-12.246470",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-12",
+      "ugid": "246470",
+      "title": "Extraordinary Gazette of India, 2023-06-12",
+      "ministry": "Ministry of Railways",
+      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
+      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
+      "subject": "Publication of E gazette Notification for Nomination of SDO as a competent authority for land acquisition for Daund Manmad Doubling project",
+      "gazette_id": "CG-MH-E-13062023-246470",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246470.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-12.246470/246470.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-12.246470",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-12/246470.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-12.246469",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57799,75 +57868,6 @@
       "ia_identifier": "in.gazette.central.e.2023-02-14.243617",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-02-14/243617.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243616",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243616",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A MORTH",
-      "gazette_id": "CG-DL-E-15022023-243616",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243616.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243616/243616.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243616",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243616.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243615",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243615",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agricultural Research & Education",
-      "office": "",
-      "subject": "Publication of notification in the gazette of India.",
-      "gazette_id": "CG-DL-E-15022023-243615",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243615.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243615/243615.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243615",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243615.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-14.243614",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-14",
-      "ugid": "243614",
-      "title": "Extraordinary Gazette of India, 2023-02-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-15022023-243614",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243614.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-14.243614/243614.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-14.243614",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-14/243614.pdf",
       "topics": []
     }
   ],

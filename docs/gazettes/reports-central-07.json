@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-05-31.254490",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-31",
+      "ugid": "254490",
+      "title": "Extraordinary Gazette of India, 2024-05-31",
+      "ministry": "Ministry of Railways",
+      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
+      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
+      "subject": "Publication of Gazette Notification for appointment of arbitrator under Section 20(F) (6) of The Railways (Amendment) Act, 2008 for land acquisition special railway project Pachora Jamner GC Project with extension upto Malkapur Project (84.34 Kms)",
+      "gazette_id": "CG-MH-E-01062024-254490",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254490.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-31.254490/254490.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-31.254490",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-31/254490.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-31.254490/254490_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-05-31.254486",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-31",
+      "ugid": "254486",
+      "title": "Extraordinary Gazette of India, 2024-05-31",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Assistant Returning Officer to assist the Returning Officer of the Parliamentary Constituency in the State of West Bengal",
+      "gazette_id": "CG-DL-E-01062024-254486",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254486.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-31.254486/254486.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-31.254486",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-31/254486.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-31.254486/254486_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-05-31.254485",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-05-31",
+      "ugid": "254485",
+      "title": "Extraordinary Gazette of India, 2024-05-31",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Assistant Returning Officer to assist the Returning Officer of the Parliamentary Constituency in the State of Odisha",
+      "gazette_id": "CG-DL-E-01062024-254485",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254485.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-05-31.254485/254485.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-05-31.254485",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-05-31/254485.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-05-31.254485/254485_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-05-31.254484",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-05/251836.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251836/251836_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-05.251835",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-05",
-      "ugid": "251835",
-      "title": "Extraordinary Gazette of India, 2024-02-05",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-06022024-251835",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251835.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251835/251835.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-05.251835",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-05/251835.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251835/251835_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-05.251834",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-05",
-      "ugid": "251834",
-      "title": "Extraordinary Gazette of India, 2024-02-05",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-06022024-251834",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251834.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251834/251834.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-05.251834",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-05/251834.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251834/251834_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-05.251833",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-05",
-      "ugid": "251833",
-      "title": "Extraordinary Gazette of India, 2024-02-05",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-06022024-251833",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251833.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251833/251833.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-05.251833",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-05/251833.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-05.251833/251833_djvu.txt"
     }
   ],
   "count": 2500,

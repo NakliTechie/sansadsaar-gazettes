@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-05-19.263209",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-05-19",
+      "ugid": "263209",
+      "title": "Extraordinary Gazette of India, 2025-05-19",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendments in Standard Input Output Norms SION A 1303",
+      "gazette_id": "CG-DL-E-19052025-263209",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263209.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-19.263209/263209.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-05-19.263209",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-05-19/263209.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-19.263209/263209_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2025-05-17.263370",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-05-17",
+      "ugid": "263370",
+      "title": "Weekly Gazette of India, 2025-05-17",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-26052025-263370",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263370.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-05-17.263370/263370.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-05-17.263370",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-05-17/263370.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-05-17.263370/263370_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2025-05-17.263320",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-05-17",
+      "ugid": "263320",
+      "title": "Weekly Gazette of India, 2025-05-17",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-23052025-263320",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263320.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-05-17.263320/263320.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-05-17.263320",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-05-17/263320.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-05-17.263320/263320_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-05-17.263212",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-01-22/260451.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260451/260451_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-22.260450",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-22",
-      "ugid": "260450",
-      "title": "Extraordinary Gazette of India, 2025-01-22",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Proposed construction of Road over Bridge in lieu of Level Crossing No.199 in the state of Andhra Pradesh in the district of Prakasham",
-      "gazette_id": "CG-TL-E-24012025-260450",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260450.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260450/260450.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-22.260450",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-22/260450.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260450/260450_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-22.260449",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-22",
-      "ugid": "260449",
-      "title": "Extraordinary Gazette of India, 2025-01-22",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Proposed construction of Road over Bridge in lieu of Level Crossing No.187 in the state of Andhra Pradesh in the district of Prakasham",
-      "gazette_id": "CG-TL-E-24012025-260449",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260449.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260449/260449.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-22.260449",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-22/260449.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260449/260449_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-01-22.260448",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-01-22",
-      "ugid": "260448",
-      "title": "Extraordinary Gazette of India, 2025-01-22",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Proposed construction of Road over Bridge in lieu of Level Crossing No.129 (M) in the state of Telangana in the district of Khammam",
-      "gazette_id": "CG-TL-E-24012025-260448",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260448.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260448/260448.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-01-22.260448",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-01-22/260448.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260448/260448_djvu.txt"
     }
   ],
   "count": 2500,

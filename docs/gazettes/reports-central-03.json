@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-09-18.266276",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-18",
+      "ugid": "266276",
+      "title": "Extrordinary Gazette of India, 2025-09-18",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 20A of Railways Act, 1989 Acquisition of land for Doubling of track between Parbhani and Parli for Parbhani district in the state of Maharashtra",
+      "gazette_id": "CG-TL-E-20092025-266276",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266276.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266276/266276.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-18.266276",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-18/266276.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266276/266276_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-09-18.266249",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-18",
+      "ugid": "266249",
+      "title": "Extrordinary Gazette of India, 2025-09-18",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extraordinary Gazette of India under Section 3(1) of the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for acquiring RoU in land for Dahej Parvat Ethane Pipeline.",
+      "gazette_id": "CG-DL-E-19092025-266249",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266249.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266249/266249.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-18.266249",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-18/266249.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266249/266249_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-09-18.266246",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-18",
+      "ugid": "266246",
+      "title": "Extrordinary Gazette of India, 2025-09-18",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "Corrigenda to GST rate notifications",
+      "gazette_id": "CG-DL-E-18092025-266246",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266246.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266246/266246.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-18.266246",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-18/266246.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266246/266246_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-09-18.266245",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-05-19/263215.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-19.263215/263215_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-19.263209",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-19",
-      "ugid": "263209",
-      "title": "Extraordinary Gazette of India, 2025-05-19",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Amendments in Standard Input Output Norms SION A 1303",
-      "gazette_id": "CG-DL-E-19052025-263209",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263209.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-19.263209/263209.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-19.263209",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-19/263209.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-19.263209/263209_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2025-05-17.263370",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2025-05-17",
-      "ugid": "263370",
-      "title": "Weekly Gazette of India, 2025-05-17",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-26052025-263370",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263370.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-05-17.263370/263370.pdf",
-      "ia_identifier": "in.gazette.central.w.2025-05-17.263370",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2025-05-17/263370.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-05-17.263370/263370_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2025-05-17.263320",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2025-05-17",
-      "ugid": "263320",
-      "title": "Weekly Gazette of India, 2025-05-17",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-23052025-263320",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263320.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-05-17.263320/263320.pdf",
-      "ia_identifier": "in.gazette.central.w.2025-05-17.263320",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2025-05-17/263320.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-05-17.263320/263320_djvu.txt"
     }
   ],
   "count": 2500,

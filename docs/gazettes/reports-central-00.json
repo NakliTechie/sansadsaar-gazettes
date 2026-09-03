@@ -24,6 +24,52 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-31.275883",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-31",
+      "ugid": "275883",
+      "title": "Extraordinary Gazette of India, 2026-08-31",
+      "ministry": "Ministry of Railways",
+      "department": "South Western Railway, Head Quarters",
+      "office": "",
+      "subject": "Publication of gazette notification 20A in the Extraordinary Gazette of India",
+      "gazette_id": "CG-KA-E-31082026-275883",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275883.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-31.275883/275883.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-31.275883",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-31/275883.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-31.275878",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-31",
+      "ugid": "275878",
+      "title": "Extraordinary Gazette of India, 2026-08-31",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Customs Wing CBIC",
+      "subject": "Tariff Value Notificationj",
+      "gazette_id": "CG-DL-E-31082026-275878",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275878.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-31.275878/275878.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-31.275878",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-31/275878.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-31.275875",
       "category": "extraordinary",
       "type_letter": "e",
@@ -67,6 +113,29 @@
       "ia_identifier": "in.gazette.central.w.2026-08-31.275866",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-08-31/275866.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-31.275860",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-31",
+      "ugid": "275860",
+      "title": "Extraordinary Gazette of India, 2026-08-31",
+      "ministry": "Ministry of Electronics and Information Technology",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Semicon, Scheme for development of Semiconductor Design and Manufacturing Ecosystem in India",
+      "gazette_id": "CG-DL-E-31082026-275860",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275860.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-31.275860/275860.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-31.275860",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-31/275860.pdf",
       "topics": []
     },
     {
@@ -58563,78 +58632,6 @@
       "mirror_path": "pdf/central/e/2026-05-08/272343.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272343/272343_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272342",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272342",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Department of Labour and Employment",
-      "office": "",
-      "subject": "Specifying Gazetted Officers for Compounding of Offences under section 89(1) of the Industrial Relations Code 2020",
-      "gazette_id": "CG-DL-E-08052026-272342",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272342.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272342/272342.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272342",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272342.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272342/272342_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272341",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272341",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Department of Labour and Employment",
-      "office": "",
-      "subject": "Model Standing Orders 2026",
-      "gazette_id": "CG-DL-E-08052026-272341",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272341.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272341/272341.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272341",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272341.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272341/272341_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272337",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272337",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Department of Labour and Employment",
-      "office": "",
-      "subject": "Appointing Certifying Officer under section 2(g) of the IR Code 2020",
-      "gazette_id": "CG-DL-E-08052026-272337",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272337.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272337/272337.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272337",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272337.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272337/272337_djvu.txt"
     }
   ],
   "count": 2500,

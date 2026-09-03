@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-01-22.260450",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-22",
+      "ugid": "260450",
+      "title": "Extraordinary Gazette of India, 2025-01-22",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Proposed construction of Road over Bridge in lieu of Level Crossing No.199 in the state of Andhra Pradesh in the district of Prakasham",
+      "gazette_id": "CG-TL-E-24012025-260450",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260450.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260450/260450.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-22.260450",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-22/260450.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260450/260450_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-01-22.260449",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-22",
+      "ugid": "260449",
+      "title": "Extraordinary Gazette of India, 2025-01-22",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Proposed construction of Road over Bridge in lieu of Level Crossing No.187 in the state of Andhra Pradesh in the district of Prakasham",
+      "gazette_id": "CG-TL-E-24012025-260449",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260449.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260449/260449.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-22.260449",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-22/260449.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260449/260449_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-01-22.260448",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-22",
+      "ugid": "260448",
+      "title": "Extraordinary Gazette of India, 2025-01-22",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Proposed construction of Road over Bridge in lieu of Level Crossing No.129 (M) in the state of Telangana in the district of Khammam",
+      "gazette_id": "CG-TL-E-24012025-260448",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260448.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260448/260448.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-22.260448",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-22/260448.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-22.260448/260448_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-01-22.260447",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-10-09/257795.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-09.257795/257795_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-09.257793",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-09",
-      "ugid": "257793",
-      "title": "Extraordinary Gazette of India, 2024-10-09",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Customs Wing CBIC",
-      "subject": "UT GST Notification",
-      "gazette_id": "CG-DL-E-09102024-257793",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257793.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-09.257793/257793.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-09.257793",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-09/257793.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-09.257793/257793_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-09.257792",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-09",
-      "ugid": "257792",
-      "title": "Extraordinary Gazette of India, 2024-10-09",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of user fee notification",
-      "gazette_id": "CG-DL-E-09102024-257792",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257792.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-09.257792/257792.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-09.257792",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-09/257792.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-09.257792/257792_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-09.257790",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-09",
-      "ugid": "257790",
-      "title": "Extraordinary Gazette of India, 2024-10-09",
-      "ministry": "Ministry of Corporate Affairs",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Companies (Adjudication of Penalties) Second Amendment Rules, 2024",
-      "gazette_id": "CG-DL-E-09102024-257790",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257790.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-09.257790/257790.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-09.257790",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-09/257790.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-09.257790/257790_djvu.txt"
     }
   ],
   "count": 2500,

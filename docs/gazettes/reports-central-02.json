@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-02.269783",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-02",
+      "ugid": "269783",
+      "title": "Extrordinary Gazette of India, 2026-02-02",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Publication of notification of extraordinary Gazette under Part II section 3 Sub Section (ii). Notification under clause (7A) of section 2 of the Railways Act, 1989 in connection with the Construction of Road Over Bridge in lieu of Level Crossing No. 427 at Km. 635/28 30  in between Samalkot Pithapuram stations in the District of Kakinada in the of State of Andhra Pradesh",
+      "gazette_id": "CG-TL-E-02022026-269783",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269783.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269783/269783.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-02.269783",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-02/269783.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269783/269783_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-02.269782",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-02",
+      "ugid": "269782",
+      "title": "Extrordinary Gazette of India, 2026-02-02",
+      "ministry": "Ministry of Home Affairs",
+      "department": "UT DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Gazette of India Extra Ordinary PartII section 3 subsection i recruitment rules for the post of Storeman technical ASI in Delhi Police",
+      "gazette_id": "CG-DL-E-02022026-269782",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269782.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269782/269782.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-02.269782",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-02/269782.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269782/269782_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-02.269781",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-02",
+      "ugid": "269781",
+      "title": "Extrordinary Gazette of India, 2026-02-02",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-02022026-269781",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269781.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269781/269781.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-02.269781",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-02/269781.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-02.269781/269781_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-02.269780",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-09-18/266389.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266389/266389_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-18.266276",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-18",
-      "ugid": "266276",
-      "title": "Extrordinary Gazette of India, 2025-09-18",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 20A of Railways Act, 1989 Acquisition of land for Doubling of track between Parbhani and Parli for Parbhani district in the state of Maharashtra",
-      "gazette_id": "CG-TL-E-20092025-266276",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266276.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266276/266276.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-18.266276",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-18/266276.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266276/266276_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-18.266249",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-18",
-      "ugid": "266249",
-      "title": "Extrordinary Gazette of India, 2025-09-18",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extraordinary Gazette of India under Section 3(1) of the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for acquiring RoU in land for Dahej Parvat Ethane Pipeline.",
-      "gazette_id": "CG-DL-E-19092025-266249",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266249.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266249/266249.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-18.266249",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-18/266249.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266249/266249_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-18.266246",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-18",
-      "ugid": "266246",
-      "title": "Extrordinary Gazette of India, 2025-09-18",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Indirect Taxes and Customs",
-      "subject": "Corrigenda to GST rate notifications",
-      "gazette_id": "CG-DL-E-18092025-266246",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266246.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266246/266246.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-18.266246",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-18/266246.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-18.266246/266246_djvu.txt"
     }
   ],
   "count": 2500,
