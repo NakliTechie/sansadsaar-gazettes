@@ -1,6 +1,167 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-10-31.239958",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-31",
+      "ugid": "239958",
+      "title": "Extraordinary Gazette of India, 2022-10-31",
+      "ministry": "Insolvency and Bankruptcy Board of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sections 196, 203 and 205 read with section 240 of the Insolvency and Bankruptcy Code",
+      "gazette_id": "CG-DL-E-01112022-239958",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239958.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-31.239958/239958.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-31.239958",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-31/239958.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-31.239957",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-31",
+      "ugid": "239957",
+      "title": "Extraordinary Gazette of India, 2022-10-31",
+      "ministry": "Bureau of Energy Efficiency",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Whereas the draft of regulations namely, the Bureau of Energy Efficiency Manner and Intervals for Conduct of Energy Audit in electricity distribution companies Amendment Regulations, 2022, were published vide notification",
+      "gazette_id": "CG-DL-E-31102022-239957",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239957.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-31.239957/239957.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-31.239957",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-31/239957.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-31.239956",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-31",
+      "ugid": "239956",
+      "title": "Extraordinary Gazette of India, 2022-10-31",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Customs Wing CBIC",
+      "subject": "In exercise of the powers conferred by sub section (1) of section 25 of the Customs Act, 1962 (52 of 1962), the Central Government, on being satisfied that it is necessary in the public interest",
+      "gazette_id": "CG-DL-E-31102022-239956",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239956.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-31.239956/239956.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-31.239956",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-31/239956.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-31.239955",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-31",
+      "ugid": "239955",
+      "title": "Extraordinary Gazette of India, 2022-10-31",
+      "ministry": "Ministry of Home Affairs",
+      "department": "Foreigners Division",
+      "office": "",
+      "subject": "the verification of the application shall be done by the Collector at the district level and the application and the reports thereon shall be made accessible  simultaneously to the Central Government on online portal",
+      "gazette_id": "CG-DL-E-31102022-239955",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239955.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-31.239955/239955.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-31.239955",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-31/239955.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-31.239954",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-31",
+      "ugid": "239954",
+      "title": "Extraordinary Gazette of India, 2022-10-31",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "Notification of Teacher Retirement System of Texas as the specified person for the purposes of clause (23FE) of section 10 of the Incometax Act, 1961",
+      "gazette_id": "CG-DL-E-31102022-239954",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239954.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-31.239954/239954.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-31.239954",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-31/239954.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-31.239953",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-31",
+      "ugid": "239953",
+      "title": "Extraordinary Gazette of India, 2022-10-31",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "Customs Notification No.91/2022",
+      "gazette_id": "CG-DL-E-31102022-239953",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239953.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-31.239953/239953.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-31.239953",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-31/239953.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-31.239952",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-31",
+      "ugid": "239952",
+      "title": "Extraordinary Gazette of India, 2022-10-31",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Budget Division",
+      "subject": "Auction for Sale (reissue) of (i) 6.69pc GS 2024 (ii) 7.10pc GS 2029 (iii) 7.54pc GS 2036 (iv) 7.40pc GS 2062",
+      "gazette_id": "CG-DL-E-31102022-239952",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239952.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-31.239952/239952.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-31.239952",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-31/239952.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-31.239951",
       "category": "extraordinary",
       "type_letter": "e",
@@ -14206,7 +14367,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 614,
+  "count": 621,
   "category": "central",
   "shard_index": 12
 }

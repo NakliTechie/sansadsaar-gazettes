@@ -878,6 +878,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-08-29.275848/275848_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-27.275920",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-27",
+      "ugid": "275920",
+      "title": "Extraordinary Gazette of India, 2026-08-27",
+      "ministry": "Institute of Chartered Accountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of the Regulation 159 1 of the Chartered Accountants Regulations, 1988, the Council of the Institute of Chartered Accountants of India is pleased",
+      "gazette_id": "CG-DL-E-01092026-275920",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275920.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-27.275920/275920.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-27.275920",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-27/275920.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-27.275919",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1375,6 +1398,52 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-27.275827/275827_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-26.275911",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-26",
+      "ugid": "275911",
+      "title": "Extraordinary Gazette of India, 2026-08-26",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of Extraordinary Gazette Notification for the below mentioned Land Schedule under Part II Section 3 Sub section ii as per the Railways Act 1989",
+      "gazette_id": "CG-OR-E-01092026-275911",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275911.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-26.275911/275911.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-26.275911",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-26/275911.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-26.275910",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-26",
+      "ugid": "275910",
+      "title": "Extraordinary Gazette of India, 2026-08-26",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of Extraordinary Gazette Notification for the below mentioned Land Schedule under Part II Section 3 Sub section ii as per the Railways Act 1989",
+      "gazette_id": "CG-OR-E-01092026-275910",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275910.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-26.275910/275910.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-26.275910",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-26/275910.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-26.275814",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1493,6 +1562,29 @@
       "mirror_path": "pdf/central/e/2026-08-26/275793.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-26.275793/275793_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-25.275889",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-25",
+      "ugid": "275889",
+      "title": "Extraordinary Gazette of India, 2026-08-25",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Department of Commerce",
+      "office": "EPZ Section",
+      "subject": "Publication of the Notification for Development Commissioner of SEZs Recruitment Rules, 2026",
+      "gazette_id": "CG-DL-E-01092026-275889",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275889.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-25.275889/275889.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-25.275889",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-25/275889.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-08-25.275882",
@@ -5305,6 +5397,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-20.275890",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-20",
+      "ugid": "275890",
+      "title": "Extraordinary Gazette of India, 2026-08-20",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Ex Post Facto of Army",
+      "gazette_id": "CG-DL-E-01092026-275890",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275890.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-20.275890/275890.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-20.275890",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-20/275890.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-20.275884",
       "category": "extraordinary",
       "type_letter": "e",
@@ -6435,6 +6550,29 @@
       "ia_identifier": "in.gazette.central.e.2026-08-19.275577",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-08-19/275577.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-18.275905",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-18",
+      "ugid": "275905",
+      "title": "Extraordinary Gazette of India, 2026-08-18",
+      "ministry": "Indian Nursing Council",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section (1) of Section 16 of Indian Nursing Council Act, 1947 (XLVIII of 1947), as amended from time to time, the",
+      "gazette_id": "CG-DL-E-01092026-275905",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275905.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-18.275905/275905.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-18.275905",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-18/275905.pdf",
       "topics": []
     },
     {
@@ -7661,6 +7799,29 @@
       "mirror_path": "pdf/central/w/2026-08-15/275506.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-08-15.275506/275506_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-14.275912",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-14",
+      "ugid": "275912",
+      "title": "Extraordinary Gazette of India, 2026-08-14",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Grant of Hony Commission to Air Force Personnel",
+      "gazette_id": "CG-DL-E-01092026-275912",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275912.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-14.275912/275912.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-14.275912",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-14/275912.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-08-14.275614",
@@ -58439,174 +58600,6 @@
       "mirror_path": "pdf/central/e/2026-05-08/272389.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272389/272389_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272388",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272388",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification under Section 2(44) of CoSS, 2020",
-      "gazette_id": "CG-DL-E-09052026-272388",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272388.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272388/272388.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272388",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272388.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272388/272388_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272387",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272387",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification under Section 2(26) of CoSS, 2020",
-      "gazette_id": "CG-DL-E-09052026-272387",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272387.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272387/272387.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272387",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272387.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272387/272387_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272386",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272386",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification under Section 2(5) of CoSS, 2020",
-      "gazette_id": "CG-DL-E-09052026-272386",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272386.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272386/272386.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272386",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272386.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272386/272386_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272385",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272385",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification under Section 137 of CoSS, 2020",
-      "gazette_id": "CG-DL-E-09052026-272385",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272385.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272385/272385.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272385",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272385.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272385/272385_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272384",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272384",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification under Section 138(1) of CoSS, 2020",
-      "gazette_id": "CG-DL-E-09052026-272384",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272384.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272384/272384.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272384",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272384.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272384/272384_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272383",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272383",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification under Section 128 of CoSS, 2020",
-      "gazette_id": "CG-DL-E-09052026-272383",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272383.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272383/272383.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272383",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272383.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272383/272383_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272382",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272382",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification under Section 122 of CoSS, 2020",
-      "gazette_id": "CG-DL-E-09052026-272382",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272382.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272382/272382.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272382",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272382.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272382/272382_djvu.txt"
     }
   ],
   "count": 2500,
