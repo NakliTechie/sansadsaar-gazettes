@@ -1,38 +1,3 @@
 {
-  "texts": {
-    "central": {
-      "central_e_20260824_275752": {
-        "size": 1850,
-        "url": "text/central/central_e_20260824_275752.txt"
-      },
-      "central_e_20260824_275854": {
-        "size": 31716,
-        "url": "text/central/central_e_20260824_275854.txt"
-      },
-      "central_e_20260827_275851": {
-        "size": 11662,
-        "url": "text/central/central_e_20260827_275851.txt"
-      },
-      "central_e_20260827_275852": {
-        "size": 40838,
-        "url": "text/central/central_e_20260827_275852.txt"
-      },
-      "central_e_20260827_275853": {
-        "size": 17728,
-        "url": "text/central/central_e_20260827_275853.txt"
-      },
-      "central_e_20260827_275858": {
-        "size": 33226,
-        "url": "text/central/central_e_20260827_275858.txt"
-      },
-      "central_e_20260827_275859": {
-        "size": 17902,
-        "url": "text/central/central_e_20260827_275859.txt"
-      },
-      "central_e_20260829_275856": {
-        "size": 9096,
-        "url": "text/central/central_e_20260829_275856.txt"
-      }
-    }
-  }
+  "texts": {}
 }
