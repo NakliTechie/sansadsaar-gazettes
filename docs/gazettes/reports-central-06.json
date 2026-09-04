@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-10-12.257868",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-10-12",
+      "ugid": "257868",
+      "title": "Extraordinary Gazette of India, 2024-10-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-15102024-257868",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257868.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257868/257868.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-10-12.257868",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-10-12/257868.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257868/257868_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-10-12.257867",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-10-12",
+      "ugid": "257867",
+      "title": "Extraordinary Gazette of India, 2024-10-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-15102024-257867",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257867.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257867/257867.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-10-12.257867",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-10-12/257867.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257867/257867_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-10-12.257866",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-06-05/254559.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-05.254559/254559_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-06-05.254558",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-06-05",
-      "ugid": "254558",
-      "title": "Extraordinary Gazette of India, 2024-06-05",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
-      "office": "",
-      "subject": "Public Premises Act, 1971",
-      "gazette_id": "CG-DL-E-05062024-254558",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254558.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-05.254558/254558.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-06-05.254558",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-06-05/254558.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-05.254558/254558_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-06-05.254557",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-06-05",
-      "ugid": "254557",
-      "title": "Extraordinary Gazette of India, 2024-06-05",
-      "ministry": "Ministry of Home Affairs",
-      "department": "CTCR DIVISION",
-      "office": "",
-      "subject": "Publication of notification of Unlawful Activities Prevention Tribunal in the matter of LTTE",
-      "gazette_id": "CG-DL-E-05062024-254557",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254557.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-05.254557/254557.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-06-05.254557",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-06-05/254557.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-05.254557/254557_djvu.txt"
     }
   ],
   "count": 2500,

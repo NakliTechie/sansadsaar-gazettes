@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2025-01-25.260552",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-01-25",
+      "ugid": "260552",
+      "title": "Weekly Gazette of India, 2025-01-25",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-28012025-260552",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260552.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-01-25.260552/260552.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-01-25.260552",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-01-25/260552.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-01-25.260552/260552_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-01-25.260483",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-01-25",
+      "ugid": "260483",
+      "title": "Extraordinary Gazette of India, 2025-01-25",
+      "ministry": "Rajya Sabha Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Resignation of Shri V Vijayasai  Reddy M P from Rajya Sabha.",
+      "gazette_id": "CG-DL-E-25012025-260483",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260483.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-01-25.260483/260483.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-01-25.260483",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-01-25/260483.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-01-25.260483/260483_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-01-25.260482",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-10-12/257869.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257869/257869_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-12.257868",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-12",
-      "ugid": "257868",
-      "title": "Extraordinary Gazette of India, 2024-10-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-15102024-257868",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257868.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257868/257868.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-12.257868",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-12/257868.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257868/257868_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-12.257867",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-12",
-      "ugid": "257867",
-      "title": "Extraordinary Gazette of India, 2024-10-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-15102024-257867",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/257867.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257867/257867.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-12.257867",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-12/257867.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-12.257867/257867_djvu.txt"
     }
   ],
   "count": 2500,

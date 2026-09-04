@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-04.269870",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-04",
+      "ugid": "269870",
+      "title": "Extrordinary Gazette of India, 2026-02-04",
+      "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying",
+      "department": "Department of Fisheries",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section 3 of section 4 of the Coastal Aquaculture Authority Act 2005",
+      "gazette_id": "CG-DL-E-06022026-269870",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269870.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-04.269870/269870.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-04.269870",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-04/269870.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-04.269870/269870_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-04.269862",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-04",
+      "ugid": "269862",
+      "title": "Extrordinary Gazette of India, 2026-02-04",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-06022026-269862",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/269862.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-04.269862/269862.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-04.269862",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-04/269862.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-04.269862/269862_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-04.269861",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-09-23/266357.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-23.266357/266357_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-23.266354",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-23",
-      "ugid": "266354",
-      "title": "Extrordinary Gazette of India, 2025-09-23",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-24092025-266354",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266354.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-23.266354/266354.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-23.266354",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-23/266354.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-23.266354/266354_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-09-23.266353",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-09-23",
-      "ugid": "266353",
-      "title": "Extrordinary Gazette of India, 2025-09-23",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-24092025-266353",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266353.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-23.266353/266353.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-09-23.266353",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-09-23/266353.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-23.266353/266353_djvu.txt"
     }
   ],
   "count": 2500,

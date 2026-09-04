@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-06.251906",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-06",
+      "ugid": "251906",
+      "title": "Extraordinary Gazette of India, 2024-02-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-07022024-251906",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251906.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-06.251906/251906.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-06.251906",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-06/251906.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-06.251906/251906_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-06.251905",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-06",
+      "ugid": "251905",
+      "title": "Extraordinary Gazette of India, 2024-02-06",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-07022024-251905",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/251905.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-06.251905/251905.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-06.251905",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-06/251905.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-06.251905/251905_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-06.251904",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58185,54 +58233,6 @@
       "mirror_path": "pdf/central/e/2023-10-05/249231.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-05.249231/249231_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-05.249197",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-05",
-      "ugid": "249197",
-      "title": "Extraordinary Gazette of India, 2023-10-05",
-      "ministry": "National Institute Of Technology Sikkim",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by subsection 2 of section 26 of the National Institutes of Technology,",
-      "gazette_id": "CG-DL-E-06102023-249197",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249197.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-05.249197/249197.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-05.249197",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-05/249197.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-05.249197/249197_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-05.249192",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-05",
-      "ugid": "249192",
-      "title": "Extraordinary Gazette of India, 2023-10-05",
-      "ministry": "Ministry of Home Affairs",
-      "department": "Police-II Division",
-      "office": "Indo Tibetan Border Police Force",
-      "subject": "Indo Tibetan Border Police Force, Assistant Commandant (Office) and Assistant Commandant (Staff Officer), Group A Posts, Recruitment Rules, 2023.",
-      "gazette_id": "CG-DL-E-06102023-249192",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249192.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-05.249192/249192.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-05.249192",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-05/249192.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-05.249192/249192_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-02-16.243685",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-16",
+      "ugid": "243685",
+      "title": "Extraordinary Gazette of India, 2023-02-16",
+      "ministry": "Ministry of Railways",
+      "department": "Engineering Department",
+      "office": "",
+      "subject": "Notification for land acquisition of Haryana Orbital Rail Corridor  Project from Palwal to Sonipat by passing Delhi Regarding Notification for Under section 20A Railways Act Amendment 2008 1989 for acquisition of additional land in Sohna sub division of Gurugram District",
+      "gazette_id": "CG-DL-E-17022023-243685",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243685.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-16.243685/243685.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-16.243685",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-16/243685.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-16.243684",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-16",
+      "ugid": "243684",
+      "title": "Extraordinary Gazette of India, 2023-02-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D morth",
+      "gazette_id": "CG-DL-E-17022023-243684",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243684.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-16.243684/243684.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-16.243684",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-16/243684.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-02-16.243683",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57801,52 +57847,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-02.239997",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-02/239997.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-02.239996",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-02",
-      "ugid": "239996",
-      "title": "Extraordinary Gazette of India, 2022-11-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-03112022-239996",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239996.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-02.239996/239996.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-02.239996",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-02/239996.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-02.239995",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-02",
-      "ugid": "239995",
-      "title": "Extraordinary Gazette of India, 2022-11-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a MORTH",
-      "gazette_id": "CG-DL-E-03112022-239995",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239995.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-02.239995/239995.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-02.239995",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-02/239995.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-09-23.266354",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-23",
+      "ugid": "266354",
+      "title": "Extrordinary Gazette of India, 2025-09-23",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-24092025-266354",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266354.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-23.266354/266354.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-23.266354",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-23/266354.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-23.266354/266354_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-09-23.266353",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-23",
+      "ugid": "266353",
+      "title": "Extrordinary Gazette of India, 2025-09-23",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-24092025-266353",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266353.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-23.266353/266353.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-23.266353",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-23/266353.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-23.266353/266353_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-09-23.266351",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-05-21/263298.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-21.263298/263298_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-21.263297",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-21",
-      "ugid": "263297",
-      "title": "Extraordinary Gazette of India, 2025-05-21",
-      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
-      "department": "Department of Personnel and Training",
-      "office": "",
-      "subject": "IPS Telengana fixation of Cadre Strength 6th Amendment Regulations, 2025",
-      "gazette_id": "CG-DL-E-22052025-263297",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263297.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-21.263297/263297.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-21.263297",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-21/263297.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-21.263297/263297_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-05-21.263296",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-05-21",
-      "ugid": "263296",
-      "title": "Extraordinary Gazette of India, 2025-05-21",
-      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
-      "department": "Department of Personnel and Training",
-      "office": "",
-      "subject": "IPS Chhattisgarh Fixation of Cadre Strength 4th Amendment Regulations, 2025",
-      "gazette_id": "CG-DL-E-22052025-263296",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263296.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-05-21.263296/263296.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-05-21.263296",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-05-21/263296.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-05-21.263296/263296_djvu.txt"
     }
   ],
   "count": 2500,

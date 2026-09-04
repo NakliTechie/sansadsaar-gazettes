@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-05.249197",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-05",
+      "ugid": "249197",
+      "title": "Extraordinary Gazette of India, 2023-10-05",
+      "ministry": "National Institute Of Technology Sikkim",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by subsection 2 of section 26 of the National Institutes of Technology,",
+      "gazette_id": "CG-DL-E-06102023-249197",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249197.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-05.249197/249197.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-05.249197",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-05/249197.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-05.249197/249197_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-05.249192",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-05",
+      "ugid": "249192",
+      "title": "Extraordinary Gazette of India, 2023-10-05",
+      "ministry": "Ministry of Home Affairs",
+      "department": "Police-II Division",
+      "office": "Indo Tibetan Border Police Force",
+      "subject": "Indo Tibetan Border Police Force, Assistant Commandant (Office) and Assistant Commandant (Staff Officer), Group A Posts, Recruitment Rules, 2023.",
+      "gazette_id": "CG-DL-E-06102023-249192",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249192.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-05.249192/249192.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-05.249192",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-05/249192.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-10-05.249192/249192_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-05.249183",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58172,52 +58220,6 @@
       "ia_identifier": "in.gazette.central.e.2023-06-14.246541",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-06-14/246541.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-13.246602",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-13",
-      "ugid": "246602",
-      "title": "Extraordinary Gazette of India, 2023-06-13",
-      "ministry": "Institute of Chartered Accountants of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Regulation 18 of the Chartered Accountants Regulations, 1988, it is hereby notified that in exercise",
-      "gazette_id": "CG-UP-E-16062023-246602",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246602.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-13.246602/246602.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-13.246602",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-13/246602.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-13.246553",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-13",
-      "ugid": "246553",
-      "title": "Extraordinary Gazette of India, 2023-06-13",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of subparagraph 2 of paragraph 5 of  SchemeI of ScheduleII of Bureau of Indian Standards Conformity Assessment Regulations",
-      "gazette_id": "CG-DL-E-15062023-246553",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246553.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-13.246553/246553.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-13.246553",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-13/246553.pdf",
       "topics": []
     }
   ],

@@ -5365,6 +5365,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-21.275936",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-21",
+      "ugid": "275936",
+      "title": "Extraordinary Gazette of India, 2026-08-21",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "20EBHIWANILOHARCORR",
+      "gazette_id": "CG-RJ-E-02092026-275936",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275936.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-21.275936/275936.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-21.275936",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-21/275936.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-21.275881",
       "category": "extraordinary",
       "type_letter": "e",
@@ -6179,6 +6202,29 @@
       "ia_identifier": "in.gazette.central.e.2026-08-21.275648",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-08-21/275648.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-20.275931",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-20",
+      "ugid": "275931",
+      "title": "Extraordinary Gazette of India, 2026-08-20",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Corrigendum",
+      "gazette_id": "CG-DL-E-02092026-275931",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275931.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-20.275931/275931.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-20.275931",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-20/275931.pdf",
       "topics": []
     },
     {
@@ -58521,54 +58567,6 @@
       "mirror_path": "pdf/central/e/2026-05-08/272475.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272475/272475_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272474",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272474",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of notification of extraordinary Gazette under Part II section 3 Sub Section (ii) Notification under clause (20E) Of the Railways Act, 1989 in connection with the Construction of Road Over Bridge in Lieu of Level Crossing No.364 at Km 518/6 8 in Kaikaram Village of Unguturu Mandal in Eluru District in the state of Andhra Pradesh.",
-      "gazette_id": "CG-TL-E-12052026-272474",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272474.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272474/272474.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272474",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272474.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272474/272474_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-08.272472",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-08",
-      "ugid": "272472",
-      "title": "Extrordinary Gazette of India, 2026-05-08",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Construction",
-      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire of land under Section 20(A) for 10 villages of Balapur Tehsil Akola District in connection with Bhusawal Badnera Wardha 3rd and 4th Line (313 Kms).",
-      "gazette_id": "CG-MH-E-12052026-272472",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272472.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272472/272472.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-08.272472",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-08/272472.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-08.272472/272472_djvu.txt"
     }
   ],
   "count": 2500,

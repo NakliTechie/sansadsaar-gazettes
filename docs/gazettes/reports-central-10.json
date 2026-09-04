@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-13.246602",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-13",
+      "ugid": "246602",
+      "title": "Extraordinary Gazette of India, 2023-06-13",
+      "ministry": "Institute of Chartered Accountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Regulation 18 of the Chartered Accountants Regulations, 1988, it is hereby notified that in exercise",
+      "gazette_id": "CG-UP-E-16062023-246602",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246602.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-13.246602/246602.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-13.246602",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-13/246602.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-13.246553",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-13",
+      "ugid": "246553",
+      "title": "Extraordinary Gazette of India, 2023-06-13",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of subparagraph 2 of paragraph 5 of  SchemeI of ScheduleII of Bureau of Indian Standards Conformity Assessment Regulations",
+      "gazette_id": "CG-DL-E-15062023-246553",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246553.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-13.246553/246553.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-13.246553",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-13/246553.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-13.246552",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57824,52 +57870,6 @@
       "ia_identifier": "in.gazette.central.e.2023-02-16.243687",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-02-16/243687.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-16.243685",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-16",
-      "ugid": "243685",
-      "title": "Extraordinary Gazette of India, 2023-02-16",
-      "ministry": "Ministry of Railways",
-      "department": "Engineering Department",
-      "office": "",
-      "subject": "Notification for land acquisition of Haryana Orbital Rail Corridor  Project from Palwal to Sonipat by passing Delhi Regarding Notification for Under section 20A Railways Act Amendment 2008 1989 for acquisition of additional land in Sohna sub division of Gurugram District",
-      "gazette_id": "CG-DL-E-17022023-243685",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243685.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-16.243685/243685.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-16.243685",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-16/243685.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-16.243684",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-16",
-      "ugid": "243684",
-      "title": "Extraordinary Gazette of India, 2023-02-16",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D morth",
-      "gazette_id": "CG-DL-E-17022023-243684",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243684.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-16.243684/243684.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-16.243684",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-16/243684.pdf",
       "topics": []
     }
   ],
