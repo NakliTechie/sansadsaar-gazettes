@@ -1,3 +1,70 @@
 {
-  "texts": {}
+  "texts": {
+    "central": {
+      "central_e_20260817_275871": {
+        "size": 822416,
+        "url": "text/central/central_e_20260817_275871.txt"
+      },
+      "central_e_20260820_275884": {
+        "size": 9978,
+        "url": "text/central/central_e_20260820_275884.txt"
+      },
+      "central_e_20260821_275868": {
+        "size": 79915,
+        "url": "text/central/central_e_20260821_275868.txt"
+      },
+      "central_e_20260821_275881": {
+        "size": 178239,
+        "url": "text/central/central_e_20260821_275881.txt"
+      },
+      "central_e_20260825_275861": {
+        "size": 49988,
+        "url": "text/central/central_e_20260825_275861.txt"
+      },
+      "central_e_20260825_275874": {
+        "size": 194512,
+        "url": "text/central/central_e_20260825_275874.txt"
+      },
+      "central_e_20260825_275882": {
+        "size": 4450,
+        "url": "text/central/central_e_20260825_275882.txt"
+      },
+      "central_e_20260827_275870": {
+        "size": 24893,
+        "url": "text/central/central_e_20260827_275870.txt"
+      },
+      "central_e_20260827_275872": {
+        "size": 13120,
+        "url": "text/central/central_e_20260827_275872.txt"
+      },
+      "central_e_20260827_275873": {
+        "size": 10750,
+        "url": "text/central/central_e_20260827_275873.txt"
+      },
+      "central_e_20260827_275879": {
+        "size": 4062,
+        "url": "text/central/central_e_20260827_275879.txt"
+      },
+      "central_e_20260827_275880": {
+        "size": 14373,
+        "url": "text/central/central_e_20260827_275880.txt"
+      },
+      "central_e_20260829_275862": {
+        "size": 23498,
+        "url": "text/central/central_e_20260829_275862.txt"
+      },
+      "central_e_20260829_275863": {
+        "size": 23598,
+        "url": "text/central/central_e_20260829_275863.txt"
+      },
+      "central_e_20260829_275867": {
+        "size": 27834,
+        "url": "text/central/central_e_20260829_275867.txt"
+      },
+      "central_e_20260829_275869": {
+        "size": 20517,
+        "url": "text/central/central_e_20260829_275869.txt"
+      }
+    }
+  }
 }
