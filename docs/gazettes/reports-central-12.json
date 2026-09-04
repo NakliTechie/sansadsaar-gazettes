@@ -1,6 +1,190 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-01.239968",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-01",
+      "ugid": "239968",
+      "title": "Extraordinary Gazette of India, 2022-11-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "Petroleum Notification",
+      "gazette_id": "CG-DL-E-01112022-239968",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239968.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-01.239968/239968.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-01.239968",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-01/239968.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-01.239967",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-01",
+      "ugid": "239967",
+      "title": "Extraordinary Gazette of India, 2022-11-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "Faizan Khan",
+      "gazette_id": "CG-DL-E-01112022-239967",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239967.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-01.239967/239967.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-01.239967",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-01/239967.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-01.239966",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-01",
+      "ugid": "239966",
+      "title": "Extraordinary Gazette of India, 2022-11-01",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards, particulars of which are given in the second column of the schedule hereto annexed have been established on the date indicated against it in third column",
+      "gazette_id": "CG-DL-E-01112022-239966",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239966.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-01.239966/239966.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-01.239966",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-01/239966.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-01.239965",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-01",
+      "ugid": "239965",
+      "title": "Extraordinary Gazette of India, 2022-11-01",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Gazette Notification for publication",
+      "gazette_id": "CG-DL-E-01112022-239965",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239965.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-01.239965/239965.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-01.239965",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-01/239965.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-01.239964",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-01",
+      "ugid": "239964",
+      "title": "Extraordinary Gazette of India, 2022-11-01",
+      "ministry": "Ministry of Home Affairs",
+      "department": "UT DIVISION",
+      "office": "",
+      "subject": "Publication of Notification in respect of Government of National Capital Territory of Delhi",
+      "gazette_id": "CG-DL-E-01112022-239964",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239964.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-01.239964/239964.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-01.239964",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-01/239964.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-01.239963",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-01",
+      "ugid": "239963",
+      "title": "Extraordinary Gazette of India, 2022-11-01",
+      "ministry": "Securities and Exchange Board of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "The Securities and Exchange Board of India hereinafter referred to as the Board, in exercise of the powers conferred by section 4 read with sub section 4  of section 8A of the Securities Contracts Regulation  Act",
+      "gazette_id": "CG-MH-E-01112022-239963",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239963.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-01.239963/239963.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-01.239963",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-01/239963.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-01.239962",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-01",
+      "ugid": "239962",
+      "title": "Extraordinary Gazette of India, 2022-11-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "amendment notification",
+      "gazette_id": "CG-DL-E-01112022-239962",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/239962.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-01.239962/239962.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-01.239962",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-01/239962.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-10-31.240018",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-10-31",
+      "ugid": "240018",
+      "title": "Extraordinary Gazette of India, 2022-10-31",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-03112022-240018",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240018.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-10-31.240018/240018.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-10-31.240018",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-10-31/240018.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-10-31.239959",
       "category": "extraordinary",
       "type_letter": "e",
@@ -14390,7 +14574,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 622,
+  "count": 630,
   "category": "central",
   "shard_index": 12
 }
