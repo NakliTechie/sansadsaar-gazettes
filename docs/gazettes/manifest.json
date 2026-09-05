@@ -1,3 +1,26 @@
 {
-  "texts": {}
+  "texts": {
+    "central": {
+      "central_e_20260831_275860": {
+        "size": 83518,
+        "url": "text/central/central_e_20260831_275860.txt"
+      },
+      "central_e_20260831_275875": {
+        "size": 35613,
+        "url": "text/central/central_e_20260831_275875.txt"
+      },
+      "central_e_20260831_275878": {
+        "size": 12711,
+        "url": "text/central/central_e_20260831_275878.txt"
+      },
+      "central_e_20260831_275883": {
+        "size": 9420,
+        "url": "text/central/central_e_20260831_275883.txt"
+      },
+      "central_e_20260831_275885": {
+        "size": 4789,
+        "url": "text/central/central_e_20260831_275885.txt"
+      }
+    }
+  }
 }
