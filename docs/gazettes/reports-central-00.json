@@ -1065,6 +1065,52 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-01.275906/275906_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-31.275962",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-31",
+      "ugid": "275962",
+      "title": "Extraordinary Gazette of India, 2026-08-31",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of acquisition of land under Section 20(E) for land acquisition for PH 53 Provision of 2 Nos. 6 M wide Foot Over Bridge with ramp at Kasbe Sukene Station for Kumbh Mela 2027 at Dist. Nashik under the Railways Act, 1989 (24 of 1989).",
+      "gazette_id": "CG-MH-E-03092026-275962",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275962.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-31.275962/275962.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-31.275962",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-31/275962.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-31.275959",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-31",
+      "ugid": "275959",
+      "title": "Extraordinary Gazette of India, 2026-08-31",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-03092026-275959",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275959.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-31.275959/275959.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-31.275959",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-31/275959.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-31.275945",
       "category": "extraordinary",
       "type_letter": "e",
@@ -2041,6 +2087,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-08-29.275848/275848_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-27.275963",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-27",
+      "ugid": "275963",
+      "title": "Extraordinary Gazette of India, 2026-08-27",
+      "ministry": "Ministry of Railways",
+      "department": "Construction organization",
+      "office": "South Coast Railway",
+      "subject": "South Coast Railway publication of notification under section 20E of the Railways Act 1989 Acquisition of land for Doubling between Tirupati Pakala Katpadi (104 Km) Gudipala and Chittoor Rural mandals in Chittoor district in the state of Andhra Pradesh.",
+      "gazette_id": "CG-AP-E-03092026-275963",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275963.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-27.275963/275963.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-27.275963",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-27/275963.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-27.275941",
       "category": "extraordinary",
       "type_letter": "e",
@@ -2896,6 +2965,29 @@
       "mirror_path": "pdf/central/e/2026-08-26/275793.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-26.275793/275793_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-25.275960",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-25",
+      "ugid": "275960",
+      "title": "Extraordinary Gazette of India, 2026-08-25",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of acquisition of land under Section 20(E) of the Railways Act, 1989 (24 of 1989) for Proposed construction of 2 lane Road Over Bridge (ROB) in lieu of Level Crossing Gate No. 87 in connection with project Proposed Construction of ROB and RUB (10 Nos.) in lieu of Level Crossing Gates between Igatpuri Manmad and Bhusawal Badnera Section of Bhusawal Division.",
+      "gazette_id": "CG-MH-E-03092026-275960",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275960.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-25.275960/275960.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-25.275960",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-25/275960.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-08-25.275940",
@@ -5984,6 +6076,29 @@
       "ia_identifier": "in.gazette.central.w.2026-08-22.275667",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-08-22/275667.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-21.275961",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-21",
+      "ugid": "275961",
+      "title": "Extraordinary Gazette of India, 2026-08-21",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notifying Merchant Shipping Registration of Vessels rules 2026 under merchant Shipping act 2025",
+      "gazette_id": "CG-DL-E-03092026-275961",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/275961.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-21.275961/275961.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-21.275961",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-21/275961.pdf",
       "topics": []
     },
     {
@@ -58479,126 +58594,6 @@
       "mirror_path": "pdf/central/e/2026-05-11/272500.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272500/272500_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-11.272496",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-11",
-      "ugid": "272496",
-      "title": "Extrordinary Gazette of India, 2026-05-11",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 20A of Railways Act, 1989 Acquisition of land for Construction of Muddanuru TSS in Guntakal Kadapa section.",
-      "gazette_id": "CG-TL-E-13052026-272496",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272496.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272496/272496.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-11.272496",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-11/272496.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272496/272496_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-11.272494",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-11",
-      "ugid": "272494",
-      "title": "Extrordinary Gazette of India, 2026-05-11",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Western Railway",
-      "subject": "Publication of notification of extraordinary gazette under Part II section 3 Sub      Section (I) Notification under clause 20A of the Railway Act 1989 (24 of 1989)             for land to be acquired in connection with Special Railway Project 5th and 6th line                between Borivali Virar on Western Railway under MUTP IIIA projects in          Borivali Taluka District Mumbai Suburban in the State of Maharashtra",
-      "gazette_id": "CG-MH-E-13052026-272494",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272494.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272494/272494.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-11.272494",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-11/272494.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272494/272494_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-11.272486",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-11",
-      "ugid": "272486",
-      "title": "Extrordinary Gazette of India, 2026-05-11",
-      "ministry": "Central Pollution Control Board",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred under clause  b of Sub Section  1 of Section 12 and Section 13 of the Environment  Protection Act, 1986  29 of 1986  read with Gazette Notification",
-      "gazette_id": "CG-DL-E-12052026-272486",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272486.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272486/272486.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-11.272486",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-11/272486.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272486/272486_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-11.272484",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-11",
-      "ugid": "272484",
-      "title": "Extrordinary Gazette of India, 2026-05-11",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Western Railway",
-      "subject": "Publication of Corrigendum notification of extraordinary gazette under Part II section 3     Sub Section (II) Notification under clause 20E of the Railway Act 1989 (24 of 1989) for Land to be acquired in connection with Special Railway Project namely      Samakhiyali Gandhidham Quadrupling Project  ROB 3 in      District  Kutch in the state of Gujarat",
-      "gazette_id": "CG-MH-E-12052026-272484",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272484.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272484/272484.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-11.272484",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-11/272484.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272484/272484_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-11.272483",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-11",
-      "ugid": "272483",
-      "title": "Extrordinary Gazette of India, 2026-05-11",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 7A of Railway Act 1989 Acquisition of land for 3rd and 4th lines between Renigunta and Guntakal stations in YSR Kadapa District in the State of Andhra Pradesh.",
-      "gazette_id": "CG-TL-E-12052026-272483",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272483.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272483/272483.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-11.272483",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-11/272483.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-11.272483/272483_djvu.txt"
     }
   ],
   "count": 2500,
