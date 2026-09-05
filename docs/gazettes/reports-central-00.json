@@ -303,7 +303,8 @@
       "ia_identifier": "in.gazette.central.e.2026-09-02.275937",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-09-02/275937.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-02.275937/275937_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2026-09-01.275976",
