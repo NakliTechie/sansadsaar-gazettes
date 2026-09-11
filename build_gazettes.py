@@ -633,24 +633,28 @@ def _enumerate_newest_first():
 
 
 def build_manifest() -> dict:
-    """Texts index: which records have body text on disk (transient,
-    pre-bundle). After write_text_shards, this dict is empty — the
-    canonical record-to-shard map is in texts-meta.json.
+    """Flat texts index the app reads: composite id ``<cat>|<file_id>`` -> shard
+    file, one entry per record whose body text is bundled.
+
+    The app's gazettes module gates the "text" pill, the "N with text" header
+    stat, the Details hint, and the Full-text tab on
+    ``manifest.texts["<cat>|<file_id>"]`` being truthy (see
+    app/corpora/gazettes/index.js hasExtractedText). Source it from
+    texts-meta.json's ``record_to_shard`` — which is already keyed
+    ``<cat>|<file_id>`` — NOT from the per-record ``.txt`` files: those are
+    deleted by write_text_shards once bundled, so scanning disk yields an empty
+    map and every gazette is mislabelled "metadata" though its text is present
+    in the shards.
     """
-    out: dict[str, dict] = {}
-    if not TEXT_DIR.exists():
-        return {"texts": out}
-    for cat in CATEGORIES:
-        cdir = TEXT_DIR / cat
-        if not cdir.exists():
-            continue
-        out[cat] = {}
-        for text_file in sorted(cdir.glob("*.txt")):
-            fid = text_file.stem
-            out[cat][fid] = {
-                "size": text_file.stat().st_size,
-                "url":  f"text/{cat}/{text_file.name}",
-            }
+    out: dict[str, str] = {}
+    texts_meta_path = DOCS / "texts-meta.json"
+    if texts_meta_path.exists():
+        try:
+            with open(texts_meta_path, "r", encoding="utf-8") as f:
+                tm = json.load(f)
+            out = dict(tm.get("record_to_shard") or {})
+        except (OSError, json.JSONDecodeError):
+            pass
     return {"texts": out}
 
 
