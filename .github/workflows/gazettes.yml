@@ -1,0 +1,132 @@
+name: Gazettes scrape and publish
+
+# Hourly walk of archive.org's `gazetteofindia` collection for Central
+# Gazette items (Weekly + Extraordinary), newest-first. Per item:
+# fetch metadata + djvu.txt; write text + record to the index repo.
+# PDF mirror push to per-date mirror repos is a follow-up — for v1
+# the records carry archive.org URLs as pdf_url and the app links there.
+#
+# Cadence rationale (plan/gazettes-recon-001.md):
+# 50 records/run × 24×/day = 1,200/day. Clears the ~170K archive.org
+# backlog in ~142 days. Per record costs ~3 HTTP requests
+# (metadata + djvu); ~1 sec each with jitter → ~50 sec sustained per
+# burst. Well within archive.org's ~30 req/sec policy.
+#
+# archive.org-first policy (project-wide): we do NOT touch
+# egazette.gov.in for the back-catalogue. archive.org is the SOLE
+# upstream.
+#
+# Off-cluster from existing parliamentwatch-data corpora:
+# LC :01 (4-hourly), FC :01 (4-hourly), debates :23 (2-hourly),
+# questions :47 (hourly). Gazettes fires at :13 hourly.
+
+on:
+  schedule:
+    - cron: '13 * * * *'
+  workflow_dispatch:
+    inputs:
+      max_extractions:
+        description: 'Max records to extract this run. Keep ≤100 unless deep-backfill.'
+        default: '50'
+      max_run_seconds:
+        description: 'Hard wall-clock cap (seconds)'
+        default: '900'
+      enum_stop_after_known:
+        description: 'Stop enumerating after N consecutive already-known identifiers'
+        default: '200'
+      max_djvu_retry:
+        description: 'Per-run budget for the djvu retry pass (revisit djvu_pending records)'
+        default: '50'
+
+permissions:
+  contents: write
+  # Needed for the chain step's `gh workflow run` call (deep-seed sprint).
+  actions: write
+
+concurrency:
+  group: gazettes
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Bumped from 60 → 300 to accommodate the deep-seed sprint mode
+    # (high MAX_EXTRACTIONS_PER_RUN + high ENUM_STOP_AFTER_KNOWN walks
+    # back through years of archive.org uploads). Hourly cron-fired
+    # runs stay well under this; this is the safety net for sprint
+    # dispatches.
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git identity for in-flight checkpoint commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Build gazettes primary data (extract phase only)
+        # Split-phase: writers commit reports shards + text/.
+        # Derived files owned by gazettes-derive.yml. See CONV.md
+        # "Split-phase scraping pattern".
+        id: build
+        env:
+          BUILD_PHASE:             'extract'
+          MAX_EXTRACTIONS_PER_RUN: ${{ inputs.max_extractions       || '50' }}
+          MAX_RUN_SECONDS:         ${{ inputs.max_run_seconds        || '900' }}
+          ENUM_STOP_AFTER_KNOWN:   ${{ inputs.enum_stop_after_known || '200' }}
+          MAX_DJVU_RETRY_PER_RUN:  ${{ inputs.max_djvu_retry         || '50' }}
+          JITTER_MIN_MS:           '200'
+          JITTER_MAX_MS:           '400'
+        run: python build_gazettes.py
+
+      - name: Commit and push primary changes
+        # `docs/gazettes/` covers reports shards + text/ + meta.json.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/gazettes/
+          git diff --cached --quiet && echo "no primary changes" && exit 0
+          git commit -m "Auto-update gazettes primary data [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          git pull --rebase origin main
+          git push
+
+      - name: Chain another deep-seed run if budget remains
+        # Sprint mechanism. Only fires on workflow_dispatch (NOT the
+        # hourly cron — that's the steady-state catch-up; the chain
+        # is for deep-seeding the historical archive.org backlog).
+        # Re-triggers when:
+        #   - we made progress this run (avoids no-op loops)
+        #   - we hit a per-run budget (more work pending)
+        #   - we were NOT rate-limited (don't hammer archive.org;
+        #     the rate-limit cooldown in build_gazettes.py kicks in
+        #     for the next cron firing instead)
+        # Self-terminates when the walk naturally exits (no more
+        # unknown identifiers in the enumeration) — at that point
+        # the build script reports budget_hit=false and we don't
+        # chain. See build_gazettes.py phase_extract for the
+        # GITHUB_OUTPUT emit that drives the gate.
+        if: >-
+          success()
+          && github.event_name == 'workflow_dispatch'
+          && steps.build.outputs.progress != '0'
+          && steps.build.outputs.progress != ''
+          && steps.build.outputs.budget_hit == 'true'
+          && steps.build.outputs.rate_limited != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Deep-seed progress: ${{ steps.build.outputs.progress }} this run, budget_hit=${{ steps.build.outputs.budget_hit }}"
+          echo "Chaining another deep-seed dispatch with the same budget."
+          gh workflow run gazettes.yml \
+            -R ${{ github.repository }} \
+            --field max_extractions=${{ inputs.max_extractions       || '2000' }} \
+            --field max_run_seconds=${{ inputs.max_run_seconds        || '3600' }} \
+            --field enum_stop_after_known=${{ inputs.enum_stop_after_known || '999999' }} \
+            --field max_djvu_retry=${{ inputs.max_djvu_retry         || '200' }}

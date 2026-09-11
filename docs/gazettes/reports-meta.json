@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-09-11T14:28:19Z",
+  "shard_size": 2500,
+  "totals": {
+    "central": 30784
+  },
+  "shards": {
+    "central": [
+      {
+        "file": "reports-central-00.json",
+        "count": 2500,
+        "shard_index": 0
+      },
+      {
+        "file": "reports-central-01.json",
+        "count": 2500,
+        "shard_index": 1
+      },
+      {
+        "file": "reports-central-02.json",
+        "count": 2500,
+        "shard_index": 2
+      },
+      {
+        "file": "reports-central-03.json",
+        "count": 2500,
+        "shard_index": 3
+      },
+      {
+        "file": "reports-central-04.json",
+        "count": 2500,
+        "shard_index": 4
+      },
+      {
+        "file": "reports-central-05.json",
+        "count": 2500,
+        "shard_index": 5
+      },
+      {
+        "file": "reports-central-06.json",
+        "count": 2500,
+        "shard_index": 6
+      },
+      {
+        "file": "reports-central-07.json",
+        "count": 2500,
+        "shard_index": 7
+      },
+      {
+        "file": "reports-central-08.json",
+        "count": 2500,
+        "shard_index": 8
+      },
+      {
+        "file": "reports-central-09.json",
+        "count": 2500,
+        "shard_index": 9
+      },
+      {
+        "file": "reports-central-10.json",
+        "count": 2500,
+        "shard_index": 10
+      },
+      {
+        "file": "reports-central-11.json",
+        "count": 2500,
+        "shard_index": 11
+      },
+      {
+        "file": "reports-central-12.json",
+        "count": 784,
+        "shard_index": 12
+      }
+    ]
+  }
+}
