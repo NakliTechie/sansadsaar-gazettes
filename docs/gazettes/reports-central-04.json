@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-02.263536",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-02",
+      "ugid": "263536",
+      "title": "Extraordinary Gazette of India, 2025-06-02",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Legislative Department",
+      "office": "",
+      "subject": "THE LADAKH AUTONOMOUS HILL DEVELOPMENT COUNCILS (AMENDMENT) REGULATION, 2025",
+      "gazette_id": "CG-DL-E-02062025-263536",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263536.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-02.263536/263536.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-02.263536",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-02/263536.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-02.263536/263536_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-02.263535",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-02",
+      "ugid": "263535",
+      "title": "Extraordinary Gazette of India, 2025-06-02",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of Appellate Officers in the State of Manipur",
+      "gazette_id": "CG-DL-E-03062025-263535",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263535.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-02.263535/263535.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-02.263535",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-02/263535.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-02.263535/263535_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-02.263534",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/w/2025-02-01/260672.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-02-01.260672/260672_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2025-02-01.260671",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2025-02-01",
-      "ugid": "260671",
-      "title": "Weekly Gazette of India, 2025-02-01",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-01022025-260671",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260671.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-02-01.260671/260671.pdf",
-      "ia_identifier": "in.gazette.central.w.2025-02-01.260671",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2025-02-01/260671.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-02-01.260671/260671_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2025-02-01.260670",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2025-02-01",
-      "ugid": "260670",
-      "title": "Weekly Gazette of India, 2025-02-01",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-01022025-260670",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260670.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-02-01.260670/260670.pdf",
-      "ia_identifier": "in.gazette.central.w.2025-02-01.260670",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2025-02-01/260670.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-02-01.260670/260670_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-22.246743",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-22",
+      "ugid": "246743",
+      "title": "Extraordinary Gazette of India, 2023-06-22",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "VARANASI",
+      "gazette_id": "CG-DL-E-22062023-246743",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246743.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-22.246743/246743.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-22.246743",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-22/246743.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-21.246747",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-21",
+      "ugid": "246747",
+      "title": "Extraordinary Gazette of India, 2023-06-21",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "20E for District Auraiya Etawah and Kanpur Dehat in the State of Uttar Pradesh",
+      "gazette_id": "CG-DL-E-22062023-246747",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246747.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-21.246747/246747.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-21.246747",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-21/246747.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-21.246745",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57825,52 +57871,6 @@
       "ia_identifier": "in.gazette.central.e.2023-02-23.243885",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-02-23/243885.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-23.243884",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-23",
-      "ugid": "243884",
-      "title": "Extraordinary Gazette of India, 2023-02-23",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-24022023-243884",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243884.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243884/243884.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-23.243884",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-23/243884.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-23.243883",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-23",
-      "ugid": "243883",
-      "title": "Extraordinary Gazette of India, 2023-02-23",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-24022023-243883",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243883.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243883/243883.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-23.243883",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-23/243883.pdf",
       "topics": []
     }
   ],

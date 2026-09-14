@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-02-23.243884",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-23",
+      "ugid": "243884",
+      "title": "Extraordinary Gazette of India, 2023-02-23",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-24022023-243884",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243884.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243884/243884.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-23.243884",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-23/243884.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-23.243883",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-23",
+      "ugid": "243883",
+      "title": "Extraordinary Gazette of India, 2023-02-23",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-24022023-243883",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243883.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-23.243883/243883.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-23.243883",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-23/243883.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-02-23.243882",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57801,52 +57847,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-11.240207",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-11/240207.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-11.240206",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-11",
-      "ugid": "240206",
-      "title": "Extraordinary Gazette of India, 2022-11-11",
-      "ministry": "The Institute of CharteredAccountants of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In terms of the provisions of Section 21B 3 of the Chartered Accountants Act, 1949 read with Rules 18 17 and 19 1 of the Chartered Accountants Procedure of Investigations of Professional and Other Misconduct and Conduct of Cases Rules,",
-      "gazette_id": "CG-DL-E-11112022-240206",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240206.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240206/240206.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-11.240206",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-11/240206.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-11.240205",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-11",
-      "ugid": "240205",
-      "title": "Extraordinary Gazette of India, 2022-11-11",
-      "ministry": "The Institute of CharteredAccountants of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In terms of the provisions of Section 21B 3 of the Chartered Accountants Act, 1949 read with Rules 18 17  and 19 1  of the Chartered Accountants Procedure of Investigations of Professional and Other Misconduct",
-      "gazette_id": "CG-DL-E-11112022-240205",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240205.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240205/240205.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-11.240205",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-11/240205.pdf",
       "topics": []
     }
   ],

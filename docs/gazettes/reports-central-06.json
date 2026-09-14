@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-10-18.258045",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-10-18",
+      "ugid": "258045",
+      "title": "Extraordinary Gazette of India, 2024-10-18",
+      "ministry": "Ministry of Communications",
+      "department": "Department of Telecommunications",
+      "office": "",
+      "subject": "Addendum to Engineering Service Examination, 2025 Rules",
+      "gazette_id": "CG-DL-E-18102024-258045",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258045.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-18.258045/258045.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-10-18.258045",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-10-18/258045.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-18.258045/258045_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-10-18.258040",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-10-18",
+      "ugid": "258040",
+      "title": "Extraordinary Gazette of India, 2024-10-18",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Bye election to 4 Wayanad HPC in the State of Kerala",
+      "gazette_id": "CG-DL-E-18102024-258040",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258040.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-18.258040/258040.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-10-18.258040",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-10-18/258040.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-18.258040/258040_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-10-17.258111",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-06-14/254772.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-14.254772/254772_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-06-14.254771",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-06-14",
-      "ugid": "254771",
-      "title": "Extraordinary Gazette of India, 2024-06-14",
-      "ministry": "Ministry of Railways",
-      "department": "North Western Railway",
-      "office": "",
-      "subject": "20AAWRRE",
-      "gazette_id": "CG-RJ-E-18062024-254771",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254771.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-14.254771/254771.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-06-14.254771",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-06-14/254771.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-14.254771/254771_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-06-14.254770",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-06-14",
-      "ugid": "254770",
-      "title": "Extraordinary Gazette of India, 2024-06-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-18062024-254770",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254770.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-14.254770/254770.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-06-14.254770",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-06-14/254770.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-14.254770/254770_djvu.txt"
     }
   ],
   "count": 2500,

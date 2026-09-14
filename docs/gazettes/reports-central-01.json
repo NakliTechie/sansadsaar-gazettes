@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-05-15.272607",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-15",
+      "ugid": "272607",
+      "title": "Extrordinary Gazette of India, 2026-05-15",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Legislative Department",
+      "office": "",
+      "subject": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU REGISTRATION OF SOCIETIES REGULATION, 2026",
+      "gazette_id": "CG-DL-E-15052026-272607",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272607.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-15.272607/272607.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-15.272607",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-15/272607.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-15.272606",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-15",
+      "ugid": "272606",
+      "title": "Extrordinary Gazette of India, 2026-05-15",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Legislative Department",
+      "office": "",
+      "subject": "THE LAKSHADWEEP FIRE AND EMERCENCY SERVICE REGULATION, 2026",
+      "gazette_id": "CG-DL-E-15052026-272606",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272606.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-15.272606/272606.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-15.272606",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-15/272606.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-15.272605",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59871,54 +59917,6 @@
       "mirror_path": "pdf/central/e/2026-02-10/270020.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-10.270020/270020_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-10.270019",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-10",
-      "ugid": "270019",
-      "title": "Extrordinary Gazette of India, 2026-02-10",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Department of Commerce",
-      "office": "EPZ Section",
-      "subject": "Publication of notification of DLF Limited, for Information Technology and Information Technology Enabled Services, Rajarhat, Kolkata, West Bengal",
-      "gazette_id": "CG-DL-E-10022026-270019",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270019.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-10.270019/270019.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-10.270019",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-10/270019.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-10.270019/270019_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-10.270018",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-10",
-      "ugid": "270018",
-      "title": "Extrordinary Gazette of India, 2026-02-10",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Indirect Taxes and Customs",
-      "subject": "ADD on TDI",
-      "gazette_id": "CG-DL-E-10022026-270018",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270018.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-10.270018/270018.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-10.270018",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-10/270018.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-10.270018/270018_djvu.txt"
     }
   ],
   "count": 2500,
