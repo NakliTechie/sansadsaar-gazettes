@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-03.263594",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-03",
+      "ugid": "263594",
+      "title": "Extraordinary Gazette of India, 2025-06-03",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "ESZ Division",
+      "office": "",
+      "subject": "Draft notification of Ramgarh Vishdhari Tiger Reserve in the state of Rajasthan",
+      "gazette_id": "CG-DL-E-04062025-263594",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263594.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-03.263594/263594.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-03.263594",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-03/263594.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-03.263594/263594_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-02.263674",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-02",
+      "ugid": "263674",
+      "title": "Extraordinary Gazette of India, 2025-06-02",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Election Petition no.1 of 2019",
+      "gazette_id": "CG-DL-E-09062025-263674",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263674.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-02.263674/263674.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-02.263674",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-02/263674.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-02.263674/263674_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-02.263673",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-03/260716.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-03.260716/260716_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2025-02-01.260936",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2025-02-01",
-      "ugid": "260936",
-      "title": "Weekly Gazette of India, 2025-02-01",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-13022025-260936",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260936.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-02-01.260936/260936.pdf",
-      "ia_identifier": "in.gazette.central.w.2025-02-01.260936",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2025-02-01/260936.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-02-01.260936/260936_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-01.260786",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-01",
-      "ugid": "260786",
-      "title": "Extraordinary Gazette of India, 2025-02-01",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "The Finance Bill,2025",
-      "gazette_id": "CG-DL-E-06022025-260786",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260786.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-01.260786/260786.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-01.260786",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-01/260786.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-01.260786/260786_djvu.txt"
     }
   ],
   "count": 2500,

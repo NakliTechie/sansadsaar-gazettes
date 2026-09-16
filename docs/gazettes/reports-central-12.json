@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-11.240231",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240231",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "Ministry of Chemicals and Fertilizers",
+      "department": "Department of Pharmaceuticals",
+      "office": "",
+      "subject": "Notification regarding amendment in the Schedule I of the Drugs (Prices Control) Order, 2013",
+      "gazette_id": "CG-DL-E-12112022-240231",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240231.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240231/240231.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240231",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240231.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-11.240230",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-11",
+      "ugid": "240230",
+      "title": "Extraordinary Gazette of India, 2022-11-11",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules",
+      "gazette_id": "CG-DL-E-12112022-240230",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240230.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-11.240230/240230.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-11.240230",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-11/240230.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-11.240229",
       "category": "extraordinary",
       "type_letter": "e",
@@ -20026,7 +20072,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 867,
+  "count": 869,
   "category": "central",
   "shard_index": 12
 }

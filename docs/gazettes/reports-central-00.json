@@ -47,6 +47,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.w.2026-09-12.276190",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-09-12",
+      "ugid": "276190",
+      "title": "Weekly Gazette of India, 2026-09-12",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-15092026-276190",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276190.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-09-12.276190/276190.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-09-12.276190",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-09-12/276190.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-09-12.276171",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1709,6 +1732,29 @@
       "mirror_path": "pdf/central/e/2026-09-07/276045.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-07.276045/276045_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-09-05.276237",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-09-05",
+      "ugid": "276237",
+      "title": "Weekly Gazette of India, 2026-09-05",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-16092026-276237",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276237.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-09-05.276237/276237.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-09-05.276237",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-09-05/276237.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-09-05.276127",
@@ -58625,52 +58671,6 @@
       "ia_identifier": "in.gazette.central.w.2026-05-16.272612",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-05-16/272612.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2026-05-16.272611",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2026-05-16",
-      "ugid": "272611",
-      "title": "Weekly Gazette of India, 2026-05-16",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-16052026-272611",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272611.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-05-16.272611/272611.pdf",
-      "ia_identifier": "in.gazette.central.w.2026-05-16.272611",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/w/2026-05-16/272611.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-15.272767",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-15",
-      "ugid": "272767",
-      "title": "Extrordinary Gazette of India, 2026-05-15",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Central Railway",
-      "subject": "Publication of 20E in Gazette notification regarding acquisition of land under Railway Amendment Act 2008, in connection with purpose of execution, maintenance, management and operation of the  Multi Tracking of Son Nagar Andal 374.53 Route Km and 814.38 Track Km  as part of a special railway project, namely, the Eastern Dedicated Freight Corridor, the land situated in the District of Gaya in the state of Bihar",
-      "gazette_id": "CG-BR-E-23052026-272767",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272767.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-15.272767/272767.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-15.272767",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-15/272767.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-06-14.254799",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-06-14",
+      "ugid": "254799",
+      "title": "Extraordinary Gazette of India, 2024-06-14",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "FF of SSR  investigation of CVD imposed on imports of Atrazine Technical exported from China PR",
+      "gazette_id": "CG-DL-E-19062024-254799",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254799.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-14.254799/254799.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-06-14.254799",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-06-14/254799.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-14.254799/254799_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-06-14.254798",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-06-14",
+      "ugid": "254798",
+      "title": "Extraordinary Gazette of India, 2024-06-14",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-19062024-254798",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254798.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-14.254798/254798.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-06-14.254798",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-06-14/254798.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-14.254798/254798_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-06-14.254796",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-15/252098.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-15.252098/252098_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-14.252158",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-14",
-      "ugid": "252158",
-      "title": "Extraordinary Gazette of India, 2024-02-14",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "WESTERN RAILWAY",
-      "subject": "Publication of extraordinary gazette under PART II Section 3  SubSection ii Notification under Section 20A of the Railway Act, 1989 (24 of 1989) in connection with Quadrupling of Virar Dahanu Road Project of Palghar District.",
-      "gazette_id": "CG-MH-E-16022024-252158",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252158.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-14.252158/252158.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-14.252158",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-14/252158.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-14.252158/252158_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-14.252150",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-14",
-      "ugid": "252150",
-      "title": "Extraordinary Gazette of India, 2024-02-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-16022024-252150",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252150.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-14.252150/252150.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-14.252150",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-14/252150.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-14.252150/252150_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-23.246771",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-23",
+      "ugid": "246771",
+      "title": "Extraordinary Gazette of India, 2023-06-23",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "Eleventh amendment",
+      "gazette_id": "CG-DL-E-23062023-246771",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246771.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-23.246771/246771.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-23.246771",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-23/246771.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-23.246770",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-23",
+      "ugid": "246770",
+      "title": "Extraordinary Gazette of India, 2023-06-23",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "Notification No.44/2023 approval under clause iii of sub section 1 of section 35 of Income Tax Act 1961",
+      "gazette_id": "CG-DL-E-23062023-246770",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246770.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-23.246770/246770.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-23.246770",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-23/246770.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-22.246769",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57825,52 +57871,6 @@
       "ia_identifier": "in.gazette.central.e.2023-02-24.243909",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-02-24/243909.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-24.243908",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-24",
-      "ugid": "243908",
-      "title": "Extraordinary Gazette of India, 2023-02-24",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
-      "office": "",
-      "subject": "Bicycles Retro Reflective Devices (Quality Control) Order 2023",
-      "gazette_id": "CG-DL-E-24022023-243908",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243908.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-24.243908/243908.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-24.243908",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-24/243908.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-24.243906",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-24",
-      "ugid": "243906",
-      "title": "Extraordinary Gazette of India, 2023-02-24",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India. RoU in land for laying pipelines under Tripura Project in the sub Division of Sadar in the West Tripura District of Tripura State",
-      "gazette_id": "CG-DL-E-24022023-243906",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/243906.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-24.243906/243906.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-24.243906",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-24/243906.pdf",
       "topics": []
     }
   ],

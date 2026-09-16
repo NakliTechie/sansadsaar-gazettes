@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2025-02-01.260936",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-02-01",
+      "ugid": "260936",
+      "title": "Weekly Gazette of India, 2025-02-01",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-13022025-260936",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260936.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-02-01.260936/260936.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-02-01.260936",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-02-01/260936.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-02-01.260936/260936_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-01.260786",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-01",
+      "ugid": "260786",
+      "title": "Extraordinary Gazette of India, 2025-02-01",
+      "ministry": "Lok Sabha Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "The Finance Bill,2025",
+      "gazette_id": "CG-DL-E-06022025-260786",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260786.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-01.260786/260786.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-01.260786",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-01/260786.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-01.260786/260786_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2025-02-01.260749",
       "category": "weekly",
       "type_letter": "w",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-10-18/258085.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-18.258085/258085_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-18.258084",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-18",
-      "ugid": "258084",
-      "title": "Extraordinary Gazette of India, 2024-10-18",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules,",
-      "gazette_id": "CG-DL-E-21102024-258084",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258084.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-18.258084/258084.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-18.258084",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-18/258084.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-18.258084/258084_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-18.258083",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-18",
-      "ugid": "258083",
-      "title": "Extraordinary Gazette of India, 2024-10-18",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for North East Natural Gas Pipeline Grid Project of M/s. Indradhanush Gas Grid Limited (IGGL).",
-      "gazette_id": "CG-DL-E-19102024-258083",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258083.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-18.258083/258083.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-18.258083",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-18/258083.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-18.258083/258083_djvu.txt"
     }
   ],
   "count": 2500,

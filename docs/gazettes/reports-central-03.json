@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-09-30.266586",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-30",
+      "ugid": "266586",
+      "title": "Extrordinary Gazette of India, 2025-09-30",
+      "ministry": "Reserve Bank of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by clause  a of sub section  2 of section 6 and section 47 of the Foreign Exchange Management Act",
+      "gazette_id": "CG-MH-E-01102025-266586",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266586.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-30.266586/266586.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-30.266586",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-30/266586.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-30.266586/266586_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-09-30.266580",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-09-30",
+      "ugid": "266580",
+      "title": "Extrordinary Gazette of India, 2025-09-30",
+      "ministry": "Ministry of Heavy Industries",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Amendment to PMP for e buses under the PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E DRIVE) Scheme",
+      "gazette_id": "CG-DL-E-01102025-266580",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266580.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-09-30.266580/266580.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-09-30.266580",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-09-30/266580.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-09-30.266580/266580_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-09-30.266575",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-06-03/263598.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-03.263598/263598_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-03.263594",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-03",
-      "ugid": "263594",
-      "title": "Extraordinary Gazette of India, 2025-06-03",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "ESZ Division",
-      "office": "",
-      "subject": "Draft notification of Ramgarh Vishdhari Tiger Reserve in the state of Rajasthan",
-      "gazette_id": "CG-DL-E-04062025-263594",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263594.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-03.263594/263594.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-03.263594",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-03/263594.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-03.263594/263594_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-02.263674",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-02",
-      "ugid": "263674",
-      "title": "Extraordinary Gazette of India, 2025-06-02",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Election Petition no.1 of 2019",
-      "gazette_id": "CG-DL-E-09062025-263674",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263674.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-02.263674/263674.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-02.263674",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-02/263674.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-02.263674/263674_djvu.txt"
     }
   ],
   "count": 2500,
