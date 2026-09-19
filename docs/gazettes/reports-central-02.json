@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-13.270115",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-13",
+      "ugid": "270115",
+      "title": "Extrordinary Gazette of India, 2026-02-13",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
+      "office": "",
+      "subject": "Notifying Furniture Quality Control Amendment Order 2026",
+      "gazette_id": "CG-DL-E-13022026-270115",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270115.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-13.270115/270115.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-13.270115",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-13/270115.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-13.270115/270115_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-13.270114",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-13",
+      "ugid": "270114",
+      "title": "Extrordinary Gazette of India, 2026-02-13",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Ports Wing",
+      "office": "",
+      "subject": "Notification for Import of petroleum product by sea at Hazira Port",
+      "gazette_id": "CG-DL-E-13022026-270114",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270114.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-13.270114/270114.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-13.270114",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-13/270114.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-13.270114/270114_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-13.270100",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/w/2025-10-04/266654.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-10-04.266654/266654_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-03.266838",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-03",
-      "ugid": "266838",
-      "title": "Extrordinary Gazette of India, 2025-10-03",
-      "ministry": "Institute of Chartered Accountants of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Regulation 22 of the Chartered Accountants Regulations, 1988, the Council of the Institute of Chartered Accountants of India",
-      "gazette_id": "CG-DL-E-10102025-266838",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266838.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-03.266838/266838.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-03.266838",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-03/266838.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-03.266838/266838_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-03.266719",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-03",
-      "ugid": "266719",
-      "title": "Extrordinary Gazette of India, 2025-10-03",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Environmental Impact Assessment (EIA) Division",
-      "office": "",
-      "subject": "Draft Notification for the exemption of Common Effluent Treatment Plants (CETPs) from the requirement of EC",
-      "gazette_id": "CG-DL-E-07102025-266719",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266719.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-03.266719/266719.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-03.266719",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-03/266719.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-03.266719/266719_djvu.txt"
     }
   ],
   "count": 2500,

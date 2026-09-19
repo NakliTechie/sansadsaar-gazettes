@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-02-28.244010",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-28",
+      "ugid": "244010",
+      "title": "Extraordinary Gazette of India, 2023-02-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A MORTH",
+      "gazette_id": "CG-DL-E-01032023-244010",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244010.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-28.244010/244010.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-28.244010",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-28/244010.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-02-28.244010/244010_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-02-28.244004",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-02-28",
+      "ugid": "244004",
+      "title": "Extraordinary Gazette of India, 2023-02-28",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules,",
+      "gazette_id": "CG-DL-E-01032023-244004",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244004.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-28.244004/244004.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-02-28.244004",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-02-28/244004.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-02-28.244004/244004_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-02-28.244003",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57854,52 +57902,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-15.240320",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-15/240320.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-15.240319",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-15",
-      "ugid": "240319",
-      "title": "Extraordinary Gazette of India, 2022-11-15",
-      "ministry": "Ministry of Jal Shakti",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sub sections 1 and 3 of section 3 of the Environment Protection Act",
-      "gazette_id": "CG-DL-E-16112022-240319",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240319.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-15.240319/240319.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-15.240319",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-15/240319.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-15.240318",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-15",
-      "ugid": "240318",
-      "title": "Extraordinary Gazette of India, 2022-11-15",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of user fee notification",
-      "gazette_id": "CG-DL-E-16112022-240318",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240318.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-15.240318/240318.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-15.240318",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-15/240318.pdf",
       "topics": []
     }
   ],

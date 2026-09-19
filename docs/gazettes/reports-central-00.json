@@ -2299,6 +2299,52 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-09.276081/276081_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-09-08.276286",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-08",
+      "ugid": "276286",
+      "title": "Extraordinary Gazette of India, 2026-09-08",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby",
+      "gazette_id": "CG-DL-E-17092026-276286",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276286.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-08.276286/276286.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-08.276286",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-08/276286.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-08.276279",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-08",
+      "ugid": "276279",
+      "title": "Extraordinary Gazette of India, 2026-09-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Arbitrator File",
+      "gazette_id": "CG-DL-E-17092026-276279",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276279.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-08.276279/276279.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-08.276279",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-08/276279.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-09-08.276278",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58665,53 +58711,6 @@
       "mirror_path": "pdf/central/e/2026-05-20/272782.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272782/272782_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272781",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272781",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "North Central Railway",
-      "subject": "Publication of notification in the extra ordinary Gazette of India under the Railway Act, 1989",
-      "gazette_id": "CG-UP-E-21052026-272781",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272781.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272781/272781.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272781",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272781.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272781/272781_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272780",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272780",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "Publication of Notification in the Extraordinary Gazette of India, under Section 2(37A) the Railways Act, 1989",
-      "gazette_id": "CG-DL-E-21052026-272780",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272780.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272780/272780.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272780",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272780.pdf",
-      "topics": []
     }
   ],
   "count": 2500,

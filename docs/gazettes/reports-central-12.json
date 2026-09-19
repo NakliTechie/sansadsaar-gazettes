@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-15.240319",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-15",
+      "ugid": "240319",
+      "title": "Extraordinary Gazette of India, 2022-11-15",
+      "ministry": "Ministry of Jal Shakti",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub sections 1 and 3 of section 3 of the Environment Protection Act",
+      "gazette_id": "CG-DL-E-16112022-240319",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240319.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-15.240319/240319.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-15.240319",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-15/240319.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-15.240318",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-15",
+      "ugid": "240318",
+      "title": "Extraordinary Gazette of India, 2022-11-15",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-16112022-240318",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240318.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-15.240318/240318.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-15.240318",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-15/240318.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-15.240317",
       "category": "extraordinary",
       "type_letter": "e",
@@ -22096,7 +22142,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 957,
+  "count": 959,
   "category": "central",
   "shard_index": 12
 }

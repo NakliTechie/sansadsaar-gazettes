@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-18.249537",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-18",
+      "ugid": "249537",
+      "title": "Extraordinary Gazette of India, 2023-10-18",
+      "ministry": "Ministry of Personnel, Public Grievances and Pensions",
+      "department": "Department of Personnel and Training",
+      "office": "Department of Personnel and Training",
+      "subject": "Corrigendum to the notification dated 21st September, 2023 on Rules for Combined Section Officers (Grade B) Limited Departmental Competitive Examination, 2023",
+      "gazette_id": "CG-DL-E-18102023-249537",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249537.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-18.249537/249537.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-18.249537",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-18/249537.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-18.249536",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-18",
+      "ugid": "249536",
+      "title": "Extraordinary Gazette of India, 2023-10-18",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Export of Non Basmati White Rice (under HS code 1006 30 90) to Nepal, Cameroon, Cote d Ivore, Republic of Guinea, Malaysia, Philippines and Seychelles.",
+      "gazette_id": "CG-DL-E-18102023-249536",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249536.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-18.249536/249536.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-18.249536",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-18/249536.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-18.249535",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58247,52 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-06-28.246878",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-06-28/246878.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-28.246874",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-28",
-      "ugid": "246874",
-      "title": "Extraordinary Gazette of India, 2023-06-28",
-      "ministry": "National Medical Commission",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the overall powers conferred upon the National Medical Commission in general and particularly vide Section 15 read with Section 57 of the National Medical Commission Act,",
-      "gazette_id": "CG-DL-E-30062023-246874",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246874.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-28.246874/246874.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-28.246874",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-28/246874.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-28.246873",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-28",
-      "ugid": "246873",
-      "title": "Extraordinary Gazette of India, 2023-06-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-30062023-246873",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246873.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-28.246873/246873.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-28.246873",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-28/246873.pdf",
       "topics": []
     }
   ],

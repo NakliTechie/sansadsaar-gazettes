@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-28.246874",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-28",
+      "ugid": "246874",
+      "title": "Extraordinary Gazette of India, 2023-06-28",
+      "ministry": "National Medical Commission",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the overall powers conferred upon the National Medical Commission in general and particularly vide Section 15 read with Section 57 of the National Medical Commission Act,",
+      "gazette_id": "CG-DL-E-30062023-246874",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246874.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-28.246874/246874.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-28.246874",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-28/246874.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-28.246873",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-28",
+      "ugid": "246873",
+      "title": "Extraordinary Gazette of India, 2023-06-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-30062023-246873",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246873.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-28.246873/246873.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-28.246873",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-28/246873.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-28.246872",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57771,54 +57817,6 @@
       "mirror_path": "pdf/central/e/2023-02-28/244013.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-02-28.244013/244013_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-28.244010",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-28",
-      "ugid": "244010",
-      "title": "Extraordinary Gazette of India, 2023-02-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A MORTH",
-      "gazette_id": "CG-DL-E-01032023-244010",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244010.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-28.244010/244010.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-28.244010",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-28/244010.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-02-28.244010/244010_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-02-28.244004",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-02-28",
-      "ugid": "244004",
-      "title": "Extraordinary Gazette of India, 2023-02-28",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules,",
-      "gazette_id": "CG-DL-E-01032023-244004",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244004.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-02-28.244004/244004.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-02-28.244004",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-02-28/244004.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-02-28.244004/244004_djvu.txt"
     }
   ],
   "count": 2500,
