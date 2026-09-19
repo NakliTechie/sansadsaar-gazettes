@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-09-17.276318",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-17",
+      "ugid": "276318",
+      "title": "Extraordinary Gazette of India, 2026-09-17",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of Egazette Notification for Declaration of acquisition of land under Section 20(E) for land acquisition for 10 villages Chitoda, Barbadi, Mandavgad, Bhugaon, Dhanora, Aashta, Bhankheda, Saonegaon, Goji, Raifuli Tq. Wardha Dist. Wardha for Quadrupling of Wardha  Ballarshah (135 KM) on Delhi  Chennai High Density Network (HDN) Route under  the Railways Act, 1989 (24 of 1989).",
+      "gazette_id": "CG-MH-E-18092026-276318",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276318.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-17.276318/276318.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-17.276318",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-17/276318.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-17.276312",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-17",
+      "ugid": "276312",
+      "title": "Extraordinary Gazette of India, 2026-09-17",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "Western Railway",
+      "subject": "Publication of notification of extraordinary gazette under Part II section 3 Sub Section (I) Notification under clause 20A of the Railway Act 1989 (24 of 1989) for land to be acquired in connection with Special Railway Project namely Ratlam Indore Dr Ambedkar Nagar Khandwa Gauge Conversion Project in Khargone District of the State of Madhya Pradesh",
+      "gazette_id": "CG-MH-E-19092026-276312",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276312.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-17.276312/276312.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-17.276312",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-17/276312.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-17.276311",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-17",
+      "ugid": "276311",
+      "title": "Extraordinary Gazette of India, 2026-09-17",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Department of Legal Affairs",
+      "office": "Department of Legal Affairs",
+      "subject": "RE APPOINTMENT OF ASGs OF THREE HIGH COURTS",
+      "gazette_id": "CG-DL-E-18092026-276311",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276311.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-17.276311/276311.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-17.276311",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-17/276311.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-09-17.276305",
       "category": "extraordinary",
       "type_letter": "e",
@@ -385,6 +454,52 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-16.276236/276236_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-09-15.276323",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-15",
+      "ugid": "276323",
+      "title": "Extraordinary Gazette of India, 2026-09-15",
+      "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "department": "Department of Consumer Affairs",
+      "office": "Bureau of Indian Standards Section",
+      "subject": "LM Metrology General Fifth Amendment Rules 2026",
+      "gazette_id": "CG-DL-E-18092026-276323",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276323.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-15.276323/276323.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-15.276323",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-15/276323.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-15.276306",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-15",
+      "ugid": "276306",
+      "title": "Extraordinary Gazette of India, 2026-09-15",
+      "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "department": "Department of Food and Public Distribution",
+      "office": "",
+      "subject": "Incorporate alternate means of identification for aadhar authentication",
+      "gazette_id": "CG-DL-E-18092026-276306",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276306.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-15.276306/276306.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-15.276306",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-15/276306.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-09-15.276300",
       "category": "extraordinary",
       "type_letter": "e",
@@ -529,6 +644,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-15.276227/276227_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-09-14.276314",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-14",
+      "ugid": "276314",
+      "title": "Extraordinary Gazette of India, 2026-09-14",
+      "ministry": "Insurance Regulatory And Development Authority",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section (1) of section 23 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999), the Authority has delegated its powers for imposition of penalties",
+      "gazette_id": "CG-TL-E-18092026-276314",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276314.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-14.276314/276314.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-14.276314",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-14/276314.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-09-14.276228",
       "category": "extraordinary",
       "type_letter": "e",
@@ -668,6 +806,29 @@
       "ia_identifier": "in.gazette.central.e.2026-09-14.276167",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-09-14/276167.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-12.276320",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-12",
+      "ugid": "276320",
+      "title": "Extraordinary Gazette of India, 2026-09-12",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of Corrigendum required for correction in already published E Gazette Notification No. 4636 Dated 31.08.2026 for declaration of acquisition of land under Section 20(E) in connection with Kherwadi Railway station development of circulating area of Goods shed in UP direction for holding passengers during Kumbh Mela traffic in 2027 District Nashik under the Railways Act, 1989 (24 of 1989).",
+      "gazette_id": "CG-MH-E-18092026-276320",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276320.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-12.276320/276320.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-12.276320",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-12/276320.pdf",
       "topics": []
     },
     {
@@ -1649,6 +1810,29 @@
       "mirror_path": "pdf/central/e/2026-09-10/276197.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-10.276197/276197_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-09.276326",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-09",
+      "ugid": "276326",
+      "title": "Extraordinary Gazette of India, 2026-09-09",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of a Notification under Section 3(1) of the Petroleum and Minerals Pipelines (ARUL) Act 1962 regarding declaration of intension to acquire the Right of User in Land for laying of a Spur line from HVJ GREP DVPL Natural Gas Pipeline at Vijaipur to Bina in the State of Madhya Pradesh",
+      "gazette_id": "CG-DL-E-18092026-276326",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276326.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-09.276326/276326.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-09.276326",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-09/276326.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-09-09.276297",
@@ -58552,192 +58736,6 @@
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-05-20/272836.pdf",
       "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272822",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272822",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Merchant Shipping Radiocommunication rules 2026 under Merchant Shipping ACT 2025",
-      "gazette_id": "CG-DL-E-23052026-272822",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272822.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272822/272822.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272822",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272822.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272810",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272810",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Reserve Bank of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of clause  a of sub section  6 of Section 42 of the Reserve Bank of India Act, 1934 2 of 1934, the Reserve Bank of India hereby directs the inclusion in the Second Schedule",
-      "gazette_id": "CG-MH-E-22052026-272810",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272810.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272810/272810.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272810",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272810.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272794",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272794",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
-      "gazette_id": "CG-DL-E-23052026-272794",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272794.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272794/272794.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272794",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272794.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272791",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272791",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Construction",
-      "subject": "Publication of E Gazette Notification for Declaration of acquisition of land under Section 20(E) for Land Acquisition of Village Vehaloli, Taluka Shahapur in connection with Kalyan Asangaon 4th line.",
-      "gazette_id": "CG-MH-E-23052026-272791",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272791.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272791/272791.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272791",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272791.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272790",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272790",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Power",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification in respect of M/s Adani Wind Energy Kutchh Three Limited.",
-      "gazette_id": "CG-DL-E-23052026-272790",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272790.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272790/272790.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272790",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272790.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272787",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272787",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Construction",
-      "subject": "Publication of E gazette Notification for Declaration of acquisition of land under Section 20(E) for land acquisition for Gauge Conversion of Additional Hotgi Bye Pass line (5.85 Km) of Central Railway.",
-      "gazette_id": "CG-MH-E-23052026-272787",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272787.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272787/272787.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272787",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272787.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272786",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272786",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Environmental Impact Assessment (EIA) Division",
-      "office": "",
-      "subject": "Rationalization of the EC validity  for Ports and Harbors",
-      "gazette_id": "CG-DL-E-22052026-272786",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272786.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272786/272786.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272786",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272786.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272786/272786_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272782",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272782",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Construction",
-      "subject": "Publication of E gazette Notification for Declare intention to acquire land under Section 20(A) for land acquisition of villages Shri Keshtra Nagziri, Shegaon part 5, Kurkhed and Kherda of Shegaon Taluka in Buldhana District in connection with Bhusawal Badnera Wardha 3rd and 4th Line (313 Kms).",
-      "gazette_id": "CG-MH-E-21052026-272782",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272782.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272782/272782.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272782",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272782.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272782/272782_djvu.txt"
     }
   ],
   "count": 2500,
