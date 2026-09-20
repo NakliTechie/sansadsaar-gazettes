@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-18.249547",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-18",
+      "ugid": "249547",
+      "title": "Extraordinary Gazette of India, 2023-10-18",
+      "ministry": "Food Safety and Standards Authority of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred under sub section 5 of section 10 read with section 45 of the Food Safety and Standards Act,",
+      "gazette_id": "CG-DL-E-18102023-249547",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249547.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-18.249547/249547.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-18.249547",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-18/249547.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-18.249546",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-18",
+      "ugid": "249546",
+      "title": "Extraordinary Gazette of India, 2023-10-18",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of Returning Officer  for Parliamentary Constituency Odisha State",
+      "gazette_id": "CG-DL-E-18102023-249546",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249546.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-18.249546/249546.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-18.249546",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-18/249546.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-18.249545",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58247,52 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-06-28.246901",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-06-28/246901.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-28.246900",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-28",
-      "ugid": "246900",
-      "title": "Extraordinary Gazette of India, 2023-06-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a morth",
-      "gazette_id": "CG-DL-E-01072023-246900",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246900.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-28.246900/246900.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-28.246900",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-28/246900.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-28.246895",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-28",
-      "ugid": "246895",
-      "title": "Extraordinary Gazette of India, 2023-06-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "BNCAP",
-      "gazette_id": "CG-DL-E-30062023-246895",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246895.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-28.246895/246895.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-28.246895",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-28/246895.pdf",
       "topics": []
     }
   ],

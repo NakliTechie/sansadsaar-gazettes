@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-19.252236",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-19",
+      "ugid": "252236",
+      "title": "Extraordinary Gazette of India, 2024-02-19",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-19022024-252236",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252236.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-19.252236/252236.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-19.252236",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-19/252236.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-19.252236/252236_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-19.252235",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-19",
+      "ugid": "252235",
+      "title": "Extraordinary Gazette of India, 2024-02-19",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-19022024-252235",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252235.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-19.252235/252235.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-19.252235",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-19/252235.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-19.252235/252235_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-19.252234",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58422,52 +58470,6 @@
       "ia_identifier": "in.gazette.central.e.2023-10-18.249548",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-10-18/249548.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-18.249547",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-18",
-      "ugid": "249547",
-      "title": "Extraordinary Gazette of India, 2023-10-18",
-      "ministry": "Food Safety and Standards Authority of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred under sub section 5 of section 10 read with section 45 of the Food Safety and Standards Act,",
-      "gazette_id": "CG-DL-E-18102023-249547",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249547.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-18.249547/249547.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-18.249547",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-18/249547.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-18.249546",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-18",
-      "ugid": "249546",
-      "title": "Extraordinary Gazette of India, 2023-10-18",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Appointment of Returning Officer  for Parliamentary Constituency Odisha State",
-      "gazette_id": "CG-DL-E-18102023-249546",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249546.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-18.249546/249546.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-18.249546",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-18/249546.pdf",
       "topics": []
     }
   ],

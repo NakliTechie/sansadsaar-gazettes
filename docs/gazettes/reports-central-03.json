@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-10-06.266683",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-06",
+      "ugid": "266683",
+      "title": "Extrordinary Gazette of India, 2025-10-06",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of RO and ARO for the Bye election to Council of States from Punjab for the seat vacated by Shri Sanjeev Arora",
+      "gazette_id": "CG-DL-E-06102025-266683",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266683.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-06.266683/266683.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-06.266683",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-06/266683.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-06.266683/266683_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-10-06.266681",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-06",
+      "ugid": "266681",
+      "title": "Extrordinary Gazette of India, 2025-10-06",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification for the Biennial elections to Council of States from UT of Jammu and Kashmir for the two seats of Shri Ghulam Nabi Azad and Shri Nazir Ahmed Laway",
+      "gazette_id": "CG-DL-E-06102025-266681",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266681.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-06.266681/266681.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-06.266681",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-06/266681.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-06.266681/266681_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-10-06.266680",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-06-13/263802.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263802/263802_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-13.263801",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-13",
-      "ugid": "263801",
-      "title": "Extraordinary Gazette of India, 2025-06-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-14062025-263801",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263801.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263801/263801.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-13.263801",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-13/263801.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263801/263801_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-13.263800",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-13",
-      "ugid": "263800",
-      "title": "Extraordinary Gazette of India, 2025-06-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-14062025-263800",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263800.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263800/263800.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-13.263800",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-13/263800.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263800/263800_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2026-09-19.276329",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-09-19",
+      "ugid": "276329",
+      "title": "Weekly Gazette of India, 2026-09-19",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-19092026-276329",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276329.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-09-19.276329/276329.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-09-19.276329",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-09-19/276329.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-09-19.276328",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-09-19",
+      "ugid": "276328",
+      "title": "Weekly Gazette of India, 2026-09-19",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-19092026-276328",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276328.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-09-19.276328/276328.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-09-19.276328",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-09-19/276328.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-09-17.276318",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58695,52 +58741,6 @@
       "mirror_path": "pdf/central/e/2026-05-21/272765.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-21.272765/272765_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272868",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272868",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Merchant Shipping Prevention of Pollution by garbage from Vessels rules 2026 under Merchant Shipping Act 2025",
-      "gazette_id": "CG-DL-E-26052026-272868",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272868.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272868/272868.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272868",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272868.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-20.272836",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-20",
-      "ugid": "272836",
-      "title": "Extrordinary Gazette of India, 2026-05-20",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Merchant Shipping National Shipping Board Rules 2026 under Merchant Shipping Act 2025",
-      "gazette_id": "CG-DL-E-23052026-272836",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272836.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-20.272836/272836.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-20.272836",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-20/272836.pdf",
-      "topics": []
     }
   ],
   "count": 2500,

@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-13.263801",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-13",
+      "ugid": "263801",
+      "title": "Extraordinary Gazette of India, 2025-06-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-14062025-263801",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263801.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263801/263801.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-13.263801",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-13/263801.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263801/263801_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-13.263800",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-13",
+      "ugid": "263800",
+      "title": "Extraordinary Gazette of India, 2025-06-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-14062025-263800",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263800.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263800/263800.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-13.263800",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-13/263800.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263800/263800_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-13.263799",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-07/260860.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-07.260860/260860_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-07.260859",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-07",
-      "ugid": "260859",
-      "title": "Extraordinary Gazette of India, 2025-02-07",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-09022025-260859",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260859.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-07.260859/260859.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-07.260859",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-07/260859.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-07.260859/260859_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-07.260858",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-07",
-      "ugid": "260858",
-      "title": "Extraordinary Gazette of India, 2025-02-07",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-09022025-260858",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260858.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-07.260858/260858.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-07.260858",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-07/260858.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-07.260858/260858_djvu.txt"
     }
   ],
   "count": 2500,

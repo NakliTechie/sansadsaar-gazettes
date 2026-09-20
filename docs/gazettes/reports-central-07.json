@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-06-21.254916",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-06-21",
+      "ugid": "254916",
+      "title": "Extraordinary Gazette of India, 2024-06-21",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-25062024-254916",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254916.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-21.254916/254916.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-06-21.254916",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-06-21/254916.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-21.254916/254916_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-06-21.254915",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-06-21",
+      "ugid": "254915",
+      "title": "Extraordinary Gazette of India, 2024-06-21",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-25062024-254915",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254915.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-21.254915/254915.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-06-21.254915",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-06-21/254915.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-21.254915/254915_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-06-21.254913",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-19/252237.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-19.252237/252237_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-19.252236",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-19",
-      "ugid": "252236",
-      "title": "Extraordinary Gazette of India, 2024-02-19",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-19022024-252236",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252236.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-19.252236/252236.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-19.252236",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-19/252236.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-19.252236/252236_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-19.252235",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-19",
-      "ugid": "252235",
-      "title": "Extraordinary Gazette of India, 2024-02-19",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-19022024-252235",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252235.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-19.252235/252235.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-19.252235",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-19/252235.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-19.252235/252235_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-02-07.260859",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-07",
+      "ugid": "260859",
+      "title": "Extraordinary Gazette of India, 2025-02-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-09022025-260859",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260859.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-07.260859/260859.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-07.260859",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-07/260859.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-07.260859/260859_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-07.260858",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-07",
+      "ugid": "260858",
+      "title": "Extraordinary Gazette of India, 2025-02-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-09022025-260858",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260858.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-07.260858/260858.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-07.260858",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-07/260858.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-07.260858/260858_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-02-07.260857",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-10-23/258186.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-23.258186/258186_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-23.258185",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-23",
-      "ugid": "258185",
-      "title": "Extraordinary Gazette of India, 2024-10-23",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Western Railway",
-      "subject": "Notification under clause 20E of section 2 of the Railway Act 1989 24 of 1989 for land to be acquired in connection with Special Railway Project , namely, Gauge Conversion of Vijapur Ambaliyasan (Western Railway) in  Ganghinagar  District of Gujarat State",
-      "gazette_id": "CG-MH-E-23102024-258185",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258185.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-23.258185/258185.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-23.258185",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-23/258185.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-23.258185/258185_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-23.258184",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-23",
-      "ugid": "258184",
-      "title": "Extraordinary Gazette of India, 2024-10-23",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Contruction",
-      "subject": "Publication of E gazette Notification for Nominated By District Collector Khargaone (Madhya Pradesh) as a competent authority under Section 7(A) for land acquisition for Manmad Indore New Line (New line between Manmad to New Dhule and Nardana to Dr. Ambedkar Nagar (309.43 Kms) under Railway (Amendment) Act 2008.",
-      "gazette_id": "CG-MH-E-23102024-258184",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258184.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-23.258184/258184.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-23.258184",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-23/258184.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-23.258184/258184_djvu.txt"
     }
   ],
   "count": 2500,
