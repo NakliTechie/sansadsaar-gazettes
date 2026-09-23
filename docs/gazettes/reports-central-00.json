@@ -1101,6 +1101,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-09-14.276170",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-14",
+      "ugid": "276170",
+      "title": "Extraordinary Gazette of India, 2026-09-14",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Financial Services",
+      "office": "",
+      "subject": "Publication of Extra ordinary Notification",
+      "gazette_id": "CG-DL-E-14092026-276170",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276170.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-14.276170/276170.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-14.276170",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-14/276170.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-09-14.276167",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58733,29 +58756,6 @@
       "ia_identifier": "in.gazette.central.e.2026-05-22.272806",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-05-22/272806.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-22.272805",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-22",
-      "ugid": "272805",
-      "title": "Extrordinary Gazette of India, 2026-05-22",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Construction",
-      "subject": "Publication of E gazette Notification for Declaration of acquisition of land under Section 20(E) for land acquisition of Village  Betawade in Thane Taluka in connection with Double chord line between Nilje and Kopar Railway project.",
-      "gazette_id": "CG-MH-E-22052026-272805",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272805.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-22.272805/272805.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-22.272805",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-22/272805.pdf",
       "topics": []
     }
   ],

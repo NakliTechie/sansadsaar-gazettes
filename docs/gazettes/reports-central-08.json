@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-20.252257",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-20",
+      "ugid": "252257",
+      "title": "Extraordinary Gazette of India, 2024-02-20",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
+      "office": "",
+      "subject": "Essential Commodities Act,1955",
+      "gazette_id": "CG-DL-E-20022024-252257",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252257.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-20.252257/252257.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-20.252257",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-20/252257.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-20.252257/252257_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-20.252256",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58466,29 +58490,6 @@
       "ia_identifier": "in.gazette.central.e.2023-10-19.249573",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-10-19/249573.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-19.249572",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-19",
-      "ugid": "249572",
-      "title": "Extraordinary Gazette of India, 2023-10-19",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Indirect Taxes and Customs",
-      "subject": "notification amending 11 and 12 of 2017",
-      "gazette_id": "CG-DL-E-20102023-249572",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249572.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-19.249572/249572.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-19.249572",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-19/249572.pdf",
       "topics": []
     }
   ],

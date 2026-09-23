@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-13.263823",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-13",
+      "ugid": "263823",
+      "title": "Extraordinary Gazette of India, 2025-06-13",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Contruction",
+      "subject": "Publication of E gazette Notification for Declaration to intention to acquire land under Section 20A for land acquisition for Manmad Jalgaon 4th Line",
+      "gazette_id": "CG-MH-E-15062025-263823",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263823.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263823/263823.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-13.263823",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-13/263823.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263823/263823_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-13.263822",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-10/260876.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-10.260876/260876_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-10.260875",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-10",
-      "ugid": "260875",
-      "title": "Extraordinary Gazette of India, 2025-02-10",
-      "ministry": "Ministry of Power",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Authorization laying of overhead transmission line under the transmission scheme Western Region Network Expansion scheme in Kallam area of Maharashtra",
-      "gazette_id": "CG-DL-E-10022025-260875",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260875.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-10.260875/260875.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-10.260875",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-10/260875.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-10.260875/260875_djvu.txt"
     }
   ],
   "count": 2500,

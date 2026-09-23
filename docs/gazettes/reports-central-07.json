@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2024-06-22.255101",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-06-22",
+      "ugid": "255101",
+      "title": "Weekly Gazette of India, 2024-06-22",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-03072024-255101",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255101.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-06-22.255101/255101.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-06-22.255101",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-06-22/255101.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-06-22.255101/255101_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-06-22.254966",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-20/252258.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-20.252258/252258_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-20.252257",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-20",
-      "ugid": "252257",
-      "title": "Extraordinary Gazette of India, 2024-02-20",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
-      "office": "",
-      "subject": "Essential Commodities Act,1955",
-      "gazette_id": "CG-DL-E-20022024-252257",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252257.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-20.252257/252257.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-20.252257",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-20/252257.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-20.252257/252257_djvu.txt"
     }
   ],
   "count": 2500,

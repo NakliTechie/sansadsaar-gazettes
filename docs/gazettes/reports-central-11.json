@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-01.244020",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-01",
+      "ugid": "244020",
+      "title": "Extraordinary Gazette of India, 2023-03-01",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a morth",
+      "gazette_id": "CG-DL-E-01032023-244020",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244020.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-01.244020/244020.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-01.244020",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-01/244020.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-01.244020/244020_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-01.244019",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57908,29 +57932,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-16.240350",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-16/240350.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-16.240349",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-16",
-      "ugid": "240349",
-      "title": "Extraordinary Gazette of India, 2022-11-16",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-17112022-240349",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240349.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-16.240349/240349.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-16.240349",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-16/240349.pdf",
       "topics": []
     }
   ],

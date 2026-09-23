@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-10-24.258210",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-10-24",
+      "ugid": "258210",
+      "title": "Extraordinary Gazette of India, 2024-10-24",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Central Railway",
+      "subject": "PublicationofGazetteNotificationtodeclareBikramshilaKatereahnewrailline2623ofEastCentralRailwayasaSpecialRailwayProjectintheStateofBihar",
+      "gazette_id": "CG-BR-E-24102024-258210",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258210.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-24.258210/258210.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-10-24.258210",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-10-24/258210.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-24.258210/258210_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-10-24.258205",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/w/2024-06-22/255322.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-06-22.255322/255322_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2024-06-22.255101",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2024-06-22",
-      "ugid": "255101",
-      "title": "Weekly Gazette of India, 2024-06-22",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-03072024-255101",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255101.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-06-22.255101/255101.pdf",
-      "ia_identifier": "in.gazette.central.w.2024-06-22.255101",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2024-06-22/255101.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-06-22.255101/255101_djvu.txt"
     }
   ],
   "count": 2500,
