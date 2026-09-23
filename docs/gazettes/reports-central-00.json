@@ -1486,6 +1486,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-15.276227/276227_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-09-14.276397",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-14",
+      "ugid": "276397",
+      "title": "Extraordinary Gazette of India, 2026-09-14",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "Aluminium foil 80 micron",
+      "gazette_id": "CG-DL-E-22092026-276397",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276397.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-14.276397/276397.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-14.276397",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-14/276397.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-09-14.276350",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1719,6 +1742,98 @@
       "ia_identifier": "in.gazette.central.e.2026-09-14.276167",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-09-14/276167.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-09-12.276419",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-09-12",
+      "ugid": "276419",
+      "title": "Weekly Gazette of India, 2026-09-12",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-23092026-276419",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276419.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-09-12.276419/276419.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-09-12.276419",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-09-12/276419.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-12.276385",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-12",
+      "ugid": "276385",
+      "title": "Extraordinary Gazette of India, 2026-09-12",
+      "ministry": "Ministry of Railways",
+      "department": "West Central Railway",
+      "office": "Kota Division",
+      "subject": "Gazette Notification under section 20E for ROB at LC No. 123 in Nagda Mathura section of Kota Division, West Central Railway",
+      "gazette_id": "CG-RJ-E-22092026-276385",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276385.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-12.276385/276385.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-12.276385",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-12/276385.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-12.276384",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-12",
+      "ugid": "276384",
+      "title": "Extraordinary Gazette of India, 2026-09-12",
+      "ministry": "Ministry of Railways",
+      "department": "West Central Railway",
+      "office": "Kota Division",
+      "subject": "Gazette Notification under section 20E for ROB at LC No 128 at Nagda Mathura section in Kota Division, West Central Railway",
+      "gazette_id": "CG-RJ-E-22092026-276384",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276384.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-12.276384/276384.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-12.276384",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-12/276384.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-12.276380",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-12",
+      "ugid": "276380",
+      "title": "Extraordinary Gazette of India, 2026-09-12",
+      "ministry": "Ministry of Railways",
+      "department": "South Eastern Railway Construction Organisation",
+      "office": "Chief Admn. Officer, South Eastern Railway, Garden Reach",
+      "subject": "20AGN",
+      "gazette_id": "CG-WB-E-22092026-276380",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276380.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-12.276380/276380.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-12.276380",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-12/276380.pdf",
       "topics": []
     },
     {
@@ -2124,6 +2239,29 @@
       "mirror_path": "pdf/central/w/2026-09-12/276138.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-09-12.276138/276138_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-10.276423",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-10",
+      "ugid": "276423",
+      "title": "Extraordinary Gazette of India, 2026-09-10",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire of land under Section 20(A) for land acquisition in 2 villages of Taluka Nandgaon Khandeshwar and 14 villages of Taluka Dhamangaon Railway, Dist. Amravati in connection with project Bhusawal Badnera Wardha 3rd and 4th Line (313 Kms) under the Railways Act, 1989 (24 of 1989).",
+      "gazette_id": "CG-MH-E-23092026-276423",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276423.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-10.276423/276423.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-10.276423",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-10/276423.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-09-10.276315",
@@ -3539,6 +3677,29 @@
       "mirror_path": "pdf/central/e/2026-09-09/276081.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-09.276081/276081_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-08.276387",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-08",
+      "ugid": "276387",
+      "title": "Extraordinary Gazette of India, 2026-09-08",
+      "ministry": "Tripura University",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "This may be called the Amendment in Statute 12A (1) regarding the Constitution of the Executive Council, Tripura University as communicated by the Govt. of India, Ministry of Education",
+      "gazette_id": "CG-TR-E-22092026-276387",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276387.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-08.276387/276387.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-08.276387",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-08/276387.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-09-08.276286",
@@ -5184,6 +5345,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-07.276045/276045_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.w.2026-09-05.276420",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-09-05",
+      "ugid": "276420",
+      "title": "Weekly Gazette of India, 2026-09-05",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-23092026-276420",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276420.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-09-05.276420/276420.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-09-05.276420",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-09-05/276420.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2026-09-05.276237",
       "category": "weekly",
       "type_letter": "w",
@@ -5677,6 +5861,52 @@
       "ia_identifier": "in.gazette.central.w.2026-09-05.275981",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-09-05/275981.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-03.276396",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-03",
+      "ugid": "276396",
+      "title": "Extraordinary Gazette of India, 2026-09-03",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "Final findings in SSR of Certain flat rolled products from China PR",
+      "gazette_id": "CG-DL-E-22092026-276396",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276396.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-03.276396/276396.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-03.276396",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-03/276396.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-03.276359",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-03",
+      "ugid": "276359",
+      "title": "Extraordinary Gazette of India, 2026-09-03",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Prevention of Pollution by oil from Vessels rules 2026",
+      "gazette_id": "CG-DL-E-22092026-276359",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276359.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-03.276359/276359.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-03.276359",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-03/276359.pdf",
       "topics": []
     },
     {
@@ -9150,6 +9380,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-31.275860/275860_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.w.2026-08-29.276411",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-08-29",
+      "ugid": "276411",
+      "title": "Weekly Gazette of India, 2026-08-29",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-23092026-276411",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276411.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-08-29.276411/276411.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-08-29.276411",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-08-29/276411.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2026-08-29.275932",
       "category": "weekly",
       "type_letter": "w",
@@ -11928,6 +12181,52 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-25.275735/275735_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-08-24.276164",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-24",
+      "ugid": "276164",
+      "title": "Extraordinary Gazette of India, 2026-08-24",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Khadki Cantt Board",
+      "gazette_id": "CG-DL-E-14092026-276164",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276164.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-24.276164/276164.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-24.276164",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-24/276164.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-24.276147",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-24",
+      "ugid": "276147",
+      "title": "Extraordinary Gazette of India, 2026-08-24",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Kasauli Cantt Board",
+      "gazette_id": "CG-DL-E-12092026-276147",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276147.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-24.276147/276147.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-24.276147",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-24/276147.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-24.276124",
       "category": "extraordinary",
       "type_letter": "e",
@@ -13366,6 +13665,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-24.275702/275702_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.w.2026-08-22.276351",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-08-22",
+      "ugid": "276351",
+      "title": "Weekly Gazette of India, 2026-08-22",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-21092026-276351",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276351.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-08-22.276351/276351.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-08-22.276351",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-08-22/276351.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-08-22.275736",
       "category": "extraordinary",
       "type_letter": "e",
@@ -14394,6 +14716,29 @@
       "ia_identifier": "in.gazette.central.e.2026-08-21.275648",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-08-21/275648.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-08-20.276226",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-08-20",
+      "ugid": "276226",
+      "title": "Extraordinary Gazette of India, 2026-08-20",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Hony Commission to Army Personnel",
+      "gazette_id": "CG-DL-E-17092026-276226",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276226.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-08-20.276226/276226.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-08-20.276226",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-08-20/276226.pdf",
       "topics": []
     },
     {
@@ -16659,6 +17004,29 @@
       "mirror_path": "pdf/central/e/2026-08-17/275519.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-08-17.275519/275519_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-08-15.276166",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-08-15",
+      "ugid": "276166",
+      "title": "Weekly Gazette of India, 2026-08-15",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-16092026-276166",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276166.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-08-15.276166/276166.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-08-15.276166",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-08-15/276166.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.w.2026-08-15.276020",
@@ -58383,375 +58751,6 @@
       "ia_identifier": "in.gazette.central.e.2026-05-25.272856",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-05-25/272856.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272855",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272855",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Ministry of Corporate Affairs",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Appointing 26 may 2026 as the date for certain provisions of IBC amendment act",
-      "gazette_id": "CG-DL-E-25052026-272855",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272855.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272855/272855.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272855",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272855.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272854",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272854",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Rajya Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Resignation of Shri Debashish Samantaray Member of Parliament of Rajya Sabha",
-      "gazette_id": "CG-DL-E-25052026-272854",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272854.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272854/272854.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272854",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272854.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272853",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272853",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Economic Affairs",
-      "office": "Budget Division",
-      "subject": "Auction for Sale (re issue) of (i) 6.68pc GS 2040 (ii) 7.43pc GS 2076",
-      "gazette_id": "CG-DL-E-25052026-272853",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272853.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272853/272853.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272853",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272853.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272852",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272852",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extraordinary Gazette of India 6(1) of Petroleum and Minerals Pipelines Act, 1962 (50 of 1962), for Acquisition of Right of User (ROU) in land for laying underground pipeline from 4 Inch Diameter Flow Line from D4 to D61 in the State of Gujarat.",
-      "gazette_id": "CG-DL-E-25052026-272852",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272852.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272852/272852.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272852",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272852.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272851",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272851",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Publication of Notification in the Gazette of India us 3(1) of the PMP Act, 1962 for acquisition of Right of User (RoU) in Land for laying pipeline from LNC225 252 TO LNC069 in the State of Gujarat.",
-      "gazette_id": "CG-DL-E-25052026-272851",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272851.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272851/272851.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272851",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272851.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272850",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272850",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Ministry of Law  and Justice",
-      "department": "Legislative Department",
-      "office": "",
-      "subject": "THE ANDAMAN AND NICOBAR ISLANDS FIRE AND EMERGENCY SERVICE REGULATION, 2026",
-      "gazette_id": "CG-DL-E-25052026-272850",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272850.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272850/272850.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272850",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272850.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272849",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272849",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1  of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Amendments to Indian standards",
-      "gazette_id": "CG-DL-E-25052026-272849",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272849.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272849/272849.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272849",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272849.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272848",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272848",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1  of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Amendments to Indian standards",
-      "gazette_id": "CG-DL-E-25052026-272848",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272848.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272848/272848.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272848",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272848.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272847",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272847",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Ministry of Youth Affairs and Sports",
-      "department": "Department of Sports",
-      "office": "",
-      "subject": "Notification of NST Rules 2026",
-      "gazette_id": "CG-DL-E-25052026-272847",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272847.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272847/272847.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272847",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272847.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272846",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272846",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Liquefied Petroleum Gas (Regulation of Supply and Distribution) Amendment Order, 2026.",
-      "gazette_id": "CG-DL-E-25052026-272846",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272846.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272846/272846.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272846",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272846.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-25.272844",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-25",
-      "ugid": "272844",
-      "title": "Extrordinary Gazette of India, 2026-05-25",
-      "ministry": "Ministry of Youth Affairs and Sports",
-      "department": "Department of Sports",
-      "office": "",
-      "subject": "Notification of NSB Rules 2026",
-      "gazette_id": "CG-DL-E-25052026-272844",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272844.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272844/272844.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-25.272844",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-25/272844.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2026-05-23.273104",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2026-05-23",
-      "ugid": "273104",
-      "title": "Weekly Gazette of India, 2026-05-23",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-03062026-273104",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273104.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-05-23.273104/273104.pdf",
-      "ia_identifier": "in.gazette.central.w.2026-05-23.273104",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/w/2026-05-23/273104.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-05-23.273104/273104_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2026-05-23.272843",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2026-05-23",
-      "ugid": "272843",
-      "title": "Weekly Gazette of India, 2026-05-23",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-25052026-272843",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272843.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-05-23.272843/272843.pdf",
-      "ia_identifier": "in.gazette.central.w.2026-05-23.272843",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/w/2026-05-23/272843.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2026-05-23.272842",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2026-05-23",
-      "ugid": "272842",
-      "title": "Weekly Gazette of India, 2026-05-23",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-25052026-272842",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272842.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-05-23.272842/272842.pdf",
-      "ia_identifier": "in.gazette.central.w.2026-05-23.272842",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/w/2026-05-23/272842.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-23.272838",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-23",
-      "ugid": "272838",
-      "title": "Extrordinary Gazette of India, 2026-05-23",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Central Railway",
-      "subject": "Publication of Gazette Notification declaring Punarakh Kiul 3rd and 4th line (50 km) as a Special Railway Project in the State of Bihar.",
-      "gazette_id": "CG-BR-E-23052026-272838",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272838.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-23.272838/272838.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-23.272838",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-23/272838.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-23.272837",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-23",
-      "ugid": "272837",
-      "title": "Extrordinary Gazette of India, 2026-05-23",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Central Railway",
-      "subject": "Publication of Gazette Notification declaring 3rd line between Kiul to Jhajha(53.92 km) as a Special Railway Project in the State of Bihar.",
-      "gazette_id": "CG-BR-E-23052026-272837",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272837.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-23.272837/272837.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-23.272837",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-23/272837.pdf",
       "topics": []
     }
   ],
