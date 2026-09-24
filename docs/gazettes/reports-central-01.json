@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-05-25.272858",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-25",
+      "ugid": "272858",
+      "title": "Extrordinary Gazette of India, 2026-05-25",
+      "ministry": "Food Safety and Standards Authority of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "The following draft of certain regulations further to amend the Food Safety and Standards Food Products Standards and Food Additives",
+      "gazette_id": "CG-DL-E-25052026-272858",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272858.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272858/272858.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-25.272858",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-25/272858.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-25.272857",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-25",
+      "ugid": "272857",
+      "title": "Extrordinary Gazette of India, 2026-05-25",
+      "ministry": "Presidents Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of Gazette Notification for Padma Awards 2026",
+      "gazette_id": "CG-DL-E-25052026-272857",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272857.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272857/272857.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-25.272857",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-25/272857.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-25.272856",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-25",
+      "ugid": "272856",
+      "title": "Extrordinary Gazette of India, 2026-05-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-25052026-272856",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272856.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272856/272856.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-25.272856",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-25/272856.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-25.272855",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59700,78 +59769,6 @@
       "mirror_path": "pdf/central/e/2026-02-16/270254.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270254/270254_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-16.270253",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-16",
-      "ugid": "270253",
-      "title": "Extrordinary Gazette of India, 2026-02-16",
-      "ministry": "Ministry of Culture",
-      "department": "Archaeological Survey of India",
-      "office": "",
-      "subject": "Notification of the Shiva Temple at Palampet Mulugu District Telangana reg",
-      "gazette_id": "CG-DL-E-18022026-270253",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270253.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270253/270253.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-16.270253",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-16/270253.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270253/270253_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-16.270250",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-16",
-      "ugid": "270250",
-      "title": "Extrordinary Gazette of India, 2026-02-16",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-18022026-270250",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270250.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270250/270250.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-16.270250",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-16/270250.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270250/270250_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-16.270242",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-16",
-      "ugid": "270242",
-      "title": "Extrordinary Gazette of India, 2026-02-16",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-18022026-270242",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270242.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270242/270242.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-16.270242",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-16/270242.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270242/270242_djvu.txt"
     }
   ],
   "count": 2500,

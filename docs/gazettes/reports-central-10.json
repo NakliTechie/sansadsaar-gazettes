@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-30.246960",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-30",
+      "ugid": "246960",
+      "title": "Extraordinary Gazette of India, 2023-06-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-03072023-246960",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246960.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-30.246960/246960.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-30.246960",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-30/246960.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-30.246959",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-30",
+      "ugid": "246959",
+      "title": "Extraordinary Gazette of India, 2023-06-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a MoRTH",
+      "gazette_id": "CG-DL-E-03072023-246959",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246959.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-30.246959/246959.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-30.246959",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-30/246959.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-06-30.246958",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-30",
+      "ugid": "246958",
+      "title": "Extraordinary Gazette of India, 2023-06-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a MoRTH",
+      "gazette_id": "CG-DL-E-03072023-246958",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246958.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-30.246958/246958.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-30.246958",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-30/246958.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-30.246957",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57674,78 +57743,6 @@
       "mirror_path": "pdf/central/e/2023-03-02/244079.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244079/244079_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-02.244077",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-02",
-      "ugid": "244077",
-      "title": "Extraordinary Gazette of India, 2023-03-02",
-      "ministry": "Ministry of Railways",
-      "department": "SOUTH EASTERN RAILWAY  CONSTRUCTION ORGANISATION",
-      "office": "",
-      "subject": "Gazette Notification under section 37A",
-      "gazette_id": "CG-WB-E-02032023-244077",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244077.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244077/244077.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-02.244077",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-02/244077.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244077/244077_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-02.244076",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-02",
-      "ugid": "244076",
-      "title": "Extraordinary Gazette of India, 2023-03-02",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "",
-      "subject": "Notification No 1/2023 CX",
-      "gazette_id": "CG-DL-E-02032023-244076",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244076.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244076/244076.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-02.244076",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-02/244076.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244076/244076_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-02.244075",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-02",
-      "ugid": "244075",
-      "title": "Extraordinary Gazette of India, 2023-03-02",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in  Tehsil Mehsana, Distt Kadi in the State of Gujarat",
-      "gazette_id": "CG-DL-E-02032023-244075",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244075.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244075/244075.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-02.244075",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-02/244075.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244075/244075_djvu.txt"
     }
   ],
   "count": 2500,

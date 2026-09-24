@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-06-26.254956",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-06-26",
+      "ugid": "254956",
+      "title": "Extraordinary Gazette of India, 2024-06-26",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Oil Pipeline project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in Tehsil Rohat, Pali, Distt. Pali and Tehsil  Jodhpur, Pipar City, Distt. Jodhpur in the State of Rajasthan",
+      "gazette_id": "CG-DL-E-26062024-254956",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254956.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254956/254956.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-06-26.254956",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-06-26/254956.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254956/254956_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-06-26.254955",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-06-26",
+      "ugid": "254955",
+      "title": "Extraordinary Gazette of India, 2024-06-26",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 in respect of Pipeline Connectivity for Mirzapur ToP from Barauni Kanpur Pipeline  to be laid by Indian Oil Corporation Ltd for acquisition of ROU in Tehsil Sadar Distt Mirzapur in the State of Uttar Pradesh",
+      "gazette_id": "CG-DL-E-26062024-254955",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254955.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254955/254955.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-06-26.254955",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-06-26/254955.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254955/254955_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-06-26.254953",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-06-26",
+      "ugid": "254953",
+      "title": "Extraordinary Gazette of India, 2024-06-26",
+      "ministry": "Ministry of Power",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Authorization under Section 164 of Electricity Act, 2003 to M/s Scatec India Renewables One Pvt. Ltd.",
+      "gazette_id": "CG-DL-E-26062024-254953",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254953.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254953/254953.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-06-26.254953",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-06-26/254953.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254953/254953_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-06-26.254952",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-22/252304.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252304/252304_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-22.252303",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-22",
-      "ugid": "252303",
-      "title": "Extraordinary Gazette of India, 2024-02-22",
-      "ministry": "Ministry of Power",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Electricity (Rights of Consumers) Amendment Rules, 2024",
-      "gazette_id": "CG-DL-E-22022024-252303",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252303.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252303/252303.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-22.252303",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-22/252303.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252303/252303_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-22.252302",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-22",
-      "ugid": "252302",
-      "title": "Extraordinary Gazette of India, 2024-02-22",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "Amendment in Section 144 2 of Railways Act 1989",
-      "gazette_id": "CG-DL-E-22022024-252302",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252302.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252302/252302.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-22.252302",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-22/252302.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252302/252302_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-22.252301",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-22",
-      "ugid": "252301",
-      "title": "Extraordinary Gazette of India, 2024-02-22",
-      "ministry": "Ministry of Ayush",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "publication of notification r 21011 6 2021 ep iii part i dated 20 february 2024 in the gazette of india",
-      "gazette_id": "CG-DL-E-22022024-252301",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252301.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252301/252301.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-22.252301",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-22/252301.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252301/252301_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-22.252303",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-22",
+      "ugid": "252303",
+      "title": "Extraordinary Gazette of India, 2024-02-22",
+      "ministry": "Ministry of Power",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Electricity (Rights of Consumers) Amendment Rules, 2024",
+      "gazette_id": "CG-DL-E-22022024-252303",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252303.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252303/252303.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-22.252303",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-22/252303.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252303/252303_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-22.252302",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-22",
+      "ugid": "252302",
+      "title": "Extraordinary Gazette of India, 2024-02-22",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "Amendment in Section 144 2 of Railways Act 1989",
+      "gazette_id": "CG-DL-E-22022024-252302",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252302.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252302/252302.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-22.252302",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-22/252302.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252302/252302_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-22.252301",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-22",
+      "ugid": "252301",
+      "title": "Extraordinary Gazette of India, 2024-02-22",
+      "ministry": "Ministry of Ayush",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "publication of notification r 21011 6 2021 ep iii part i dated 20 february 2024 in the gazette of india",
+      "gazette_id": "CG-DL-E-22022024-252301",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252301.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252301/252301.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-22.252301",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-22/252301.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252301/252301_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-22.252300",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58462,75 +58534,6 @@
       "ia_identifier": "in.gazette.central.e.2023-10-20.249631",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-10-20/249631.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-20.249629",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-20",
-      "ugid": "249629",
-      "title": "Extraordinary Gazette of India, 2023-10-20",
-      "ministry": "Ministry of Railways",
-      "department": "Northern Railway",
-      "office": "",
-      "subject": "Publication of Gazette Notification in the official gazette u s 20 A of the Railways Act 1989 for acquisition of land in District Ayodhya State of Uttar Pradesh in c w Barabanki Akbarpur 161 Km Doubling Special Railway Project",
-      "gazette_id": "CG-DL-E-23102023-249629",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249629.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249629/249629.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-20.249629",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-20/249629.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-20.249628",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-20",
-      "ugid": "249628",
-      "title": "Extraordinary Gazette of India, 2023-10-20",
-      "ministry": "Ministry of Corporate Affairs",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Companies Incorporation third Amendment Rules 2023",
-      "gazette_id": "CG-DL-E-23102023-249628",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249628.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249628/249628.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-20.249628",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-20/249628.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-20.249627",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-20",
-      "ugid": "249627",
-      "title": "Extraordinary Gazette of India, 2023-10-20",
-      "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
-      "department": "Department of Food and Public Distribution",
-      "office": "",
-      "subject": "Warehousing (Development and Regulation) Registration of Warehouses(Second Amendment) Rules, 2023",
-      "gazette_id": "CG-DL-E-23102023-249627",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249627.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249627/249627.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-20.249627",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-20/249627.pdf",
       "topics": []
     }
   ],

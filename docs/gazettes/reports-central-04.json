@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-13.263871",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-13",
+      "ugid": "263871",
+      "title": "Extraordinary Gazette of India, 2025-06-13",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "Western Railway",
+      "subject": "Publication of notification of extraordinary gazette under Part II section                               3 Sub Section ii Notification under clause 20E of section 2 of the Railway                            Act 1989, 24 of 1989 for land to be acquired in connection with Special Railway Project, namely, new BG line project from Dahod to Indore (through Jhabua, Sardarpur, Dhar and Pithampur) 204.76 Km in Village Saad Tehsil Rama  District Jhabua in the State of Madhya Pradesh",
+      "gazette_id": "CG-MH-E-16062025-263871",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263871.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263871/263871.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-13.263871",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-13/263871.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263871/263871_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-13.263870",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-13",
+      "ugid": "263870",
+      "title": "Extraordinary Gazette of India, 2025-06-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-16062025-263870",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263870.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263870/263870.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-13.263870",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-13/263870.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263870/263870_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-13.263869",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-13",
+      "ugid": "263869",
+      "title": "Extraordinary Gazette of India, 2025-06-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-16062025-263869",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263869.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263869/263869.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-13.263869",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-13/263869.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263869/263869_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-13.263868",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-11/260918.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260918/260918_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-11.260917",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-11",
-      "ugid": "260917",
-      "title": "Extraordinary Gazette of India, 2025-02-11",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "GST Policy Wing CBIC",
-      "subject": "Notification",
-      "gazette_id": "CG-DL-E-11022025-260917",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260917.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260917/260917.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-11.260917",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-11/260917.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260917/260917_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-11.260916",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-11",
-      "ugid": "260916",
-      "title": "Extraordinary Gazette of India, 2025-02-11",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of corrigendum under Section 3a",
-      "gazette_id": "CG-DL-E-11022025-260916",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260916.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260916/260916.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-11.260916",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-11/260916.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260916/260916_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-11.260915",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-11",
-      "ugid": "260915",
-      "title": "Extraordinary Gazette of India, 2025-02-11",
-      "ministry": "Ministry of Textiles",
-      "department": "Jute Section",
-      "office": "",
-      "subject": "Notification for reconstitution of official board member of National Jute Board",
-      "gazette_id": "CG-DL-E-11022025-260915",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260915.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260915/260915.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-11.260915",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-11/260915.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260915/260915_djvu.txt"
     }
   ],
   "count": 2500,

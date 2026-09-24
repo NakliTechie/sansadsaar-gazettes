@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-20.249629",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-20",
+      "ugid": "249629",
+      "title": "Extraordinary Gazette of India, 2023-10-20",
+      "ministry": "Ministry of Railways",
+      "department": "Northern Railway",
+      "office": "",
+      "subject": "Publication of Gazette Notification in the official gazette u s 20 A of the Railways Act 1989 for acquisition of land in District Ayodhya State of Uttar Pradesh in c w Barabanki Akbarpur 161 Km Doubling Special Railway Project",
+      "gazette_id": "CG-DL-E-23102023-249629",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249629.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249629/249629.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-20.249629",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-20/249629.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-20.249628",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-20",
+      "ugid": "249628",
+      "title": "Extraordinary Gazette of India, 2023-10-20",
+      "ministry": "Ministry of Corporate Affairs",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Companies Incorporation third Amendment Rules 2023",
+      "gazette_id": "CG-DL-E-23102023-249628",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249628.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249628/249628.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-20.249628",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-20/249628.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-20.249627",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-20",
+      "ugid": "249627",
+      "title": "Extraordinary Gazette of India, 2023-10-20",
+      "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "department": "Department of Food and Public Distribution",
+      "office": "",
+      "subject": "Warehousing (Development and Regulation) Registration of Warehouses(Second Amendment) Rules, 2023",
+      "gazette_id": "CG-DL-E-23102023-249627",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249627.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249627/249627.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-20.249627",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-20/249627.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-20.249626",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58224,75 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-06-30.246961",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-06-30/246961.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-30.246960",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-30",
-      "ugid": "246960",
-      "title": "Extraordinary Gazette of India, 2023-06-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-03072023-246960",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246960.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-30.246960/246960.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-30.246960",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-30/246960.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-30.246959",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-30",
-      "ugid": "246959",
-      "title": "Extraordinary Gazette of India, 2023-06-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a MoRTH",
-      "gazette_id": "CG-DL-E-03072023-246959",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246959.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-30.246959/246959.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-30.246959",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-30/246959.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-06-30.246958",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-06-30",
-      "ugid": "246958",
-      "title": "Extraordinary Gazette of India, 2023-06-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a MoRTH",
-      "gazette_id": "CG-DL-E-03072023-246958",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246958.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-30.246958/246958.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-06-30.246958",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-06-30/246958.pdf",
       "topics": []
     }
   ],

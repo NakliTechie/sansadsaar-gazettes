@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-02-11.260917",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-11",
+      "ugid": "260917",
+      "title": "Extraordinary Gazette of India, 2025-02-11",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "GST Policy Wing CBIC",
+      "subject": "Notification",
+      "gazette_id": "CG-DL-E-11022025-260917",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260917.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260917/260917.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-11.260917",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-11/260917.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260917/260917_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-11.260916",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-11",
+      "ugid": "260916",
+      "title": "Extraordinary Gazette of India, 2025-02-11",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of corrigendum under Section 3a",
+      "gazette_id": "CG-DL-E-11022025-260916",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260916.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260916/260916.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-11.260916",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-11/260916.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260916/260916_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-11.260915",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-11",
+      "ugid": "260915",
+      "title": "Extraordinary Gazette of India, 2025-02-11",
+      "ministry": "Ministry of Textiles",
+      "department": "Jute Section",
+      "office": "",
+      "subject": "Notification for reconstitution of official board member of National Jute Board",
+      "gazette_id": "CG-DL-E-11022025-260915",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260915.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260915/260915.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-11.260915",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-11/260915.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260915/260915_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-02-11.260914",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-10-25/258274.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-25.258274/258274_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-25.258273",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-25",
-      "ugid": "258273",
-      "title": "Extraordinary Gazette of India, 2024-10-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-26102024-258273",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258273.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-25.258273/258273.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-25.258273",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-25/258273.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-25.258273/258273_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-25.258272",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-25",
-      "ugid": "258272",
-      "title": "Extraordinary Gazette of India, 2024-10-25",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 1962 relating to land schedule in respect of Paradip Numaligarh  crude oil pipeline project of  Numaligarh Refinery Limited (NRL) for acquisition of ROU in the State of Assam for Circle  Chariduar and  NaDuar Distt Sonitpur",
-      "gazette_id": "CG-DL-E-26102024-258272",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258272.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-25.258272/258272.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-25.258272",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-25/258272.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-25.258272/258272_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-10-25.258271",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-10-25",
-      "ugid": "258271",
-      "title": "Extraordinary Gazette of India, 2024-10-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-26102024-258271",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258271.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-10-25.258271/258271.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-10-25.258271",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-10-25/258271.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-10-25.258271/258271_djvu.txt"
     }
   ],
   "count": 2500,
