@@ -45,7 +45,8 @@
       "ia_identifier": "in.gazette.central.e.2026-09-21.276400",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-09-21/276400.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-21.276400/276400_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2026-09-21.276391",
@@ -546,7 +547,8 @@
       "ia_identifier": "in.gazette.central.e.2026-09-17.276441",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-09-17/276441.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-17.276441/276441_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2026-09-17.276422",
@@ -1047,7 +1049,8 @@
       "ia_identifier": "in.gazette.central.e.2026-09-16.276408",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-09-16/276408.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-16.276408/276408_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2026-09-16.276404",
@@ -5981,7 +5984,8 @@
       "ia_identifier": "in.gazette.central.e.2026-09-03.276396",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-09-03/276396.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-03.276396/276396_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.e.2026-09-03.276359",
@@ -9498,7 +9502,8 @@
       "ia_identifier": "in.gazette.central.w.2026-08-29.276411",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/w/2026-08-29/276411.pdf",
-      "topics": []
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-08-29.276411/276411_djvu.txt"
     },
     {
       "identifier": "in.gazette.central.w.2026-08-29.275932",
