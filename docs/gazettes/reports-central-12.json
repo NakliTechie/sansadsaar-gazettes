@@ -1,6 +1,190 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-18.240409",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-18",
+      "ugid": "240409",
+      "title": "Extraordinary Gazette of India, 2022-11-18",
+      "ministry": "Ministry of Home Affairs",
+      "department": "Directorate of Forensic Science Services",
+      "office": "",
+      "subject": "Notification under 293 CrPC NFSU",
+      "gazette_id": "CG-DL-E-18112022-240409",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240409.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-18.240409/240409.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-18.240409",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-18/240409.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-18.240408",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-18",
+      "ugid": "240408",
+      "title": "Extraordinary Gazette of India, 2022-11-18",
+      "ministry": "Ministry of Chemicals and Fertilizers",
+      "department": "Department of Pharmaceuticals",
+      "office": "National Pharmaceuticals Pricing Authority",
+      "subject": "103 Authority Meeting",
+      "gazette_id": "CG-DL-E-18112022-240408",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240408.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-18.240408/240408.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-18.240408",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-18/240408.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-18.240407",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-18",
+      "ugid": "240407",
+      "title": "Extraordinary Gazette of India, 2022-11-18",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Mumbai  Nagpur  Jharsuguda  Natural Gas Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-18112022-240407",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240407.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-18.240407/240407.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-18.240407",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-18/240407.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-18.240406",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-18",
+      "ugid": "240406",
+      "title": "Extraordinary Gazette of India, 2022-11-18",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Mumbai  Nagpur  Jharsuguda  Natural Gas Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-18112022-240406",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240406.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-18.240406/240406.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-18.240406",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-18/240406.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-18.240405",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-18",
+      "ugid": "240405",
+      "title": "Extraordinary Gazette of India, 2022-11-18",
+      "ministry": "Petroleum and Natural Gas Regulatory Board",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by section 61 of the Petroleum and Natural Gas Regulatory Board Act, 2006  19 of 2006, the Petroleum and Natural Gas Regulatory Board hereby makes the following regulations to amend the Petroleum and Natural Gas Regulatory Board",
+      "gazette_id": "CG-DL-E-18112022-240405",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240405.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-18.240405/240405.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-18.240405",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-18/240405.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-18.240404",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-18",
+      "ugid": "240404",
+      "title": "Extraordinary Gazette of India, 2022-11-18",
+      "ministry": "University Grants Commission",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of powers conferred by clause  j of Section 12 read with clause g of sub section  1 of section 26 of the University Grants Commission Act",
+      "gazette_id": "CG-DL-E-18112022-240404",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240404.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-18.240404/240404.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-18.240404",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-18/240404.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-18.240403",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-18",
+      "ugid": "240403",
+      "title": "Extraordinary Gazette of India, 2022-11-18",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Legislative Department",
+      "office": "Official Languages Wing",
+      "subject": "The translation in Hindi of the Lakshadweep Building Development Board Repeal Regulation, 2022",
+      "gazette_id": "CG-DL-E-18112022-240403",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240403.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-18.240403/240403.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-18.240403",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-18/240403.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-18.240402",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-18",
+      "ugid": "240402",
+      "title": "Extraordinary Gazette of India, 2022-11-18",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Legislative Department",
+      "office": "Official Languages Wing",
+      "subject": "The translation in Hindi of the Lakshadweep Right to Public Services Regulation 2022",
+      "gazette_id": "CG-DL-E-18112022-240402",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240402.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-18.240402/240402.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-18.240402",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-18/240402.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-17.240401",
       "category": "extraordinary",
       "type_letter": "e",
@@ -23844,7 +24028,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1033,
+  "count": 1041,
   "category": "central",
   "shard_index": 12
 }
