@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-02.244088",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-02",
+      "ugid": "244088",
+      "title": "Extraordinary Gazette of India, 2023-03-02",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of  Kandla Gorakhpur LPG Pipeline to be laid by IHB limited  for acquisition of ROU  Tehsil Phulpur, Distt Prayagraj in the state of Uttar Pradesh",
+      "gazette_id": "CG-DL-E-03032023-244088",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244088.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244088/244088.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-02.244088",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-02/244088.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244088/244088_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-02.244086",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57961,29 +57985,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-18.240411",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-18/240411.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-18.240410",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-18",
-      "ugid": "240410",
-      "title": "Extraordinary Gazette of India, 2022-11-18",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Publication of Notification in from Padra to Nada GGS  in State of Gujarat",
-      "gazette_id": "CG-DL-E-18112022-240410",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240410.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-18.240410/240410.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-18.240410",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-18/240410.pdf",
       "topics": []
     }
   ],

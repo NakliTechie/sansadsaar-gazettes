@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-06-26.254965",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-06-26",
+      "ugid": "254965",
+      "title": "Extraordinary Gazette of India, 2024-06-26",
+      "ministry": "Ministry of Coal",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of notification",
+      "gazette_id": "CG-DL-E-26062024-254965",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254965.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254965/254965.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-06-26.254965",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-06-26/254965.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254965/254965_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-06-26.254964",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-22/252315.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252315/252315_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-22.252314",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-22",
-      "ugid": "252314",
-      "title": "Extraordinary Gazette of India, 2024-02-22",
-      "ministry": "Ministry of Power",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Appointments of officers of Directorate General of Mines Safety (DGMS) as Chief Electrical Inspector and Electrical Inspectors for Directorate General of Mines Safety (DGMS)",
-      "gazette_id": "CG-DL-E-23022024-252314",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252314.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252314/252314.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-22.252314",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-22/252314.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252314/252314_djvu.txt"
     }
   ],
   "count": 2500,

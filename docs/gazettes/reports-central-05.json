@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-02-11.260932",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-11",
+      "ugid": "260932",
+      "title": "Extraordinary Gazette of India, 2025-02-11",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-12022025-260932",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260932.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260932/260932.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-11.260932",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-11/260932.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260932/260932_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-02-11.260928",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/w/2024-10-26/258253.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-10-26.258253/258253_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2024-10-26.258252",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2024-10-26",
-      "ugid": "258252",
-      "title": "Weekly Gazette of India, 2024-10-26",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-26102024-258252",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258252.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-10-26.258252/258252.pdf",
-      "ia_identifier": "in.gazette.central.w.2024-10-26.258252",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2024-10-26/258252.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-10-26.258252/258252_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-10-07.266942",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-07",
+      "ugid": "266942",
+      "title": "Extrordinary Gazette of India, 2025-10-07",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "37A of Rly Act 1989 Proposed Road Over Bridge in lieu of existing Level Crossing Gate No 150 between RAYANAPADU and VIJAYAWADA Stations",
+      "gazette_id": "CG-TL-E-15102025-266942",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266942.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-07.266942/266942.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-07.266942",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-07/266942.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-07.266942/266942_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-10-07.266883",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-06-13/263892.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263892/263892_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-13.263891",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-13",
-      "ugid": "263891",
-      "title": "Extraordinary Gazette of India, 2025-06-13",
-      "ministry": "Ministry of Textiles",
-      "department": "Office of the Jute Commissioner",
-      "office": "",
-      "subject": "Notification dated 11th June 2025 for fixing the maximum ex factory price for the 580 gm Type A and Type B Jute Bags",
-      "gazette_id": "CG-WB-E-17062025-263891",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263891.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263891/263891.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-13.263891",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-13/263891.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263891/263891_djvu.txt"
     }
   ],
   "count": 2500,

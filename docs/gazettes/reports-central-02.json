@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-16.270269",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-16",
+      "ugid": "270269",
+      "title": "Extrordinary Gazette of India, 2026-02-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-18022026-270269",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270269.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270269/270269.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-16.270269",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-16/270269.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270269/270269_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-16.270268",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-10-08/266772.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-08.266772/266772_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-07.266942",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-07",
-      "ugid": "266942",
-      "title": "Extrordinary Gazette of India, 2025-10-07",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "37A of Rly Act 1989 Proposed Road Over Bridge in lieu of existing Level Crossing Gate No 150 between RAYANAPADU and VIJAYAWADA Stations",
-      "gazette_id": "CG-TL-E-15102025-266942",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266942.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-07.266942/266942.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-07.266942",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-07/266942.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-07.266942/266942_djvu.txt"
     }
   ],
   "count": 2500,

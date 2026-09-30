@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-06-30.246999",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-06-30",
+      "ugid": "246999",
+      "title": "Extraordinary Gazette of India, 2023-06-30",
+      "ministry": "NATIONAL INSTITUTE OF TECHNOLOGY, JAMSHEDPUR",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by subsection 2 of section 26 of the National Institutes of Technology",
+      "gazette_id": "CG-DL-E-04072023-246999",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246999.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-06-30.246999/246999.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-06-30.246999",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-06-30/246999.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-06-30.246980",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57711,30 +57734,6 @@
       "mirror_path": "pdf/central/e/2023-03-02/244089.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244089/244089_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-02.244088",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-02",
-      "ugid": "244088",
-      "title": "Extraordinary Gazette of India, 2023-03-02",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of  Kandla Gorakhpur LPG Pipeline to be laid by IHB limited  for acquisition of ROU  Tehsil Phulpur, Distt Prayagraj in the state of Uttar Pradesh",
-      "gazette_id": "CG-DL-E-03032023-244088",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244088.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244088/244088.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-02.244088",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-02/244088.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-02.244088/244088_djvu.txt"
     }
   ],
   "count": 2500,

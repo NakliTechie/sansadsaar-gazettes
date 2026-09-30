@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-22.252314",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-22",
+      "ugid": "252314",
+      "title": "Extraordinary Gazette of India, 2024-02-22",
+      "ministry": "Ministry of Power",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointments of officers of Directorate General of Mines Safety (DGMS) as Chief Electrical Inspector and Electrical Inspectors for Directorate General of Mines Safety (DGMS)",
+      "gazette_id": "CG-DL-E-23022024-252314",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252314.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252314/252314.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-22.252314",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-22/252314.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-22.252314/252314_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-22.252313",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58519,29 +58543,6 @@
       "ia_identifier": "in.gazette.central.e.2023-10-20.249640",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-10-20/249640.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-20.249639",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-20",
-      "ugid": "249639",
-      "title": "Extraordinary Gazette of India, 2023-10-20",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-23102023-249639",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249639.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249639/249639.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-20.249639",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-20/249639.pdf",
       "topics": []
     }
   ],

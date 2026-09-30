@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2024-10-26.258252",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-10-26",
+      "ugid": "258252",
+      "title": "Weekly Gazette of India, 2024-10-26",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-26102024-258252",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258252.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-10-26.258252/258252.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-10-26.258252",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-10-26/258252.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-10-26.258252/258252_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2024-10-26.258249",
       "category": "weekly",
       "type_letter": "w",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-06-26/254968.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254968/254968_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-06-26.254965",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-06-26",
-      "ugid": "254965",
-      "title": "Extraordinary Gazette of India, 2024-06-26",
-      "ministry": "Ministry of Coal",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of notification",
-      "gazette_id": "CG-DL-E-26062024-254965",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/254965.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254965/254965.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-06-26.254965",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-06-26/254965.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-06-26.254965/254965_djvu.txt"
     }
   ],
   "count": 2500,

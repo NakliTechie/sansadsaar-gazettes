@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-05-25.272872",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-25",
+      "ugid": "272872",
+      "title": "Extrordinary Gazette of India, 2026-05-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of corrigendum under Section 3a",
+      "gazette_id": "CG-DL-E-26052026-272872",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/272872.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-25.272872/272872.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-25.272872",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-25/272872.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-25.272871",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59737,30 +59760,6 @@
       "mirror_path": "pdf/central/e/2026-02-16/270270.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270270/270270_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-16.270269",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-16",
-      "ugid": "270269",
-      "title": "Extrordinary Gazette of India, 2026-02-16",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-18022026-270269",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270269.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270269/270269.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-16.270269",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-16/270269.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-16.270269/270269_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-13.263891",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-13",
+      "ugid": "263891",
+      "title": "Extraordinary Gazette of India, 2025-06-13",
+      "ministry": "Ministry of Textiles",
+      "department": "Office of the Jute Commissioner",
+      "office": "",
+      "subject": "Notification dated 11th June 2025 for fixing the maximum ex factory price for the 580 gm Type A and Type B Jute Bags",
+      "gazette_id": "CG-WB-E-17062025-263891",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/263891.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263891/263891.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-13.263891",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-13/263891.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-13.263891/263891_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-13.263888",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-11/260933.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260933/260933_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-11.260932",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-11",
-      "ugid": "260932",
-      "title": "Extraordinary Gazette of India, 2025-02-11",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-12022025-260932",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/260932.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260932/260932.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-11.260932",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-11/260932.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-11.260932/260932_djvu.txt"
     }
   ],
   "count": 2500,
