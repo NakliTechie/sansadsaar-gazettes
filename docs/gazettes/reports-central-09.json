@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-20.249643",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-20",
+      "ugid": "249643",
+      "title": "Extraordinary Gazette of India, 2023-10-20",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-23102023-249643",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249643.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249643/249643.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-20.249643",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-20/249643.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-20.249642",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-20",
+      "ugid": "249642",
+      "title": "Extraordinary Gazette of India, 2023-10-20",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-23102023-249642",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249642.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249642/249642.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-20.249642",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-20/249642.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-20.249641",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-20",
+      "ugid": "249641",
+      "title": "Extraordinary Gazette of India, 2023-10-20",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-23102023-249641",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249641.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249641/249641.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-20.249641",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-20/249641.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-20.249640",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-20",
+      "ugid": "249640",
+      "title": "Extraordinary Gazette of India, 2023-10-20",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-23102023-249640",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249640.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-20.249640/249640.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-20.249640",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-20/249640.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-20.249639",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58201,98 +58293,6 @@
       "ia_identifier": "in.gazette.central.w.2023-07-01.246917",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/w/2023-07-01/246917.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-07-01.246916",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-07-01",
-      "ugid": "246916",
-      "title": "Weekly Gazette of India, 2023-07-01",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-01072023-246916",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246916.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-07-01.246916/246916.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-07-01.246916",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-07-01/246916.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-07-01.246915",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-07-01",
-      "ugid": "246915",
-      "title": "Weekly Gazette of India, 2023-07-01",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-01072023-246915",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246915.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-07-01.246915/246915.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-07-01.246915",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-07-01/246915.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-07-01.246914",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-07-01",
-      "ugid": "246914",
-      "title": "Weekly Gazette of India, 2023-07-01",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-01072023-246914",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246914.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-07-01.246914/246914.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-07-01.246914",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-07-01/246914.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-07-01.246913",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-07-01",
-      "ugid": "246913",
-      "title": "Weekly Gazette of India, 2023-07-01",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-01072023-246913",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/246913.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-07-01.246913/246913.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-07-01.246913",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-07-01/246913.pdf",
       "topics": []
     }
   ],
