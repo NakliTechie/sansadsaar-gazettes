@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 31044,
+    "records_with_text": 31045,
     "shards": 435,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 211827,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31044,
-    "txt_files_removed": 0
+    "txt_files_removed": 1
   },
   "shards": [
     {
@@ -2185,8 +2185,8 @@
     },
     {
       "file": "texts-434.json",
-      "count": 5,
-      "bytes": 2557975
+      "count": 6,
+      "bytes": 2772490
     }
   ],
   "record_to_shard": {
@@ -33232,6 +33232,7 @@
     "central|central_w_20260926_276522": 434,
     "central|central_w_20260926_276523": 434,
     "central|central_w_20260926_276524": 434,
+    "central|central_w_20261003_276737": 434,
     "central|central_w_20261003_276738": 434,
     "central|central_w_20261003_276739": 434
   }
