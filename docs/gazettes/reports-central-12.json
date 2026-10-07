@@ -1,6 +1,190 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-22.240466",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-22",
+      "ugid": "240466",
+      "title": "Extraordinary Gazette of India, 2022-11-22",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Budget Division",
+      "subject": "KVP Third quarter 202223",
+      "gazette_id": "CG-DL-E-23112022-240466",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240466.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-22.240466/240466.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-22.240466",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-22/240466.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-22.240465",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-22",
+      "ugid": "240465",
+      "title": "Extraordinary Gazette of India, 2022-11-22",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Budget Division",
+      "subject": "National Savings Monthly third quarter",
+      "gazette_id": "CG-DL-E-23112022-240465",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240465.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-22.240465/240465.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-22.240465",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-22/240465.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-22.240464",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-22",
+      "ugid": "240464",
+      "title": "Extraordinary Gazette of India, 2022-11-22",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
+      "office": "",
+      "subject": "Proposes to make the following rules further to amend the Insecticides Rules",
+      "gazette_id": "CG-DL-E-23112022-240464",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240464.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-22.240464/240464.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-22.240464",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-22/240464.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-22.240462",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-22",
+      "ugid": "240462",
+      "title": "Extraordinary Gazette of India, 2022-11-22",
+      "ministry": "Ministry of Housing and Urban Affairs",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by clause c of sub section 2 of section 22 and clause  e of sub section  2 of section 100 of the Metro Railways  Operation and Maintenance  Act",
+      "gazette_id": "CG-DL-E-22112022-240462",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240462.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-22.240462/240462.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-22.240462",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-22/240462.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-22.240461",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-22",
+      "ugid": "240461",
+      "title": "Extraordinary Gazette of India, 2022-11-22",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "Notification under section 66 of PMLA Act,2002",
+      "gazette_id": "CG-DL-E-22112022-240461",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240461.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-22.240461/240461.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-22.240461",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-22/240461.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-22.240460",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-22",
+      "ugid": "240460",
+      "title": "Extraordinary Gazette of India, 2022-11-22",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "Notification under section 11A of PMLA Act,2002",
+      "gazette_id": "CG-DL-E-22112022-240460",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240460.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-22.240460/240460.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-22.240460",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-22/240460.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-22.240459",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-22",
+      "ugid": "240459",
+      "title": "Extraordinary Gazette of India, 2022-11-22",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Department of Health and Family Welfare",
+      "office": "Drugs Regulation Section",
+      "subject": "Induced Pluripotent Cell Technique for pre clinical studies",
+      "gazette_id": "CG-DL-E-22112022-240459",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240459.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-22.240459/240459.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-22.240459",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-22/240459.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-22.240457",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-22",
+      "ugid": "240457",
+      "title": "Extraordinary Gazette of India, 2022-11-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-22112022-240457",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240457.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-22.240457/240457.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-22.240457",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-22/240457.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-21.240475",
       "category": "extraordinary",
       "type_letter": "e",
@@ -25063,7 +25247,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1086,
+  "count": 1094,
   "category": "central",
   "shard_index": 12
 }
