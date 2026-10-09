@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 31093,
+    "records_with_text": 31094,
     "shards": 436,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 1103431,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31093,
-    "txt_files_removed": 0
+    "txt_files_removed": 1
   },
   "shards": [
     {
@@ -1630,13 +1630,13 @@
     },
     {
       "file": "texts-323.json",
-      "count": 61,
-      "bytes": 4547471
+      "count": 46,
+      "bytes": 4051524
     },
     {
       "file": "texts-324.json",
-      "count": 48,
-      "bytes": 2934733
+      "count": 64,
+      "bytes": 4552667
     },
     {
       "file": "texts-325.json",
@@ -31672,21 +31672,22 @@
     "central|central_e_20260917_276422": 323,
     "central|central_e_20260917_276441": 323,
     "central|central_e_20260917_276452": 323,
-    "central|central_e_20260918_276316": 323,
-    "central|central_e_20260918_276317": 323,
-    "central|central_e_20260918_276321": 323,
-    "central|central_e_20260918_276322": 323,
-    "central|central_e_20260918_276324": 323,
-    "central|central_e_20260918_276325": 323,
-    "central|central_e_20260918_276379": 323,
-    "central|central_e_20260918_276424": 323,
-    "central|central_e_20260918_276450": 323,
-    "central|central_e_20260918_276451": 323,
-    "central|central_e_20260921_276382": 323,
-    "central|central_e_20260921_276383": 323,
-    "central|central_e_20260921_276388": 323,
-    "central|central_e_20260921_276390": 323,
-    "central|central_e_20260921_276391": 323,
+    "central|central_e_20260917_276851": 324,
+    "central|central_e_20260918_276316": 324,
+    "central|central_e_20260918_276317": 324,
+    "central|central_e_20260918_276321": 324,
+    "central|central_e_20260918_276322": 324,
+    "central|central_e_20260918_276324": 324,
+    "central|central_e_20260918_276325": 324,
+    "central|central_e_20260918_276379": 324,
+    "central|central_e_20260918_276424": 324,
+    "central|central_e_20260918_276450": 324,
+    "central|central_e_20260918_276451": 324,
+    "central|central_e_20260921_276382": 324,
+    "central|central_e_20260921_276383": 324,
+    "central|central_e_20260921_276388": 324,
+    "central|central_e_20260921_276390": 324,
+    "central|central_e_20260921_276391": 324,
     "central|central_e_20260921_276400": 324,
     "central|central_e_20260921_276406": 324,
     "central|central_e_20260924_276781": 324,
