@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-10-10T16:19:24Z",
-  "elapsed_s": 145.4,
+  "generated_at": "2026-10-10T20:21:30Z",
+  "elapsed_s": 146.3,
   "totals": {
     "central": 31181
   },
@@ -34,13 +34,13 @@
       "search-bundle-08.json": 21131082,
       "search-bundle-09.json": 22143541,
       "search-bundle-10.json": 21581222,
-      "search-bundle-11.json": 22076959,
-      "search-bundle-12.json": 10422580
+      "search-bundle-11.json": 22120565,
+      "search-bundle-12.json": 10769490
     },
-    "total": 31094,
-    "truncated": 21818,
+    "total": 31131,
+    "truncated": 21850,
     "head_chars": 5000,
-    "size_bytes": 273208472,
+    "size_bytes": 273598988,
     "max_shard_bytes": 22478955
   },
   "search_index": {
@@ -169,31 +169,31 @@
       "search-index-55.json": 3347728,
       "search-index-56.json": 4122329,
       "search-index-57.json": 4723669,
-      "search-index-58.json": 3934505,
-      "search-index-59.json": 18139182,
-      "search-index-60.json": 19002443,
-      "search-index-61.json": 21797892,
-      "search-index-62.json": 5860077
+      "search-index-58.json": 3942668,
+      "search-index-59.json": 17714219,
+      "search-index-60.json": 18109995,
+      "search-index-61.json": 22125590,
+      "search-index-62.json": 7534051
     },
-    "total": 31094,
-    "size_bytes": 297897775,
-    "max_shard_bytes": 21797892
+    "total": 31131,
+    "size_bytes": 298590199,
+    "max_shard_bytes": 22125590
   },
   "audit": {
     "central_records": 31181,
-    "djvu_ok": 31094,
-    "djvu_pending": 87,
+    "djvu_ok": 31131,
+    "djvu_pending": 50,
     "no_text": 0,
     "topics_assigned": 0
   },
   "text_shards": {
-    "records_with_text": 31094,
-    "shards": 436,
+    "records_with_text": 31131,
+    "shards": 437,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 2404156,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31094,
-    "txt_files_removed": 0
+    "txt_files_removed": 37
   }
 }
