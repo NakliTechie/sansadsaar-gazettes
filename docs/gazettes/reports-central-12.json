@@ -1,6 +1,119 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-24.240566",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-24",
+      "ugid": "240566",
+      "title": "",
+      "ministry": "",
+      "department": "",
+      "office": "",
+      "subject": "",
+      "gazette_id": "",
+      "gazette_source_url": "",
+      "languages": [],
+      "pdf_url": "",
+      "ia_identifier": "in.gazette.central.e.2022-11-24.240566",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-24/240566.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-11-24.240566/240566_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-24.240565",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-24",
+      "ugid": "240565",
+      "title": "Extraordinary Gazette of India, 2022-11-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-25112022-240565",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240565.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-24.240565/240565.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-24.240565",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-24/240565.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-24.240562",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-24",
+      "ugid": "240562",
+      "title": "Extraordinary Gazette of India, 2022-11-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D MoRTH",
+      "gazette_id": "CG-DL-E-25112022-240562",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240562.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-24.240562/240562.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-24.240562",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-24/240562.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-24.240561",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-24",
+      "ugid": "240561",
+      "title": "Extraordinary Gazette of India, 2022-11-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-25112022-240561",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240561.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-24.240561/240561.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-24.240561",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-24/240561.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-24.240560",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-24",
+      "ugid": "240560",
+      "title": "Extraordinary Gazette of India, 2022-11-24",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Environmental Impact Assessment (EIA) Division",
+      "office": "",
+      "subject": "Amendment in Coastal Regulation Zone Notification 2019",
+      "gazette_id": "CG-DL-E-25112022-240560",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240560.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-24.240560/240560.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-24.240560",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-24/240560.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-24.240559",
       "category": "extraordinary",
       "type_letter": "e",
@@ -27246,7 +27359,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1181,
+  "count": 1186,
   "category": "central",
   "shard_index": 12
 }
