@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-20.264008",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-20",
+      "ugid": "264008",
+      "title": "Extraordinary Gazette of India, 2025-06-20",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "37A 303",
+      "gazette_id": "CG-CG-E-20062025-264008",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264008.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-20.264008/264008.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-20.264008",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-20/264008.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-20.264008/264008_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-20.264007",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-20",
+      "ugid": "264007",
+      "title": "Extraordinary Gazette of India, 2025-06-20",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "37A 297",
+      "gazette_id": "CG-CG-E-23062025-264007",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264007.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-20.264007/264007.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-20.264007",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-20/264007.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-20.264007/264007_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-20.264006",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-14/261067.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-14.261067/261067_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-14.261066",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-14",
-      "ugid": "261066",
-      "title": "Extraordinary Gazette of India, 2025-02-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-15022025-261066",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261066.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-14.261066/261066.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-14.261066",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-14/261066.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-14.261066/261066_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-14.261065",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-14",
-      "ugid": "261065",
-      "title": "Extraordinary Gazette of India, 2025-02-14",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-15022025-261065",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261065.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-14.261065/261065.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-14.261065",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-14/261065.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-14.261065/261065_djvu.txt"
     }
   ],
   "count": 2500,

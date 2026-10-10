@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2024-11-02.258414",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-11-02",
+      "ugid": "258414",
+      "title": "Weekly Gazette of India, 2024-11-02",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-02112024-258414",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258414.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-11-02.258414/258414.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-11-02.258414",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-11-02/258414.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-11-02.258414/258414_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2024-11-02.258413",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2024-11-02",
+      "ugid": "258413",
+      "title": "Weekly Gazette of India, 2024-11-02",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-02112024-258413",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258413.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-11-02.258413/258413.pdf",
+      "ia_identifier": "in.gazette.central.w.2024-11-02.258413",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2024-11-02/258413.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-11-02.258413/258413_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-01.258426",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-07-02/255112.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255112/255112_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-02.255111",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-02",
-      "ugid": "255111",
-      "title": "Extraordinary Gazette of India, 2024-07-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-03072024-255111",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255111.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255111/255111.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-02.255111",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-02/255111.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255111/255111_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-02.255110",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-02",
-      "ugid": "255110",
-      "title": "Extraordinary Gazette of India, 2024-07-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-03072024-255110",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255110.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255110/255110.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-02.255110",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-02/255110.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255110/255110_djvu.txt"
     }
   ],
   "count": 2500,

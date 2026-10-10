@@ -1,6 +1,53 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-05-29.273030",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-29",
+      "ugid": "273030",
+      "title": "Extrordinary Gazette of India, 2026-05-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-01062026-273030",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273030.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-29.273030/273030.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-29.273030",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-29/273030.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-29.273030/273030_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-05-29.273029",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-05-29",
+      "ugid": "273029",
+      "title": "Extrordinary Gazette of India, 2026-05-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-01062026-273029",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273029.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-29.273029/273029.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-05-29.273029",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-05-29/273029.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-05-29.273028",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59581,54 +59628,6 @@
       "mirror_path": "pdf/central/e/2026-02-23/270411.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-23.270411/270411_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-23.270410",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-23",
-      "ugid": "270410",
-      "title": "Extrordinary Gazette of India, 2026-02-23",
-      "ministry": "Ministry of Railways",
-      "department": "Sout East Central Railway",
-      "office": "",
-      "subject": "20E notification",
-      "gazette_id": "CG-CG-E-23022026-270410",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270410.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-23.270410/270410.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-23.270410",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-23/270410.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-23.270410/270410_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-23.270409",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-23",
-      "ugid": "270409",
-      "title": "Extrordinary Gazette of India, 2026-02-23",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Economic Affairs",
-      "office": "Coin and Currency Division",
-      "subject": "Issuance of Commemorative Coin on the occasion of 75th Foundation Day of Employees State Insurance Corporation.",
-      "gazette_id": "CG-DL-E-23022026-270409",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270409.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-23.270409/270409.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-23.270409",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-23/270409.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-23.270409/270409_djvu.txt"
     }
   ],
   "count": 2500,

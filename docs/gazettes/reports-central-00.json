@@ -2278,6 +2278,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-30.276772/276772_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-09-29.276928",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-29",
+      "ugid": "276928",
+      "title": "Extraordinary Gazette of India, 2026-09-29",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "Anti circumvention investigation concerning circumvention of Alloy Chisel Steel and hydraulic rock breaker in fully assembled condition from Malaysia",
+      "gazette_id": "CG-DL-E-08102026-276928",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276928.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-29.276928/276928.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-29.276928",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-29/276928.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-09-29.276924",
       "category": "extraordinary",
       "type_letter": "e",
@@ -2604,6 +2627,29 @@
       "ia_identifier": "in.gazette.central.e.2026-09-28.276929",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-09-28/276929.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-28.276887",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-28",
+      "ugid": "276887",
+      "title": "Extraordinary Gazette of India, 2026-09-28",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "North Eastern Railway",
+      "subject": "For publication in the Gazette of India under section 20E of Railways Amendment Act 2008 for the Special Railway Project namely Khalilabad to Bahraich New Railway Line Project within the District Siddharthnagar in the State of Uttar Pradesh",
+      "gazette_id": "CG-UP-E-07102026-276887",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276887.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-28.276887/276887.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-28.276887",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-28/276887.pdf",
       "topics": []
     },
     {
@@ -58798,53 +58844,6 @@
       "ia_identifier": "in.gazette.central.e.2026-05-29.273031",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-05-29/273031.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-29.273030",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-29",
-      "ugid": "273030",
-      "title": "Extrordinary Gazette of India, 2026-05-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-01062026-273030",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273030.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-29.273030/273030.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-29.273030",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-29/273030.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-29.273030/273030_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-29.273029",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-29",
-      "ugid": "273029",
-      "title": "Extrordinary Gazette of India, 2026-05-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-01062026-273029",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273029.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-29.273029/273029.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-29.273029",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-29/273029.pdf",
       "topics": []
     }
   ],

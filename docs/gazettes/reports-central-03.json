@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-10-15.266959",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-15",
+      "ugid": "266959",
+      "title": "Extrordinary Gazette of India, 2025-10-15",
+      "ministry": "Ministry of Jal Shakti",
+      "department": "Department of Water Resources, River Development and Ganga Rejuvenation",
+      "office": "",
+      "subject": "Publication of notification regarding reconstitution of National Committee on Dam Safety",
+      "gazette_id": "CG-DL-E-16102025-266959",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266959.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-15.266959/266959.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-15.266959",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-15/266959.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-15.266959/266959_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-10-15.266954",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-15",
+      "ugid": "266954",
+      "title": "Extrordinary Gazette of India, 2025-10-15",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "GST Policy Wing CBIC",
+      "subject": "Customs Notification No. 65/2025 Customs (N.T.) 15 October 2025",
+      "gazette_id": "CG-DL-E-15102025-266954",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266954.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-15.266954/266954.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-15.266954",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-15/266954.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-15.266954/266954_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-10-15.266953",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-06-20/264009.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-20.264009/264009_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-20.264008",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-20",
-      "ugid": "264008",
-      "title": "Extraordinary Gazette of India, 2025-06-20",
-      "ministry": "Ministry of Railways",
-      "department": "Sout East Central Railway",
-      "office": "",
-      "subject": "37A 303",
-      "gazette_id": "CG-CG-E-20062025-264008",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264008.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-20.264008/264008.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-20.264008",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-20/264008.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-20.264008/264008_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-20.264007",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-20",
-      "ugid": "264007",
-      "title": "Extraordinary Gazette of India, 2025-06-20",
-      "ministry": "Ministry of Railways",
-      "department": "Sout East Central Railway",
-      "office": "",
-      "subject": "37A 297",
-      "gazette_id": "CG-CG-E-23062025-264007",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264007.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-20.264007/264007.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-20.264007",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-20/264007.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-20.264007/264007_djvu.txt"
     }
   ],
   "count": 2500,

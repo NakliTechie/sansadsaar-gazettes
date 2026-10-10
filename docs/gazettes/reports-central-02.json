@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-23.270410",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-23",
+      "ugid": "270410",
+      "title": "Extrordinary Gazette of India, 2026-02-23",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "20E notification",
+      "gazette_id": "CG-CG-E-23022026-270410",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270410.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-23.270410/270410.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-23.270410",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-23/270410.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-23.270410/270410_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-23.270409",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-23",
+      "ugid": "270409",
+      "title": "Extrordinary Gazette of India, 2026-02-23",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Coin and Currency Division",
+      "subject": "Issuance of Commemorative Coin on the occasion of 75th Foundation Day of Employees State Insurance Corporation.",
+      "gazette_id": "CG-DL-E-23022026-270409",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270409.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-23.270409/270409.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-23.270409",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-23/270409.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-23.270409/270409_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-23.270408",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-10-15/266961.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-15.266961/266961_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-15.266959",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-15",
-      "ugid": "266959",
-      "title": "Extrordinary Gazette of India, 2025-10-15",
-      "ministry": "Ministry of Jal Shakti",
-      "department": "Department of Water Resources, River Development and Ganga Rejuvenation",
-      "office": "",
-      "subject": "Publication of notification regarding reconstitution of National Committee on Dam Safety",
-      "gazette_id": "CG-DL-E-16102025-266959",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266959.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-15.266959/266959.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-15.266959",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-15/266959.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-15.266959/266959_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-15.266954",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-15",
-      "ugid": "266954",
-      "title": "Extrordinary Gazette of India, 2025-10-15",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "GST Policy Wing CBIC",
-      "subject": "Customs Notification No. 65/2025 Customs (N.T.) 15 October 2025",
-      "gazette_id": "CG-DL-E-15102025-266954",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266954.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-15.266954/266954.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-15.266954",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-15/266954.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-15.266954/266954_djvu.txt"
     }
   ],
   "count": 2500,
