@@ -1,9 +1,9 @@
 {
   "phase": "derive",
-  "generated_at": "2026-10-12T00:23:51Z",
-  "elapsed_s": 152.3,
+  "generated_at": "2026-10-12T06:27:48Z",
+  "elapsed_s": 151.7,
   "totals": {
-    "central": 31186
+    "central": 31215
   },
   "search_bundle": {
     "shard_count": 13,
@@ -34,13 +34,13 @@
       "search-bundle-08.json": 21131082,
       "search-bundle-09.json": 22143541,
       "search-bundle-10.json": 21581222,
-      "search-bundle-11.json": 22107794,
-      "search-bundle-12.json": 11192667
+      "search-bundle-11.json": 22133466,
+      "search-bundle-12.json": 11421113
     },
-    "total": 31176,
-    "truncated": 21882,
+    "total": 31200,
+    "truncated": 21903,
     "head_chars": 5000,
-    "size_bytes": 274009394,
+    "size_bytes": 274263512,
     "max_shard_bytes": 22478955
   },
   "search_index": {
@@ -170,30 +170,30 @@
       "search-index-56.json": 4122329,
       "search-index-57.json": 4723669,
       "search-index-58.json": 3942668,
-      "search-index-59.json": 17350508,
-      "search-index-60.json": 17490935,
-      "search-index-61.json": 21571470,
-      "search-index-62.json": 9628226
+      "search-index-59.json": 17047809,
+      "search-index-60.json": 17461728,
+      "search-index-61.json": 21472087,
+      "search-index-62.json": 10571586
     },
-    "total": 31176,
-    "size_bytes": 299147483,
-    "max_shard_bytes": 21571470
+    "total": 31200,
+    "size_bytes": 299659554,
+    "max_shard_bytes": 21472087
   },
   "audit": {
-    "central_records": 31186,
-    "djvu_ok": 31176,
-    "djvu_pending": 10,
+    "central_records": 31215,
+    "djvu_ok": 31200,
+    "djvu_pending": 15,
     "no_text": 0,
     "topics_assigned": 0
   },
   "text_shards": {
-    "records_with_text": 31176,
+    "records_with_text": 31200,
     "shards": 438,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 2527914,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31176,
-    "txt_files_removed": 0
+    "txt_files_removed": 24
   }
 }
