@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-31.249813",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-31",
+      "ugid": "249813",
+      "title": "Extraordinary Gazette of India, 2023-10-31",
+      "ministry": "Ministry of Electronics and Information Technology",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Amendments to the Information Technology (Qualification and Experience of Adjudicating Officers and Manner of Holding Enquiry) Rules, 2003 i.e. the Information Technology (Qualification and Experience of Adjudicating Officers and Manner of Holding Enquiry) Amendment Rules, 2023",
+      "gazette_id": "CG-DL-E-31102023-249813",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249813.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249813/249813.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-31.249813",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-31/249813.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-31.249812",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-31",
+      "ugid": "249812",
+      "title": "Extraordinary Gazette of India, 2023-10-31",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "ESZ Division",
+      "office": "",
+      "subject": "Shingba Rhododendron Sanctuary",
+      "gazette_id": "CG-DL-E-31102023-249812",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249812.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249812/249812.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-31.249812",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-31/249812.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-31.249811",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-31",
+      "ugid": "249811",
+      "title": "Extraordinary Gazette of India, 2023-10-31",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "ESZ Division",
+      "office": "",
+      "subject": "Kyongnosla Alpine Sanctuary",
+      "gazette_id": "CG-DL-E-31102023-249811",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249811.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249811/249811.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-31.249811",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-31/249811.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-31.249810",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-31",
+      "ugid": "249810",
+      "title": "Extraordinary Gazette of India, 2023-10-31",
+      "ministry": "Ministry of Electronics and Information Technology",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Amendments to the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016) relating to serial number 42 and the entries relating thereto",
+      "gazette_id": "CG-DL-E-31102023-249810",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249810.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249810/249810.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-31.249810",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-31/249810.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-31.249809",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58201,98 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-07.247166",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-07/247166.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247165",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247165",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary  Gazette of India under Section 6(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Pipeline(MPPL) project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in the State of Gujarat  Tehsil Tharad Distt Banaskantha",
-      "gazette_id": "CG-DL-E-10072023-247165",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247165.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247165/247165.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247165",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247165.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247164",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247164",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of  Kandla Gorakhpur LPG Pipeline to be laid by IHB limited  for acquisition of ROU  Tehsil Gyanpur Distt Bhadohi in the state of Uttar Pradesh",
-      "gazette_id": "CG-DL-E-10072023-247164",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247164.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247164/247164.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247164",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247164.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247163",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247163",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of  Kandla Gorakhpur LPG Pipeline to be laid by IHB limited  for acquisition of ROU  Tehsil Jhansi Distt Jhansi in the state of Uttar Pradesh",
-      "gazette_id": "CG-DL-E-10072023-247163",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247163.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247163/247163.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247163",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247163.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247162",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247162",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of  Kandla Gorakhpur LPG Pipeline to be laid by IHB limited  for acquisition of ROU  Tehsil Karchhana Distt Prayagraj in the state of Uttar Pradesh",
-      "gazette_id": "CG-DL-E-10072023-247162",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247162.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247162/247162.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247162",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247162.pdf",
       "topics": []
     }
   ],

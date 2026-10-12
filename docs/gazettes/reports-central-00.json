@@ -461,6 +461,75 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-10-08.277052",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-08",
+      "ugid": "277052",
+      "title": "Extraordinary Gazette of India, 2026-10-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-10102026-277052",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277052.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-08.277052/277052.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-08.277052",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-08/277052.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-10-08.277047",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-08",
+      "ugid": "277047",
+      "title": "Extraordinary Gazette of India, 2026-10-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-10102026-277047",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277047.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-08.277047/277047.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-08.277047",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-08/277047.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-10-08.277046",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-08",
+      "ugid": "277046",
+      "title": "Extraordinary Gazette of India, 2026-10-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-10102026-277046",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277046.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-08.277046/277046.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-08.277046",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-08/277046.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-10-08.277045",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1025,6 +1094,29 @@
       "mirror_path": "pdf/central/e/2026-10-07/276962.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-10-07.276962/276962_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-10-07.276961",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-07",
+      "ugid": "276961",
+      "title": "Extraordinary Gazette of India, 2026-10-07",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire of land under Section 20(A) under the Railways Act, 1989 (24 of 1989) for 3rd and 4th line between Pune Solapur Wadi (394.91Km).",
+      "gazette_id": "CG-MH-E-10102026-276961",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/276961.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-07.276961/276961.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-07.276961",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-07/276961.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-10-07.276958",
@@ -58828,99 +58920,6 @@
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-01/273018.pdf",
       "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273017",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273017",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Biennial Elections to the Council of States from various states RO ARO Notification",
-      "gazette_id": "CG-DL-E-01062026-273017",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273017.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273017/273017.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273017",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273017.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273016",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273016",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Biennial Elections to the Council of States from various states Programme Notification",
-      "gazette_id": "CG-DL-E-01062026-273016",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273016.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273016/273016.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273016",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273016.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273015",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273015",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Ministry of Law  and Justice",
-      "department": "Legislative Department",
-      "office": "",
-      "subject": "Biennial Elections to the Council of States to fill the seats of members retiring in June and July, 2026",
-      "gazette_id": "CG-DL-E-01062026-273015",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273015.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273015/273015.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273015",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273015.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-05-31.273011",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-05-31",
-      "ugid": "273011",
-      "title": "Extrordinary Gazette of India, 2026-05-31",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Indirect Taxes and Customs",
-      "subject": "Indian Oman CEPA Customs Notification",
-      "gazette_id": "CG-DL-E-31052026-273011",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273011.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-05-31.273011/273011.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-05-31.273011",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-05-31/273011.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-05-31.273011/273011_djvu.txt"
     }
   ],
   "count": 2500,

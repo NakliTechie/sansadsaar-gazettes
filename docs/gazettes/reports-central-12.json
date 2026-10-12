@@ -1,6 +1,96 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-25.240599",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-25",
+      "ugid": "240599",
+      "title": "Extraordinary Gazette of India, 2022-11-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "TREM",
+      "gazette_id": "CG-DL-E-26112022-240599",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240599.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-25.240599/240599.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-25.240599",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-25/240599.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-25.240598",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-25",
+      "ugid": "240598",
+      "title": "",
+      "ministry": "",
+      "department": "",
+      "office": "",
+      "subject": "",
+      "gazette_id": "",
+      "gazette_source_url": "",
+      "languages": [],
+      "pdf_url": "",
+      "ia_identifier": "in.gazette.central.e.2022-11-25.240598",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-25/240598.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-11-25.240598/240598_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-25.240597",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-25",
+      "ugid": "240597",
+      "title": "Extraordinary Gazette of India, 2022-11-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a NHAI",
+      "gazette_id": "CG-DL-E-26112022-240597",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240597.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-25.240597/240597.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-25.240597",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-25/240597.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-25.240596",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-25",
+      "ugid": "240596",
+      "title": "Extraordinary Gazette of India, 2022-11-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a NHAI",
+      "gazette_id": "CG-DL-E-26112022-240596",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240596.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-25.240596/240596.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-25.240596",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-25/240596.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-25.240595",
       "category": "extraordinary",
       "type_letter": "e",
@@ -27934,7 +28024,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1211,
+  "count": 1215,
   "category": "central",
   "shard_index": 12
 }
