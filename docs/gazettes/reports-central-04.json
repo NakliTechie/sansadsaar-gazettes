@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-23.264066",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-23",
+      "ugid": "264066",
+      "title": "Extraordinary Gazette of India, 2025-06-23",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Contruction",
+      "subject": "Publication of E gazette Notification for Nomination of Sub Divisional Officer as a competent authority under Section 7A for land acquisition for Proposed Construction of ROB and LHS 13 Nos in lieu of Level Crossing Gates in the jurisdiction of Mumbai division as Railway project  under Central Railway under railway Amendment act 2008  in Thane Raigad and Pune districts of Maharashtra",
+      "gazette_id": "CG-MH-E-23062025-264066",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264066.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264066/264066.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-23.264066",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-23/264066.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264066/264066_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-23.264065",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-23",
+      "ugid": "264065",
+      "title": "Extraordinary Gazette of India, 2025-06-23",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Western Railway Cantonment Bangalore",
+      "subject": "Publication of Notification of Chikjajur Bypass line in terms of clause 37A of the Railway Act 1989",
+      "gazette_id": "CG-KA-E-23062025-264065",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264065.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264065/264065.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-23.264065",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-23/264065.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264065/264065_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-23.264064",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-23",
+      "ugid": "264064",
+      "title": "Extraordinary Gazette of India, 2025-06-23",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendment in Import Policy of specific items covered under Chapter 71 of ITC HS 2022 of Schedule I Import Policy",
+      "gazette_id": "CG-DL-E-23062025-264064",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264064.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264064/264064.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-23.264064",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-23/264064.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264064/264064_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-23.264063",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-17/261111.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261111/261111_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-17.261110",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-17",
-      "ugid": "261110",
-      "title": "Extraordinary Gazette of India, 2025-02-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-17022025-261110",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261110.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261110/261110.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-17.261110",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-17/261110.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261110/261110_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-17.261109",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-17",
-      "ugid": "261109",
-      "title": "Extraordinary Gazette of India, 2025-02-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-17022025-261109",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261109.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261109/261109.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-17.261109",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-17/261109.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261109/261109_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-17.261108",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-17",
-      "ugid": "261108",
-      "title": "Extraordinary Gazette of India, 2025-02-17",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Department of Commerce",
-      "office": "EP (Agri) Division",
-      "subject": "Sale of Excess FCV Tobacco in the State of Karnataka",
-      "gazette_id": "CG-DL-E-17022025-261108",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261108.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261108/261108.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-17.261108",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-17/261108.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261108/261108_djvu.txt"
     }
   ],
   "count": 2500,

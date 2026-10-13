@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-10-17.266987",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-17",
+      "ugid": "266987",
+      "title": "Extrordinary Gazette of India, 2025-10-17",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Central Railway",
+      "subject": "Publication of Gazette Notification to declare  New Line Pawapuri  Nawada 25.1 Km of East Central Railway Special Railway Project in the State of Bihar",
+      "gazette_id": "CG-BR-E-17102025-266987",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266987.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.266987/266987.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-17.266987",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-17/266987.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.266987/266987_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-10-17.266979",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-17",
+      "ugid": "266979",
+      "title": "Extrordinary Gazette of India, 2025-10-17",
+      "ministry": "Ministry of Home Affairs",
+      "department": "N. E. Division",
+      "office": "",
+      "subject": "Constitution of Unlawful Activities Prevention Tribunal in the matter of the National Socialist Council of Nagaland (Khaplang) NSCN (K)",
+      "gazette_id": "CG-DL-E-17102025-266979",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266979.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.266979/266979.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-17.266979",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-17/266979.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.266979/266979_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-10-16.267272",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-16",
+      "ugid": "267272",
+      "title": "Extrordinary Gazette of India, 2025-10-16",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Syncing of ITC HS 2022 Schedule1 Import Policy with Finance Act 2025 No 07 of 2025 dated 29032025",
+      "gazette_id": "CG-DL-E-30102025-267272",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267272.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-16.267272/267272.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-16.267272",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-16/267272.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-16.267272/267272_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-10-16.267225",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-06-23/264067.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264067/264067_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-23.264066",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-23",
-      "ugid": "264066",
-      "title": "Extraordinary Gazette of India, 2025-06-23",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Contruction",
-      "subject": "Publication of E gazette Notification for Nomination of Sub Divisional Officer as a competent authority under Section 7A for land acquisition for Proposed Construction of ROB and LHS 13 Nos in lieu of Level Crossing Gates in the jurisdiction of Mumbai division as Railway project  under Central Railway under railway Amendment act 2008  in Thane Raigad and Pune districts of Maharashtra",
-      "gazette_id": "CG-MH-E-23062025-264066",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264066.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264066/264066.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-23.264066",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-23/264066.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264066/264066_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-23.264065",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-23",
-      "ugid": "264065",
-      "title": "Extraordinary Gazette of India, 2025-06-23",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Western Railway Cantonment Bangalore",
-      "subject": "Publication of Notification of Chikjajur Bypass line in terms of clause 37A of the Railway Act 1989",
-      "gazette_id": "CG-KA-E-23062025-264065",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264065.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264065/264065.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-23.264065",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-23/264065.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264065/264065_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-23.264064",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-23",
-      "ugid": "264064",
-      "title": "Extraordinary Gazette of India, 2025-06-23",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Amendment in Import Policy of specific items covered under Chapter 71 of ITC HS 2022 of Schedule I Import Policy",
-      "gazette_id": "CG-DL-E-23062025-264064",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264064.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264064/264064.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-23.264064",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-23/264064.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264064/264064_djvu.txt"
     }
   ],
   "count": 2500,

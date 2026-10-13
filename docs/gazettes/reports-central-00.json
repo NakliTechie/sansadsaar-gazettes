@@ -2040,6 +2040,52 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.w.2026-10-03.277093",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-03",
+      "ugid": "277093",
+      "title": "Weekly Gazette of India, 2026-10-03",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-13102026-277093",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277093.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-03.277093/277093.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-03.277093",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-03/277093.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-10-03.277067",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-03",
+      "ugid": "277067",
+      "title": "Weekly Gazette of India, 2026-10-03",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-12102026-277067",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277067.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-03.277067/277067.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-03.277067",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-03/277067.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-10-03.276895",
       "category": "extraordinary",
       "type_letter": "e",
@@ -4030,6 +4076,29 @@
       "mirror_path": "pdf/central/e/2026-09-25/276788.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-09-25.276788/276788_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-09-24.277101",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-09-24",
+      "ugid": "277101",
+      "title": "Extraordinary Gazette of India, 2026-09-24",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "20EAIICNAAII",
+      "gazette_id": "CG-RJ-E-13102026-277101",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277101.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-09-24.277101/277101.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-09-24.277101",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-09-24/277101.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-09-24.276833",
@@ -58863,75 +58932,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-01.273021",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-01/273021.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273020",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273020",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Bye Election to the Council of States from Tamil Nadu Programme Notification",
-      "gazette_id": "CG-DL-E-01062026-273020",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273020.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273020/273020.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273020",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273020.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273019",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273019",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Bye Election to the Council of States from Odisha RO ARO Notification",
-      "gazette_id": "CG-DL-E-01062026-273019",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273019.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273019/273019.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273019",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273019.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273018",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273018",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Bye Election to the Council of States from Odisha Programme Notification",
-      "gazette_id": "CG-DL-E-01062026-273018",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273018.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273018/273018.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273018",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273018.pdf",
       "topics": []
     }
   ],

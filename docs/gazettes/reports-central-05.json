@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-02-17.261110",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-17",
+      "ugid": "261110",
+      "title": "Extraordinary Gazette of India, 2025-02-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-17022025-261110",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261110.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261110/261110.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-17.261110",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-17/261110.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261110/261110_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-17.261109",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-17",
+      "ugid": "261109",
+      "title": "Extraordinary Gazette of India, 2025-02-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-17022025-261109",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261109.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261109/261109.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-17.261109",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-17/261109.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261109/261109_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-17.261108",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-17",
+      "ugid": "261108",
+      "title": "Extraordinary Gazette of India, 2025-02-17",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Department of Commerce",
+      "office": "EP (Agri) Division",
+      "subject": "Sale of Excess FCV Tobacco in the State of Karnataka",
+      "gazette_id": "CG-DL-E-17022025-261108",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261108.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261108/261108.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-17.261108",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-17/261108.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261108/261108_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-02-17.261107",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-05/258460.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258460/258460_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-05.258459",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-05",
-      "ugid": "258459",
-      "title": "Extraordinary Gazette of India, 2024-11-05",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-05112024-258459",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258459.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258459/258459.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-05.258459",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-05/258459.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258459/258459_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-05.258457",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-05",
-      "ugid": "258457",
-      "title": "Extraordinary Gazette of India, 2024-11-05",
-      "ministry": "Ministry of Housing and Urban Affairs",
-      "department": "Delhi Division",
-      "office": "",
-      "subject": "Consequent upon his election by the Legislative Assembly of the National Capital Territory of Delhi under clause  f of sub section",
-      "gazette_id": "CG-DL-E-05112024-258457",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258457.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258457/258457.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-05.258457",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-05/258457.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258457/258457_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-05.258456",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-05",
-      "ugid": "258456",
-      "title": "Extraordinary Gazette of India, 2024-11-05",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-05112024-258456",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258456.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258456/258456.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-05.258456",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-05/258456.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258456/258456_djvu.txt"
     }
   ],
   "count": 2500,

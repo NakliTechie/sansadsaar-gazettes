@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-07-02.255162",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-02",
+      "ugid": "255162",
+      "title": "Extraordinary Gazette of India, 2024-07-02",
+      "ministry": "National Council for Vocational Education and Training",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "The National Council for Vocational Education and Training  NCVET  has been notified by the Ministry of Skill Development and Entrepreneurship  MSDE vide gazette notification",
+      "gazette_id": "CG-DL-E-04072024-255162",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255162.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255162/255162.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-02.255162",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-02/255162.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255162/255162_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-07-02.255161",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-02",
+      "ugid": "255161",
+      "title": "Extraordinary Gazette of India, 2024-07-02",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-04072024-255161",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255161.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255161/255161.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-02.255161",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-02/255161.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255161/255161_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-07-02.255160",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-02",
+      "ugid": "255160",
+      "title": "Extraordinary Gazette of India, 2024-07-02",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-04072024-255160",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255160.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255160/255160.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-02.255160",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-02/255160.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255160/255160_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-07-02.255159",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-29/252497.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252497/252497_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-29.252496",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-29",
-      "ugid": "252496",
-      "title": "Extraordinary Gazette of India, 2024-02-29",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1)of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in  the State of Gujarat",
-      "gazette_id": "CG-DL-E-01032024-252496",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252496.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252496/252496.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-29.252496",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-29/252496.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252496/252496_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-29.252494",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-29",
-      "ugid": "252494",
-      "title": "Extraordinary Gazette of India, 2024-02-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "MVL",
-      "gazette_id": "CG-DL-E-29022024-252494",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252494.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252494/252494.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-29.252494",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-29/252494.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252494/252494_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-29.252493",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-29",
-      "ugid": "252493",
-      "title": "Extraordinary Gazette of India, 2024-02-29",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Customs Wing CBIC",
-      "subject": "In exercise of the powers conferred by sub section (2) of section 14 of the Customs Act, 1962 (52 of 1962), the Central Board of Indirect Taxes and Customs, being satisfied that it is necessary and expedient to do so",
-      "gazette_id": "CG-DL-E-29022024-252493",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252493.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252493/252493.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-29.252493",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-29/252493.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252493/252493_djvu.txt"
     }
   ],
   "count": 2500,

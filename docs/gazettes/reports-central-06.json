@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-05.258459",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-05",
+      "ugid": "258459",
+      "title": "Extraordinary Gazette of India, 2024-11-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-05112024-258459",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258459.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258459/258459.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-05.258459",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-05/258459.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258459/258459_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-05.258457",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-05",
+      "ugid": "258457",
+      "title": "Extraordinary Gazette of India, 2024-11-05",
+      "ministry": "Ministry of Housing and Urban Affairs",
+      "department": "Delhi Division",
+      "office": "",
+      "subject": "Consequent upon his election by the Legislative Assembly of the National Capital Territory of Delhi under clause  f of sub section",
+      "gazette_id": "CG-DL-E-05112024-258457",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258457.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258457/258457.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-05.258457",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-05/258457.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258457/258457_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-05.258456",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-05",
+      "ugid": "258456",
+      "title": "Extraordinary Gazette of India, 2024-11-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-05112024-258456",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258456.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258456/258456.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-05.258456",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-05/258456.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258456/258456_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-05.258455",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-07-02/255178.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255178/255178_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-02.255162",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-02",
-      "ugid": "255162",
-      "title": "Extraordinary Gazette of India, 2024-07-02",
-      "ministry": "National Council for Vocational Education and Training",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "The National Council for Vocational Education and Training  NCVET  has been notified by the Ministry of Skill Development and Entrepreneurship  MSDE vide gazette notification",
-      "gazette_id": "CG-DL-E-04072024-255162",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255162.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255162/255162.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-02.255162",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-02/255162.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255162/255162_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-02.255161",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-02",
-      "ugid": "255161",
-      "title": "Extraordinary Gazette of India, 2024-07-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-04072024-255161",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255161.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255161/255161.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-02.255161",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-02/255161.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255161/255161_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-02.255160",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-02",
-      "ugid": "255160",
-      "title": "Extraordinary Gazette of India, 2024-07-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-04072024-255160",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255160.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255160/255160.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-02.255160",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-02/255160.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255160/255160_djvu.txt"
     }
   ],
   "count": 2500,

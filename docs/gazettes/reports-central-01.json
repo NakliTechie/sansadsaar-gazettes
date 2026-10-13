@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-06-01.273020",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-01",
+      "ugid": "273020",
+      "title": "Extrordinary Gazette of India, 2026-06-01",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Bye Election to the Council of States from Tamil Nadu Programme Notification",
+      "gazette_id": "CG-DL-E-01062026-273020",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273020.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273020/273020.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-01.273020",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-01/273020.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-01.273019",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-01",
+      "ugid": "273019",
+      "title": "Extrordinary Gazette of India, 2026-06-01",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Bye Election to the Council of States from Odisha RO ARO Notification",
+      "gazette_id": "CG-DL-E-01062026-273019",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273019.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273019/273019.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-01.273019",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-01/273019.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-01.273018",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-01",
+      "ugid": "273018",
+      "title": "Extrordinary Gazette of India, 2026-06-01",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Bye Election to the Council of States from Odisha Programme Notification",
+      "gazette_id": "CG-DL-E-01062026-273018",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273018.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273018/273018.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-01.273018",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-01/273018.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-01.273017",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59529,78 +59598,6 @@
       "mirror_path": "pdf/central/e/2026-02-24/270452.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270452/270452_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-24.270451",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-24",
-      "ugid": "270451",
-      "title": "Extrordinary Gazette of India, 2026-02-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-25022026-270451",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270451.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270451/270451.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-24.270451",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-24/270451.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270451/270451_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-24.270450",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-24",
-      "ugid": "270450",
-      "title": "Extrordinary Gazette of India, 2026-02-24",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Western Railway Cantonment Bangalore",
-      "subject": "Publication of Notification in respect of Construction of ROB in lieu of LC No 72 in terms of clause 20A of section of Railway Act 1989",
-      "gazette_id": "CG-KA-E-25022026-270450",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270450.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270450/270450.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-24.270450",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-24/270450.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270450/270450_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-24.270449",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-24",
-      "ugid": "270449",
-      "title": "Extrordinary Gazette of India, 2026-02-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-25022026-270449",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270449.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270449/270449.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-24.270449",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-24/270449.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270449/270449_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-29.252496",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-29",
+      "ugid": "252496",
+      "title": "Extraordinary Gazette of India, 2024-02-29",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1)of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in  the State of Gujarat",
+      "gazette_id": "CG-DL-E-01032024-252496",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252496.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252496/252496.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-29.252496",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-29/252496.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252496/252496_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-29.252494",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-29",
+      "ugid": "252494",
+      "title": "Extraordinary Gazette of India, 2024-02-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "MVL",
+      "gazette_id": "CG-DL-E-29022024-252494",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252494.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252494/252494.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-29.252494",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-29/252494.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252494/252494_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-29.252493",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-29",
+      "ugid": "252493",
+      "title": "Extraordinary Gazette of India, 2024-02-29",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Customs Wing CBIC",
+      "subject": "In exercise of the powers conferred by sub section (2) of section 14 of the Customs Act, 1962 (52 of 1962), the Central Board of Indirect Taxes and Customs, being satisfied that it is necessary and expedient to do so",
+      "gazette_id": "CG-DL-E-29022024-252493",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252493.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252493/252493.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-29.252493",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-29/252493.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252493/252493_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-29.252492",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58647,75 +58719,6 @@
       "ia_identifier": "in.gazette.central.e.2023-10-31.249818",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-10-31/249818.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-31.249816",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-31",
-      "ugid": "249816",
-      "title": "Extraordinary Gazette of India, 2023-10-31",
-      "ministry": "Ministry of Communications",
-      "department": "Department of Posts",
-      "office": "Postal Services Board",
-      "subject": "E publishing of Government of India Gazette Notification regarding introducing the International Tracked Packet service (ITPS) of India Post with Deutsche Post AG, Germany.",
-      "gazette_id": "CG-DL-E-31102023-249816",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249816.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249816/249816.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-31.249816",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-31/249816.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-31.249815",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-31",
-      "ugid": "249815",
-      "title": "Extraordinary Gazette of India, 2023-10-31",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Environmental Impact Assessment (EIA) Division",
-      "office": "",
-      "subject": "Reconstitution of Daman and Diu Coastal Zone Management Authority",
-      "gazette_id": "CG-DL-E-31102023-249815",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249815.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249815/249815.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-31.249815",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-31/249815.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-31.249814",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-31",
-      "ugid": "249814",
-      "title": "Extraordinary Gazette of India, 2023-10-31",
-      "ministry": "Ministry of Law  and Justice",
-      "department": "Department of Justice",
-      "office": "",
-      "subject": "Nomination of Member, NALSA under the Legal Services Authorities Act, 1987",
-      "gazette_id": "CG-DL-E-31102023-249814",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249814.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249814/249814.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-31.249814",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-31/249814.pdf",
       "topics": []
     }
   ],
