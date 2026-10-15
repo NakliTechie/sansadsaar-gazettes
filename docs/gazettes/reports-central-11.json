@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-10.244294",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-10",
+      "ugid": "244294",
+      "title": "Extraordinary Gazette of India, 2023-03-10",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A morth",
+      "gazette_id": "CG-DL-E-11032023-244294",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244294.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244294/244294.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-10.244294",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-10/244294.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244294/244294_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-10.244293",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58135,29 +58159,6 @@
       "ia_identifier": "in.gazette.central.w.2022-11-26.240589",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/w/2022-11-26/240589.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-25.240621",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-25",
-      "ugid": "240621",
-      "title": "Extraordinary Gazette of India, 2022-11-25",
-      "ministry": "Ministry of Chemicals and Fertilizers",
-      "department": "Department of Chemicals and PetroChemicals",
-      "office": "",
-      "subject": "In exercise of the powers conferred by section 16 of the Bureau of Indian Standards Act",
-      "gazette_id": "CG-DL-E-28112022-240621",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240621.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-25.240621/240621.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-25.240621",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-25/240621.pdf",
       "topics": []
     }
   ],

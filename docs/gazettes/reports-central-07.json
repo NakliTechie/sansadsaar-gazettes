@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-07-02.255178",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-02",
+      "ugid": "255178",
+      "title": "Extraordinary Gazette of India, 2024-07-02",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-04072024-255178",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255178.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255178/255178.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-02.255178",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-02/255178.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255178/255178_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-07-02.255162",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-29/252498.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252498/252498_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-29.252497",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-29",
-      "ugid": "252497",
-      "title": "Extraordinary Gazette of India, 2024-02-29",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in  the State of Gujarat",
-      "gazette_id": "CG-DL-E-01032024-252497",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252497.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252497/252497.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-29.252497",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-29/252497.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252497/252497_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-23.264067",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-23",
+      "ugid": "264067",
+      "title": "Extraordinary Gazette of India, 2025-06-23",
+      "ministry": "Ministry of Chemicals and Fertilizers",
+      "department": "Department of Chemicals and Petro Chemicals",
+      "office": "",
+      "subject": "Quality Control Order for Polypropylene Materials for Moulding and Extrusion Amendment regarding",
+      "gazette_id": "CG-DL-E-23062025-264067",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264067.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264067/264067.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-23.264067",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-23/264067.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264067/264067_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-23.264066",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-17/261112.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261112/261112_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-17.261111",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-17",
-      "ugid": "261111",
-      "title": "Extraordinary Gazette of India, 2025-02-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Arbitrator File",
-      "gazette_id": "CG-DL-E-17022025-261111",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261111.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261111/261111.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-17.261111",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-17/261111.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261111/261111_djvu.txt"
     }
   ],
   "count": 2500,

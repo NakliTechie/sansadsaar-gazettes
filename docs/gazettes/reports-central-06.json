@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-05.258460",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-05",
+      "ugid": "258460",
+      "title": "Extraordinary Gazette of India, 2024-11-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-05112024-258460",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258460.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258460/258460.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-05.258460",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-05/258460.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-05.258460/258460_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-05.258459",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-07-02/255184.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255184/255184_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-02.255178",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-02",
-      "ugid": "255178",
-      "title": "Extraordinary Gazette of India, 2024-07-02",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-04072024-255178",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255178.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255178/255178.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-02.255178",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-02/255178.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255178/255178_djvu.txt"
     }
   ],
   "count": 2500,
