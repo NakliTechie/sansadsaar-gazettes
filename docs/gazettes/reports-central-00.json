@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2026-10-10.277197",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-10",
+      "ugid": "277197",
+      "title": "Weekly Gazette of India, 2026-10-10",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-16102026-277197",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277197.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-10.277197/277197.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-10.277197",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-10/277197.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2026-10-10.277160",
       "category": "weekly",
       "type_letter": "w",
@@ -58911,29 +58934,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-01.273023",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-01/273023.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273022",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273022",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Bye Election to the Council of States from Maharashtra Programme Notification",
-      "gazette_id": "CG-DL-E-01062026-273022",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273022.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273022/273022.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273022",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273022.pdf",
       "topics": []
     }
   ],
