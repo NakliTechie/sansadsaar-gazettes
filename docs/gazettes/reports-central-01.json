@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-06-01.273035",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-01",
+      "ugid": "273035",
+      "title": "Extrordinary Gazette of India, 2026-06-01",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-01062026-273035",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273035.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273035/273035.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-01.273035",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-01/273035.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-01.273023",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-01",
+      "ugid": "273023",
+      "title": "Extrordinary Gazette of India, 2026-06-01",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Bye Election to the Council of States from Maharashtra RO ARO Notification",
+      "gazette_id": "CG-DL-E-01062026-273023",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273023.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273023/273023.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-01.273023",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-01/273023.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-01.273022",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59548,54 +59594,6 @@
       "mirror_path": "pdf/central/e/2026-02-24/270456.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270456/270456_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-24.270455",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-24",
-      "ugid": "270455",
-      "title": "Extrordinary Gazette of India, 2026-02-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-25022026-270455",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270455.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270455/270455.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-24.270455",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-24/270455.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270455/270455_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-24.270454",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-24",
-      "ugid": "270454",
-      "title": "Extrordinary Gazette of India, 2026-02-24",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies",
-      "gazette_id": "CG-DL-E-25022026-270454",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270454.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270454/270454.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-24.270454",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-24/270454.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270454/270454_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2022-11-26.240592",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2022-11-26",
+      "ugid": "240592",
+      "title": "Weekly Gazette of India, 2022-11-26",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-26112022-240592",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240592.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2022-11-26.240592/240592.pdf",
+      "ia_identifier": "in.gazette.central.w.2022-11-26.240592",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/w/2022-11-26/240592.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2022-11-26.240591",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2022-11-26",
+      "ugid": "240591",
+      "title": "Weekly Gazette of India, 2022-11-26",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-26112022-240591",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240591.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2022-11-26.240591/240591.pdf",
+      "ia_identifier": "in.gazette.central.w.2022-11-26.240591",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/w/2022-11-26/240591.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2022-11-26.240589",
       "category": "weekly",
       "type_letter": "w",
@@ -28139,7 +28185,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1220,
+  "count": 1222,
   "category": "central",
   "shard_index": 12
 }

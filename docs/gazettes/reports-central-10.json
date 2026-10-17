@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-07.247172",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-07",
+      "ugid": "247172",
+      "title": "Extraordinary Gazette of India, 2023-07-07",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary  Gazette of India under Section 6(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Pipeline(MPPL) project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in the State of Gujarat  Tehsil Bhabhar Distt Banaskantha",
+      "gazette_id": "CG-DL-E-10072023-247172",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247172.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247172/247172.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-07.247172",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-07/247172.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-07.247171",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-07",
+      "ugid": "247171",
+      "title": "Extraordinary Gazette of India, 2023-07-07",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary  Gazette of India under Section 6(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Pipeline(MPPL) project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in the State of Gujarat  Tehsil Lakhni Distt Banaskantha",
+      "gazette_id": "CG-DL-E-10072023-247171",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247171.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247171/247171.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-07.247171",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-07/247171.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-07.247170",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57517,54 +57563,6 @@
       "mirror_path": "pdf/central/e/2023-03-10/244298.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244298/244298_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-10.244297",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-10",
-      "ugid": "244297",
-      "title": "Extraordinary Gazette of India, 2023-03-10",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D nhai",
-      "gazette_id": "CG-DL-E-11032023-244297",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244297.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244297/244297.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-10.244297",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-10/244297.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244297/244297_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-10.244296",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-10",
-      "ugid": "244296",
-      "title": "Extraordinary Gazette of India, 2023-03-10",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D nhai",
-      "gazette_id": "CG-DL-E-11032023-244296",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244296.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244296/244296.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-10.244296",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-10/244296.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244296/244296_djvu.txt"
     }
   ],
   "count": 2500,

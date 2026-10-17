@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-07-03.255119",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-03",
+      "ugid": "255119",
+      "title": "Extraordinary Gazette of India, 2024-07-03",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Budget Division",
+      "subject": "GPF Q2 01.07.2024 to 30.09.2024",
+      "gazette_id": "CG-DL-E-03072024-255119",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255119.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-03.255119/255119.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-03.255119",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-03/255119.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-03.255119/255119_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-07-02.255185",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-02",
+      "ugid": "255185",
+      "title": "Extraordinary Gazette of India, 2024-07-02",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-05072024-255185",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255185.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255185/255185.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-02.255185",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-02/255185.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-02.255185/255185_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-07-02.255184",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-02-29/252502.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252502/252502_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-29.252500",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-29",
-      "ugid": "252500",
-      "title": "Extraordinary Gazette of India, 2024-02-29",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in  the State of Gujarat",
-      "gazette_id": "CG-DL-E-01032024-252500",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252500.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252500/252500.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-29.252500",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-29/252500.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252500/252500_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-02-29.252499",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-02-29",
-      "ugid": "252499",
-      "title": "Extraordinary Gazette of India, 2024-02-29",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Amendment in Para 2 39 of the Foreign Trade Policy 2023",
-      "gazette_id": "CG-DL-E-01032024-252499",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252499.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252499/252499.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-02-29.252499",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-02-29/252499.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252499/252499_djvu.txt"
     }
   ],
   "count": 2500,

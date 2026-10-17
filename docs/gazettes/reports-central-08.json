@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-02-29.252500",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-29",
+      "ugid": "252500",
+      "title": "Extraordinary Gazette of India, 2024-02-29",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in  the State of Gujarat",
+      "gazette_id": "CG-DL-E-01032024-252500",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252500.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252500/252500.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-29.252500",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-29/252500.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252500/252500_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-02-29.252499",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-02-29",
+      "ugid": "252499",
+      "title": "Extraordinary Gazette of India, 2024-02-29",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendment in Para 2 39 of the Foreign Trade Policy 2023",
+      "gazette_id": "CG-DL-E-01032024-252499",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252499.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252499/252499.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-02-29.252499",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-02-29/252499.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-02-29.252499/252499_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-02-29.252498",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58675,52 +58723,6 @@
       "ia_identifier": "in.gazette.central.e.2023-10-31.249834",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-10-31/249834.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-31.249832",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-31",
-      "ugid": "249832",
-      "title": "Extraordinary Gazette of India, 2023-10-31",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "ESZ Division",
-      "office": "",
-      "subject": "Gudekote Extension Sloth Bear Sanctuary",
-      "gazette_id": "CG-DL-E-02112023-249832",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249832.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249832/249832.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-31.249832",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-31/249832.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-10-31.249820",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-10-31",
-      "ugid": "249820",
-      "title": "Extraordinary Gazette of India, 2023-10-31",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Direct Taxes",
-      "subject": "changes in Form ITR 7",
-      "gazette_id": "CG-DL-E-31102023-249820",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249820.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249820/249820.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-10-31.249820",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-10-31/249820.pdf",
       "topics": []
     }
   ],

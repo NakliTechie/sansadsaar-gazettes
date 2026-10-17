@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-10-17.266991",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-17",
+      "ugid": "266991",
+      "title": "Extrordinary Gazette of India, 2025-10-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-17102025-266991",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266991.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.266991/266991.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-17.266991",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-17/266991.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.266991/266991_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-10-17.266990",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-17",
+      "ugid": "266990",
+      "title": "Extrordinary Gazette of India, 2025-10-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-17102025-266990",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/266990.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.266990/266990.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-17.266990",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-17/266990.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.266990/266990_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-10-17.266989",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-06-23/264071.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264071/264071_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-23.264070",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-23",
-      "ugid": "264070",
-      "title": "Extraordinary Gazette of India, 2025-06-23",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Financial Services",
-      "office": "",
-      "subject": "In exercise of the powers conferred by clause  ccd of sub section  2 of section 36 of the Recovery of Debts and Bankruptcy Act",
-      "gazette_id": "CG-DL-E-23062025-264070",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264070.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264070/264070.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-23.264070",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-23/264070.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264070/264070_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-23.264069",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-23",
-      "ugid": "264069",
-      "title": "Extraordinary Gazette of India, 2025-06-23",
-      "ministry": "Ministry of Parliamentary Affairs",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Appointment of Shri Nikunja Bihari Dhal, IAS(OR:93),  as Officer on Special Duty, Ministry of Parliamentary Affairs, in the rank and pay of Secretary  to the Government of India",
-      "gazette_id": "CG-DL-E-23062025-264069",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264069.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264069/264069.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-23.264069",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-23/264069.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-23.264069/264069_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-10-31.249832",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-31",
+      "ugid": "249832",
+      "title": "Extraordinary Gazette of India, 2023-10-31",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "ESZ Division",
+      "office": "",
+      "subject": "Gudekote Extension Sloth Bear Sanctuary",
+      "gazette_id": "CG-DL-E-02112023-249832",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249832.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249832/249832.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-31.249832",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-31/249832.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-31.249820",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-31",
+      "ugid": "249820",
+      "title": "Extraordinary Gazette of India, 2023-10-31",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "changes in Form ITR 7",
+      "gazette_id": "CG-DL-E-31102023-249820",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249820.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249820/249820.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-31.249820",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-31/249820.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-31.249819",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58247,52 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-07.247173",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-07/247173.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247172",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247172",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary  Gazette of India under Section 6(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Pipeline(MPPL) project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in the State of Gujarat  Tehsil Bhabhar Distt Banaskantha",
-      "gazette_id": "CG-DL-E-10072023-247172",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247172.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247172/247172.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247172",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247172.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247171",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247171",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary  Gazette of India under Section 6(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Pipeline(MPPL) project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in the State of Gujarat  Tehsil Lakhni Distt Banaskantha",
-      "gazette_id": "CG-DL-E-10072023-247171",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247171.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247171/247171.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247171",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247171.pdf",
       "topics": []
     }
   ],
