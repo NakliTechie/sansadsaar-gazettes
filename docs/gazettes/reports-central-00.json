@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2026-10-17.277247",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-17",
+      "ugid": "277247",
+      "title": "Weekly Gazette of India, 2026-10-17",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-17102026-277247",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277247.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-17.277247/277247.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-17.277247",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-17/277247.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-10-17.277243",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-17",
+      "ugid": "277243",
+      "title": "Weekly Gazette of India, 2026-10-17",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-17102026-277243",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277243.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-17.277243/277243.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-17.277243",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-17/277243.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-10-17.277242",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-17",
+      "ugid": "277242",
+      "title": "Weekly Gazette of India, 2026-10-17",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-17102026-277242",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277242.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-17.277242/277242.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-17.277242",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-17/277242.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-10-17.277241",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-17",
+      "ugid": "277241",
+      "title": "Weekly Gazette of India, 2026-10-17",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-17102026-277241",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277241.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-17.277241/277241.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-17.277241",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-17/277241.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2026-10-17.277240",
       "category": "weekly",
       "type_letter": "w",
@@ -58845,98 +58937,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-01.273042",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-01/273042.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273041",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273041",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-01062026-273041",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273041.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273041/273041.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273041",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273041.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273038",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273038",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Eastern Railway",
-      "subject": "37A Gazette Notification of Andal Sainthia 3rd and 4th line as Special Railway Project for acqusition of land in Paschim Bardhaman and Birbhbum Districts of West Bengal",
-      "gazette_id": "CG-WB-E-01062026-273038",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273038.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273038/273038.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273038",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273038.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273037",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273037",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Eastern Railway",
-      "subject": "7A Gazette Notification for CALA of Gumani to Malda Town 3rd and 4th line incluidng bridge over river Ganga at New Farakka as Special Railway Project for land acquisition in Murshidabad and Malda Districts in the state of West Bengal",
-      "gazette_id": "CG-WB-E-01062026-273037",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273037.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273037/273037.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273037",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273037.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-01.273036",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-01",
-      "ugid": "273036",
-      "title": "Extrordinary Gazette of India, 2026-06-01",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Eastern Railway",
-      "subject": "7A Gazettte  Notification for CALA of Kalipahari bypass line connection Mohishila SER with Asansol yard by passinng kalipahari 4.75 km line in Asansol Division a Special Railway Project for land acquisition in Paschim Bardhaman District in the state of West Bengal",
-      "gazette_id": "CG-WB-E-01062026-273036",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273036.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-01.273036/273036.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-01.273036",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-01/273036.pdf",
       "topics": []
     }
   ],

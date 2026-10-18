@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-01.249828",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-01",
+      "ugid": "249828",
+      "title": "Extraordinary Gazette of India, 2023-11-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "Notification in case of BPC Penco XVII Corporation under section 10(23FE) of the Income tax Act 1961",
+      "gazette_id": "CG-DL-E-01112023-249828",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249828.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-01.249828/249828.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-01.249828",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-01/249828.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-01.249827",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-01",
+      "ugid": "249827",
+      "title": "Extraordinary Gazette of India, 2023-11-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "Notification under section 90 of the Income tax Act 1961",
+      "gazette_id": "CG-DL-E-01112023-249827",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249827.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-01.249827/249827.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-01.249827",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-01/249827.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-31.249845",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-31",
+      "ugid": "249845",
+      "title": "Extraordinary Gazette of India, 2023-10-31",
+      "ministry": "Bureau of Energy Efficiency",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Whereas the draft regulation namely, the Bureau of Energy Efficiency  Particulars and Manner of their Display on Labels of Washing Machine",
+      "gazette_id": "CG-DL-E-04112023-249845",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249845.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249845/249845.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-31.249845",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-31/249845.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-10-31.249834",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-10-31",
+      "ugid": "249834",
+      "title": "Extraordinary Gazette of India, 2023-10-31",
+      "ministry": "Institute of Teaching and Research in Ayurveda",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section  1 of section 28 of the Institute of Teaching and Research in Ayurveda Act",
+      "gazette_id": "CG-GJ-E-01112023-249834",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249834.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-10-31.249834/249834.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-10-31.249834",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-10-31/249834.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-10-31.249832",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58201,98 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-07.247178",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-07/247178.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247177",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247177",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by subsection 1 of section 4 of the Bureau of Indian Standards Act,",
-      "gazette_id": "CG-DL-E-10072023-247177",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247177.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247177/247177.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247177",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247177.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247176",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247176",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Mumbai  Nagpur  Jharsuguda  Natural Gas Pipeline of GAIL (India) Limited.",
-      "gazette_id": "CG-DL-E-10072023-247176",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247176.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247176/247176.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247176",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247176.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247174",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247174",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Railways",
-      "department": "Central Organization for Railway Electrification (CORE)",
-      "office": "",
-      "subject": "Erection of 220KV Underground transmission line with 1CX800 Sqmm   Underground Cable SC  line from GETCO 220KV SS to  Kukma TSS of Railway Electrification",
-      "gazette_id": "CG-GJ-E-10072023-247174",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247174.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247174/247174.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247174",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247174.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-07.247173",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-07",
-      "ugid": "247173",
-      "title": "Extraordinary Gazette of India, 2023-07-07",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary  Gazette of India under Section 6(1) of the PMP Act 1962 in respect of New Mundra Panipat Crude Pipeline(MPPL) project to be laid by Indian Oil Corporation Ltd. (IOCL) for acquisition of ROU in the State of Gujarat  Tehsil Deodar Distt Banaskantha",
-      "gazette_id": "CG-DL-E-10072023-247173",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247173.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-07.247173/247173.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-07.247173",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-07/247173.pdf",
       "topics": []
     }
   ],
