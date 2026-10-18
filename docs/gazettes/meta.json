@@ -1,7 +1,7 @@
 {
   "phase": "derive",
-  "generated_at": "2026-10-18T13:10:10Z",
-  "elapsed_s": 143.4,
+  "generated_at": "2026-10-18T16:49:27Z",
+  "elapsed_s": 96.0,
   "totals": {
     "central": 31226
   },
@@ -35,12 +35,12 @@
       "search-bundle-09.json": 22143541,
       "search-bundle-10.json": 21581222,
       "search-bundle-11.json": 22152503,
-      "search-bundle-12.json": 11581482
+      "search-bundle-12.json": 11593191
     },
-    "total": 31218,
-    "truncated": 21920,
+    "total": 31219,
+    "truncated": 21921,
     "head_chars": 5000,
-    "size_bytes": 274442918,
+    "size_bytes": 274454627,
     "max_shard_bytes": 22478955
   },
   "search_index": {
@@ -173,27 +173,27 @@
       "search-index-59.json": 16796607,
       "search-index-60.json": 17507434,
       "search-index-61.json": 21559351,
-      "search-index-62.json": 11388610
+      "search-index-62.json": 11393665
     },
-    "total": 31218,
-    "size_bytes": 300380907,
+    "total": 31219,
+    "size_bytes": 300385962,
     "max_shard_bytes": 21559351
   },
   "audit": {
     "central_records": 31226,
-    "djvu_ok": 31218,
-    "djvu_pending": 8,
+    "djvu_ok": 31219,
+    "djvu_pending": 7,
     "no_text": 0,
     "topics_assigned": 0
   },
   "text_shards": {
-    "records_with_text": 31218,
+    "records_with_text": 31219,
     "shards": 440,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 41343,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31218,
-    "txt_files_removed": 0
+    "txt_files_removed": 1
   }
 }
