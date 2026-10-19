@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-24.264093",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-24",
+      "ugid": "264093",
+      "title": "Extraordinary Gazette of India, 2025-06-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-24062025-264093",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264093.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264093/264093.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-24.264093",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-24/264093.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264093/264093_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-24.264092",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-18/261137.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-18.261137/261137_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-17.261149",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-17",
-      "ugid": "261149",
-      "title": "Extraordinary Gazette of India, 2025-02-17",
-      "ministry": "Joint Electricity Regulatory Commission for Goa and UTs",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by Section 27(A) of the Energy Conservation Act, 2001, the Joint Electricity Regulatory Commission for discharge of its function under the Energy Conservation Act, 2001 as amended on 20th Dec 2022, hereby makes the Joint Electricity Regulatory Commission",
-      "gazette_id": "CG-HR-E-19022025-261149",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261149.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261149/261149.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-17.261149",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-17/261149.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261149/261149_djvu.txt"
     }
   ],
   "count": 2500,

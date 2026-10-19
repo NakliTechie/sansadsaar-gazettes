@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-24.270536",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-24",
+      "ugid": "270536",
+      "title": "Extrordinary Gazette of India, 2026-02-24",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
+      "gazette_id": "CG-DL-E-27022026-270536",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270536.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270536/270536.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-24.270536",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-24/270536.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-24.270536/270536_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-24.270533",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-10-17/267023.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267023/267023_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-17.267022",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-17",
-      "ugid": "267022",
-      "title": "Extrordinary Gazette of India, 2025-10-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-18102025-267022",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267022.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267022/267022.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-17.267022",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-17/267022.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267022/267022_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-06.258488",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-06",
+      "ugid": "258488",
+      "title": "Extraordinary Gazette of India, 2024-11-06",
+      "ministry": "Ministry of Mines",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification under section 10 of the OAMDR Act 2002",
+      "gazette_id": "CG-DL-E-07112024-258488",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258488.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-06.258488/258488.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-06.258488",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-06/258488.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-06.258488/258488_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-06.258484",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-07-04/255180.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255180/255180_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-04.255179",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-04",
-      "ugid": "255179",
-      "title": "Extraordinary Gazette of India, 2024-07-04",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Prorogation of Ist Session of 18th LS",
-      "gazette_id": "CG-DL-E-04072024-255179",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255179.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255179/255179.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-04.255179",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-04/255179.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-04.255179/255179_djvu.txt"
     }
   ],
   "count": 2500,

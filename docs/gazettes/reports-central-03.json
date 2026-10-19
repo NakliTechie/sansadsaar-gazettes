@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-10-17.267022",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-17",
+      "ugid": "267022",
+      "title": "Extrordinary Gazette of India, 2025-10-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-18102025-267022",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267022.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267022/267022.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-17.267022",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-17/267022.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267022/267022_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-10-17.267020",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-06-24/264094.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264094/264094_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-24.264093",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-24",
-      "ugid": "264093",
-      "title": "Extraordinary Gazette of India, 2025-06-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-24062025-264093",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264093.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264093/264093.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-24.264093",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-24/264093.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264093/264093_djvu.txt"
     }
   ],
   "count": 2500,

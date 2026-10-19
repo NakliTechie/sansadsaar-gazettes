@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-02-17.261149",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-17",
+      "ugid": "261149",
+      "title": "Extraordinary Gazette of India, 2025-02-17",
+      "ministry": "Joint Electricity Regulatory Commission for Goa and UTs",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by Section 27(A) of the Energy Conservation Act, 2001, the Joint Electricity Regulatory Commission for discharge of its function under the Energy Conservation Act, 2001 as amended on 20th Dec 2022, hereby makes the Joint Electricity Regulatory Commission",
+      "gazette_id": "CG-HR-E-19022025-261149",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261149.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261149/261149.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-17.261149",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-17/261149.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-17.261149/261149_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-02-17.261145",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-06/258491.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-06.258491/258491_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-06.258488",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-06",
-      "ugid": "258488",
-      "title": "Extraordinary Gazette of India, 2024-11-06",
-      "ministry": "Ministry of Mines",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification under section 10 of the OAMDR Act 2002",
-      "gazette_id": "CG-DL-E-07112024-258488",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258488.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-06.258488/258488.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-06.258488",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-06/258488.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-06.258488/258488_djvu.txt"
     }
   ],
   "count": 2500,

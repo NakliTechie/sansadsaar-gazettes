@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-10.244321",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-10",
+      "ugid": "244321",
+      "title": "Extraordinary Gazette of India, 2023-03-10",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A nhai",
+      "gazette_id": "CG-DL-E-11032023-244321",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244321.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244321/244321.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-10.244321",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-10/244321.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-10.244321/244321_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-10.244320",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58161,29 +58185,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-28.240627",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-28/240627.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-28.240626",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-28",
-      "ugid": "240626",
-      "title": "Extraordinary Gazette of India, 2022-11-28",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Indirect Taxes and Customs",
-      "subject": "ADD ARW",
-      "gazette_id": "CG-DL-E-28112022-240626",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240626.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-28.240626/240626.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-28.240626",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-28/240626.pdf",
       "topics": []
     }
   ],
