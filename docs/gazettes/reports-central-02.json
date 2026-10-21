@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-25.270497",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-25",
+      "ugid": "270497",
+      "title": "Extrordinary Gazette of India, 2026-02-25",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Publication of notification of extraordinary Gazette under Part II section 3 Sub Section (ii) Notification under clause (20E) of the Railways Act, 1989. In connection Construction of Road Over Bridge In lieu of Level Crossing No. 216 at Km. 555/1 2 in between Marichethal Raichur Stations",
+      "gazette_id": "CG-TL-E-26022026-270497",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270497.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-25.270497/270497.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-25.270497",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-25/270497.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-25.270497/270497_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-25.270496",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-25",
+      "ugid": "270496",
+      "title": "Extrordinary Gazette of India, 2026-02-25",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-26022026-270496",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270496.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-25.270496/270496.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-25.270496",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-25/270496.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-25.270496/270496_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-25.270495",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-10-17/267064.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267064/267064_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-17.267063",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-17",
-      "ugid": "267063",
-      "title": "Extrordinary Gazette of India, 2025-10-17",
-      "ministry": "Ministry of Railways",
-      "department": "Sout East Central Railway",
-      "office": "",
-      "subject": "7A notification",
-      "gazette_id": "CG-CG-E-22102025-267063",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267063.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267063/267063.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-17.267063",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-17/267063.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267063/267063_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-17.267062",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-17",
-      "ugid": "267062",
-      "title": "Extrordinary Gazette of India, 2025-10-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-22102025-267062",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267062.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267062/267062.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-17.267062",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-17/267062.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-17.267062/267062_djvu.txt"
     }
   ],
   "count": 2500,

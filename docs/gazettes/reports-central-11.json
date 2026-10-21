@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-13.244344",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-13",
+      "ugid": "244344",
+      "title": "Extraordinary Gazette of India, 2023-03-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A NHAI",
+      "gazette_id": "CG-DL-E-13032023-244344",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244344.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-13.244344/244344.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-13.244344",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-13/244344.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-13.244344/244344_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-13.244343",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-13",
+      "ugid": "244343",
+      "title": "Extraordinary Gazette of India, 2023-03-13",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Social Security I",
+      "office": "",
+      "subject": "ESI coverage in all the areas of Gandhinagar district, in addition to the already notified areas of the said district, in the State of Gujarat.",
+      "gazette_id": "CG-DL-E-13032023-244343",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244343.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-13.244343/244343.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-13.244343",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-13/244343.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-13.244343/244343_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-13.244342",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58164,52 +58212,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-29.240654",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-29/240654.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-29.240653",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-29",
-      "ugid": "240653",
-      "title": "Extraordinary Gazette of India, 2022-11-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D MoRTH",
-      "gazette_id": "CG-DL-E-30112022-240653",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240653.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-29.240653/240653.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-29.240653",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-29/240653.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-29.240652",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-29",
-      "ugid": "240652",
-      "title": "Extraordinary Gazette of India, 2022-11-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-30112022-240652",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240652.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-29.240652/240652.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-29.240652",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-29/240652.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-06-02.273085",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-02",
+      "ugid": "273085",
+      "title": "Extrordinary Gazette of India, 2026-06-02",
+      "ministry": "Insolvency and Bankruptcy Board of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by clause (t) of subsection (1) of section 196 read with section 240 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Insolvency and Bankruptcy Board of India",
+      "gazette_id": "CG-DL-E-03062026-273085",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273085.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273085/273085.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-02.273085",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-02/273085.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273085/273085_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-02.273084",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-02",
+      "ugid": "273084",
+      "title": "Extrordinary Gazette of India, 2026-06-02",
+      "ministry": "Insolvency and Bankruptcy Board of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sections 196, 210, 213, 214, 215 read with section 240 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Insolvency and Bankruptcy Board of India",
+      "gazette_id": "CG-DL-E-03062026-273084",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273084.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273084/273084.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-02.273084",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-02/273084.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273084/273084_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-02.273083",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59527,54 +59575,6 @@
       "mirror_path": "pdf/central/e/2026-02-25/270498.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-25.270498/270498_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-25.270497",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-25",
-      "ugid": "270497",
-      "title": "Extrordinary Gazette of India, 2026-02-25",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of notification of extraordinary Gazette under Part II section 3 Sub Section (ii) Notification under clause (20E) of the Railways Act, 1989. In connection Construction of Road Over Bridge In lieu of Level Crossing No. 216 at Km. 555/1 2 in between Marichethal Raichur Stations",
-      "gazette_id": "CG-TL-E-26022026-270497",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270497.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-25.270497/270497.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-25.270497",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-25/270497.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-25.270497/270497_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-02-25.270496",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-02-25",
-      "ugid": "270496",
-      "title": "Extrordinary Gazette of India, 2026-02-25",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of user fee notification",
-      "gazette_id": "CG-DL-E-26022026-270496",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270496.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-25.270496/270496.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-02-25.270496",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-02-25/270496.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-25.270496/270496_djvu.txt"
     }
   ],
   "count": 2500,

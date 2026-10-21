@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-24.264121",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-24",
+      "ugid": "264121",
+      "title": "Extraordinary Gazette of India, 2025-06-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-25062025-264121",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264121.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264121/264121.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-24.264121",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-24/264121.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264121/264121_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-24.264120",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-24",
+      "ugid": "264120",
+      "title": "Extraordinary Gazette of India, 2025-06-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-25062025-264120",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264120.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264120/264120.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-24.264120",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-24/264120.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-24.264120/264120_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-24.264119",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-19/261168.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-19.261168/261168_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-19.261167",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-19",
-      "ugid": "261167",
-      "title": "Extraordinary Gazette of India, 2025-02-19",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the petroleum and Minerals Pipelines (Acquisition of Right of User in Land) Act, 1962 in respect of Irugur Devangonthi Pipeline Project of Bharat Petroleum Corporation Limited for acquisition of ROU in the State of Tamil Nadu",
-      "gazette_id": "CG-DL-E-19022025-261167",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261167.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-19.261167/261167.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-19.261167",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-19/261167.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-19.261167/261167_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-19.261166",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-19",
-      "ugid": "261166",
-      "title": "Extraordinary Gazette of India, 2025-02-19",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the petroleum and Minerals Pipelines (Acquisition of Right of User in Land) Act, 1962 in respect of Irugur Devangonthi Pipeline Project ofs Bharat Petroleum Corporation Limited for acquisition of ROU in the State of Tamil Nadu",
-      "gazette_id": "CG-DL-E-19022025-261166",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261166.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-19.261166/261166.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-19.261166",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-19/261166.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-19.261166/261166_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-11.247224",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-11",
+      "ugid": "247224",
+      "title": "Extraordinary Gazette of India, 2023-07-11",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Central Railway",
+      "subject": "Publication of Gazette Notification to declare Ara Bypass Line to be Connected from Jagjivan Halt to existing ARA Sasaram line through link cabin Y connectivity at Ara as Special Railway Project",
+      "gazette_id": "CG-BR-E-11072023-247224",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247224.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-11.247224/247224.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-11.247224",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-11/247224.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-11.247223",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-11",
+      "ugid": "247223",
+      "title": "Extraordinary Gazette of India, 2023-07-11",
+      "ministry": "Ministry of Law  and Justice",
+      "department": "Department of Justice",
+      "office": "",
+      "subject": "Nomination of Member, NALSA under the Legal Services Authorities Act, 1987",
+      "gazette_id": "CG-DL-E-11072023-247223",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247223.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-11.247223/247223.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-11.247223",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-11/247223.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-11.247222",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57467,54 +57513,6 @@
       "mirror_path": "pdf/central/e/2023-03-13/244345.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-13.244345/244345_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-13.244344",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-13",
-      "ugid": "244344",
-      "title": "Extraordinary Gazette of India, 2023-03-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-13032023-244344",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244344.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-13.244344/244344.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-13.244344",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-13/244344.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-13.244344/244344_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-13.244343",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-13",
-      "ugid": "244343",
-      "title": "Extraordinary Gazette of India, 2023-03-13",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Social Security I",
-      "office": "",
-      "subject": "ESI coverage in all the areas of Gandhinagar district, in addition to the already notified areas of the said district, in the State of Gujarat.",
-      "gazette_id": "CG-DL-E-13032023-244343",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244343.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-13.244343/244343.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-13.244343",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-13/244343.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-03-13.244343/244343_djvu.txt"
     }
   ],
   "count": 2500,

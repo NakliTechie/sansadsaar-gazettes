@@ -743,6 +743,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-10-17.277239/277239_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-10-16.277298",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-16",
+      "ugid": "277298",
+      "title": "Extraordinary Gazette of India, 2026-10-16",
+      "ministry": "Ministry of Social Justice and Empowerment",
+      "department": "Department of Social Justice and Empowerment",
+      "office": "",
+      "subject": "Publication of revised notification under section 7 of the Aadhaar act 2016 for Pre Matric Scholarship scheme for SC and others",
+      "gazette_id": "CG-DL-E-21102026-277298",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277298.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-16.277298/277298.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-16.277298",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-16/277298.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-10-16.277297",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1108,6 +1131,29 @@
       "ia_identifier": "in.gazette.central.e.2026-10-16.277244",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-10-16/277244.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-10-15.277300",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-15",
+      "ugid": "277300",
+      "title": "Extraordinary Gazette of India, 2026-10-15",
+      "ministry": "Ministry of Power",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification in respect of M/s Ananthapuram II Power Transmission Limited.",
+      "gazette_id": "CG-DL-E-21102026-277300",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277300.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-15.277300/277300.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-15.277300",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-15/277300.pdf",
       "topics": []
     },
     {
@@ -58869,54 +58915,6 @@
       "mirror_path": "pdf/central/e/2026-06-02/273086.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273086/273086_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-02.273085",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-02",
-      "ugid": "273085",
-      "title": "Extrordinary Gazette of India, 2026-06-02",
-      "ministry": "Insolvency and Bankruptcy Board of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by clause (t) of subsection (1) of section 196 read with section 240 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Insolvency and Bankruptcy Board of India",
-      "gazette_id": "CG-DL-E-03062026-273085",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273085.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273085/273085.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-02.273085",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-02/273085.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273085/273085_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-02.273084",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-02",
-      "ugid": "273084",
-      "title": "Extrordinary Gazette of India, 2026-06-02",
-      "ministry": "Insolvency and Bankruptcy Board of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sections 196, 210, 213, 214, 215 read with section 240 of the Insolvency and Bankruptcy Code, 2016 (31 of 2016), the Insolvency and Bankruptcy Board of India",
-      "gazette_id": "CG-DL-E-03062026-273084",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273084.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273084/273084.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-02.273084",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-02/273084.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273084/273084_djvu.txt"
     }
   ],
   "count": 2500,

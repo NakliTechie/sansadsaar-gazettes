@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-01.252552",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-01",
+      "ugid": "252552",
+      "title": "Extraordinary Gazette of India, 2024-03-01",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Financial Market Division",
+      "subject": "Notification under clause (bc) of Section 2 of the Securities Contract (Regulations)Act 1956 for enabling option in goods.",
+      "gazette_id": "CG-DL-E-01032024-252552",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252552.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-01.252552/252552.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-01.252552",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-01/252552.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-01.252552/252552_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-01.252551",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-01",
+      "ugid": "252551",
+      "title": "Extraordinary Gazette of India, 2024-03-01",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "North Eastern Railway",
+      "subject": "For publication in the Gazette of India under section 2 clause 7 A of Railways amendment Act 2008",
+      "gazette_id": "CG-UP-E-01032024-252551",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252551.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-01.252551/252551.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-01.252551",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-01/252551.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-01.252551/252551_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-01.252549",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58725,52 +58773,6 @@
       "ia_identifier": "in.gazette.central.e.2023-11-03.249892",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-11-03/249892.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-03.249891",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-03",
-      "ugid": "249891",
-      "title": "Extraordinary Gazette of India, 2023-11-03",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Arbitrator File",
-      "gazette_id": "CG-DL-E-04112023-249891",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249891.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-03.249891/249891.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-03.249891",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-03/249891.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-03.249890",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-03",
-      "ugid": "249890",
-      "title": "Extraordinary Gazette of India, 2023-11-03",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "PandM File",
-      "gazette_id": "CG-DL-E-04112023-249890",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249890.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-03.249890/249890.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-03.249890",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-03/249890.pdf",
       "topics": []
     }
   ],

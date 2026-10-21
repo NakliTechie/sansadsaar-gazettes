@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-02-19.261167",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-19",
+      "ugid": "261167",
+      "title": "Extraordinary Gazette of India, 2025-02-19",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the petroleum and Minerals Pipelines (Acquisition of Right of User in Land) Act, 1962 in respect of Irugur Devangonthi Pipeline Project of Bharat Petroleum Corporation Limited for acquisition of ROU in the State of Tamil Nadu",
+      "gazette_id": "CG-DL-E-19022025-261167",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261167.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-19.261167/261167.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-19.261167",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-19/261167.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-19.261167/261167_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-19.261166",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-19",
+      "ugid": "261166",
+      "title": "Extraordinary Gazette of India, 2025-02-19",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 3(1) of the petroleum and Minerals Pipelines (Acquisition of Right of User in Land) Act, 1962 in respect of Irugur Devangonthi Pipeline Project ofs Bharat Petroleum Corporation Limited for acquisition of ROU in the State of Tamil Nadu",
+      "gazette_id": "CG-DL-E-19022025-261166",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261166.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-19.261166/261166.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-19.261166",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-19/261166.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-19.261166/261166_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-02-19.261165",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-07/258521.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-07.258521/258521_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-07.258520",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-07",
-      "ugid": "258520",
-      "title": "Extraordinary Gazette of India, 2024-11-07",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-07112024-258520",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258520.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-07.258520/258520.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-07.258520",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-07/258520.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-07.258520/258520_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-07.258519",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-07",
-      "ugid": "258519",
-      "title": "Extraordinary Gazette of India, 2024-11-07",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-07112024-258519",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258519.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-07.258519/258519.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-07.258519",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-07/258519.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-07.258519/258519_djvu.txt"
     }
   ],
   "count": 2500,
