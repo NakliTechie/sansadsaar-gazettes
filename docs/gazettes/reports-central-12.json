@@ -1,6 +1,213 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-11-30.240672",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-30",
+      "ugid": "240672",
+      "title": "Extraordinary Gazette of India, 2022-11-30",
+      "ministry": "Ministry of External Affairs",
+      "department": "UNP Division",
+      "office": "",
+      "subject": "Section 2 of the UN Security Council Act, 1947",
+      "gazette_id": "CG-DL-E-30112022-240672",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240672.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240672/240672.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-30.240672",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-30/240672.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-30.240671",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-30",
+      "ugid": "240671",
+      "title": "Extraordinary Gazette of India, 2022-11-30",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "Notificiation under section 10(39) of the Income tax Act, 1961",
+      "gazette_id": "CG-DL-E-30112022-240671",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240671.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240671/240671.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-30.240671",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-30/240671.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-30.240670",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-30",
+      "ugid": "240670",
+      "title": "Extraordinary Gazette of India, 2022-11-30",
+      "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "department": "Department of Consumer Affairs",
+      "office": "",
+      "subject": "Legal Metrology (Packaged Commodities)(Amendment) Rules, 2022",
+      "gazette_id": "CG-DL-E-30112022-240670",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240670.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240670/240670.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-30.240670",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-30/240670.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-30.240668",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-30",
+      "ugid": "240668",
+      "title": "Extraordinary Gazette of India, 2022-11-30",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "GAZETTE NOTIFICATION FOR PUBLICATION",
+      "gazette_id": "CG-DL-E-30112022-240668",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240668.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240668/240668.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-30.240668",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-30/240668.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-30.240667",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-30",
+      "ugid": "240667",
+      "title": "Extraordinary Gazette of India, 2022-11-30",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "MVL",
+      "gazette_id": "CG-DL-E-30112022-240667",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240667.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240667/240667.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-30.240667",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-30/240667.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-30.240666",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-30",
+      "ugid": "240666",
+      "title": "Extraordinary Gazette of India, 2022-11-30",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "Customs Notification No 100/2022",
+      "gazette_id": "CG-DL-E-30112022-240666",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240666.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240666/240666.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-30.240666",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-30/240666.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-29.240664",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-29",
+      "ugid": "240664",
+      "title": "Extraordinary Gazette of India, 2022-11-29",
+      "ministry": "Ministry of Power",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Amendment in Appellate Tribunal for Electricity Salary, Allowances and Other Conditions of Service of the officers and Employees Rules 2004",
+      "gazette_id": "CG-DL-E-30112022-240664",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240664.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-29.240664/240664.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-29.240664",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-29/240664.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-29.240662",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-29",
+      "ugid": "240662",
+      "title": "Extraordinary Gazette of India, 2022-11-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHIDCL",
+      "gazette_id": "CG-DL-E-30112022-240662",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240662.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-29.240662/240662.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-29.240662",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-29/240662.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-11-29.240659",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-11-29",
+      "ugid": "240659",
+      "title": "Extraordinary Gazette of India, 2022-11-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-30112022-240659",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240659.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-29.240659/240659.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-11-29.240659",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-11-29/240659.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-11-29.240658",
       "category": "extraordinary",
       "type_letter": "e",
@@ -29450,7 +29657,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1277,
+  "count": 1286,
   "category": "central",
   "shard_index": 12
 }
