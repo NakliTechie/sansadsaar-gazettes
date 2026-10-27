@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-06-25.264134",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-25",
+      "ugid": "264134",
+      "title": "Extraordinary Gazette of India, 2025-06-25",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Exploration Division",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under section 3(1) of Petroleum and Minerals Pipelines (PMP), Act 1962 (50 of 1962), for acquisition of Right of User (ROU) for laying pipeline from drill site JTN72 TO JTN10 VIA JTN137, 130 passing through Ranipur Village, Taluka Jotana, Mehsana District in the State of Gujarat.",
+      "gazette_id": "CG-DL-E-25062025-264134",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264134.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264134/264134.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-25.264134",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-25/264134.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264134/264134_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-06-25.264133",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-06-25",
+      "ugid": "264133",
+      "title": "Extraordinary Gazette of India, 2025-06-25",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Exploration Division",
+      "office": "",
+      "subject": "Publication of notification in Extraordinary Gazette of India under section 3(1) of Petroleum and Minerals Pipelines (PMP), Act 1962 (50 of 1962), for acquisition of Right of User (ROU) laying pipeline from drill site LNC22 TO LINCH GGS VIA LNC69, 94 passing through Mudarada and Harsundal Villages, Taluka Jotana, Mehsana District in the State of Gujarat.",
+      "gazette_id": "CG-DL-E-25062025-264133",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264133.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264133/264133.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-06-25.264133",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-06-25/264133.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264133/264133_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-06-24.264201",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-02-20/261199.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261199/261199_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-20.261198",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-20",
-      "ugid": "261198",
-      "title": "Extraordinary Gazette of India, 2025-02-20",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
-      "office": "",
-      "subject": "Fertiliser amendment Order,2025",
-      "gazette_id": "CG-DL-E-20022025-261198",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261198.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261198/261198.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-20.261198",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-20/261198.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261198/261198_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-02-20.261197",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-02-20",
-      "ugid": "261197",
-      "title": "Extraordinary Gazette of India, 2025-02-20",
-      "ministry": "Ministry of Science and Technology",
-      "department": "Department of Science and Technology",
-      "office": "",
-      "subject": "extension of tenure of Secretary, Department of Science and Technology as the interim Chief Executive Officer (CEO) of ANRF",
-      "gazette_id": "CG-DL-E-20022025-261197",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261197.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261197/261197.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-02-20.261197",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-02-20/261197.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261197/261197_djvu.txt"
     }
   ],
   "count": 2500,

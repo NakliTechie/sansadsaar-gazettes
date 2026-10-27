@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-10-21.267234",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-21",
+      "ugid": "267234",
+      "title": "Extrordinary Gazette of India, 2025-10-21",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Karanpur Moradabad Kashipur Rudrapur Pipeline a spur line of Hazira Vijaipur Jagdishpur Pipeline in the State of Uttar Pradesh",
+      "gazette_id": "CG-DL-E-29102025-267234",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267234.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-21.267234/267234.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-21.267234",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-21/267234.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-21.267234/267234_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-10-21.267095",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-10-21",
+      "ugid": "267095",
+      "title": "Extrordinary Gazette of India, 2025-10-21",
+      "ministry": "Ministry of Railways",
+      "department": "N.F. Railway / Construction Organization",
+      "office": "Office of the General Manager / Construction",
+      "subject": "Publication of Gazette notification for Gati Shakti Unit katihar",
+      "gazette_id": "CG-AS-E-24102025-267095",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267095.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-21.267095/267095.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-10-21.267095",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-10-21/267095.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-21.267095/267095_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-10-21.267088",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-06-25/264135.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264135/264135_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-25.264134",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-25",
-      "ugid": "264134",
-      "title": "Extraordinary Gazette of India, 2025-06-25",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under section 3(1) of Petroleum and Minerals Pipelines (PMP), Act 1962 (50 of 1962), for acquisition of Right of User (ROU) for laying pipeline from drill site JTN72 TO JTN10 VIA JTN137, 130 passing through Ranipur Village, Taluka Jotana, Mehsana District in the State of Gujarat.",
-      "gazette_id": "CG-DL-E-25062025-264134",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264134.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264134/264134.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-25.264134",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-25/264134.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264134/264134_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-06-25.264133",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-06-25",
-      "ugid": "264133",
-      "title": "Extraordinary Gazette of India, 2025-06-25",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Publication of notification in Extraordinary Gazette of India under section 3(1) of Petroleum and Minerals Pipelines (PMP), Act 1962 (50 of 1962), for acquisition of Right of User (ROU) laying pipeline from drill site LNC22 TO LINCH GGS VIA LNC69, 94 passing through Mudarada and Harsundal Villages, Taluka Jotana, Mehsana District in the State of Gujarat.",
-      "gazette_id": "CG-DL-E-25062025-264133",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264133.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264133/264133.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-06-25.264133",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-06-25/264133.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-06-25.264133/264133_djvu.txt"
     }
   ],
   "count": 2500,

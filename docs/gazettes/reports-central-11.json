@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-14.244374",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-14",
+      "ugid": "244374",
+      "title": "Extraordinary Gazette of India, 2023-03-14",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendment in Policy Conditions under ITC HS code 2515 of Chapter 25 and 6802 of Chapter 68 of Schedule I (Import Policy) of ITC(HS) 2022 reg.",
+      "gazette_id": "CG-DL-E-14032023-244374",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244374.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-14.244374/244374.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-14.244374",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-14/244374.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-14.244373",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-14",
+      "ugid": "244373",
+      "title": "Extraordinary Gazette of India, 2023-03-14",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D Nhidcl",
+      "gazette_id": "CG-DL-E-14032023-244373",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244373.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-14.244373/244373.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-14.244373",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-14/244373.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-14.244372",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58180,52 +58226,6 @@
       "ia_identifier": "in.gazette.central.e.2022-11-30.240687",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-11-30/240687.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-30.240686",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-30",
-      "ugid": "240686",
-      "title": "Extraordinary Gazette of India, 2022-11-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-01122022-240686",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240686.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240686/240686.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-30.240686",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-30/240686.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-11-30.240685",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-11-30",
-      "ugid": "240685",
-      "title": "Extraordinary Gazette of India, 2022-11-30",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A MoRTH",
-      "gazette_id": "CG-DL-E-01122022-240685",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240685.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-11-30.240685/240685.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-11-30.240685",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-11-30/240685.pdf",
       "topics": []
     }
   ],

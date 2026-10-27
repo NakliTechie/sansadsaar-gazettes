@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-02-26.270493",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-26",
+      "ugid": "270493",
+      "title": "Extrordinary Gazette of India, 2026-02-26",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "ECI Notification for appointment of Returning Officers and Assistant Returning Officers in Biennial Election to the Council of States for 37 seats from 10 States",
+      "gazette_id": "CG-DL-E-26022026-270493",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270493.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270493/270493.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-26.270493",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-26/270493.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270493/270493_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-02-26.270492",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-02-26",
+      "ugid": "270492",
+      "title": "Extrordinary Gazette of India, 2026-02-26",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "ECI Notification for Biennial Election to the Council of States for 37 seats from 10 States",
+      "gazette_id": "CG-DL-E-26022026-270492",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270492.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270492/270492.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-02-26.270492",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-02-26/270492.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-02-26.270492/270492_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-02-26.270491",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-10-21/267242.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-21.267242/267242_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-21.267234",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-21",
-      "ugid": "267234",
-      "title": "Extrordinary Gazette of India, 2025-10-21",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Karanpur Moradabad Kashipur Rudrapur Pipeline a spur line of Hazira Vijaipur Jagdishpur Pipeline in the State of Uttar Pradesh",
-      "gazette_id": "CG-DL-E-29102025-267234",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267234.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-21.267234/267234.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-21.267234",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-21/267234.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-21.267234/267234_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-10-21.267095",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-10-21",
-      "ugid": "267095",
-      "title": "Extrordinary Gazette of India, 2025-10-21",
-      "ministry": "Ministry of Railways",
-      "department": "N.F. Railway / Construction Organization",
-      "office": "Office of the General Manager / Construction",
-      "subject": "Publication of Gazette notification for Gati Shakti Unit katihar",
-      "gazette_id": "CG-AS-E-24102025-267095",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/267095.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-10-21.267095/267095.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-10-21.267095",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-10-21/267095.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-10-21.267095/267095_djvu.txt"
     }
   ],
   "count": 2500,

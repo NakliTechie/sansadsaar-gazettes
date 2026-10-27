@@ -530,6 +530,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-10-23.277383",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-23",
+      "ugid": "277383",
+      "title": "Extraordinary Gazette of India, 2026-10-23",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Ramgarh",
+      "gazette_id": "CG-DL-E-26102026-277383",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277383.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-23.277383/277383.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-23.277383",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-23/277383.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-10-22.277395",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1342,6 +1365,29 @@
       "mirror_path": "pdf/central/w/2026-10-17/277239.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-10-17.277239/277239_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-10-16.277421",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-16",
+      "ugid": "277421",
+      "title": "Extraordinary Gazette of India, 2026-10-16",
+      "ministry": "Joint Electricity Regulatory Commission for UT of Jammu &amp; Kashmir and UT of Ladakh",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by Section 57, Section 58, Section 59 and clause (za) of sub section (2) of Section 181 of the Electricity Act, 2003",
+      "gazette_id": "CG-JK-E-26102026-277421",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277421.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-16.277421/277421.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-16.277421",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-16/277421.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-10-16.277298",
@@ -58899,52 +58945,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-02.273177",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-02/273177.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-02.273176",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-02",
-      "ugid": "273176",
-      "title": "Extrordinary Gazette of India, 2026-06-02",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Request for Publication of Extraordinary Gazette Notification for the below mentioned Land Schedule under Part II Section 3 Sub section ii as per the Railways Act 1989",
-      "gazette_id": "CG-OR-E-05062026-273176",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273176.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273176/273176.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-02.273176",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-02/273176.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-02.273167",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-02",
-      "ugid": "273167",
-      "title": "Extrordinary Gazette of India, 2026-06-02",
-      "ministry": "Reserve Bank of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank makes the following amendment in the Foreign Exchange Management (Cross Border Merger) Regulations, 2018",
-      "gazette_id": "CG-MH-E-05062026-273167",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273167.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-02.273167/273167.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-02.273167",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-02/273167.pdf",
       "topics": []
     }
   ],

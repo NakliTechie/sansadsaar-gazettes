@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-06.249912",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-06",
+      "ugid": "249912",
+      "title": "Extraordinary Gazette of India, 2023-11-06",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 7A of Railway Act 2008 Acquisition of land for Doubling of track between Motumarri and Vishnupuram the Central Government hereby authorizes the officer to perform the functions of the Competent Authority in respect of the above Special Railway Project, for execution, maintenance, management and operation in the State of Telangana in Suryapet and in the State of Andhra Pradesh in NTR District",
+      "gazette_id": "CG-TL-E-06112023-249912",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249912.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-06.249912/249912.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-06.249912",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-06/249912.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-06.249911",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-06",
+      "ugid": "249911",
+      "title": "Extraordinary Gazette of India, 2023-11-06",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of Kandla Gorakhpur LPG Pipeline to be laid by IHB Limited for acquisition of ROU in  the State of Gujarat",
+      "gazette_id": "CG-DL-E-06112023-249911",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/249911.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-06.249911/249911.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-06.249911",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-06/249911.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-06.249910",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58247,52 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-12.247255",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-12/247255.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-12.247254",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-12",
-      "ugid": "247254",
-      "title": "Extraordinary Gazette of India, 2023-07-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-13072023-247254",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247254.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-12.247254/247254.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-12.247254",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-12/247254.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-12.247253",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-12",
-      "ugid": "247253",
-      "title": "Extraordinary Gazette of India, 2023-07-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-13072023-247253",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247253.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-12.247253/247253.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-12.247253",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-12/247253.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-02-20.261198",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-20",
+      "ugid": "261198",
+      "title": "Extraordinary Gazette of India, 2025-02-20",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
+      "office": "",
+      "subject": "Fertiliser amendment Order,2025",
+      "gazette_id": "CG-DL-E-20022025-261198",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261198.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261198/261198.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-20.261198",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-20/261198.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261198/261198_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-02-20.261197",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-02-20",
+      "ugid": "261197",
+      "title": "Extraordinary Gazette of India, 2025-02-20",
+      "ministry": "Ministry of Science and Technology",
+      "department": "Department of Science and Technology",
+      "office": "",
+      "subject": "extension of tenure of Secretary, Department of Science and Technology as the interim Chief Executive Officer (CEO) of ANRF",
+      "gazette_id": "CG-DL-E-20022025-261197",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261197.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261197/261197.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-02-20.261197",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-02-20/261197.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-02-20.261197/261197_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-02-20.261196",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-08/258555.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-08.258555/258555_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-08.258549",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-08",
-      "ugid": "258549",
-      "title": "Extraordinary Gazette of India, 2024-11-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "MVL",
-      "gazette_id": "CG-DL-E-08112024-258549",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258549.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-08.258549/258549.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-08.258549",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-08/258549.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-08.258549/258549_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-08.258548",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-08",
-      "ugid": "258548",
-      "title": "Extraordinary Gazette of India, 2024-11-08",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Dhamra Haldia Pipeline (DHPL) of GAIL (India) Limited.",
-      "gazette_id": "CG-DL-E-08112024-258548",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258548.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-08.258548/258548.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-08.258548",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-08/258548.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-08.258548/258548_djvu.txt"
     }
   ],
   "count": 2500,
