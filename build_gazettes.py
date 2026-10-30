@@ -41,6 +41,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
+import requests
+
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
@@ -296,6 +298,14 @@ def _records_index(reports: dict[str, list[dict]]) -> set[str]:
     return out
 
 
+def _previous_rate_limited_at() -> Optional[str]:
+    try:
+        with open(META_JSON, "r", encoding="utf-8") as f:
+            return json.load(f).get("rate_limited_at")
+    except Exception:
+        return None
+
+
 def _check_cooldown_and_skip() -> bool:
     if not META_JSON.exists():
         return False
@@ -431,6 +441,11 @@ def walk_archive_and_extract(reports: dict[str, list[dict]], *,
                 last_checkpoint_at = time.monotonic()
     except RateLimited as rl:
         print(f"  [RATE-LIMITED] enumerate: {rl}")
+        rate_limited = True
+    except (requests.ConnectionError, requests.Timeout) as e:
+        # archive.org unreachable (connect timeout, reset). Same handling as
+        # a 503: back off via the cooldown instead of failing the run.
+        print(f"  [UPSTREAM-UNAVAILABLE] enumerate: {e}")
         rate_limited = True
 
     # Final save (always; even if no extractions, in case of marker changes).
@@ -992,7 +1007,11 @@ def phase_extract() -> int:
             "stop_after_known": ENUM_STOP_AFTER_KNOWN,
         },
     }
-    if rate_limited:
+    if extract_result.get("skipped_due_to_cooldown"):
+        # Keep the original timestamp; re-stamping it on every skipped run
+        # would extend the cooldown forever.
+        meta["rate_limited_at"] = _previous_rate_limited_at() or meta["generated_at"]
+    elif rate_limited:
         meta["rate_limited_at"] = meta["generated_at"]
     # Non-idempotent on purpose: always bump generated_at so the app's
     # staleness indicator (which reads meta.generated_at) reflects "last
@@ -1028,7 +1047,10 @@ def phase_extract() -> int:
         except OSError as e:
             print(f"  (couldn't write GITHUB_OUTPUT: {e})")
 
-    return 0 if not rate_limited else 1
+    # Rate-limited is a handled state, not a failure: exit 0 so the workflow's
+    # commit step persists meta.rate_limited_at and the cooldown takes effect.
+    # The `rate_limited` output above still stops deep-seed chaining.
+    return 0
 
 
 def phase_derive() -> int:
