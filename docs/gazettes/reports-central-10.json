@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-17.247367",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-17",
+      "ugid": "247367",
+      "title": "Extraordinary Gazette of India, 2023-07-17",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-17072023-247367",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247367.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-17.247367/247367.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-17.247367",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-17/247367.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-17.247366",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-17",
+      "ugid": "247366",
+      "title": "Extraordinary Gazette of India, 2023-07-17",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendments in Category 5B of Appendix 3 (SCOMET Items) to Schedule 2 of ITC (HS) Classification of Export and Import items",
+      "gazette_id": "CG-DL-E-17072023-247366",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247366.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-17.247366/247366.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-17.247366",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-17/247366.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-17.247365",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-17",
+      "ugid": "247365",
+      "title": "Extraordinary Gazette of India, 2023-07-17",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
+      "office": "",
+      "subject": "The Smart Meters (Quality Control) Order, 2023",
+      "gazette_id": "CG-DL-E-17072023-247365",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247365.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-17.247365/247365.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-17.247365",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-17/247365.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-17.247364",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-17",
+      "ugid": "247364",
+      "title": "Extraordinary Gazette of India, 2023-07-17",
+      "ministry": "Ministry of Railways",
+      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
+      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
+      "subject": "Publication of E gazette Notification for Nomination of Competent Authority for land acquisition of villages Wanjale, Savargaon, Koshane, Garpoli, Diksal, Umroli, Ashane (7 Villages) in Karjat taluka under district Raigad in connection with EMU maintenance Facilities i.e. Bhivpuri EMU Car shed and POH facilities in between Bhivpuri Karjat section under MUTP III A",
+      "gazette_id": "CG-MH-E-17072023-247364",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247364.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-17.247364/247364.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-17.247364",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-17/247364.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-17.247363",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57399,98 +57491,6 @@
       "ia_identifier": "in.gazette.central.e.2023-03-20.244494",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-03-20/244494.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-20.244493",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-20",
-      "ugid": "244493",
-      "title": "Extraordinary Gazette of India, 2023-03-20",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Financial Services",
-      "office": "",
-      "subject": "Change of location of DRT 1 and 2 Bengalore",
-      "gazette_id": "CG-DL-E-20032023-244493",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244493.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-20.244493/244493.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-20.244493",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-20/244493.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-20.244492",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-20",
-      "ugid": "244492",
-      "title": "Extraordinary Gazette of India, 2023-03-20",
-      "ministry": "Ministry of Micro, Small and Medium Enterprises",
-      "department": "Office of Development Commissioner (MSME)",
-      "office": "",
-      "subject": "Notification under the Micro, Small and Medium Enterprises Development (MSMED) Act, 2006 for specifying that the certificate issued on the Udyam Assist Platform to be treated at par with Udyam Registration Certificate",
-      "gazette_id": "CG-DL-E-20032023-244492",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244492.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-20.244492/244492.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-20.244492",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-20/244492.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-20.244491",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-20",
-      "ugid": "244491",
-      "title": "Extraordinary Gazette of India, 2023-03-20",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Department of Commerce",
-      "office": "EP (Agri) Division",
-      "subject": "Reconstitution of the Spices Board",
-      "gazette_id": "CG-DL-E-20032023-244491",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244491.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-20.244491/244491.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-20.244491",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-20/244491.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-20.244490",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-20",
-      "ugid": "244490",
-      "title": "Extraordinary Gazette of India, 2023-03-20",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Pand M file",
-      "gazette_id": "CG-DL-E-20032023-244490",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244490.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-20.244490/244490.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-20.244490",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-20/244490.pdf",
       "topics": []
     }
   ],

@@ -760,6 +760,52 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-10-28.277577",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-28",
+      "ugid": "277577",
+      "title": "Extraordinary Gazette of India, 2026-10-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-02112026-277577",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277577.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-28.277577/277577.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-28.277577",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-28/277577.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-10-28.277576",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-28",
+      "ugid": "277576",
+      "title": "Extraordinary Gazette of India, 2026-10-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-02112026-277576",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277576.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-28.277576/277576.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-28.277576",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-28/277576.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-10-28.277573",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1746,6 +1792,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-10-27.277578",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-27",
+      "ugid": "277578",
+      "title": "Extraordinary Gazette of India, 2026-10-27",
+      "ministry": "Ministry of Railways",
+      "department": "Construction organization",
+      "office": "South Coast Railway",
+      "subject": "Construction of Road Over Bridge in lieu of closing of manned LC No 281 at Km.389 32.34 in between Nidubrolu Tsunduru stations in Valiveru village of Tsuduru Mandal in Bapatla  District in the State of Andhra Pradesh",
+      "gazette_id": "CG-AP-E-02112026-277578",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277578.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-27.277578/277578.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-27.277578",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-27/277578.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-10-27.277572",
       "category": "extraordinary",
       "type_letter": "e",
@@ -2433,6 +2502,29 @@
       "ia_identifier": "in.gazette.central.e.2026-10-26.277418",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-10-26/277418.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-10-24.277581",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-24",
+      "ugid": "277581",
+      "title": "Weekly Gazette of India, 2026-10-24",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-02112026-277581",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277581.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-24.277581/277581.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-24.277581",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-24/277581.pdf",
       "topics": []
     },
     {
@@ -58830,98 +58922,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-11.273355",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-11/273355.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-11.273354",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-11",
-      "ugid": "273354",
-      "title": "Extrordinary Gazette of India, 2026-06-11",
-      "ministry": "Rajya Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Resignation of Shri Prakash Chik Baraik Member of Parliament of the Rajya Sabha",
-      "gazette_id": "CG-DL-E-11062026-273354",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273354.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-11.273354/273354.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-11.273354",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-11/273354.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-11.273353",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-11",
-      "ugid": "273353",
-      "title": "Extrordinary Gazette of India, 2026-06-11",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extraordinary Gazette of India regarding Natural Gas and Petroleum Products Distribution (Through Laying, Building, Operation and Expansion of Pipelines and Other Facilities) Second Amendment Order, 2026.",
-      "gazette_id": "CG-DL-E-11062026-273353",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273353.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-11.273353/273353.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-11.273353",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-11/273353.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-11.273352",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-11",
-      "ugid": "273352",
-      "title": "Extrordinary Gazette of India, 2026-06-11",
-      "ministry": "Ministry of Coal",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of Notification",
-      "gazette_id": "CG-DL-E-12062026-273352",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273352.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-11.273352/273352.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-11.273352",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-11/273352.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-11.273348",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-11",
-      "ugid": "273348",
-      "title": "Extrordinary Gazette of India, 2026-06-11",
-      "ministry": "Ministry of Communications",
-      "department": "Department of Telecommunications",
-      "office": "",
-      "subject": "Use of On Board Unit for Cellular Vehicle to Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026",
-      "gazette_id": "CG-DL-E-11062026-273348",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273348.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-11.273348/273348.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-11.273348",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-11/273348.pdf",
       "topics": []
     }
   ],

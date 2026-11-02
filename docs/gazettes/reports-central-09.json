@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-11.250028",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-11",
+      "ugid": "250028",
+      "title": "Extraordinary Gazette of India, 2023-11-11",
+      "ministry": "Ministry of Education",
+      "department": "Department of Higher Education",
+      "office": "",
+      "subject": "Indian Institute of Management Amendment Rules",
+      "gazette_id": "CG-DL-E-11112023-250028",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250028.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-11.250028/250028.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-11.250028",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-11/250028.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-11-11.250018",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-11-11",
+      "ugid": "250018",
+      "title": "Weekly Gazette of India, 2023-11-11",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-11112023-250018",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250018.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-11-11.250018/250018.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-11-11.250018",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-11-11/250018.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-11-11.250017",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-11-11",
+      "ugid": "250017",
+      "title": "Weekly Gazette of India, 2023-11-11",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-11112023-250017",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250017.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-11-11.250017/250017.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-11-11.250017",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-11-11/250017.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-11-11.250016",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-11-11",
+      "ugid": "250016",
+      "title": "Weekly Gazette of India, 2023-11-11",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-11112023-250016",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250016.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-11-11.250016/250016.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-11-11.250016",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-11-11/250016.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2023-11-11.250015",
       "category": "weekly",
       "type_letter": "w",
@@ -58201,98 +58293,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-17.247368",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-17/247368.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-17.247367",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-17",
-      "ugid": "247367",
-      "title": "Extraordinary Gazette of India, 2023-07-17",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-17072023-247367",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247367.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-17.247367/247367.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-17.247367",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-17/247367.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-17.247366",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-17",
-      "ugid": "247366",
-      "title": "Extraordinary Gazette of India, 2023-07-17",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Amendments in Category 5B of Appendix 3 (SCOMET Items) to Schedule 2 of ITC (HS) Classification of Export and Import items",
-      "gazette_id": "CG-DL-E-17072023-247366",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247366.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-17.247366/247366.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-17.247366",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-17/247366.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-17.247365",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-17",
-      "ugid": "247365",
-      "title": "Extraordinary Gazette of India, 2023-07-17",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
-      "office": "",
-      "subject": "The Smart Meters (Quality Control) Order, 2023",
-      "gazette_id": "CG-DL-E-17072023-247365",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247365.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-17.247365/247365.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-17.247365",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-17/247365.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-17.247364",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-17",
-      "ugid": "247364",
-      "title": "Extraordinary Gazette of India, 2023-07-17",
-      "ministry": "Ministry of Railways",
-      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
-      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
-      "subject": "Publication of E gazette Notification for Nomination of Competent Authority for land acquisition of villages Wanjale, Savargaon, Koshane, Garpoli, Diksal, Umroli, Ashane (7 Villages) in Karjat taluka under district Raigad in connection with EMU maintenance Facilities i.e. Bhivpuri EMU Car shed and POH facilities in between Bhivpuri Karjat section under MUTP III A",
-      "gazette_id": "CG-MH-E-17072023-247364",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247364.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-17.247364/247364.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-17.247364",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-17/247364.pdf",
       "topics": []
     }
   ],
