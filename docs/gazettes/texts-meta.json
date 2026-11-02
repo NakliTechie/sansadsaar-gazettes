@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 31292,
+    "records_with_text": 31295,
     "shards": 441,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 217759,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31292,
-    "txt_files_removed": 0
+    "txt_files_removed": 3
   },
   "shards": [
     {
@@ -1655,13 +1655,13 @@
     },
     {
       "file": "texts-328.json",
-      "count": 68,
-      "bytes": 4432528
+      "count": 69,
+      "bytes": 4456620
     },
     {
       "file": "texts-329.json",
-      "count": 3,
-      "bytes": 4305128
+      "count": 5,
+      "bytes": 4504438
     },
     {
       "file": "texts-330.json",
@@ -31927,10 +31927,12 @@
     "central|central_e_20261022_277394": 328,
     "central|central_e_20261022_277395": 328,
     "central|central_e_20261023_277396": 328,
+    "central|central_e_20261023_277398": 328,
     "central|central_e_20261023_277399": 328,
     "central|central_e_20261023_277400": 328,
     "central|central_e_20261023_277405": 328,
     "central|central_e_20261023_277406": 328,
+    "central|central_e_20261023_277407": 328,
     "central|central_e_20261023_277417": 328,
     "central|central_e_20261024_277401": 328,
     "central|central_e_20261024_277402": 328,
@@ -31939,11 +31941,12 @@
     "central|central_e_20261024_277411": 328,
     "central|central_e_20261024_277413": 328,
     "central|central_e_20261024_277414": 328,
+    "central|central_e_20261024_277415": 328,
     "central|central_e_20261024_277416": 328,
     "central|central_w_20221001_239261": 328,
     "central|central_w_20221001_239262": 328,
-    "central|central_w_20221001_239264": 328,
-    "central|central_w_20221001_239265": 328,
+    "central|central_w_20221001_239264": 329,
+    "central|central_w_20221001_239265": 329,
     "central|central_w_20221001_239288": 329,
     "central|central_w_20221001_239289": 329,
     "central|central_w_20221001_239611": 329,
