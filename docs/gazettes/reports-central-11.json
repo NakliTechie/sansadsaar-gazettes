@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-22.244611",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-22",
+      "ugid": "244611",
+      "title": "Extraordinary Gazette of India, 2023-03-22",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "20A Alwar",
+      "gazette_id": "CG-DL-E-23032023-244611",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244611.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244611/244611.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-22.244611",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-22/244611.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-22.244610",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-22",
+      "ugid": "244610",
+      "title": "Extraordinary Gazette of India, 2023-03-22",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "20E Valsad",
+      "gazette_id": "CG-DL-E-23032023-244610",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244610.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244610/244610.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-22.244610",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-22/244610.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-22.244609",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-22",
+      "ugid": "244609",
+      "title": "Extraordinary Gazette of India, 2023-03-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-23032023-244609",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244609.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244609/244609.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-22.244609",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-22/244609.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-22.244608",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58166,75 +58235,6 @@
       "ia_identifier": "in.gazette.central.e.2022-12-08.240937",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-12-08/240937.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-08.240936",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-08",
-      "ugid": "240936",
-      "title": "Extraordinary Gazette of India, 2022-12-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHIDCL",
-      "gazette_id": "CG-DL-E-09122022-240936",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240936.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-08.240936/240936.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-08.240936",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-08/240936.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-08.240935",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-08",
-      "ugid": "240935",
-      "title": "Extraordinary Gazette of India, 2022-12-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-09122022-240935",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240935.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-08.240935/240935.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-08.240935",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-08/240935.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-08.240930",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-08",
-      "ugid": "240930",
-      "title": "Extraordinary Gazette of India, 2022-12-08",
-      "ministry": "Central  Electricity  Regulatory Commission",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Clause 56viof Ministry of Power MOP Notification",
-      "gazette_id": "CG-DL-E-09122022-240930",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240930.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-08.240930/240930.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-08.240930",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-08/240930.pdf",
       "topics": []
     }
   ],

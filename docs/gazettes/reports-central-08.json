@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-08.252814",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-08",
+      "ugid": "252814",
+      "title": "Extraordinary Gazette of India, 2024-03-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-11032024-252814",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252814.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-08.252814/252814.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-08.252814",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-08/252814.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-08.252814/252814_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-08.252813",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-08",
+      "ugid": "252813",
+      "title": "Extraordinary Gazette of India, 2024-03-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "MVL",
+      "gazette_id": "CG-DL-E-11032024-252813",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252813.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-08.252813/252813.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-08.252813",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-08/252813.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-08.252813/252813_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-08.252811",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-08",
+      "ugid": "252811",
+      "title": "Extraordinary Gazette of India, 2024-03-08",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-11032024-252811",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252811.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-08.252811/252811.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-08.252811",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-08/252811.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-08.252811/252811_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-08.252807",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58952,75 +59024,6 @@
       "ia_identifier": "in.gazette.central.e.2023-11-17.250148",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-11-17/250148.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-17.250147",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-17",
-      "ugid": "250147",
-      "title": "Extraordinary Gazette of India, 2023-11-17",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
-      "gazette_id": "CG-DL-E-20112023-250147",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250147.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250147/250147.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-17.250147",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-17/250147.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-17.250146",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-17",
-      "ugid": "250146",
-      "title": "Extraordinary Gazette of India, 2023-11-17",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for North East Natural Gas Pipeline Grid Project of M/s. Indradhanush Gas Grid Limited (IGGL).",
-      "gazette_id": "CG-DL-E-20112023-250146",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250146.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250146/250146.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-17.250146",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-17/250146.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-17.250145",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-17",
-      "ugid": "250145",
-      "title": "Extraordinary Gazette of India, 2023-11-17",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for North East Natural Gas Pipeline Grid Project of M/s. Indradhanush Gas Grid Limited (IGGL).",
-      "gazette_id": "CG-DL-E-20112023-250145",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250145.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250145/250145.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-17.250145",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-17/250145.pdf",
       "topics": []
     }
   ],

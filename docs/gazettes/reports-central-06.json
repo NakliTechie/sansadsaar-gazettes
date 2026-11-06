@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-19.258793",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-19",
+      "ugid": "258793",
+      "title": "Extraordinary Gazette of India, 2024-11-19",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
+      "gazette_id": "CG-DL-E-21112024-258793",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258793.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258793/258793.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-19.258793",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-19/258793.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258793/258793_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-19.258785",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-19",
+      "ugid": "258785",
+      "title": "Extraordinary Gazette of India, 2024-11-19",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
+      "gazette_id": "CG-DL-E-20112024-258785",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258785.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258785/258785.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-19.258785",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-19/258785.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258785/258785_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-19.258778",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-19",
+      "ugid": "258778",
+      "title": "Extraordinary Gazette of India, 2024-11-19",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
+      "gazette_id": "CG-DL-E-20112024-258778",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258778.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258778/258778.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-19.258778",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-19/258778.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258778/258778_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-19.258777",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-07-29/255893.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-29.255893/255893_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2024-07-27.255938",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2024-07-27",
-      "ugid": "255938",
-      "title": "Weekly Gazette of India, 2024-07-27",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-31072024-255938",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255938.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-07-27.255938/255938.pdf",
-      "ia_identifier": "in.gazette.central.w.2024-07-27.255938",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2024-07-27/255938.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-07-27.255938/255938_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2024-07-27.255933",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2024-07-27",
-      "ugid": "255933",
-      "title": "Weekly Gazette of India, 2024-07-27",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-31072024-255933",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255933.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2024-07-27.255933/255933.pdf",
-      "ia_identifier": "in.gazette.central.w.2024-07-27.255933",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2024-07-27/255933.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2024-07-27.255933/255933_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-27.255884",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-27",
-      "ugid": "255884",
-      "title": "Extraordinary Gazette of India, 2024-07-27",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "North Central Railway",
-      "subject": "Publication of 37A Notification in the Extra Ordinary Gazette of India under the Railways Act, 1989.",
-      "gazette_id": "CG-UP-E-30072024-255884",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255884.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-27.255884/255884.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-27.255884",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-27/255884.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-27.255884/255884_djvu.txt"
     }
   ],
   "count": 2500,

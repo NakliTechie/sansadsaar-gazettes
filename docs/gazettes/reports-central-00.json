@@ -1864,6 +1864,75 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-10-30.277709",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-30",
+      "ugid": "277709",
+      "title": "Extraordinary Gazette of India, 2026-10-30",
+      "ministry": "Petroleum and Natural Gas Regulatory Board",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In the notification published in the Gazette of India, Extraordinary",
+      "gazette_id": "CG-DL-E-05112026-277709",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277709.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-30.277709/277709.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-30.277709",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-30/277709.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-10-30.277705",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-30",
+      "ugid": "277705",
+      "title": "Extraordinary Gazette of India, 2026-10-30",
+      "ministry": "The Institute of CharteredAccountants of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of the Regulation",
+      "gazette_id": "CG-DL-E-05112026-277705",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277705.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-30.277705/277705.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-30.277705",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-30/277705.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-10-30.277698",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-10-30",
+      "ugid": "277698",
+      "title": "Extraordinary Gazette of India, 2026-10-30",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of acquisition of land under Section 20(E) for land acquisition for Manmad Jalgaon 4th line under the Railways Act, 1989 (24 of 1989).",
+      "gazette_id": "CG-MH-E-05112026-277698",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277698.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-10-30.277698/277698.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-10-30.277698",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-10-30/277698.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-10-30.277685",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58852,75 +58921,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-15.273545",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-15/273545.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-15.273541",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-15",
-      "ugid": "273541",
-      "title": "Extrordinary Gazette of India, 2026-06-15",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-17062026-273541",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273541.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-15.273541/273541.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-15.273541",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-15/273541.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-15.273540",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-15",
-      "ugid": "273540",
-      "title": "Extrordinary Gazette of India, 2026-06-15",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-17062026-273540",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273540.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-15.273540/273540.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-15.273540",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-15/273540.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-15.273539",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-15",
-      "ugid": "273539",
-      "title": "Extrordinary Gazette of India, 2026-06-15",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-17062026-273539",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273539.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-15.273539/273539.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-15.273539",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-15/273539.pdf",
       "topics": []
     }
   ],

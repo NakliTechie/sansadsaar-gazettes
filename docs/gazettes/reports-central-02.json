@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2026-03-07.270758",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-03-07",
+      "ugid": "270758",
+      "title": "Weekly Gazette of India, 2026-03-07",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-09032026-270758",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270758.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-03-07.270758/270758.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-03-07.270758",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-03-07/270758.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-03-07.270758/270758_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-03-07.270755",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-03-07",
+      "ugid": "270755",
+      "title": "Weekly Gazette of India, 2026-03-07",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-09032026-270755",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270755.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-03-07.270755/270755.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-03-07.270755",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-03-07/270755.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-03-07.270755/270755_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-03-07.270754",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-03-07",
+      "ugid": "270754",
+      "title": "Weekly Gazette of India, 2026-03-07",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-09032026-270754",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270754.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-03-07.270754/270754.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-03-07.270754",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-03-07/270754.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-03-07.270754/270754_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2026-03-07.270733",
       "category": "weekly",
       "type_letter": "w",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-11-27/268173.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268173/268173_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-27.268172",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-27",
-      "ugid": "268172",
-      "title": "Extrordinary Gazette of India, 2025-11-27",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Department of Health Research",
-      "office": "",
-      "subject": "Pre publication of draft Surrogacy(Regulation) Amendment Rules, 2025",
-      "gazette_id": "CG-DL-E-03122025-268172",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268172.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268172/268172.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-27.268172",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-27/268172.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268172/268172_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-27.268156",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-27",
-      "ugid": "268156",
-      "title": "Extrordinary Gazette of India, 2025-11-27",
-      "ministry": "Ministry of Railways",
-      "department": "North Western Railway",
-      "office": "",
-      "subject": "20ARamdevraPokran",
-      "gazette_id": "CG-RJ-E-02122025-268156",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268156.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268156/268156.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-27.268156",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-27/268156.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268156/268156_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-27.268154",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-27",
-      "ugid": "268154",
-      "title": "Extrordinary Gazette of India, 2025-11-27",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "North Central Railway",
-      "subject": "Publication of  Corrigendum notification under section 20E of Railways Act, 1989 for acquisition of land in the extraordinary Gazette of India.",
-      "gazette_id": "CG-UP-E-02122025-268154",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268154.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268154/268154.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-27.268154",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-27/268154.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268154/268154_djvu.txt"
     }
   ],
   "count": 2500,

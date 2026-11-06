@@ -1,6 +1,76 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-20.247481",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-20",
+      "ugid": "247481",
+      "title": "Extraordinary Gazette of India, 2023-07-20",
+      "ministry": "Ministry of Power",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of notification u/s 162 of Electricity Act, 2003",
+      "gazette_id": "CG-DL-E-20072023-247481",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247481.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247481/247481.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-20.247481",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-20/247481.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-20.247480",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-20",
+      "ugid": "247480",
+      "title": "Extraordinary Gazette of India, 2023-07-20",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Central Railway",
+      "subject": "Publication of Gazette Notification to declare ROR between Karwandia and  Sasaram connecting GC to Ara Sasaram line Special Railway Project in the State of Bihar",
+      "gazette_id": "CG-BR-E-20072023-247480",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247480.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247480/247480.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-20.247480",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-20/247480.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247480/247480_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-20.247479",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-20",
+      "ugid": "247479",
+      "title": "Extraordinary Gazette of India, 2023-07-20",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "",
+      "subject": "Designation of M/s Alliance Air Aviation Limited as designated Indian carrier",
+      "gazette_id": "CG-DL-E-20072023-247479",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247479.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247479/247479.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-20.247479",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-20/247479.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-20.247478",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57422,75 +57492,6 @@
       "ia_identifier": "in.gazette.central.e.2023-03-22.244613",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-03-22/244613.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-22.244611",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-22",
-      "ugid": "244611",
-      "title": "Extraordinary Gazette of India, 2023-03-22",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "20A Alwar",
-      "gazette_id": "CG-DL-E-23032023-244611",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244611.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244611/244611.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-22.244611",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-22/244611.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-22.244610",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-22",
-      "ugid": "244610",
-      "title": "Extraordinary Gazette of India, 2023-03-22",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "20E Valsad",
-      "gazette_id": "CG-DL-E-23032023-244610",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244610.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244610/244610.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-22.244610",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-22/244610.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-22.244609",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-22",
-      "ugid": "244609",
-      "title": "Extraordinary Gazette of India, 2023-03-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-23032023-244609",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244609.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244609/244609.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-22.244609",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-22/244609.pdf",
       "topics": []
     }
   ],

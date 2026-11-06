@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-17.250147",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-17",
+      "ugid": "250147",
+      "title": "Extraordinary Gazette of India, 2023-11-17",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
+      "gazette_id": "CG-DL-E-20112023-250147",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250147.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250147/250147.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-17.250147",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-17/250147.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-17.250146",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-17",
+      "ugid": "250146",
+      "title": "Extraordinary Gazette of India, 2023-11-17",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for North East Natural Gas Pipeline Grid Project of M/s. Indradhanush Gas Grid Limited (IGGL).",
+      "gazette_id": "CG-DL-E-20112023-250146",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250146.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250146/250146.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-17.250146",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-17/250146.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-17.250145",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-17",
+      "ugid": "250145",
+      "title": "Extraordinary Gazette of India, 2023-11-17",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for North East Natural Gas Pipeline Grid Project of M/s. Indradhanush Gas Grid Limited (IGGL).",
+      "gazette_id": "CG-DL-E-20112023-250145",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250145.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250145/250145.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-17.250145",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-17/250145.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-17.250144",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58223,76 +58292,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-20.247482",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-20/247482.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-20.247481",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-20",
-      "ugid": "247481",
-      "title": "Extraordinary Gazette of India, 2023-07-20",
-      "ministry": "Ministry of Power",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of notification u/s 162 of Electricity Act, 2003",
-      "gazette_id": "CG-DL-E-20072023-247481",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247481.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247481/247481.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-20.247481",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-20/247481.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-20.247480",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-20",
-      "ugid": "247480",
-      "title": "Extraordinary Gazette of India, 2023-07-20",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Central Railway",
-      "subject": "Publication of Gazette Notification to declare ROR between Karwandia and  Sasaram connecting GC to Ara Sasaram line Special Railway Project in the State of Bihar",
-      "gazette_id": "CG-BR-E-20072023-247480",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247480.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247480/247480.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-20.247480",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-20/247480.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247480/247480_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-20.247479",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-20",
-      "ugid": "247479",
-      "title": "Extraordinary Gazette of India, 2023-07-20",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "",
-      "subject": "Designation of M/s Alliance Air Aviation Limited as designated Indian carrier",
-      "gazette_id": "CG-DL-E-20072023-247479",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247479.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247479/247479.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-20.247479",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-20/247479.pdf",
       "topics": []
     }
   ],

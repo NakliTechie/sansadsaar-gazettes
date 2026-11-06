@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-11-27.268172",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-27",
+      "ugid": "268172",
+      "title": "Extrordinary Gazette of India, 2025-11-27",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Department of Health Research",
+      "office": "",
+      "subject": "Pre publication of draft Surrogacy(Regulation) Amendment Rules, 2025",
+      "gazette_id": "CG-DL-E-03122025-268172",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268172.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268172/268172.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-27.268172",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-27/268172.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268172/268172_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-11-27.268156",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-27",
+      "ugid": "268156",
+      "title": "Extrordinary Gazette of India, 2025-11-27",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "20ARamdevraPokran",
+      "gazette_id": "CG-RJ-E-02122025-268156",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268156.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268156/268156.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-27.268156",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-27/268156.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268156/268156_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-11-27.268154",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-27",
+      "ugid": "268154",
+      "title": "Extrordinary Gazette of India, 2025-11-27",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "North Central Railway",
+      "subject": "Publication of  Corrigendum notification under section 20E of Railways Act, 1989 for acquisition of land in the extraordinary Gazette of India.",
+      "gazette_id": "CG-UP-E-02122025-268154",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268154.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268154/268154.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-27.268154",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-27/268154.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-27.268154/268154_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-11-27.268149",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-03/264419.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-03.264419/264419_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-03.264418",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-03",
-      "ugid": "264418",
-      "title": "Extraordinary Gazette of India, 2025-07-03",
-      "ministry": "National Council For Teacher Education",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sub section  2 of section 32 of the National Council for Teacher Education Act,",
-      "gazette_id": "CG-DL-E-05072025-264418",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264418.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-03.264418/264418.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-03.264418",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-03/264418.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-03.264418/264418_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-03.264417",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-03",
-      "ugid": "264417",
-      "title": "Extraordinary Gazette of India, 2025-07-03",
-      "ministry": "Ministry of Education",
-      "department": "Department of Higher Education",
-      "office": "",
-      "subject": "Amendments further to amend the notification number GSR68(E) dated 21.02.1973",
-      "gazette_id": "CG-DL-E-05072025-264417",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264417.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-03.264417/264417.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-03.264417",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-03/264417.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-03.264417/264417_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-03.264407",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-03",
-      "ugid": "264407",
-      "title": "Extraordinary Gazette of India, 2025-07-03",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 20E of Railways Act, 1989 Acquisition of land for Doubling between Mudkhed and Dhone for Nizamabad district in the state of Telangana",
-      "gazette_id": "CG-TL-E-05072025-264407",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264407.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-03.264407/264407.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-03.264407",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-03/264407.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-03.264407/264407_djvu.txt"
     }
   ],
   "count": 2500,

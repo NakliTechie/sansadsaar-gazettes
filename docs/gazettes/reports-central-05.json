@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-05.261476",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-05",
+      "ugid": "261476",
+      "title": "Extraordinary Gazette of India, 2025-03-05",
+      "ministry": "Ministry of Power",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Central Government hereby appoints the officer being officer equivalent to the rank of Gazetted Officer in the GOI",
+      "gazette_id": "CG-DL-E-05032025-261476",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261476.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-05.261476/261476.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-05.261476",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-05/261476.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-05.261476/261476_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-05.261475",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-05",
+      "ugid": "261475",
+      "title": "Extraordinary Gazette of India, 2025-03-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-05032025-261475",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261475.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-05.261475/261475.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-05.261475",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-05/261475.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-05.261475/261475_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-05.261474",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-05",
+      "ugid": "261474",
+      "title": "Extraordinary Gazette of India, 2025-03-05",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 20E of Railways Act, 1989 Acquisition of land for Doubling between Mudkhed and Dhone for Mahabubnagar district in the state of Telangana",
+      "gazette_id": "CG-TL-E-05032025-261474",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261474.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-05.261474/261474.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-05.261474",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-05/261474.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-05.261474/261474_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-03-05.261473",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-19/258794.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258794/258794_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-19.258793",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-19",
-      "ugid": "258793",
-      "title": "Extraordinary Gazette of India, 2024-11-19",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
-      "gazette_id": "CG-DL-E-21112024-258793",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258793.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258793/258793.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-19.258793",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-19/258793.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258793/258793_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-19.258785",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-19",
-      "ugid": "258785",
-      "title": "Extraordinary Gazette of India, 2024-11-19",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
-      "gazette_id": "CG-DL-E-20112024-258785",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258785.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258785/258785.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-19.258785",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-19/258785.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258785/258785_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-19.258778",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-19",
-      "ugid": "258778",
-      "title": "Extraordinary Gazette of India, 2024-11-19",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
-      "gazette_id": "CG-DL-E-20112024-258778",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258778.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258778/258778.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-19.258778",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-19/258778.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-19.258778/258778_djvu.txt"
     }
   ],
   "count": 2500,
