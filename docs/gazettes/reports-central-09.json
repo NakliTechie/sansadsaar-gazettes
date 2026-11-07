@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-17.250154",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-17",
+      "ugid": "250154",
+      "title": "Extraordinary Gazette of India, 2023-11-17",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Barauni  Guwahati Natural Gas Pipeline (BGPL) of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-20112023-250154",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250154.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250154/250154.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-17.250154",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-17/250154.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-17.250153",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-17",
+      "ugid": "250153",
+      "title": "Extraordinary Gazette of India, 2023-11-17",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Mumbai  Nagpur  Jharsuguda  Natural Gas Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-20112023-250153",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250153.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250153/250153.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-17.250153",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-17/250153.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-17.250152",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-17",
+      "ugid": "250152",
+      "title": "Extraordinary Gazette of India, 2023-11-17",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-20112023-250152",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250152.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250152/250152.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-17.250152",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-17/250152.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-17.250148",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-17",
+      "ugid": "250148",
+      "title": "Extraordinary Gazette of India, 2023-11-17",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
+      "gazette_id": "CG-DL-E-20112023-250148",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250148.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-17.250148/250148.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-17.250148",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-17/250148.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-17.250147",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58200,98 +58292,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-20.247486",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-20/247486.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-20.247485",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-20",
-      "ugid": "247485",
-      "title": "Extraordinary Gazette of India, 2023-07-20",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Direct Taxes",
-      "subject": "IFSC notification under section 10 sub section 34B",
-      "gazette_id": "CG-DL-E-20072023-247485",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247485.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247485/247485.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-20.247485",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-20/247485.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-20.247484",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-20",
-      "ugid": "247484",
-      "title": "Extraordinary Gazette of India, 2023-07-20",
-      "ministry": "Insolvency and Bankruptcy Board of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by clause e of sub section 13  of section 5, and clause  a  and  f  of sub section  2 of section 30, and clauses",
-      "gazette_id": "CG-DL-E-20072023-247484",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247484.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247484/247484.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-20.247484",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-20/247484.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-20.247483",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-20",
-      "ugid": "247483",
-      "title": "Extraordinary Gazette of India, 2023-07-20",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Amendment in Export Policy of Non basmati rice under HS Code 10063090",
-      "gazette_id": "CG-DL-E-20072023-247483",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247483.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247483/247483.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-20.247483",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-20/247483.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-20.247482",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-20",
-      "ugid": "247482",
-      "title": "Extraordinary Gazette of India, 2023-07-20",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Central Railway",
-      "subject": "Publication of Gazette Notification to declare Construction of New B G Line between Jhajha to Batia 20 km",
-      "gazette_id": "CG-BR-E-20072023-247482",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247482.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247482/247482.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-20.247482",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-20/247482.pdf",
       "topics": []
     }
   ],

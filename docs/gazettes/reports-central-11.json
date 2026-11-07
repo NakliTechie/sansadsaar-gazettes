@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-22.244616",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-22",
+      "ugid": "244616",
+      "title": "Extraordinary Gazette of India, 2023-03-22",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "20E Valsad",
+      "gazette_id": "CG-DL-E-23032023-244616",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244616.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244616/244616.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-22.244616",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-22/244616.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-22.244615",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-22",
+      "ugid": "244615",
+      "title": "Extraordinary Gazette of India, 2023-03-22",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "20E Jaipur",
+      "gazette_id": "CG-DL-E-23032023-244615",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244615.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244615/244615.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-22.244615",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-22/244615.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-22.244614",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-22",
+      "ugid": "244614",
+      "title": "Extraordinary Gazette of India, 2023-03-22",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "20A Rewari",
+      "gazette_id": "CG-DL-E-23032023-244614",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244614.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244614/244614.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-22.244614",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-22/244614.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-22.244613",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-22",
+      "ugid": "244613",
+      "title": "Extraordinary Gazette of India, 2023-03-22",
+      "ministry": "Ministry of Railways",
+      "department": "Railway Board",
+      "office": "",
+      "subject": "20A Giridh",
+      "gazette_id": "CG-DL-E-23032023-244613",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244613.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244613/244613.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-22.244613",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-22/244613.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-22.244611",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58143,98 +58235,6 @@
       "ia_identifier": "in.gazette.central.e.2022-12-08.240941",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-12-08/240941.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-08.240940",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-08",
-      "ugid": "240940",
-      "title": "Extraordinary Gazette of India, 2022-12-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A morth",
-      "gazette_id": "CG-DL-E-09122022-240940",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240940.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-08.240940/240940.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-08.240940",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-08/240940.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-08.240939",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-08",
-      "ugid": "240939",
-      "title": "Extraordinary Gazette of India, 2022-12-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHIDCL",
-      "gazette_id": "CG-DL-E-09122022-240939",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240939.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-08.240939/240939.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-08.240939",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-08/240939.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-08.240938",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-08",
-      "ugid": "240938",
-      "title": "Extraordinary Gazette of India, 2022-12-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHAI",
-      "gazette_id": "CG-DL-E-09122022-240938",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240938.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-08.240938/240938.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-08.240938",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-08/240938.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-08.240937",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-08",
-      "ugid": "240937",
-      "title": "Extraordinary Gazette of India, 2022-12-08",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A NHIDCL",
-      "gazette_id": "CG-DL-E-09122022-240937",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/240937.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-08.240937/240937.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-08.240937",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-08/240937.pdf",
       "topics": []
     }
   ],

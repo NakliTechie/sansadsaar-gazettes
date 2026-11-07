@@ -1,6 +1,98 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-20.247485",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-20",
+      "ugid": "247485",
+      "title": "Extraordinary Gazette of India, 2023-07-20",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "IFSC notification under section 10 sub section 34B",
+      "gazette_id": "CG-DL-E-20072023-247485",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247485.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247485/247485.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-20.247485",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-20/247485.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-20.247484",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-20",
+      "ugid": "247484",
+      "title": "Extraordinary Gazette of India, 2023-07-20",
+      "ministry": "Insolvency and Bankruptcy Board of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by clause e of sub section 13  of section 5, and clause  a  and  f  of sub section  2 of section 30, and clauses",
+      "gazette_id": "CG-DL-E-20072023-247484",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247484.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247484/247484.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-20.247484",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-20/247484.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-20.247483",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-20",
+      "ugid": "247483",
+      "title": "Extraordinary Gazette of India, 2023-07-20",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Amendment in Export Policy of Non basmati rice under HS Code 10063090",
+      "gazette_id": "CG-DL-E-20072023-247483",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247483.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247483/247483.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-20.247483",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-20/247483.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-20.247482",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-20",
+      "ugid": "247482",
+      "title": "Extraordinary Gazette of India, 2023-07-20",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Central Railway",
+      "subject": "Publication of Gazette Notification to declare Construction of New B G Line between Jhajha to Batia 20 km",
+      "gazette_id": "CG-BR-E-20072023-247482",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247482.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-20.247482/247482.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-20.247482",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-20/247482.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-20.247481",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57400,98 +57492,6 @@
       "ia_identifier": "in.gazette.central.e.2023-03-22.244617",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-03-22/244617.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-22.244616",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-22",
-      "ugid": "244616",
-      "title": "Extraordinary Gazette of India, 2023-03-22",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "20E Valsad",
-      "gazette_id": "CG-DL-E-23032023-244616",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244616.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244616/244616.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-22.244616",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-22/244616.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-22.244615",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-22",
-      "ugid": "244615",
-      "title": "Extraordinary Gazette of India, 2023-03-22",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "20E Jaipur",
-      "gazette_id": "CG-DL-E-23032023-244615",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244615.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244615/244615.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-22.244615",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-22/244615.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-22.244614",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-22",
-      "ugid": "244614",
-      "title": "Extraordinary Gazette of India, 2023-03-22",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "20A Rewari",
-      "gazette_id": "CG-DL-E-23032023-244614",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244614.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244614/244614.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-22.244614",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-22/244614.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-22.244613",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-22",
-      "ugid": "244613",
-      "title": "Extraordinary Gazette of India, 2023-03-22",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "20A Giridh",
-      "gazette_id": "CG-DL-E-23032023-244613",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244613.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-22.244613/244613.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-22.244613",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-22/244613.pdf",
       "topics": []
     }
   ],
