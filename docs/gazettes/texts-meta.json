@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 31296,
+    "records_with_text": 31299,
     "shards": 441,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 846963,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31296,
-    "txt_files_removed": 0
+    "txt_files_removed": 3
   },
   "shards": [
     {
@@ -1655,8 +1655,8 @@
     },
     {
       "file": "texts-328.json",
-      "count": 70,
-      "bytes": 4505007
+      "count": 72,
+      "bytes": 4526680
     },
     {
       "file": "texts-329.json",
@@ -2215,8 +2215,8 @@
     },
     {
       "file": "texts-440.json",
-      "count": 6,
-      "bytes": 2665816
+      "count": 7,
+      "bytes": 3504877
     }
   ],
   "record_to_shard": {
@@ -31926,6 +31926,7 @@
     "central|central_e_20261021_277326": 328,
     "central|central_e_20261022_277394": 328,
     "central|central_e_20261022_277395": 328,
+    "central|central_e_20261023_277383": 328,
     "central|central_e_20261023_277396": 328,
     "central|central_e_20261023_277398": 328,
     "central|central_e_20261023_277399": 328,
@@ -31935,6 +31936,7 @@
     "central|central_e_20261023_277406": 328,
     "central|central_e_20261023_277407": 328,
     "central|central_e_20261023_277417": 328,
+    "central|central_e_20261023_277423": 328,
     "central|central_e_20261024_277401": 328,
     "central|central_e_20261024_277402": 328,
     "central|central_e_20261024_277403": 328,
@@ -33514,6 +33516,7 @@
     "central|central_w_20261017_277272": 440,
     "central|central_w_20261024_277389": 440,
     "central|central_w_20261024_277390": 440,
+    "central|central_w_20261024_277391": 440,
     "central|central_w_20261024_277392": 440,
     "central|central_w_20261024_277393": 440
   }
