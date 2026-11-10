@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-24.244657",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-24",
+      "ugid": "244657",
+      "title": "Extraordinary Gazette of India, 2023-03-24",
+      "ministry": "Ministry of Home Affairs",
+      "department": "N. E. Division",
+      "office": "",
+      "subject": "Whereas the Central Government in exercise of the powers conferred by Section 3",
+      "gazette_id": "CG-DL-E-24032023-244657",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244657.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-24.244657/244657.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-24.244657",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-24/244657.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-24.244656",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58212,29 +58235,6 @@
       "ia_identifier": "in.gazette.central.e.2022-12-09.241070",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-12-09/241070.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-09.241007",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-09",
-      "ugid": "241007",
-      "title": "Extraordinary Gazette of India, 2022-12-09",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extraordinary Gazette of India under Section 6 1 of Petroleum and Minerals Pipelines Acquisition of Right of User in Land Act 1962 for acquisition of RoU in land for laying pipeline for transportation of minerals in the state of Jharkhand",
-      "gazette_id": "CG-DL-E-13122022-241007",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241007.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-09.241007/241007.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-09.241007",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-09/241007.pdf",
       "topics": []
     }
   ],

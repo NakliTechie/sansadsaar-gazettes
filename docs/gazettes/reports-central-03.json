@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-11-28.268147",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-28",
+      "ugid": "268147",
+      "title": "Extrordinary Gazette of India, 2025-11-28",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 7A of Railways Act, 1989 Acquisition of land for Construction of Ghatkesar TSS in Secunderabad Kazipet section",
+      "gazette_id": "CG-TL-E-02122025-268147",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268147.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268147/268147.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-28.268147",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-28/268147.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268147/268147_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-11-28.268146",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-07/264439.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264439/264439_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264438",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264438",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Economic Affairs",
-      "office": "Budget Division",
-      "subject": "Auction for Sale (issue/re issue) of (i) New GS 2032 (ii) 7.09pc GS 2074",
-      "gazette_id": "CG-DL-E-07072025-264438",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264438.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264438/264438.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264438",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264438.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264438/264438_djvu.txt"
     }
   ],
   "count": 2500,

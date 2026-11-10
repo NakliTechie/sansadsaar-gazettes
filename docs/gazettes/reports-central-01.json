@@ -1,6 +1,29 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-06-16.273562",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-16",
+      "ugid": "273562",
+      "title": "Extrordinary Gazette of India, 2026-06-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-18062026-273562",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273562.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273562/273562.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-16.273562",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-16/273562.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-16.273558",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59335,30 +59358,6 @@
       "mirror_path": "pdf/central/e/2026-03-09/270841.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270841/270841_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-09.270839",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-09",
-      "ugid": "270839",
-      "title": "Extrordinary Gazette of India, 2026-03-09",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Request for Publication of 20E Gazette Notification for Phase  2  Extension of Naupada Gunupur New line up to Therubali  new B.G Railway line project on Waltair division East Coast Railway",
-      "gazette_id": "CG-OR-E-11032026-270839",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270839.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270839/270839.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-09.270839",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-09/270839.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270839/270839_djvu.txt"
     }
   ],
   "count": 2500,

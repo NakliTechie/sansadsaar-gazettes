@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-21.258892",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-21",
+      "ugid": "258892",
+      "title": "Extraordinary Gazette of India, 2024-11-21",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Badamibagh,.",
+      "gazette_id": "CG-DL-E-25112024-258892",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258892.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258892/258892.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-21.258892",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-21/258892.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258892/258892_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-21.258872",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-07-31/255953.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255953/255953_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-31.255952",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-31",
-      "ugid": "255952",
-      "title": "Extraordinary Gazette of India, 2024-07-31",
-      "ministry": "Ministry of External Affairs",
-      "department": "UNP Division",
-      "office": "",
-      "subject": "Amendments in the Notification With Regard to UNSCR 2713 (2023) on Somalia: Addition of Three Entries",
-      "gazette_id": "CG-DL-E-31072024-255952",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255952.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255952/255952.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-31.255952",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-31/255952.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255952/255952_djvu.txt"
     }
   ],
   "count": 2500,

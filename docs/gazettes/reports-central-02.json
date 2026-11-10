@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-09.270839",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-09",
+      "ugid": "270839",
+      "title": "Extrordinary Gazette of India, 2026-03-09",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of 20E Gazette Notification for Phase  2  Extension of Naupada Gunupur New line up to Therubali  new B.G Railway line project on Waltair division East Coast Railway",
+      "gazette_id": "CG-OR-E-11032026-270839",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270839.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270839/270839.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-09.270839",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-09/270839.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270839/270839_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-09.270834",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-11-28/268148.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268148/268148_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-28.268147",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-28",
-      "ugid": "268147",
-      "title": "Extrordinary Gazette of India, 2025-11-28",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 7A of Railways Act, 1989 Acquisition of land for Construction of Ghatkesar TSS in Secunderabad Kazipet section",
-      "gazette_id": "CG-TL-E-02122025-268147",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268147.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268147/268147.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-28.268147",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-28/268147.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268147/268147_djvu.txt"
     }
   ],
   "count": 2500,

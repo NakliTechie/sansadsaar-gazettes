@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2025-03-08.261510",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-03-08",
+      "ugid": "261510",
+      "title": "Weekly Gazette of India, 2025-03-08",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-08032025-261510",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261510.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261510/261510.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-03-08.261510",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-03-08/261510.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261510/261510_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2025-03-08.261509",
       "category": "weekly",
       "type_letter": "w",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-21/258906.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258906/258906_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-21.258892",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-21",
-      "ugid": "258892",
-      "title": "Extraordinary Gazette of India, 2024-11-21",
-      "ministry": "Ministry of Defence",
-      "department": "Department of Defence",
-      "office": "D(Coord)",
-      "subject": "Badamibagh,.",
-      "gazette_id": "CG-DL-E-25112024-258892",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258892.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258892/258892.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-21.258892",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-21/258892.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258892/258892_djvu.txt"
     }
   ],
   "count": 2500,

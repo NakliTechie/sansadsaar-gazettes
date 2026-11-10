@@ -737,6 +737,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-11-05.277812",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-05",
+      "ugid": "277812",
+      "title": "Extraordinary Gazette of India, 2026-11-05",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-10112026-277812",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277812.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-05.277812/277812.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-05.277812",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-05/277812.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-11-05.277811",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58932,29 +58955,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-16.273566",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-16/273566.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-16.273562",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-16",
-      "ugid": "273562",
-      "title": "Extrordinary Gazette of India, 2026-06-16",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-18062026-273562",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273562.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273562/273562.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-16.273562",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-16/273562.pdf",
       "topics": []
     }
   ],
