@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-24.244661",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-24",
+      "ugid": "244661",
+      "title": "Extraordinary Gazette of India, 2023-03-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of corrigendum under Section 3a nhai",
+      "gazette_id": "CG-DL-E-24032023-244661",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244661.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-24.244661/244661.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-24.244661",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-24/244661.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-24.244660",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-24",
+      "ugid": "244660",
+      "title": "Extraordinary Gazette of India, 2023-03-24",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-24032023-244660",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244660.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-24.244660/244660.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-24.244660",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-24/244660.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-24.244658",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-24",
+      "ugid": "244658",
+      "title": "Extraordinary Gazette of India, 2023-03-24",
+      "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+      "department": "Department of Consumer Affairs",
+      "office": "",
+      "subject": "Legal Metrology (Packaged Commodities) (Amendment) Rules, 2023",
+      "gazette_id": "CG-DL-E-24032023-244658",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244658.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-24.244658/244658.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-24.244658",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-24/244658.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-24.244657",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58166,75 +58235,6 @@
       "ia_identifier": "in.gazette.central.w.2022-12-10.240957",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/w/2022-12-10/240957.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-09.242075",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-09",
-      "ugid": "242075",
-      "title": "Extraordinary Gazette of India, 2022-12-09",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "59 PRIVATE MEMBERS BILLS",
-      "gazette_id": "CG-DL-E-19012023-242075",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/242075.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-09.242075/242075.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-09.242075",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-09/242075.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-09.241664",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-09",
-      "ugid": "241664",
-      "title": "Extraordinary Gazette of India, 2022-12-09",
-      "ministry": "Rajya Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "31 Private Members Bills",
-      "gazette_id": "CG-DL-E-04012023-241664",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241664.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-09.241664/241664.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-09.241664",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-09/241664.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-09.241070",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-09",
-      "ugid": "241070",
-      "title": "Extraordinary Gazette of India, 2022-12-09",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "The Constitution Scheduled Tribes Order Amendment Bills 2022",
-      "gazette_id": "CG-DL-E-14122022-241070",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241070.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-09.241070/241070.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-09.241070",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-09/241070.pdf",
       "topics": []
     }
   ],

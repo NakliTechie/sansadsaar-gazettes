@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-11-28.268151",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-28",
+      "ugid": "268151",
+      "title": "Extrordinary Gazette of India, 2025-11-28",
+      "ministry": "Central  Electricity  Regulatory Commission",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Clause 5.6 (vi) of the Ministry of Power (MOP) Notification on Guidelines for Determination of Tariff by Bidding Process for Procurement of Power by Distribution Licensees",
+      "gazette_id": "CG-DL-E-02122025-268151",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268151.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268151/268151.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-28.268151",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-28/268151.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268151/268151_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-11-28.268150",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-28",
+      "ugid": "268150",
+      "title": "Extrordinary Gazette of India, 2025-11-28",
+      "ministry": "Central  Electricity  Regulatory Commission",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In the notification of the Central Electricity Regulatory Commission",
+      "gazette_id": "CG-DL-E-02122025-268150",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268150.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268150/268150.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-28.268150",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-28/268150.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268150/268150_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-11-28.268148",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-28",
+      "ugid": "268148",
+      "title": "Extrordinary Gazette of India, 2025-11-28",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 7A of Railways Act, 1989 Acquisition of land for Construction of Bapatla TSS in Vijayawada Ongole section",
+      "gazette_id": "CG-TL-E-02122025-268148",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268148.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268148/268148.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-28.268148",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-28/268148.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268148/268148_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-11-28.268147",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-07/264442.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264442/264442_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264441",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264441",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "37A of Railway Act 1989proposed ROB in lieu of 06between Hasanparti Road and Kazipet Stations",
-      "gazette_id": "CG-TL-E-07072025-264441",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264441.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264441/264441.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264441",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264441.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264441/264441_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264440",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264440",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Ministry of Railways",
-      "department": "South Eastern Railway Construction Organisation",
-      "office": "",
-      "subject": "37AGN",
-      "gazette_id": "CG-WB-E-07072025-264440",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264440.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264440/264440.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264440",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264440.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264440/264440_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264439",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264439",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Ministry of Home Affairs",
-      "department": "UT DIVISION",
-      "office": "",
-      "subject": "Government of National Capital Territory of Delhi (Conditions of Service of Officers and Other Employees) Rules, 2025",
-      "gazette_id": "CG-DL-E-07072025-264439",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264439.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264439/264439.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264439",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264439.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264439/264439_djvu.txt"
     }
   ],
   "count": 2500,

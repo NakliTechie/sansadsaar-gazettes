@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-06-16.273568",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-16",
+      "ugid": "273568",
+      "title": "Extrordinary Gazette of India, 2026-06-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-18062026-273568",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273568.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273568/273568.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-16.273568",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-16/273568.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-16.273567",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-16",
+      "ugid": "273567",
+      "title": "Extrordinary Gazette of India, 2026-06-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-18062026-273567",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273567.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273567/273567.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-16.273567",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-16/273567.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-16.273566",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-16",
+      "ugid": "273566",
+      "title": "Extrordinary Gazette of India, 2026-06-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-18062026-273566",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273566.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273566/273566.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-16.273566",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-16/273566.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-16.273562",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59286,78 +59355,6 @@
       "mirror_path": "pdf/central/e/2026-03-10/270809.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270809/270809_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-09.270919",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-09",
-      "ugid": "270919",
-      "title": "Extrordinary Gazette of India, 2026-03-09",
-      "ministry": "Ministry of Railways",
-      "department": "North Western Railway",
-      "office": "",
-      "subject": "20EJPSWMCKB",
-      "gazette_id": "CG-RJ-E-13032026-270919",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270919.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270919/270919.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-09.270919",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-09/270919.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270919/270919_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-09.270844",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-09",
-      "ugid": "270844",
-      "title": "Extrordinary Gazette of India, 2026-03-09",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Construction",
-      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire of land under Section 20(A) in connection with Manmad Indore New Line (New Line between Manmad to New Dhule and Nardana to Dr. Ambedkar Nagar (309.43 Kms) project.",
-      "gazette_id": "CG-MH-E-11032026-270844",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270844.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270844/270844.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-09.270844",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-09/270844.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270844/270844_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-09.270841",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-09",
-      "ugid": "270841",
-      "title": "Extrordinary Gazette of India, 2026-03-09",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Construction",
-      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire of land under Section 20(A) for Dharampuri Tehsil, Dhar District in connection with Manmad Indore New Line (New Line between Manmad to New Dhule and Nardana to Dr. Ambedkar Nagar (309.43 Kms) project.",
-      "gazette_id": "CG-MH-E-11032026-270841",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270841.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270841/270841.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-09.270841",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-09/270841.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270841/270841_djvu.txt"
     }
   ],
   "count": 2500,

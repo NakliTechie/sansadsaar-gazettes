@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2022-12-09.242075",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-09",
+      "ugid": "242075",
+      "title": "Extraordinary Gazette of India, 2022-12-09",
+      "ministry": "Lok Sabha Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "59 PRIVATE MEMBERS BILLS",
+      "gazette_id": "CG-DL-E-19012023-242075",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/242075.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-09.242075/242075.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-09.242075",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-09/242075.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-09.241664",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-09",
+      "ugid": "241664",
+      "title": "Extraordinary Gazette of India, 2022-12-09",
+      "ministry": "Rajya Sabha Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "31 Private Members Bills",
+      "gazette_id": "CG-DL-E-04012023-241664",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241664.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-09.241664/241664.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-09.241664",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-09/241664.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2022-12-09.241070",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2022-12-09",
+      "ugid": "241070",
+      "title": "Extraordinary Gazette of India, 2022-12-09",
+      "ministry": "Lok Sabha Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "The Constitution Scheduled Tribes Order Amendment Bills 2022",
+      "gazette_id": "CG-DL-E-14122022-241070",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241070.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-09.241070/241070.pdf",
+      "ia_identifier": "in.gazette.central.e.2022-12-09.241070",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
+      "mirror_path": "pdf/central/e/2022-12-09/241070.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2022-12-09.241007",
       "category": "extraordinary",
       "type_letter": "e",
@@ -36095,7 +36164,7 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2022-09-30.239232/239232_djvu.txt"
     }
   ],
-  "count": 1566,
+  "count": 1569,
   "category": "central",
   "shard_index": 12
 }

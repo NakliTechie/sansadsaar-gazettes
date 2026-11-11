@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-09.270919",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-09",
+      "ugid": "270919",
+      "title": "Extrordinary Gazette of India, 2026-03-09",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "20EJPSWMCKB",
+      "gazette_id": "CG-RJ-E-13032026-270919",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270919.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270919/270919.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-09.270919",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-09/270919.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270919/270919_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-09.270844",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-09",
+      "ugid": "270844",
+      "title": "Extrordinary Gazette of India, 2026-03-09",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire of land under Section 20(A) in connection with Manmad Indore New Line (New Line between Manmad to New Dhule and Nardana to Dr. Ambedkar Nagar (309.43 Kms) project.",
+      "gazette_id": "CG-MH-E-11032026-270844",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270844.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270844/270844.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-09.270844",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-09/270844.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270844/270844_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-09.270841",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-09",
+      "ugid": "270841",
+      "title": "Extrordinary Gazette of India, 2026-03-09",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for Declaration of Intention to acquire of land under Section 20(A) for Dharampuri Tehsil, Dhar District in connection with Manmad Indore New Line (New Line between Manmad to New Dhule and Nardana to Dr. Ambedkar Nagar (309.43 Kms) project.",
+      "gazette_id": "CG-MH-E-11032026-270841",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270841.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270841/270841.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-09.270841",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-09/270841.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-09.270841/270841_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-09.270839",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-11-28/268152.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268152/268152_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-28.268151",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-28",
-      "ugid": "268151",
-      "title": "Extrordinary Gazette of India, 2025-11-28",
-      "ministry": "Central  Electricity  Regulatory Commission",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Clause 5.6 (vi) of the Ministry of Power (MOP) Notification on Guidelines for Determination of Tariff by Bidding Process for Procurement of Power by Distribution Licensees",
-      "gazette_id": "CG-DL-E-02122025-268151",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268151.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268151/268151.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-28.268151",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-28/268151.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268151/268151_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-28.268150",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-28",
-      "ugid": "268150",
-      "title": "Extrordinary Gazette of India, 2025-11-28",
-      "ministry": "Central  Electricity  Regulatory Commission",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In the notification of the Central Electricity Regulatory Commission",
-      "gazette_id": "CG-DL-E-02122025-268150",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268150.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268150/268150.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-28.268150",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-28/268150.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268150/268150_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-28.268148",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-28",
-      "ugid": "268148",
-      "title": "Extrordinary Gazette of India, 2025-11-28",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 7A of Railways Act, 1989 Acquisition of land for Construction of Bapatla TSS in Vijayawada Ongole section",
-      "gazette_id": "CG-TL-E-02122025-268148",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268148.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268148/268148.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-28.268148",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-28/268148.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268148/268148_djvu.txt"
     }
   ],
   "count": 2500,

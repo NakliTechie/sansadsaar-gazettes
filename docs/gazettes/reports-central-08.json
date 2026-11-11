@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-11.252858",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-11",
+      "ugid": "252858",
+      "title": "Extraordinary Gazette of India, 2024-03-11",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-12032024-252858",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252858.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252858/252858.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-11.252858",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-11/252858.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252858/252858_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-11.252857",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-11",
+      "ugid": "252857",
+      "title": "Extraordinary Gazette of India, 2024-03-11",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Enabling provisions for import of inputs that are subjected to mandatory Quality Control Orders QCOs by Advance Authorisation holders EOU and SEZ",
+      "gazette_id": "CG-DL-E-12032024-252857",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252857.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252857/252857.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-11.252857",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-11/252857.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252857/252857_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-11.252856",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-11",
+      "ugid": "252856",
+      "title": "Extraordinary Gazette of India, 2024-03-11",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-12032024-252856",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252856.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252856/252856.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-11.252856",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-11/252856.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252856/252856_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-11.252855",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58984,78 +59056,6 @@
       "mirror_path": "pdf/central/e/2023-11-21/250196.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250196/250196_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-21.250195",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-21",
-      "ugid": "250195",
-      "title": "Extraordinary Gazette of India, 2023-11-21",
-      "ministry": "Ministry of Corporate Affairs",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Amendment to the Chartered Accountant Election Tribunal Rules 2006",
-      "gazette_id": "CG-DL-E-22112023-250195",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250195.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250195/250195.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-21.250195",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-21/250195.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250195/250195_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-21.250192",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-21",
-      "ugid": "250192",
-      "title": "Extraordinary Gazette of India, 2023-11-21",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Department of Commerce",
-      "office": "EP (Agri) Division",
-      "subject": "Appointment of 21 official members of APEDA",
-      "gazette_id": "CG-DL-E-22112023-250192",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250192.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250192/250192.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-21.250192",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-21/250192.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250192/250192_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-21.250190",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-21",
-      "ugid": "250190",
-      "title": "Extraordinary Gazette of India, 2023-11-21",
-      "ministry": "Ministry of Railways",
-      "department": "Railway Board",
-      "office": "",
-      "subject": "Guidelines on Accessibility of Indian Railway stations and facility at stations for Differently abled persons Divyangjan and Passengers with reduce mobility.",
-      "gazette_id": "CG-DL-E-21112023-250190",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250190.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250190/250190.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-21.250190",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-21/250190.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250190/250190_djvu.txt"
     }
   ],
   "count": 2500,

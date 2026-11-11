@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-07-31.255955",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-31",
+      "ugid": "255955",
+      "title": "Extraordinary Gazette of India, 2024-07-31",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
+      "gazette_id": "CG-DL-E-31072024-255955",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255955.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255955/255955.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-31.255955",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-31/255955.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255955/255955_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-07-31.255954",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-31",
+      "ugid": "255954",
+      "title": "Extraordinary Gazette of India, 2024-07-31",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
+      "gazette_id": "CG-DL-E-31072024-255954",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255954.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255954/255954.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-31.255954",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-31/255954.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255954/255954_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-07-31.255953",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-31",
+      "ugid": "255953",
+      "title": "Extraordinary Gazette of India, 2024-07-31",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "",
+      "subject": "JHARSUGUDABILASPURFOURTHLINE",
+      "gazette_id": "CG-CG-E-31072024-255953",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255953.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255953/255953.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-31.255953",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-31/255953.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255953/255953_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-07-31.255952",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-03-11/252859.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252859/252859_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-11.252858",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-11",
-      "ugid": "252858",
-      "title": "Extraordinary Gazette of India, 2024-03-11",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-12032024-252858",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252858.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252858/252858.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-11.252858",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-11/252858.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252858/252858_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-11.252857",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-11",
-      "ugid": "252857",
-      "title": "Extraordinary Gazette of India, 2024-03-11",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "Directorate General of  Foreign Trade",
-      "office": "",
-      "subject": "Enabling provisions for import of inputs that are subjected to mandatory Quality Control Orders QCOs by Advance Authorisation holders EOU and SEZ",
-      "gazette_id": "CG-DL-E-12032024-252857",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252857.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252857/252857.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-11.252857",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-11/252857.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252857/252857_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-11.252856",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-11",
-      "ugid": "252856",
-      "title": "Extraordinary Gazette of India, 2024-03-11",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-12032024-252856",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252856.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252856/252856.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-11.252856",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-11/252856.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252856/252856_djvu.txt"
     }
   ],
   "count": 2500,

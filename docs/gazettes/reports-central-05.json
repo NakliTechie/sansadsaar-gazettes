@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2025-03-08.261527",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-03-08",
+      "ugid": "261527",
+      "title": "Weekly Gazette of India, 2025-03-08",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-10032025-261527",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261527.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261527/261527.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-03-08.261527",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-03-08/261527.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261527/261527_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2025-03-08.261512",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-03-08",
+      "ugid": "261512",
+      "title": "Weekly Gazette of India, 2025-03-08",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-08032025-261512",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261512.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261512/261512.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-03-08.261512",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-03-08/261512.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261512/261512_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.w.2025-03-08.261511",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2025-03-08",
+      "ugid": "261511",
+      "title": "Weekly Gazette of India, 2025-03-08",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-08032025-261511",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261511.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261511/261511.pdf",
+      "ia_identifier": "in.gazette.central.w.2025-03-08.261511",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2025-03-08/261511.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261511/261511_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2025-03-08.261510",
       "category": "weekly",
       "type_letter": "w",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-21/258925.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258925/258925_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-21.258921",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-21",
-      "ugid": "258921",
-      "title": "Extraordinary Gazette of India, 2024-11-21",
-      "ministry": "Ministry of Defence",
-      "department": "Department of Defence",
-      "office": "D(Coord)",
-      "subject": "Sagar,.",
-      "gazette_id": "CG-DL-E-26112024-258921",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258921.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258921/258921.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-21.258921",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-21/258921.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258921/258921_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-21.258916",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-21",
-      "ugid": "258916",
-      "title": "Extraordinary Gazette of India, 2024-11-21",
-      "ministry": "Ministry of Defence",
-      "department": "Department of Defence",
-      "office": "D(Coord)",
-      "subject": "Deolali,.",
-      "gazette_id": "CG-DL-E-26112024-258916",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258916.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258916/258916.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-21.258916",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-21/258916.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258916/258916_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-21.258906",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-21",
-      "ugid": "258906",
-      "title": "Extraordinary Gazette of India, 2024-11-21",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "North Eastern Railway",
-      "subject": "For publication of 20A Notification of Khalilabad to Baharaich New Railway Line Project in the Gazette of India under section 20A of Railways amendment Act 2008",
-      "gazette_id": "CG-UP-E-25112024-258906",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258906.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258906/258906.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-21.258906",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-21/258906.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258906/258906_djvu.txt"
     }
   ],
   "count": 2500,

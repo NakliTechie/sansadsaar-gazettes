@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-21.258921",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-21",
+      "ugid": "258921",
+      "title": "Extraordinary Gazette of India, 2024-11-21",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Sagar,.",
+      "gazette_id": "CG-DL-E-26112024-258921",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258921.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258921/258921.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-21.258921",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-21/258921.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258921/258921_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-21.258916",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-21",
+      "ugid": "258916",
+      "title": "Extraordinary Gazette of India, 2024-11-21",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Deolali,.",
+      "gazette_id": "CG-DL-E-26112024-258916",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258916.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258916/258916.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-21.258916",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-21/258916.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258916/258916_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-21.258906",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-21",
+      "ugid": "258906",
+      "title": "Extraordinary Gazette of India, 2024-11-21",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "North Eastern Railway",
+      "subject": "For publication of 20A Notification of Khalilabad to Baharaich New Railway Line Project in the Gazette of India under section 20A of Railways amendment Act 2008",
+      "gazette_id": "CG-UP-E-25112024-258906",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258906.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258906/258906.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-21.258906",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-21/258906.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258906/258906_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-21.258892",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-07-31/255956.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255956/255956_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-31.255955",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-31",
-      "ugid": "255955",
-      "title": "Extraordinary Gazette of India, 2024-07-31",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
-      "gazette_id": "CG-DL-E-31072024-255955",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255955.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255955/255955.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-31.255955",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-31/255955.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255955/255955_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-31.255954",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-31",
-      "ugid": "255954",
-      "title": "Extraordinary Gazette of India, 2024-07-31",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
-      "gazette_id": "CG-DL-E-31072024-255954",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255954.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255954/255954.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-31.255954",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-31/255954.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255954/255954_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-31.255953",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-31",
-      "ugid": "255953",
-      "title": "Extraordinary Gazette of India, 2024-07-31",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "",
-      "subject": "JHARSUGUDABILASPURFOURTHLINE",
-      "gazette_id": "CG-CG-E-31072024-255953",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255953.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255953/255953.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-31.255953",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-31/255953.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255953/255953_djvu.txt"
     }
   ],
   "count": 2500,

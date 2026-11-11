@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-21.247535",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-21",
+      "ugid": "247535",
+      "title": "Extraordinary Gazette of India, 2023-07-21",
+      "ministry": "Central  Electricity  Regulatory Commission",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Clause 5 6 vi  of Ministry of Power  MOP  Notification on Guidelines for Determination of Tariff by Bidding Process for Procurement of Power by Distribution Licensees",
+      "gazette_id": "CG-DL-E-22072023-247535",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247535.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-21.247535/247535.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-21.247535",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-21/247535.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-21.247534",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-21",
+      "ugid": "247534",
+      "title": "Extraordinary Gazette of India, 2023-07-21",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extra Ordinary Gazette of India under Section 3(1) of the PMP Act 1962 (50 of 1962) relating to land schedule in respect of  Kandla Gorakhpur LPG Pipeline to be laid by IHB limited  for acquisition of ROU  Tehsil SadarDistt Varanasiin the state of Uttar Pradesh",
+      "gazette_id": "CG-DL-E-22072023-247534",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247534.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-21.247534/247534.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-21.247534",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-21/247534.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-21.247533",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-21",
+      "ugid": "247533",
+      "title": "Extraordinary Gazette of India, 2023-07-21",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DEPARTMENT FOR PROMOTION OF INDUSTRY AND INTERNAL TRADE",
+      "office": "",
+      "subject": "The Bolts, Nuts and Fasteners (Quality Control) Order, 2023",
+      "gazette_id": "CG-DL-E-22072023-247533",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247533.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-21.247533/247533.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-21.247533",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-21/247533.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-21.247532",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57423,75 +57492,6 @@
       "ia_identifier": "in.gazette.central.e.2023-03-24.244662",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-03-24/244662.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-24.244661",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-24",
-      "ugid": "244661",
-      "title": "Extraordinary Gazette of India, 2023-03-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of corrigendum under Section 3a nhai",
-      "gazette_id": "CG-DL-E-24032023-244661",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244661.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-24.244661/244661.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-24.244661",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-24/244661.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-24.244660",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-24",
-      "ugid": "244660",
-      "title": "Extraordinary Gazette of India, 2023-03-24",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-24032023-244660",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244660.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-24.244660/244660.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-24.244660",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-24/244660.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-24.244658",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-24",
-      "ugid": "244658",
-      "title": "Extraordinary Gazette of India, 2023-03-24",
-      "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
-      "department": "Department of Consumer Affairs",
-      "office": "",
-      "subject": "Legal Metrology (Packaged Commodities) (Amendment) Rules, 2023",
-      "gazette_id": "CG-DL-E-24032023-244658",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244658.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-24.244658/244658.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-24.244658",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-24/244658.pdf",
       "topics": []
     }
   ],
