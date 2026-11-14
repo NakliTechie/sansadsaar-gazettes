@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-11-28.268152",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-28",
+      "ugid": "268152",
+      "title": "Extrordinary Gazette of India, 2025-11-28",
+      "ministry": "Reserve Bank of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by clause (ga) of sub section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank of India",
+      "gazette_id": "CG-MH-E-02122025-268152",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268152.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268152/268152.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-28.268152",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-28/268152.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268152/268152_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-11-28.268151",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-07/264444.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264444/264444_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264442",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264442",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "SMPCIL",
-      "gazette_id": "CG-DL-E-07072025-264442",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264442.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264442/264442.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264442",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264442.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264442/264442_djvu.txt"
     }
   ],
   "count": 2500,

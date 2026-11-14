@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-07-31.255956",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-31",
+      "ugid": "255956",
+      "title": "Extraordinary Gazette of India, 2024-07-31",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "Petroleum notifications",
+      "gazette_id": "CG-DL-E-31072024-255956",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255956.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255956/255956.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-31.255956",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-31/255956.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255956/255956_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-07-31.255955",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-03-11/252860.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252860/252860_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-11.252859",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-11",
-      "ugid": "252859",
-      "title": "Extraordinary Gazette of India, 2024-03-11",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
-      "gazette_id": "CG-DL-E-12032024-252859",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252859.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252859/252859.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-11.252859",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-11/252859.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252859/252859_djvu.txt"
     }
   ],
   "count": 2500,

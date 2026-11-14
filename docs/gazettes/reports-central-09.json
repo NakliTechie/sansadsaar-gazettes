@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-21.250196",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-21",
+      "ugid": "250196",
+      "title": "Extraordinary Gazette of India, 2023-11-21",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of Returning Officers and Assistant Returning Officer for Parliamentary Constituencies in the State of Tamil Nadu regarding",
+      "gazette_id": "CG-DL-E-22112023-250196",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250196.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250196/250196.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-21.250196",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-21/250196.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250196/250196_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-21.250195",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58284,29 +58308,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-21.247537",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-21/247537.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-21.247536",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-21",
-      "ugid": "247536",
-      "title": "Extraordinary Gazette of India, 2023-07-21",
-      "ministry": "Indian  Martime University",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by Section 47 1 of the Indian Maritime University Act, 2008 22 of 2008, the following Notifications are published for general information",
-      "gazette_id": "CG-TN-E-24072023-247536",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247536.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-21.247536/247536.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-21.247536",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-21/247536.pdf",
       "topics": []
     }
   ],

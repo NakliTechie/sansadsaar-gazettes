@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-07-07.264442",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-07",
+      "ugid": "264442",
+      "title": "Extraordinary Gazette of India, 2025-07-07",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "SMPCIL",
+      "gazette_id": "CG-DL-E-07072025-264442",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264442.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264442/264442.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-07.264442",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-07/264442.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264442/264442_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-07-07.264441",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-03-10/261529.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261529/261529_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.w.2025-03-08.261528",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2025-03-08",
-      "ugid": "261528",
-      "title": "Weekly Gazette of India, 2025-03-08",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-10032025-261528",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261528.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261528/261528.pdf",
-      "ia_identifier": "in.gazette.central.w.2025-03-08.261528",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2025-03-08/261528.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.w.2025-03-08.261528/261528_djvu.txt"
     }
   ],
   "count": 2500,
