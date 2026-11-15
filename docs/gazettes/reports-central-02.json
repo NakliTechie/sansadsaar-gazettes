@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-10.270812",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-10",
+      "ugid": "270812",
+      "title": "Extrordinary Gazette of India, 2026-03-10",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Draft Notification regarding Blood product testing",
+      "gazette_id": "CG-DL-E-10032026-270812",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270812.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270812/270812.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-10.270812",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-10/270812.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270812/270812_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-10.270811",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-10",
+      "ugid": "270811",
+      "title": "Extrordinary Gazette of India, 2026-03-10",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Inclusion of Qualifications of Inspector (Medical Devices) under Rule 18 of the Medical Devices Rules, 2017",
+      "gazette_id": "CG-DL-E-10032026-270811",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270811.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270811/270811.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-10.270811",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-10/270811.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270811/270811_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-10.270810",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-10",
+      "ugid": "270810",
+      "title": "Extrordinary Gazette of India, 2026-03-10",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Biennial election to the Council of States from Bihar List of Contesting Candidates",
+      "gazette_id": "CG-DL-E-10032026-270810",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270810.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270810/270810.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-10.270810",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-10/270810.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270810/270810_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-10.270809",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-11-28/268170.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268170/268170_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-28.268169",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-28",
-      "ugid": "268169",
-      "title": "Extrordinary Gazette of India, 2025-11-28",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 7A of Railways Act, 1989 Acquisition of land for Construction of Rangapuram TSS in Guntakal Nandyal section",
-      "gazette_id": "CG-TL-E-03122025-268169",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268169.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268169/268169.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-28.268169",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-28/268169.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268169/268169_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-28.268168",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-28",
-      "ugid": "268168",
-      "title": "Extrordinary Gazette of India, 2025-11-28",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Request for Publication of Gazette Notification for East Coast Railway New Railway Project",
-      "gazette_id": "CG-OR-E-03122025-268168",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268168.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268168/268168.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-28.268168",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-28/268168.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268168/268168_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-11-28.268155",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-11-28",
-      "ugid": "268155",
-      "title": "Extrordinary Gazette of India, 2025-11-28",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 20A of Railways Act, 1989 Acquisition of land forRail Over Rail Double Line Flyover at Gooty in the State of Andhra Pradesh in Ananthapuram District",
-      "gazette_id": "CG-TL-E-02122025-268155",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268155.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268155/268155.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-11-28.268155",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-11-28/268155.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268155/268155_djvu.txt"
     }
   ],
   "count": 2500,

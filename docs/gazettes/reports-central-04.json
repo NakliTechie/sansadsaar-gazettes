@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-07-07.264446",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-07",
+      "ugid": "264446",
+      "title": "Extraordinary Gazette of India, 2025-07-07",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-08072025-264446",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264446.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264446/264446.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-07.264446",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-07/264446.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264446/264446_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-07.264445",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-07",
+      "ugid": "264445",
+      "title": "Extraordinary Gazette of India, 2025-07-07",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "37A of Railway Act1989 Proposed ROB AT lc no 40 between Peddapalli and Raghavapuram Stations",
+      "gazette_id": "CG-TL-E-08072025-264445",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264445.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264445/264445.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-07.264445",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-07/264445.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264445/264445_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-07.264444",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-07",
+      "ugid": "264444",
+      "title": "Extraordinary Gazette of India, 2025-07-07",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "37A of Railway Act 1989 proposed ROB IN LIEU OF lc 46 between Raghavapuram and Ramagundam Stations",
+      "gazette_id": "CG-TL-E-08072025-264444",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264444.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264444/264444.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-07.264444",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-07/264444.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264444/264444_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-07-07.264442",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-03-10/261532.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261532/261532_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-10.261531",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-10",
-      "ugid": "261531",
-      "title": "Extraordinary Gazette of India, 2025-03-10",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Ports Wing",
-      "office": "",
-      "subject": "Representative of State Government on the Board of VPA",
-      "gazette_id": "CG-DL-E-10032025-261531",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261531.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261531/261531.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-10.261531",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-10/261531.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261531/261531_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-10.261530",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-10",
-      "ugid": "261530",
-      "title": "Extraordinary Gazette of India, 2025-03-10",
-      "ministry": "Ministry of Mines",
-      "department": "Geological Survey of India",
-      "office": "",
-      "subject": "Notification of reappointment to the post of DG GSI",
-      "gazette_id": "CG-WB-E-11032025-261530",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261530.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261530/261530.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-10.261530",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-10/261530.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261530/261530_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-10.261529",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-10",
-      "ugid": "261529",
-      "title": "Extraordinary Gazette of India, 2025-03-10",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Appointment of Appellate Officers in the State of Meghalaya",
-      "gazette_id": "CG-DL-E-10032025-261529",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261529.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261529/261529.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-10.261529",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-10/261529.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261529/261529_djvu.txt"
     }
   ],
   "count": 2500,

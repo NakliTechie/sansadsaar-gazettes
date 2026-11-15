@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-06-16.273595",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-16",
+      "ugid": "273595",
+      "title": "Extrordinary Gazette of India, 2026-06-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-19062026-273595",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273595.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273595/273595.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-16.273595",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-16/273595.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-16.273584",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-16",
+      "ugid": "273584",
+      "title": "Extrordinary Gazette of India, 2026-06-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-18062026-273584",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273584.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273584/273584.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-16.273584",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-16/273584.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-16.273571",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-16",
+      "ugid": "273571",
+      "title": "Extrordinary Gazette of India, 2026-06-16",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-18062026-273571",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273571.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273571/273571.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-16.273571",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-16/273571.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-16.273569",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59282,78 +59351,6 @@
       "mirror_path": "pdf/central/e/2026-03-10/270813.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270813/270813_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-10.270812",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-10",
-      "ugid": "270812",
-      "title": "Extrordinary Gazette of India, 2026-03-10",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Draft Notification regarding Blood product testing",
-      "gazette_id": "CG-DL-E-10032026-270812",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270812.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270812/270812.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-10.270812",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-10/270812.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270812/270812_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-10.270811",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-10",
-      "ugid": "270811",
-      "title": "Extrordinary Gazette of India, 2026-03-10",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Inclusion of Qualifications of Inspector (Medical Devices) under Rule 18 of the Medical Devices Rules, 2017",
-      "gazette_id": "CG-DL-E-10032026-270811",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270811.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270811/270811.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-10.270811",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-10/270811.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270811/270811_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-10.270810",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-10",
-      "ugid": "270810",
-      "title": "Extrordinary Gazette of India, 2026-03-10",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Biennial election to the Council of States from Bihar List of Contesting Candidates",
-      "gazette_id": "CG-DL-E-10032026-270810",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270810.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270810/270810.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-10.270810",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-10/270810.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270810/270810_djvu.txt"
     }
   ],
   "count": 2500,

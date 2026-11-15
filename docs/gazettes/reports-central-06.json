@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-22.258833",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-22",
+      "ugid": "258833",
+      "title": "Extraordinary Gazette of India, 2024-11-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-22112024-258833",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258833.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258833/258833.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-22.258833",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-22/258833.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258833/258833_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-22.258823",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-22",
+      "ugid": "258823",
+      "title": "Extraordinary Gazette of India, 2024-11-22",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of Assistant Returning officers for Counting of Votes in bye election from 4 Wayanad PC of Kerala",
+      "gazette_id": "CG-DL-E-22112024-258823",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258823.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258823/258823.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-22.258823",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-22/258823.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258823/258823_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-21.258943",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-21",
+      "ugid": "258943",
+      "title": "Extraordinary Gazette of India, 2024-11-21",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Shillong,.",
+      "gazette_id": "CG-DL-E-27112024-258943",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258943.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258943/258943.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-21.258943",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-21/258943.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258943/258943_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-21.258925",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-07-31/255960.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255960/255960_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-31.255959",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-31",
-      "ugid": "255959",
-      "title": "Extraordinary Gazette of India, 2024-07-31",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
-      "office": "DIRECTORATE OF MARKETING AND INSPECTION, HEAD OFFICE",
-      "subject": "Enactment Notification of Amendment of Agricultural Produce (Grading and Marking) Act, 1937 (1 of 1937) in the Jan Vishwas (Amendment of Provisions) Act, 2023",
-      "gazette_id": "CG-HR-E-31072024-255959",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255959.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255959/255959.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-31.255959",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-31/255959.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255959/255959_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-31.255958",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-31",
-      "ugid": "255958",
-      "title": "Extraordinary Gazette of India, 2024-07-31",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Indirect Taxes and Customs",
-      "subject": "notification number 41 of 2024 customs",
-      "gazette_id": "CG-DL-E-31072024-255958",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255958.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255958/255958.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-31.255958",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-31/255958.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255958/255958_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-07-31.255957",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-07-31",
-      "ugid": "255957",
-      "title": "Extraordinary Gazette of India, 2024-07-31",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Bhartiya Vayuyan Vidheyak, 2024",
-      "gazette_id": "CG-DL-E-31072024-255957",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255957.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255957/255957.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-07-31.255957",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-07-31/255957.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255957/255957_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-21.250202",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-21",
+      "ugid": "250202",
+      "title": "Extraordinary Gazette of India, 2023-11-21",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "REFINERY DIVISION",
+      "office": "",
+      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 relating to land schedule in respect of Krishnapatnam Hyderabad Petroleum and Petroleum Product Pipeline Project  to be laid by Bharat Petroleum Corporation Limited (BPCL) for acquisition of ROU in the State of Andhra Pradesh",
+      "gazette_id": "CG-DL-E-22112023-250202",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250202.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250202/250202.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-21.250202",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-21/250202.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250202/250202_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-21.250201",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-21",
+      "ugid": "250201",
+      "title": "Extraordinary Gazette of India, 2023-11-21",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Environmental Impact Assessment (EIA) Division",
+      "office": "",
+      "subject": "Notification with regard to delegating powers under section 10 of the Environment Protection Act,1986",
+      "gazette_id": "CG-DL-E-22112023-250201",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250201.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250201/250201.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-21.250201",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-21/250201.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250201/250201_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-21.250197",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-21",
+      "ugid": "250197",
+      "title": "Extraordinary Gazette of India, 2023-11-21",
+      "ministry": "Ministry of Home Affairs",
+      "department": "Police-II Division",
+      "office": "Indo Tibetan Border Police Force",
+      "subject": "Indo Tibetan Border Police Force, Water Wing  (Group C Technical Posts) Recruitment Rules, 2023",
+      "gazette_id": "CG-DL-E-22112023-250197",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250197.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250197/250197.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-21.250197",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-21/250197.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250197/250197_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-21.250196",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58239,75 +58311,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-21.247540",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-21/247540.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-21.247539",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-21",
-      "ugid": "247539",
-      "title": "Extraordinary Gazette of India, 2023-07-21",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of user fee notification",
-      "gazette_id": "CG-DL-E-22072023-247539",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247539.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-21.247539/247539.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-21.247539",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-21/247539.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-21.247538",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-21",
-      "ugid": "247538",
-      "title": "Extraordinary Gazette of India, 2023-07-21",
-      "ministry": "Ministry of Chemicals and Fertilizers",
-      "department": "Department of Chemicals and Petro Chemicals",
-      "office": "",
-      "subject": "Notifications for amendment in Quality Control Order of 10 Chemicals, Morpholine, Acetic Acid, Methanol, Aniline, Pyridine, Gamma Picoline, Beta Picoline, Potassium Carbonate, Acetone, Sodium Tripolyphosphate",
-      "gazette_id": "CG-DL-E-22072023-247538",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247538.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-21.247538/247538.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-21.247538",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-21/247538.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-21.247537",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-21",
-      "ugid": "247537",
-      "title": "Extraordinary Gazette of India, 2023-07-21",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHIDCL",
-      "gazette_id": "CG-DL-E-22072023-247537",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247537.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-21.247537/247537.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-21.247537",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-21/247537.pdf",
       "topics": []
     }
   ],

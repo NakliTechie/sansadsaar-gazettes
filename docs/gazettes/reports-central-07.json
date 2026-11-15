@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-07-31.255959",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-31",
+      "ugid": "255959",
+      "title": "Extraordinary Gazette of India, 2024-07-31",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture, Cooperation and Farmers Welfare",
+      "office": "DIRECTORATE OF MARKETING AND INSPECTION, HEAD OFFICE",
+      "subject": "Enactment Notification of Amendment of Agricultural Produce (Grading and Marking) Act, 1937 (1 of 1937) in the Jan Vishwas (Amendment of Provisions) Act, 2023",
+      "gazette_id": "CG-HR-E-31072024-255959",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255959.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255959/255959.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-31.255959",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-31/255959.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255959/255959_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-07-31.255958",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-31",
+      "ugid": "255958",
+      "title": "Extraordinary Gazette of India, 2024-07-31",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "notification number 41 of 2024 customs",
+      "gazette_id": "CG-DL-E-31072024-255958",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255958.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255958/255958.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-31.255958",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-31/255958.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255958/255958_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-07-31.255957",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-07-31",
+      "ugid": "255957",
+      "title": "Extraordinary Gazette of India, 2024-07-31",
+      "ministry": "Lok Sabha Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Bhartiya Vayuyan Vidheyak, 2024",
+      "gazette_id": "CG-DL-E-31072024-255957",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255957.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255957/255957.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-07-31.255957",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-07-31/255957.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-07-31.255957/255957_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-07-31.255956",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-03-11/252868.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252868/252868_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-11.252863",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-11",
-      "ugid": "252863",
-      "title": "Extraordinary Gazette of India, 2024-03-11",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Dhamra Haldia Pipeline (DHPL) of GAIL (India) Limited.",
-      "gazette_id": "CG-DL-E-12032024-252863",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252863.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252863/252863.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-11.252863",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-11/252863.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252863/252863_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-11.252862",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-11",
-      "ugid": "252862",
-      "title": "Extraordinary Gazette of India, 2024-03-11",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Declaration of Competent Authority under Section 2 (a) of the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for M/s GAIL (India) Limited in the State of Andhra Pradesh.",
-      "gazette_id": "CG-DL-E-12032024-252862",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252862.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252862/252862.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-11.252862",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-11/252862.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252862/252862_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-11.252860",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-11",
-      "ugid": "252860",
-      "title": "Extraordinary Gazette of India, 2024-03-11",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Gas Projects (GP) Division",
-      "office": "",
-      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
-      "gazette_id": "CG-DL-E-12032024-252860",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252860.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252860/252860.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-11.252860",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-11/252860.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252860/252860_djvu.txt"
     }
   ],
   "count": 2500,

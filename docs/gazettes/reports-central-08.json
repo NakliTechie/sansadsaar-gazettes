@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-11.252863",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-11",
+      "ugid": "252863",
+      "title": "Extraordinary Gazette of India, 2024-03-11",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Dhamra Haldia Pipeline (DHPL) of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-12032024-252863",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252863.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252863/252863.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-11.252863",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-11/252863.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252863/252863_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-11.252862",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-11",
+      "ugid": "252862",
+      "title": "Extraordinary Gazette of India, 2024-03-11",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Declaration of Competent Authority under Section 2 (a) of the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for M/s GAIL (India) Limited in the State of Andhra Pradesh.",
+      "gazette_id": "CG-DL-E-12032024-252862",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252862.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252862/252862.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-11.252862",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-11/252862.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252862/252862_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-11.252860",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-11",
+      "ugid": "252860",
+      "title": "Extraordinary Gazette of India, 2024-03-11",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-12032024-252860",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252860.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252860/252860.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-11.252860",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-11/252860.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252860/252860_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-11.252859",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58984,78 +59056,6 @@
       "mirror_path": "pdf/central/e/2023-11-21/250203.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250203/250203_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-21.250202",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-21",
-      "ugid": "250202",
-      "title": "Extraordinary Gazette of India, 2023-11-21",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "REFINERY DIVISION",
-      "office": "",
-      "subject": "Publication of notification in the Extraordinary Gazette of India under Section 6(1) of the PMP Act 1962 relating to land schedule in respect of Krishnapatnam Hyderabad Petroleum and Petroleum Product Pipeline Project  to be laid by Bharat Petroleum Corporation Limited (BPCL) for acquisition of ROU in the State of Andhra Pradesh",
-      "gazette_id": "CG-DL-E-22112023-250202",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250202.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250202/250202.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-21.250202",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-21/250202.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250202/250202_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-21.250201",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-21",
-      "ugid": "250201",
-      "title": "Extraordinary Gazette of India, 2023-11-21",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Environmental Impact Assessment (EIA) Division",
-      "office": "",
-      "subject": "Notification with regard to delegating powers under section 10 of the Environment Protection Act,1986",
-      "gazette_id": "CG-DL-E-22112023-250201",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250201.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250201/250201.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-21.250201",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-21/250201.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250201/250201_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-21.250197",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-21",
-      "ugid": "250197",
-      "title": "Extraordinary Gazette of India, 2023-11-21",
-      "ministry": "Ministry of Home Affairs",
-      "department": "Police-II Division",
-      "office": "Indo Tibetan Border Police Force",
-      "subject": "Indo Tibetan Border Police Force, Water Wing  (Group C Technical Posts) Recruitment Rules, 2023",
-      "gazette_id": "CG-DL-E-22112023-250197",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250197.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250197/250197.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-21.250197",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-21/250197.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-21.250197/250197_djvu.txt"
     }
   ],
   "count": 2500,

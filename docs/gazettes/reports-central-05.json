@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-10.261531",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-10",
+      "ugid": "261531",
+      "title": "Extraordinary Gazette of India, 2025-03-10",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Ports Wing",
+      "office": "",
+      "subject": "Representative of State Government on the Board of VPA",
+      "gazette_id": "CG-DL-E-10032025-261531",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261531.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261531/261531.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-10.261531",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-10/261531.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261531/261531_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-10.261530",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-10",
+      "ugid": "261530",
+      "title": "Extraordinary Gazette of India, 2025-03-10",
+      "ministry": "Ministry of Mines",
+      "department": "Geological Survey of India",
+      "office": "",
+      "subject": "Notification of reappointment to the post of DG GSI",
+      "gazette_id": "CG-WB-E-11032025-261530",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261530.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261530/261530.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-10.261530",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-10/261530.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261530/261530_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-10.261529",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-10",
+      "ugid": "261529",
+      "title": "Extraordinary Gazette of India, 2025-03-10",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Appointment of Appellate Officers in the State of Meghalaya",
+      "gazette_id": "CG-DL-E-10032025-261529",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261529.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261529/261529.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-10.261529",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-10/261529.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-10.261529/261529_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2025-03-08.261528",
       "category": "weekly",
       "type_letter": "w",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-22/258834.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258834/258834_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-22.258833",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-22",
-      "ugid": "258833",
-      "title": "Extraordinary Gazette of India, 2024-11-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-22112024-258833",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258833.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258833/258833.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-22.258833",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-22/258833.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258833/258833_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-22.258823",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-22",
-      "ugid": "258823",
-      "title": "Extraordinary Gazette of India, 2024-11-22",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Appointment of Assistant Returning officers for Counting of Votes in bye election from 4 Wayanad PC of Kerala",
-      "gazette_id": "CG-DL-E-22112024-258823",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258823.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258823/258823.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-22.258823",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-22/258823.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258823/258823_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-21.258943",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-21",
-      "ugid": "258943",
-      "title": "Extraordinary Gazette of India, 2024-11-21",
-      "ministry": "Ministry of Defence",
-      "department": "Department of Defence",
-      "office": "D(Coord)",
-      "subject": "Shillong,.",
-      "gazette_id": "CG-DL-E-27112024-258943",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258943.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258943/258943.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-21.258943",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-21/258943.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-21.258943/258943_djvu.txt"
     }
   ],
   "count": 2500,

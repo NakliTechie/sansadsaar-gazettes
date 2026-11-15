@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-11-28.268169",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-28",
+      "ugid": "268169",
+      "title": "Extrordinary Gazette of India, 2025-11-28",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 7A of Railways Act, 1989 Acquisition of land for Construction of Rangapuram TSS in Guntakal Nandyal section",
+      "gazette_id": "CG-TL-E-03122025-268169",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268169.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268169/268169.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-28.268169",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-28/268169.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268169/268169_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-11-28.268168",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-28",
+      "ugid": "268168",
+      "title": "Extrordinary Gazette of India, 2025-11-28",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of Gazette Notification for East Coast Railway New Railway Project",
+      "gazette_id": "CG-OR-E-03122025-268168",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268168.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268168/268168.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-28.268168",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-28/268168.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268168/268168_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-11-28.268155",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-11-28",
+      "ugid": "268155",
+      "title": "Extrordinary Gazette of India, 2025-11-28",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 20A of Railways Act, 1989 Acquisition of land forRail Over Rail Double Line Flyover at Gooty in the State of Andhra Pradesh in Ananthapuram District",
+      "gazette_id": "CG-TL-E-02122025-268155",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268155.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268155/268155.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-11-28.268155",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-11-28/268155.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-11-28.268155/268155_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-11-28.268152",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-07/264447.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264447/264447_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264446",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264446",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of user fee notification",
-      "gazette_id": "CG-DL-E-08072025-264446",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264446.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264446/264446.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264446",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264446.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264446/264446_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264445",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264445",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "37A of Railway Act1989 Proposed ROB AT lc no 40 between Peddapalli and Raghavapuram Stations",
-      "gazette_id": "CG-TL-E-08072025-264445",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264445.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264445/264445.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264445",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264445.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264445/264445_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264444",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264444",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "37A of Railway Act 1989 proposed ROB IN LIEU OF lc 46 between Raghavapuram and Ramagundam Stations",
-      "gazette_id": "CG-TL-E-08072025-264444",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264444.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264444/264444.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264444",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264444.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264444/264444_djvu.txt"
     }
   ],
   "count": 2500,
