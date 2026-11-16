@@ -1,0 +1,151 @@
+रजिस्ट्री सं. डी.एल.- 33004/99 REGD. No. 0. L.-33004/99 
+
+
+HAiitd = राज्जपन्र 
+Che Gazette of India 
+
+
+सी.जी.-जी.जे.-अ.-03112026-277626 
+CG-GJ-E-03112026-277626 
+
+
+असाधारण 
+EXTRAORDINARY 
+भाग ---खण्ड 4 
+PART I1I—Section 4 
+
+
+प्राधिकार से प्रकाशित 
+PUBLISHED BY AUTHORITY 
+सं. 639] नई दिल्ली, बृहस्पतिवार, अक्तूबर 29, 2026/कार्तिक 7, 1948 
+No. 639] NEW DELHI, THURSDAY, OCTOBER 29, 2026/KARTIKA 7, 1948 
+
+
+अंतरराष्ट्रीय वित्तीय सेवा केंद्र प्राधिकरण 
+अधिसूचना 
+गांधीनगर, 22 अक्तूबर, 2026 
+सं. आईएफएससीए/जीएन/2026/017.-- केंद्र सरकार ने 14 दिसंबर, 2021 की अधिसूचना एस.ओ. 5199 
+(ड) के तहत, अंतरराष्ट्रीय वित्तीय सेवा केंद्र प्राधिकरण द्वारा निर्दिष्ट उत्पादों या उपकरणों के 'परिचालन Te" 
+
+
+(जिसमें परिचालन और वित्तीय पट्टे का कोई भी वर्ण-संकर रूप शामिल है) को 'वित्तीय उत्पाद' के रूप में 
+अधिसूचित किया; 
+
+
+अंतरराष्ट्रीय वित्तीय सेवा केंद्र प्राधिकरण, उक्त अधिसूचना और 'अंतरराष्ट्रीय वित्तीय सेवा केंद्र प्राधिकरण 
+अधिनियम, 2019' (2019 का 50) की धारा ॥2 द्वारा प्रदत्त शक्तियों का प्रयोग करते हुए, एतद्वारा "ग्राफिक्स 
+प्रसंस्करण इकाइयां" और "परस्पर संयोजित डेटा सेंटर उपकरणों" को उक्त अधिसूचना के उद्देश्यों के लिए 
+'उपकरण' के रूप में निर्दिष्ट करता SI 
+
+
+स्पष्टीकरण - इस अधिसूचना के प्रयोजनार्थ, - 
+(0)  "ग्राफिक्स प्रसंस्करण इकाइयों" का तात्पर्य -- 
+
+
+(क) ऐसी ग्राफिक्स प्रसंस्करण इकाइयों से है, चाहे इनमें एक ही ढांचे में निम्नलिखित प्रकार की इकाइयों 
+अर्थात भंडारण इकाइयों, इनपुट इकाइयों या आउटपुट इकाइयों में से एक या दो शामिल हों अथवा नहीं। 
+
+
+8257 GI/2026 (1) 
+
+
+2 THE GAZETTE OF INDIA : EXTRAORDINARY [PART III—SEc.4] 
+
+
+इसमें विभिन्न प्रकार की भंडारण इकाइयाँ और उनसे जुड़े पुर्जेव सहायक उपस्कर शामिल हैं। साथ ही, 
+इसमें सामान्य प्रयोजन की ग्राफिक्स प्रसंस्करण इकाइयां, कृत्रिम बुद्धिमता गतिवर्धक, टेंसर या तंत्रिका 
+प्रसंस्करण इकाई, त्वरित संगणक उपकरण और इसी तरह की अन्य संगणन या गतिवर्धक तकनीक 
+शामिल हैं; और 
+
+
+(ख) रैक-स्तरीय कृत्रिम बुद्धिमता प्रणालियों से है, चाहे उनकी किसी एकीकृत प्रणाली के रूप में आपूर्ति 
+या इनवॉइस की गई हो या नहीं। इसमें एक ही रैक के भीतर एकीकृत संगण ट्रे, स्विच ट्रे सीपीयू और 
+इनपुट या आउटपुट इकाइयाँ, जिन्हें प्रणाली के रूप में प्रस्तुत किया जाता है, शामिल हैं; 
+
+
+(i) "परस्पर संयोजित डेटा सेंटर उपकरण" का तात्पर्य - 
+
+
+(क) प्रोसेसर और कंट्रोलर सहित इलेक्ट्रॉनिक इंटीग्रेटेड सर्किट से है, चाहे वे मेमोरी, कन्वर्टर, लॉजिक 
+सर्किट, एम्पलीफायर, rath और टाइमिंग सर्किट या अन्य सर्किट के साथ संयोजित हों अथवा नहीं; 
+
+
+(ख) सर्वर विद्युत आपूर्ति इकाइयों सहित सर्वर, स्टोरेज, नेटवर्किंग, इंटरकनेक्ट और पावर उपकरण तथा 
+डेटा सेंटर में उपकरणों को लगाने या उनके संचालन के लिए आवश्यक कतिपय अन्य उपकरणों से है; और 
+
+
+(ग) उपर्युक्त के पुर्जों और सहायक STEHT से है, लेकिन इनमें समग्र डेटा सेंटर की फेसिलिटी के काम 
+आने वाले उपकरण शामिल नहीं हैं; 
+
+
+ये विशेष रूप से ग्राफिक्स प्रसंस्करण इकाइयों के लिए हैं और सीधे तौर पर उनसे जुड़े हुए हैं। 
+2. यह अधिसूचना शासकीय राजपत्र में प्रकाशित होने की तारीख से प्रभावी होगी। 
+
+
+डॉ. प्रवीण त्रिवेदी, कार्यकारी निदेशक 
+
+
+[वविज्ञापन-॥॥/4/असा./408/2026-27] 
+
+
+INTERNATIONAL FINANCIAL SERVICES CENTRES AUTHORITY 
+NOTIFICATION 
+Gandhinagar, the 22nd October, 2026 
+
+
+No. IFSCA/GN/2026/ 017.— The Central Government vide notification S.O. 5199 (E) dated 14 December, 
+2021, notified operating lease including any hybrid of operating and financial lease of such product or equipment as 
+may be specified by International Financial Services Centres Authority, as financial product; 
+
+
+In exercise of the powers conferred by the said notification read with section 12 of the International Financial 
+Services Centres Authority Act, 2019 (50 of 2019), the International Financial Services Centres Authority hereby 
+specifies “Graphics Processing Units” and “connected data centre equipment” as equipment for the purposes of 
+the said notification. 
+
+
+Explanation. - For the purposes of this notification, - 
+(i) "Graphics Processing Units " means— 
+
+
+(a) graphics processing units, whether or not containing, in the same housing, one or two of the following types of 
+units: storage units, input units or output units, including various types of storage units and allied parts and 
+accessories, and includes general-purpose graphics processing units, artificial intelligence accelerators, tensor or 
+neural processing units, accelerated computing equipment and comparable computing or acceleration technologies; 
+and 
+
+
+[भाग पा--खण्ड 4] भारत का राजपत्र : असाधारण 3 
+
+
+(0) rack-scale artificial intelligence systems, whether or not supplied or invoiced as one integrated system or 
+otherwise, including compute trays, switch trays, CPU and input or output units integrated within a single rack, and 
+presented in the form of systems; 
+
+
+(1) “connected data centre equipment” means- 
+
+
+(a) electronic integrated circuits comprising processors and controllers, whether or not combined with memories, 
+converters, logic circuits, amplifiers, clock and timing circuits or other circuits; 
+
+
+(b) servers, storage, networking, interconnect and power equipment including server power supply units and any other 
+equipment required for the deployment or operation of the equipment in a data centre; and 
+
+
+(c) parts and accessories of above, but does not include equipment serving the data centre facility as a whole; 
+in so far as the above equipment are dedicated to and directly associated with Graphics Processing Units. 
+
+
+2. This notification shall come into force on the date of publication in the Official Gazette. 
+
+
+Dr. PRAVEEN TRIVEDI, Executive Director 
+[ADVT.-II/4/Exty./408/2026-27] 
+
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054. _ कक हा: 
+
+
