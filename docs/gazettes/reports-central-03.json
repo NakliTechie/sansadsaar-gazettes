@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-12-01.268125",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-01",
+      "ugid": "268125",
+      "title": "Extrordinary Gazette of India, 2025-12-01",
+      "ministry": "Ministry of Chemicals and Fertilizers",
+      "department": "Department of Chemicals and Petro Chemicals",
+      "office": "",
+      "subject": "Rescind the notifications of p Xylene, Toluene, Methyl Acrylate, Ethyl Acrylate, Vinyl Acetate Monomer, Ethylene Dichloride and Vinyl Chloride Monomer Quality Control Orders.",
+      "gazette_id": "CG-DL-E-01122025-268125",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268125.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-01.268125/268125.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-01.268125",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-01/268125.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-01.268125/268125_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-12-01.268124",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-01",
+      "ugid": "268124",
+      "title": "Extrordinary Gazette of India, 2025-12-01",
+      "ministry": "Ministry of Corporate Affairs",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Companies Specification of definition details Amendment Rules 2025",
+      "gazette_id": "CG-DL-E-01122025-268124",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268124.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-01.268124/268124.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-01.268124",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-01/268124.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-01.268124/268124_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-12-01.268123",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-07/264485.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264485/264485_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264476",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264476",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Amendments",
-      "gazette_id": "CG-DL-E-08072025-264476",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264476.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264476/264476.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264476",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264476.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264476/264476_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-07.264475",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-07",
-      "ugid": "264475",
-      "title": "Extraordinary Gazette of India, 2025-07-07",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
-      "gazette_id": "CG-DL-E-08072025-264475",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264475.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264475/264475.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-07.264475",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-07/264475.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264475/264475_djvu.txt"
     }
   ],
   "count": 2500,

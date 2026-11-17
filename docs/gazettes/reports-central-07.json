@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-08-01.255980",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-01",
+      "ugid": "255980",
+      "title": "Extraordinary Gazette of India, 2024-08-01",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Control of Pollution Division",
+      "office": "",
+      "subject": "Notification to declare the 20 inhabited islands of UT of Andaman and Nocobar as Air Pollution Control Area.",
+      "gazette_id": "CG-DL-E-01082024-255980",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255980.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-01.255980/255980.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-01.255980",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-01/255980.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-01.255980/255980_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-08-01.255979",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-01",
+      "ugid": "255979",
+      "title": "Extraordinary Gazette of India, 2024-08-01",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Department of Commerce",
+      "office": "EPZ Section",
+      "subject": "Notification of amendment nomination of member to SEEPZ SEZ Authority",
+      "gazette_id": "CG-DL-E-01082024-255979",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/255979.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-01.255979/255979.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-01.255979",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-01/255979.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-01.255979/255979_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-08-01.255978",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-03-11/252896.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252896/252896_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-11.252895",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-11",
-      "ugid": "252895",
-      "title": "Extraordinary Gazette of India, 2024-03-11",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-12032024-252895",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252895.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252895/252895.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-11.252895",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-11/252895.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252895/252895_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-11.252892",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-11",
-      "ugid": "252892",
-      "title": "Extraordinary Gazette of India, 2024-03-11",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-12032024-252892",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252892.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252892/252892.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-11.252892",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-11/252892.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252892/252892_djvu.txt"
     }
   ],
   "count": 2500,

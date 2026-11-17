@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2023-07-22.247524",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-07-22",
+      "ugid": "247524",
+      "title": "Weekly Gazette of India, 2023-07-22",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-22072023-247524",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247524.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-07-22.247524/247524.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-07-22.247524",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-07-22/247524.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2023-07-22.247523",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2023-07-22",
+      "ugid": "247523",
+      "title": "Weekly Gazette of India, 2023-07-22",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-22072023-247523",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247523.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-07-22.247523/247523.pdf",
+      "ia_identifier": "in.gazette.central.w.2023-07-22.247523",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/w/2023-07-22/247523.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.w.2023-07-22.247522",
       "category": "weekly",
       "type_letter": "w",
@@ -57446,52 +57492,6 @@
       "ia_identifier": "in.gazette.central.e.2023-03-24.244691",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-03-24/244691.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-24.244690",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-24",
-      "ugid": "244690",
-      "title": "Extraordinary Gazette of India, 2023-03-24",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Member repesentative of State Government of West Bengal on the board of Syama Prasad Mookerjee Port Authority",
-      "gazette_id": "CG-DL-E-25032023-244690",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244690.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-24.244690/244690.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-24.244690",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-24/244690.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-24.244689",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-24",
-      "ugid": "244689",
-      "title": "Extraordinary Gazette of India, 2023-03-24",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Members representing the interests of the employees of Paradip Port Authority",
-      "gazette_id": "CG-DL-E-25032023-244689",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244689.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-24.244689/244689.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-24.244689",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-24/244689.pdf",
       "topics": []
     }
   ],

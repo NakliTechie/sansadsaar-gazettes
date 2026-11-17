@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-06-16.273732",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-16",
+      "ugid": "273732",
+      "title": "Extrordinary Gazette of India, 2026-06-16",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Organization / Central Railway",
+      "office": "Office of Chief Administrative Officer / Construction",
+      "subject": "Publication of E gazette Notification for declare intention to acquire land under Section 20(A) for land acquisition of 10 Villages Mohane, Atali, Ambivali, Balyani, Mohili, Revati, Navgaon, Kolimb, Kelani and Mamnoli in Kalyan Taluka in connection with Kalyan (Ambivali) Murbad New Railway Line (28.00 Km).",
+      "gazette_id": "CG-MH-E-23062026-273732",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273732.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273732/273732.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-16.273732",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-16/273732.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-16.273689",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-16",
+      "ugid": "273689",
+      "title": "Extrordinary Gazette of India, 2026-06-16",
+      "ministry": "Ministry of Mines",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Recruitment Rules for the post of Assistant Geophysicist in GSI.",
+      "gazette_id": "CG-DL-E-22062026-273689",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273689.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273689/273689.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-16.273689",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-16/273689.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-16.273679",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59286,54 +59332,6 @@
       "mirror_path": "pdf/central/e/2026-03-10/270837.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270837/270837_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-10.270835",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-10",
-      "ugid": "270835",
-      "title": "Extrordinary Gazette of India, 2026-03-10",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Request for Publication of Gazette Notification for Competent Authority for Land Acquisition for East Coast Railway s Special Railway Project",
-      "gazette_id": "CG-OR-E-11032026-270835",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270835.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270835/270835.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-10.270835",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-10/270835.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270835/270835_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-10.270832",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-10",
-      "ugid": "270832",
-      "title": "Extrordinary Gazette of India, 2026-03-10",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification regarding enforcement of Merchant Shipping Act 2025",
-      "gazette_id": "CG-DL-E-11032026-270832",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270832.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270832/270832.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-10.270832",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-10/270832.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270832/270832_djvu.txt"
     }
   ],
   "count": 2500,

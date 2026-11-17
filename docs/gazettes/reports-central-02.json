@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-10.270835",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-10",
+      "ugid": "270835",
+      "title": "Extrordinary Gazette of India, 2026-03-10",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Request for Publication of Gazette Notification for Competent Authority for Land Acquisition for East Coast Railway s Special Railway Project",
+      "gazette_id": "CG-OR-E-11032026-270835",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270835.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270835/270835.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-10.270835",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-10/270835.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270835/270835_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-10.270832",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-10",
+      "ugid": "270832",
+      "title": "Extrordinary Gazette of India, 2026-03-10",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Notification regarding enforcement of Merchant Shipping Act 2025",
+      "gazette_id": "CG-DL-E-11032026-270832",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270832.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270832/270832.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-10.270832",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-10/270832.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-10.270832/270832_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-10.270831",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-12-01/268126.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-01.268126/268126_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-01.268125",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-01",
-      "ugid": "268125",
-      "title": "Extrordinary Gazette of India, 2025-12-01",
-      "ministry": "Ministry of Chemicals and Fertilizers",
-      "department": "Department of Chemicals and Petro Chemicals",
-      "office": "",
-      "subject": "Rescind the notifications of p Xylene, Toluene, Methyl Acrylate, Ethyl Acrylate, Vinyl Acetate Monomer, Ethylene Dichloride and Vinyl Chloride Monomer Quality Control Orders.",
-      "gazette_id": "CG-DL-E-01122025-268125",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268125.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-01.268125/268125.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-01.268125",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-01/268125.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-01.268125/268125_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-01.268124",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-01",
-      "ugid": "268124",
-      "title": "Extrordinary Gazette of India, 2025-12-01",
-      "ministry": "Ministry of Corporate Affairs",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Companies Specification of definition details Amendment Rules 2025",
-      "gazette_id": "CG-DL-E-01122025-268124",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268124.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-01.268124/268124.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-01.268124",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-01/268124.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-01.268124/268124_djvu.txt"
     }
   ],
   "count": 2500,

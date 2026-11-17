@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-11.261552",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-11",
+      "ugid": "261552",
+      "title": "Extraordinary Gazette of India, 2025-03-11",
+      "ministry": "Ministry of Railways",
+      "department": "Engineering",
+      "office": "Metro Railway, Kolkata",
+      "subject": "Publication of Notification for withdrawal of Land from acquisition vide Gazette of India Notification No. 413 dated: 01.02.2018.",
+      "gazette_id": "CG-WB-E-11032025-261552",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261552.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-11.261552/261552.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-11.261552",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-11/261552.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-11.261552/261552_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-11.261551",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-11",
+      "ugid": "261551",
+      "title": "Extraordinary Gazette of India, 2025-03-11",
+      "ministry": "Ministry of Health and Family Welfare",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Nomination of Member of the Institute Body of AIIMS Gorakhpur",
+      "gazette_id": "CG-DL-E-11032025-261551",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261551.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-11.261551/261551.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-11.261551",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-11/261551.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-11.261551/261551_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-03-11.261550",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-22/258859.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258859/258859_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-22.258858",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-22",
-      "ugid": "258858",
-      "title": "Extraordinary Gazette of India, 2024-11-22",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
-      "gazette_id": "CG-DL-E-23112024-258858",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258858.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258858/258858.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-22.258858",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-22/258858.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258858/258858_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-22.258857",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-22",
-      "ugid": "258857",
-      "title": "Extraordinary Gazette of India, 2024-11-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-23112024-258857",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258857.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258857/258857.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-22.258857",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-22/258857.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-22.258857/258857_djvu.txt"
     }
   ],
   "count": 2500,

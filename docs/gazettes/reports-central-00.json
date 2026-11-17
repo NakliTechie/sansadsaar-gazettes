@@ -3129,6 +3129,52 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.w.2026-10-31.277933",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-31",
+      "ugid": "277933",
+      "title": "Weekly Gazette of India, 2026-10-31",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-16112026-277933",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277933.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-31.277933/277933.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-31.277933",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-31/277933.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.w.2026-10-31.277932",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-10-31",
+      "ugid": "277932",
+      "title": "Weekly Gazette of India, 2026-10-31",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-16112026-277932",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/277932.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-10-31.277932/277932.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-10-31.277932",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-10-31/277932.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-10-31.277690",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58998,52 +59044,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-16.273734",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-16/273734.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-16.273732",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-16",
-      "ugid": "273732",
-      "title": "Extrordinary Gazette of India, 2026-06-16",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Organization / Central Railway",
-      "office": "Office of Chief Administrative Officer / Construction",
-      "subject": "Publication of E gazette Notification for declare intention to acquire land under Section 20(A) for land acquisition of 10 Villages Mohane, Atali, Ambivali, Balyani, Mohili, Revati, Navgaon, Kolimb, Kelani and Mamnoli in Kalyan Taluka in connection with Kalyan (Ambivali) Murbad New Railway Line (28.00 Km).",
-      "gazette_id": "CG-MH-E-23062026-273732",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273732.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273732/273732.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-16.273732",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-16/273732.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-16.273689",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-16",
-      "ugid": "273689",
-      "title": "Extrordinary Gazette of India, 2026-06-16",
-      "ministry": "Ministry of Mines",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Recruitment Rules for the post of Assistant Geophysicist in GSI.",
-      "gazette_id": "CG-DL-E-22062026-273689",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273689.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-16.273689/273689.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-16.273689",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-16/273689.pdf",
       "topics": []
     }
   ],

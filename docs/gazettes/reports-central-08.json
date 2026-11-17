@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-11.252895",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-11",
+      "ugid": "252895",
+      "title": "Extraordinary Gazette of India, 2024-03-11",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-12032024-252895",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252895.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252895/252895.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-11.252895",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-11/252895.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252895/252895_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-11.252892",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-11",
+      "ugid": "252892",
+      "title": "Extraordinary Gazette of India, 2024-03-11",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-12032024-252892",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252892.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252892/252892.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-11.252892",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-11/252892.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-11.252892/252892_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-11.252891",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59008,54 +59056,6 @@
       "mirror_path": "pdf/central/e/2023-11-22/250223.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-22.250223/250223_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-22.250222",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-22",
-      "ugid": "250222",
-      "title": "Extraordinary Gazette of India, 2023-11-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-25112023-250222",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250222.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-22.250222/250222.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-22.250222",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-22/250222.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-22.250222/250222_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-22.250221",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-22",
-      "ugid": "250221",
-      "title": "Extraordinary Gazette of India, 2023-11-22",
-      "ministry": "Ministry of Labour and Employment",
-      "department": "Social Security I",
-      "office": "",
-      "subject": "Constitution of Standing Committee of ESIC",
-      "gazette_id": "CG-DL-E-23112023-250221",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250221.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-22.250221/250221.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-22.250221",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-22/250221.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-22.250221/250221_djvu.txt"
     }
   ],
   "count": 2500,

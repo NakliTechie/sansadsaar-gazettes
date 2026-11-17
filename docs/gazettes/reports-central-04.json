@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-07-07.264476",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-07",
+      "ugid": "264476",
+      "title": "Extraordinary Gazette of India, 2025-07-07",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Amendments",
+      "gazette_id": "CG-DL-E-08072025-264476",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264476.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264476/264476.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-07.264476",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-07/264476.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264476/264476_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-07.264475",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-07",
+      "ugid": "264475",
+      "title": "Extraordinary Gazette of India, 2025-07-07",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
+      "gazette_id": "CG-DL-E-08072025-264475",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264475.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264475/264475.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-07.264475",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-07/264475.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-07.264475/264475_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-07-07.264467",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-03-11/261553.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-11.261553/261553_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-11.261552",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-11",
-      "ugid": "261552",
-      "title": "Extraordinary Gazette of India, 2025-03-11",
-      "ministry": "Ministry of Railways",
-      "department": "Engineering",
-      "office": "Metro Railway, Kolkata",
-      "subject": "Publication of Notification for withdrawal of Land from acquisition vide Gazette of India Notification No. 413 dated: 01.02.2018.",
-      "gazette_id": "CG-WB-E-11032025-261552",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261552.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-11.261552/261552.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-11.261552",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-11/261552.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-11.261552/261552_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-11.261551",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-11",
-      "ugid": "261551",
-      "title": "Extraordinary Gazette of India, 2025-03-11",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Nomination of Member of the Institute Body of AIIMS Gorakhpur",
-      "gazette_id": "CG-DL-E-11032025-261551",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261551.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-11.261551/261551.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-11.261551",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-11/261551.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-11.261551/261551_djvu.txt"
     }
   ],
   "count": 2500,

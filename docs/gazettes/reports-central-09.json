@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-22.250222",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-22",
+      "ugid": "250222",
+      "title": "Extraordinary Gazette of India, 2023-11-22",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-25112023-250222",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250222.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-22.250222/250222.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-22.250222",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-22/250222.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-22.250222/250222_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-22.250221",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-22",
+      "ugid": "250221",
+      "title": "Extraordinary Gazette of India, 2023-11-22",
+      "ministry": "Ministry of Labour and Employment",
+      "department": "Social Security I",
+      "office": "",
+      "subject": "Constitution of Standing Committee of ESIC",
+      "gazette_id": "CG-DL-E-23112023-250221",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250221.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-22.250221/250221.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-22.250221",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-22/250221.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-22.250221/250221_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-22.250219",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58282,52 +58330,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-22.247543",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-22/247543.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-07-22.247524",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-07-22",
-      "ugid": "247524",
-      "title": "Weekly Gazette of India, 2023-07-22",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-22072023-247524",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247524.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-07-22.247524/247524.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-07-22.247524",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-07-22/247524.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.w.2023-07-22.247523",
-      "category": "weekly",
-      "type_letter": "w",
-      "issue_date": "2023-07-22",
-      "ugid": "247523",
-      "title": "Weekly Gazette of India, 2023-07-22",
-      "ministry": "This Gazette may contains Multiple Ministry / Organization",
-      "department": "This Gazette may contains Multiple Departments",
-      "office": "This Gazette may contains Multiple Offices",
-      "subject": "This Gazette may contains Multiple Subjects",
-      "gazette_id": "CG-DL-W-22072023-247523",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247523.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.w.2023-07-22.247523/247523.pdf",
-      "ia_identifier": "in.gazette.central.w.2023-07-22.247523",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/w/2023-07-22/247523.pdf",
       "topics": []
     }
   ],
