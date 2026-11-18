@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 31527,
+    "records_with_text": 31540,
     "shards": 445,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 725004,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31527,
-    "txt_files_removed": 0
+    "txt_files_removed": 13
   },
   "shards": [
     {
@@ -1670,8 +1670,8 @@
     },
     {
       "file": "texts-331.json",
-      "count": 32,
-      "bytes": 1640570
+      "count": 44,
+      "bytes": 1862028
     },
     {
       "file": "texts-332.json",
@@ -2235,8 +2235,8 @@
     },
     {
       "file": "texts-444.json",
-      "count": 6,
-      "bytes": 3284813
+      "count": 7,
+      "bytes": 3807044
     }
   ],
   "record_to_shard": {
@@ -32183,6 +32183,18 @@
     "central|central_e_20261105_277714": 331,
     "central|central_e_20261105_277715": 331,
     "central|central_e_20261105_277717": 331,
+    "central|central_e_20261105_277721": 331,
+    "central|central_e_20261105_277722": 331,
+    "central|central_e_20261105_277775": 331,
+    "central|central_e_20261105_277777": 331,
+    "central|central_e_20261105_277778": 331,
+    "central|central_e_20261105_277779": 331,
+    "central|central_e_20261105_277780": 331,
+    "central|central_e_20261105_277781": 331,
+    "central|central_e_20261106_277788": 331,
+    "central|central_e_20261106_277793": 331,
+    "central|central_e_20261106_277796": 331,
+    "central|central_e_20261106_277797": 331,
     "central|central_w_20221001_239261": 331,
     "central|central_w_20221001_239262": 331,
     "central|central_w_20221001_239264": 331,
@@ -33764,6 +33776,7 @@
     "central|central_w_20261031_277560": 444,
     "central|central_w_20261031_277635": 444,
     "central|central_w_20261107_277771": 444,
+    "central|central_w_20261107_277772": 444,
     "central|central_w_20261107_277773": 444,
     "central|central_w_20261107_277774": 444,
     "central|central_w_20261107_277776": 444
