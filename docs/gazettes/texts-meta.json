@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 31566,
+    "records_with_text": 31569,
     "shards": 445,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 65921,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31566,
-    "txt_files_removed": 0
+    "txt_files_removed": 3
   },
   "shards": [
     {
@@ -1670,8 +1670,8 @@
     },
     {
       "file": "texts-331.json",
-      "count": 70,
-      "bytes": 2331029
+      "count": 73,
+      "bytes": 2399077
     },
     {
       "file": "texts-332.json",
@@ -32170,6 +32170,8 @@
     "central|central_e_20261103_277693": 331,
     "central|central_e_20261103_277699": 331,
     "central|central_e_20261103_277707": 331,
+    "central|central_e_20261103_277831": 331,
+    "central|central_e_20261103_277841": 331,
     "central|central_e_20261104_277695": 331,
     "central|central_e_20261104_277708": 331,
     "central|central_e_20261104_277710": 331,
@@ -32194,6 +32196,7 @@
     "central|central_e_20261105_277781": 331,
     "central|central_e_20261105_277811": 331,
     "central|central_e_20261105_277812": 331,
+    "central|central_e_20261105_277828": 331,
     "central|central_e_20261106_277788": 331,
     "central|central_e_20261106_277793": 331,
     "central|central_e_20261106_277796": 331,
