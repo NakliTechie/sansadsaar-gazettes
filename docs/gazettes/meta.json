@@ -1,9 +1,9 @@
 {
   "phase": "derive",
-  "generated_at": "2026-11-20T21:35:06Z",
-  "elapsed_s": 117.1,
+  "generated_at": "2026-11-20T22:10:37Z",
+  "elapsed_s": 143.6,
   "totals": {
-    "central": 31661
+    "central": 31664
   },
   "search_bundle": {
     "shard_count": 13,
@@ -182,9 +182,9 @@
     "max_shard_bytes": 21800427
   },
   "audit": {
-    "central_records": 31661,
+    "central_records": 31664,
     "djvu_ok": 31569,
-    "djvu_pending": 92,
+    "djvu_pending": 95,
     "no_text": 0,
     "topics_assigned": 0
   },
