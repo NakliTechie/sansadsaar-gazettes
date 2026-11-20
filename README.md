@@ -1,17 +1,17 @@
 # sansadsaar-gazettes
 
-Index data for the **Central Gazette of India** corpus on [SansadSaar](https://github.com/NakliTechie/SansadSaar).
+Index data for the **Central Gazette of India** corpus on [SansadSaar](https://github.com/indiavotes/SansadSaar).
 
 Metadata + bilingual (English + Hindi) extracted text + search artifacts for ~170K Central Gazette items (Weekly + Extraordinary, 1947→present). The PDFs themselves live at archive.org and the app links there directly.
 
-Served at `sansadsaar-gazettes.naklitechie.com`.
+Served at `gazettes.indiavotes.com`.
 
 ## Family
 
-- [SansadSaar](https://github.com/NakliTechie/SansadSaar) — the app
-- [parliamentwatch-data](https://github.com/NakliTechie/parliamentwatch-data) — DRSC, CAG, Bills, LC, FC
-- [sansadsaar-proceedings-data](https://github.com/NakliTechie/sansadsaar-proceedings-data) — Debates, Questions
-- [sansadsaar-lc](https://github.com/NakliTechie/sansadsaar-lc) — Law Commission PDF archive
+- [SansadSaar](https://github.com/indiavotes/SansadSaar) — the app
+- [parliamentwatch-data](https://github.com/indiavotes/parliamentwatch-data) — DRSC, CAG, Bills, LC, FC
+- [sansadsaar-proceedings-data](https://github.com/indiavotes/sansadsaar-proceedings-data) — Debates, Questions
+- [sansadsaar-lc](https://github.com/indiavotes/sansadsaar-lc) — Law Commission PDF archive
 
 ## Credits
 

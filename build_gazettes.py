@@ -22,7 +22,7 @@ PDF mirror push to the per-date sharded mirror repos is a follow-up
 later activation.
 
 Output goes under docs/gazettes/, served at
-gazettes.sansadsaar-data.naklitechie.com/ (planned).
+gazettes.indiavotes.com/.
 
 Independence Principle: no imports from cag, lc, fc, drsc, bills,
 debates, or questions scrapers. The HTTP layer + RateLimited +

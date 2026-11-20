@@ -54,7 +54,7 @@ def http_get(url: str, *, headers: Optional[dict] = None, params: Optional[dict]
     rate-limit signals.
     """
     headers = dict(headers or {})
-    headers.setdefault("User-Agent", "sansadsaar-gazettes/1.0 (+https://sansadsaar.naklitechie.com)")
+    headers.setdefault("User-Agent", "sansadsaar-gazettes/1.0 (+https://sansadsaar.indiavotes.com)")
     last_exc: Optional[Exception] = None
     for attempt in range(retries + 1):
         try:

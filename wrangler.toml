@@ -12,6 +12,7 @@
 
 name = "sansadsaar-gazettes"
 main = "src/index.js"
+routes = [{ pattern = "gazettes.indiavotes.com", custom_domain = true }]
 compatibility_date = "2026-05-14"
 
 [assets]
