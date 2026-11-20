@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-28.250292",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-28",
+      "ugid": "250292",
+      "title": "Extraordinary Gazette of India, 2023-11-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "P and M File",
+      "gazette_id": "CG-DL-E-28112023-250292",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250292.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250292/250292.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-28.250292",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-28/250292.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250292/250292_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-28.250291",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-28",
+      "ugid": "250291",
+      "title": "Extraordinary Gazette of India, 2023-11-28",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Exploration Division",
+      "office": "",
+      "subject": "Andhra Pradesh",
+      "gazette_id": "CG-DL-E-28112023-250291",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250291.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250291/250291.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-28.250291",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-28/250291.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250291/250291_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-28.250290",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58351,52 +58399,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-26.247633",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-26/247633.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-26.247632",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-26",
-      "ugid": "247632",
-      "title": "Extraordinary Gazette of India, 2023-07-26",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Indirect Taxes and Customs",
-      "subject": "GST notifications",
-      "gazette_id": "CG-DL-E-26072023-247632",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247632.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247632/247632.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-26.247632",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-26/247632.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-26.247631",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-26",
-      "ugid": "247631",
-      "title": "Extraordinary Gazette of India, 2023-07-26",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Economic Affairs",
-      "office": "Financial Market Division",
-      "subject": "Guarantee Scheme for Corporate Debt",
-      "gazette_id": "CG-DL-E-26072023-247631",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247631.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247631/247631.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-26.247631",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-26/247631.pdf",
       "topics": []
     }
   ],

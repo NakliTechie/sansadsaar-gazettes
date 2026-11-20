@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-08-05.256063",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-05",
+      "ugid": "256063",
+      "title": "Extraordinary Gazette of India, 2024-08-05",
+      "ministry": "Election Commission of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Corrigendum in Commission notifications dated 6 June 2024",
+      "gazette_id": "CG-DL-E-05082024-256063",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256063.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256063/256063.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-05.256063",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-05/256063.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256063/256063_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-08-05.256061",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-05",
+      "ugid": "256061",
+      "title": "Extraordinary Gazette of India, 2024-08-05",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Budget Division",
+      "subject": "Auction for Sale (re issue) of (i) 7.10pc GS 2034 and (ii) 7.34pc GS 2064",
+      "gazette_id": "CG-DL-E-05082024-256061",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256061.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256061/256061.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-05.256061",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-05/256061.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256061/256061_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-08-05.256049",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-03-12/252958.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252958/252958_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-12.252956",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-12",
-      "ugid": "252956",
-      "title": "Extraordinary Gazette of India, 2024-03-12",
-      "ministry": "Ministry of Social Justice and Empowerment",
-      "department": "Department of Empowerment of Persons with Disabilities",
-      "office": "",
-      "subject": "Notification for making Aadhar mandatory for DDRS for Adult",
-      "gazette_id": "CG-DL-E-14032024-252956",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252956.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252956/252956.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-12.252956",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-12/252956.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252956/252956_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-12.252955",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-12",
-      "ugid": "252955",
-      "title": "Extraordinary Gazette of India, 2024-03-12",
-      "ministry": "Ministry of Social Justice and Empowerment",
-      "department": "Department of Empowerment of Persons with Disabilities",
-      "office": "",
-      "subject": "Notification for making Aadhar mandatory for DDRS for Children",
-      "gazette_id": "CG-DL-E-14032024-252955",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252955.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252955/252955.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-12.252955",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-12/252955.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252955/252955_djvu.txt"
     }
   ],
   "count": 2500,

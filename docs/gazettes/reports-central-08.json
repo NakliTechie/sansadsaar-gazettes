@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-12.252956",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-12",
+      "ugid": "252956",
+      "title": "Extraordinary Gazette of India, 2024-03-12",
+      "ministry": "Ministry of Social Justice and Empowerment",
+      "department": "Department of Empowerment of Persons with Disabilities",
+      "office": "",
+      "subject": "Notification for making Aadhar mandatory for DDRS for Adult",
+      "gazette_id": "CG-DL-E-14032024-252956",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252956.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252956/252956.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-12.252956",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-12/252956.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252956/252956_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-12.252955",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-12",
+      "ugid": "252955",
+      "title": "Extraordinary Gazette of India, 2024-03-12",
+      "ministry": "Ministry of Social Justice and Empowerment",
+      "department": "Department of Empowerment of Persons with Disabilities",
+      "office": "",
+      "subject": "Notification for making Aadhar mandatory for DDRS for Children",
+      "gazette_id": "CG-DL-E-14032024-252955",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252955.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252955/252955.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-12.252955",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-12/252955.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252955/252955_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-12.252954",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59008,54 +59056,6 @@
       "mirror_path": "pdf/central/e/2023-11-28/250293.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250293/250293_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-28.250292",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-28",
-      "ugid": "250292",
-      "title": "Extraordinary Gazette of India, 2023-11-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "P and M File",
-      "gazette_id": "CG-DL-E-28112023-250292",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250292.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250292/250292.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-28.250292",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-28/250292.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250292/250292_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-28.250291",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-28",
-      "ugid": "250291",
-      "title": "Extraordinary Gazette of India, 2023-11-28",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Andhra Pradesh",
-      "gazette_id": "CG-DL-E-28112023-250291",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250291.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250291/250291.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-28.250291",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-28/250291.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250291/250291_djvu.txt"
     }
   ],
   "count": 2500,

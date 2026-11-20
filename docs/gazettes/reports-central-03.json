@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-12-03.268224",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-03",
+      "ugid": "268224",
+      "title": "Extrordinary Gazette of India, 2025-12-03",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture and Farmers Welfare",
+      "office": "",
+      "subject": "Fertiliser Control Order,1985",
+      "gazette_id": "CG-DL-E-04122025-268224",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268224.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268224/268224.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-03.268224",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-03/268224.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268224/268224_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-12-03.268223",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-03",
+      "ugid": "268223",
+      "title": "Extrordinary Gazette of India, 2025-12-03",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Publication of notification of extraordinary Gazette under Part II section 3 Sub Section (ii). Notification under clause (7A) of section 2 of the Railways Act, 1989 in connection with the Construction of Road Over Bridge in lieu of Level Crossing No. 463 at Km.703/24 26 in between Gullipadu Narsipatnam stations in the District of Anakapalli in the of State of Andhra Pradesh",
+      "gazette_id": "CG-TL-E-04122025-268223",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268223.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268223/268223.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-03.268223",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-03/268223.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268223/268223_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-12-03.268222",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-10/264679.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264679/264679_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-10.264670",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-10",
-      "ugid": "264670",
-      "title": "Extraordinary Gazette of India, 2025-07-10",
-      "ministry": "The Bureau of Energy Efficiency",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "the Bureau of Energy Efficiency, with the previous approval of the Central Government, proposes to make",
-      "gazette_id": "CG-DL-E-15072025-264670",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264670.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264670/264670.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-10.264670",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-10/264670.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264670/264670_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-10.264669",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-10",
-      "ugid": "264669",
-      "title": "Extraordinary Gazette of India, 2025-07-10",
-      "ministry": "The Bureau of Energy Efficiency",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "the Bureau of Energy Efficiency (the Bureau) with the previous approval of the Central Government",
-      "gazette_id": "CG-DL-E-15072025-264669",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264669.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264669/264669.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-10.264669",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-10/264669.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264669/264669_djvu.txt"
     }
   ],
   "count": 2500,

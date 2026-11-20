@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-26.258939",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-26",
+      "ugid": "258939",
+      "title": "Extraordinary Gazette of India, 2024-11-26",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Gas Projects (GP) Division",
+      "office": "",
+      "subject": "Publication of Notification in the Extra Ordinary Gazette of India under the Petroleum and Minerals Pipelines (ARUL) Act, 1962 for Jagdishpur Haldia and Bokaro Dhamra Gas Pipeline (JHBDPL) and Spur Pipeline of GAIL (India) Limited.",
+      "gazette_id": "CG-DL-E-26112024-258939",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258939.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258939/258939.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-26.258939",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-26/258939.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258939/258939_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-26.258938",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-26",
+      "ugid": "258938",
+      "title": "Extraordinary Gazette of India, 2024-11-26",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Forest Conservation Division",
+      "office": "",
+      "subject": "Corrigendium CAF Rules 2018",
+      "gazette_id": "CG-DL-E-26112024-258938",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258938.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258938/258938.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-26.258938",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-26/258938.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258938/258938_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-26.258934",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-08-05/256064.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256064/256064_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-05.256063",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-05",
-      "ugid": "256063",
-      "title": "Extraordinary Gazette of India, 2024-08-05",
-      "ministry": "Election Commission of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Corrigendum in Commission notifications dated 6 June 2024",
-      "gazette_id": "CG-DL-E-05082024-256063",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256063.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256063/256063.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-05.256063",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-05/256063.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256063/256063_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-05.256061",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-05",
-      "ugid": "256061",
-      "title": "Extraordinary Gazette of India, 2024-08-05",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Economic Affairs",
-      "office": "Budget Division",
-      "subject": "Auction for Sale (re issue) of (i) 7.10pc GS 2034 and (ii) 7.34pc GS 2064",
-      "gazette_id": "CG-DL-E-05082024-256061",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256061.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256061/256061.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-05.256061",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-05/256061.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256061/256061_djvu.txt"
     }
   ],
   "count": 2500,

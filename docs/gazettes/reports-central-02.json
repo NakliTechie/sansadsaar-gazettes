@@ -1,6 +1,54 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-03-12.270895",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-12",
+      "ugid": "270895",
+      "title": "Extrordinary Gazette of India, 2026-03-12",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards, particulars of which are given in the second column",
+      "gazette_id": "CG-DL-E-12032026-270895",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270895.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270895/270895.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-12.270895",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-12/270895.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270895/270895_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-03-12.270894",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-03-12",
+      "ugid": "270894",
+      "title": "Extrordinary Gazette of India, 2026-03-12",
+      "ministry": "Ministry of Electronics and Information Technology",
+      "department": "Standardisation Testing and Quality Certification (STQC) Directorate",
+      "office": "Standardisation Testing and Quality Certification (STQC) Directorate",
+      "subject": "Recruitment Rules for Group B Non S and T Post of STQC Directorate",
+      "gazette_id": "CG-DL-E-12032026-270894",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270894.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270894/270894.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-03-12.270894",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-03-12/270894.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270894/270894_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2026-03-12.270892",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59951,54 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-12-03/268225.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268225/268225_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-03.268224",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-03",
-      "ugid": "268224",
-      "title": "Extrordinary Gazette of India, 2025-12-03",
-      "ministry": "Ministry of Agriculture and Farmers Welfare",
-      "department": "Department of Agriculture and Farmers Welfare",
-      "office": "",
-      "subject": "Fertiliser Control Order,1985",
-      "gazette_id": "CG-DL-E-04122025-268224",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268224.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268224/268224.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-03.268224",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-03/268224.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268224/268224_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-03.268223",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-03",
-      "ugid": "268223",
-      "title": "Extrordinary Gazette of India, 2025-12-03",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Publication of notification of extraordinary Gazette under Part II section 3 Sub Section (ii). Notification under clause (7A) of section 2 of the Railways Act, 1989 in connection with the Construction of Road Over Bridge in lieu of Level Crossing No. 463 at Km.703/24 26 in between Gullipadu Narsipatnam stations in the District of Anakapalli in the of State of Andhra Pradesh",
-      "gazette_id": "CG-TL-E-04122025-268223",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268223.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268223/268223.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-03.268223",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-03/268223.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268223/268223_djvu.txt"
     }
   ],
   "count": 2500,

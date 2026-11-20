@@ -1082,6 +1082,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-11-13.278053",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-13",
+      "ugid": "278053",
+      "title": "Extraordinary Gazette of India, 2026-11-13",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Central Railway",
+      "subject": "Publication of corrigendum of 7A Gazette Notification which was published on August 17th 2026 and Notification No. CG BR E 180820226 275548 to declaration of Competent Authority for Land Acquisition CALA in connection with 3rd and   4th line between Danapur to Pandit Land Deen Dayal Upadhyay 198.05 Km under Danapur Division of East Central Railway.",
+      "gazette_id": "CG-BR-E-19112026-278053",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278053.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-13.278053/278053.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-13.278053",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-13/278053.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-11-13.278051",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1654,6 +1677,29 @@
       "ia_identifier": "in.gazette.central.e.2026-11-11.278004",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-11-11/278004.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-11-10.278048",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-10",
+      "ugid": "278048",
+      "title": "Extraordinary Gazette of India, 2026-11-10",
+      "ministry": "Ministry of Railways",
+      "department": "South Eastern Railway Construction Organisation",
+      "office": "Chief Admn. Officer, South Eastern Railway, Garden Reach",
+      "subject": "20A GZ.",
+      "gazette_id": "CG-WB-E-19112026-278048",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278048.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-10.278048/278048.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-10.278048",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-10/278048.pdf",
       "topics": []
     },
     {
@@ -59131,52 +59177,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-18.273699",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-18/273699.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-18.273687",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-18",
-      "ugid": "273687",
-      "title": "Extrordinary Gazette of India, 2026-06-18",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Request for Publication of Gazette Notification for the below mentioned Land Schedule under Subsection 1 of section 20A of the Railways Amendment Act 2008 for ROB No184",
-      "gazette_id": "CG-OR-E-20062026-273687",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273687.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273687/273687.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-18.273687",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-18/273687.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-18.273685",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-18",
-      "ugid": "273685",
-      "title": "Extrordinary Gazette of India, 2026-06-18",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 20A of Railways Act, 1989 Acquisition of land for Construction of Gooty TSS in Guntakal Kadapa section",
-      "gazette_id": "CG-TL-E-20062026-273685",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273685.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273685/273685.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-18.273685",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-18/273685.pdf",
       "topics": []
     }
   ],

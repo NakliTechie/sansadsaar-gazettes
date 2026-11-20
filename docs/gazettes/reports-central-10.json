@@ -1,6 +1,52 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-26.247632",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-26",
+      "ugid": "247632",
+      "title": "Extraordinary Gazette of India, 2023-07-26",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "GST notifications",
+      "gazette_id": "CG-DL-E-26072023-247632",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247632.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247632/247632.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-26.247632",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-26/247632.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-26.247631",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-26",
+      "ugid": "247631",
+      "title": "Extraordinary Gazette of India, 2023-07-26",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Economic Affairs",
+      "office": "Financial Market Division",
+      "subject": "Guarantee Scheme for Corporate Debt",
+      "gazette_id": "CG-DL-E-26072023-247631",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247631.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247631/247631.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-26.247631",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-26/247631.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-26.247630",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57446,52 +57492,6 @@
       "ia_identifier": "in.gazette.central.e.2023-03-29.244761",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-03-29/244761.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-29.244760",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-29",
-      "ugid": "244760",
-      "title": "Extraordinary Gazette of India, 2023-03-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-29032023-244760",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244760.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244760/244760.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-29.244760",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-29/244760.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-29.244759",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-29",
-      "ugid": "244759",
-      "title": "Extraordinary Gazette of India, 2023-03-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D morth",
-      "gazette_id": "CG-DL-E-29032023-244759",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244759.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244759/244759.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-29.244759",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-29/244759.pdf",
       "topics": []
     }
   ],
