@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-28.250295",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-28",
+      "ugid": "250295",
+      "title": "Extraordinary Gazette of India, 2023-11-28",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
+      "gazette_id": "CG-DL-E-29112023-250295",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250295.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250295/250295.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-28.250295",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-28/250295.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250295/250295_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-28.250294",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-28",
+      "ugid": "250294",
+      "title": "Extraordinary Gazette of India, 2023-11-28",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-29112023-250294",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250294.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250294/250294.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-28.250294",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-28/250294.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250294/250294_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-28.250293",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-28",
+      "ugid": "250293",
+      "title": "Extraordinary Gazette of India, 2023-11-28",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "East Coast Railway",
+      "subject": "Dhanmandal  Chandikhol Chord Rail Link Project 5.960 Km  in East Coast Railway District Jajpur State  Odisha",
+      "gazette_id": "CG-OR-E-29112023-250293",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250293.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250293/250293.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-28.250293",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-28/250293.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250293/250293_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-28.250292",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58330,75 +58402,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-26.247636",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-26/247636.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-26.247635",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-26",
-      "ugid": "247635",
-      "title": "Extraordinary Gazette of India, 2023-07-26",
-      "ministry": "Ministry of Railways",
-      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
-      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
-      "subject": "Publication of E gazette Notification for declaring Hadapsar station Development as satellite terminal as a Special Railway Project being executed by Gati Shakti Unit of Pune Division, Central Railway",
-      "gazette_id": "CG-MH-E-27072023-247635",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247635.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247635/247635.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-26.247635",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-26/247635.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-26.247634",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-26",
-      "ugid": "247634",
-      "title": "Extraordinary Gazette of India, 2023-07-26",
-      "ministry": "Ministry of Environment,  Forest  and Climate Change",
-      "department": "Environmental Impact Assessment (EIA) Division",
-      "office": "",
-      "subject": "Extension of time period by another six months",
-      "gazette_id": "CG-DL-E-27072023-247634",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247634.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247634/247634.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-26.247634",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-26/247634.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-26.247633",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-26",
-      "ugid": "247633",
-      "title": "Extraordinary Gazette of India, 2023-07-26",
-      "ministry": "Lok Sabha Secretariat",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "THE REGISTRATION OF BIRTHS AND DEATHS (AMENDMENT) BILL, 2023 THE JAMMU AND KASHMIR RESERVATION (AMENDMENT) BILL, 2023 THE JAMMU AND KASHMIR REORGANISATION (AMENDMENT) BILL, 2023 THE CONSTITUTION (JAMMU AND KASHMIR) SCHEDULED CASTES ORDER (AMENDMENT) BILL, 2023 THE CONSTITUTION (JAMMU AND KASHMIR) SCHEDULED TRIBES ORDER (AMENDMENT) BILL, 2023 THE MINES AND MINERALS (DEVELOPMENT AND REGULATION) AMENDMENT BILL, 2023",
-      "gazette_id": "CG-DL-E-27072023-247633",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247633.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247633/247633.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-26.247633",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-26/247633.pdf",
       "topics": []
     }
   ],

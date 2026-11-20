@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-12-03.268228",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-03",
+      "ugid": "268228",
+      "title": "Extrordinary Gazette of India, 2025-12-03",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Final notification of Inland Vessels (Design and Construction) (First Amendment) Rules, 2025",
+      "gazette_id": "CG-DL-E-05122025-268228",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268228.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268228/268228.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-03.268228",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-03/268228.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268228/268228_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-12-03.268226",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-03",
+      "ugid": "268226",
+      "title": "Extrordinary Gazette of India, 2025-12-03",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "North Central Railway",
+      "subject": "Publication of  Corrigendum notification under section 20A of Railways Act, 1989 for acquisition of land in the extraordinary Gazette of India.",
+      "gazette_id": "CG-UP-E-04122025-268226",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268226.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268226/268226.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-03.268226",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-03/268226.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268226/268226_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-12-03.268225",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-03",
+      "ugid": "268225",
+      "title": "Extrordinary Gazette of India, 2025-12-03",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "department": "Department of Agriculture and Farmers Welfare",
+      "office": "",
+      "subject": "Promote Zero budget based farming",
+      "gazette_id": "CG-DL-E-04122025-268225",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268225.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268225/268225.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-03.268225",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-03/268225.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268225/268225_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-12-03.268224",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-10/264788.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264788/264788_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-10.264787",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-10",
-      "ugid": "264787",
-      "title": "Extraordinary Gazette of India, 2025-07-10",
-      "ministry": "Ministry of Railways",
-      "department": "North Western Railway",
-      "office": "",
-      "subject": "20ESIROHIABR",
-      "gazette_id": "CG-RJ-E-30072025-264787",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264787.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264787/264787.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-10.264787",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-10/264787.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264787/264787_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-10.264697",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-10",
-      "ugid": "264697",
-      "title": "Extraordinary Gazette of India, 2025-07-10",
-      "ministry": "The Bureau of Energy Efficiency",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "the Bureau  of  Energy Efficiency the Bureau with the previous approval of the Central Government",
-      "gazette_id": "CG-DL-E-16072025-264697",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264697.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264697/264697.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-10.264697",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-10/264697.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264697/264697_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-10.264679",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-10",
-      "ugid": "264679",
-      "title": "Extraordinary Gazette of India, 2025-07-10",
-      "ministry": "The Bureau of Energy Efficiency",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "the Bureau of Energy Efficiency with the previous approval of the Central Government",
-      "gazette_id": "CG-DL-E-15072025-264679",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264679.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264679/264679.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-10.264679",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-10/264679.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264679/264679_djvu.txt"
     }
   ],
   "count": 2500,

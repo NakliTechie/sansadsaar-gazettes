@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-26.258945",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-26",
+      "ugid": "258945",
+      "title": "Extraordinary Gazette of India, 2024-11-26",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-27112024-258945",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258945.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258945/258945.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-26.258945",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-26/258945.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258945/258945_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-26.258944",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-26",
+      "ugid": "258944",
+      "title": "Extraordinary Gazette of India, 2024-11-26",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-27112024-258944",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258944.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258944/258944.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-26.258944",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-26/258944.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258944/258944_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-26.258940",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-26",
+      "ugid": "258940",
+      "title": "Extraordinary Gazette of India, 2024-11-26",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-27112024-258940",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258940.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258940/258940.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-26.258940",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-26/258940.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258940/258940_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-26.258939",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-08-05/256069.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256069/256069_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-05.256066",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-05",
-      "ugid": "256066",
-      "title": "Extraordinary Gazette of India, 2024-08-05",
-      "ministry": "Ministry of Home Affairs",
-      "department": "CTCR DIVISION",
-      "office": "",
-      "subject": "Engagement extension of tenure of Spl PPs in NIA",
-      "gazette_id": "CG-DL-E-05082024-256066",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256066.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256066/256066.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-05.256066",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-05/256066.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256066/256066_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-05.256065",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-05",
-      "ugid": "256065",
-      "title": "Extraordinary Gazette of India, 2024-08-05",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Ports Wing",
-      "office": "",
-      "subject": "Notification for Magdalla Port",
-      "gazette_id": "CG-DL-E-05082024-256065",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256065.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256065/256065.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-05.256065",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-05/256065.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256065/256065_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-05.256064",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-05",
-      "ugid": "256064",
-      "title": "Extraordinary Gazette of India, 2024-08-05",
-      "ministry": "Ministry of Ports, Shipping and Waterways",
-      "department": "Ports Wing",
-      "office": "",
-      "subject": "Notification for Dahej Port",
-      "gazette_id": "CG-DL-E-05082024-256064",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256064.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256064/256064.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-05.256064",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-05/256064.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256064/256064_djvu.txt"
     }
   ],
   "count": 2500,

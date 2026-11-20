@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-03-29.244763",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-29",
+      "ugid": "244763",
+      "title": "Extraordinary Gazette of India, 2023-03-29",
+      "ministry": "Ministry of Chemicals and Fertilizers",
+      "department": "Department of Pharmaceuticals",
+      "office": "National Pharmaceuticals Pricing Authority",
+      "subject": "Fixation of Ceiling price of 1 formulation and extended of 5 medical devices and Oxygen Concentrator approved in 110 Authority meeting",
+      "gazette_id": "CG-DL-E-29032023-244763",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244763.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244763/244763.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-29.244763",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-29/244763.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-29.244762",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-29",
+      "ugid": "244762",
+      "title": "Extraordinary Gazette of India, 2023-03-29",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Indirect Taxes and Customs",
+      "subject": "Seeks to provide BCD exemption",
+      "gazette_id": "CG-DL-E-29032023-244762",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244762.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244762/244762.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-29.244762",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-29/244762.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-03-29.244761",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-03-29",
+      "ugid": "244761",
+      "title": "Extraordinary Gazette of India, 2023-03-29",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A morth",
+      "gazette_id": "CG-DL-E-29032023-244761",
+      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244761.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244761/244761.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-03-29.244761",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-03-29/244761.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-03-29.244760",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58166,75 +58235,6 @@
       "ia_identifier": "in.gazette.central.e.2022-12-13.241091",
       "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
       "mirror_path": "pdf/central/e/2022-12-13/241091.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-13.241090",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-13",
-      "ugid": "241090",
-      "title": "Extraordinary Gazette of India, 2022-12-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-14122022-241090",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241090.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-13.241090/241090.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-13.241090",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-13/241090.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-13.241087",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-13",
-      "ugid": "241087",
-      "title": "Extraordinary Gazette of India, 2022-12-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-14122022-241087",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241087.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-13.241087/241087.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-13.241087",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-13/241087.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2022-12-13.241086",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2022-12-13",
-      "ugid": "241086",
-      "title": "Extraordinary Gazette of India, 2022-12-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D morth",
-      "gazette_id": "CG-DL-E-14122022-241086",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2022/241086.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2022-12-13.241086/241086.pdf",
-      "ia_identifier": "in.gazette.central.e.2022-12-13.241086",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2019-2022",
-      "mirror_path": "pdf/central/e/2022-12-13/241086.pdf",
       "topics": []
     }
   ],

@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-11-19.278064",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-19",
+      "ugid": "278064",
+      "title": "Extraordinary Gazette of India, 2026-11-19",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "Notification for tax exemption under Section 47(xx) of the Income tax Act, 1961 in Sakhalin 1 project by ONGC Videsh Limited",
+      "gazette_id": "CG-DL-E-19112026-278064",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278064.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-19.278064/278064.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-19.278064",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-19/278064.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-11-19.278063",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-19",
+      "ugid": "278063",
+      "title": "Extraordinary Gazette of India, 2026-11-19",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-19112026-278063",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278063.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-19.278063/278063.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-19.278063",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-19/278063.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-11-19.278062",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-19",
+      "ugid": "278062",
+      "title": "Extraordinary Gazette of India, 2026-11-19",
+      "ministry": "Ministry of Finance",
+      "department": "Department of Revenue",
+      "office": "Central Board of Direct Taxes",
+      "subject": "Notification under section Schedule III Table Sl. No. 36 read with Section 11 of the Income Tax Act, 2025 (30 of 2025) in the case of Kerala Abkari Workers Welfare Fund Board",
+      "gazette_id": "CG-DL-E-19112026-278062",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278062.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-19.278062/278062.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-19.278062",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-19/278062.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-11-19.278060",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59108,75 +59177,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-18.273731",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-18/273731.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-18.273716",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-18",
-      "ugid": "273716",
-      "title": "Extrordinary Gazette of India, 2026-06-18",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "SC Railway Publication of Notification under section 20E of Railways Act, 1989 Acquisition of land for Bypass Line at Nizamabad Junction station for connecting Nizamabad and Secunderabad and Nizamabad and Pedaaplli Main Lines Nizamabad district in the state of Telangana.",
-      "gazette_id": "CG-TL-E-22062026-273716",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273716.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273716/273716.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-18.273716",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-18/273716.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-18.273715",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-18",
-      "ugid": "273715",
-      "title": "Extrordinary Gazette of India, 2026-06-18",
-      "ministry": "Reserve Bank of India",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sub section  2 of section 6 and sub section  2 of section 47 of the Foreign Exchange Management Act, 1999 42 of 1999, the Reserve Bank of India",
-      "gazette_id": "CG-MH-E-22062026-273715",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273715.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273715/273715.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-18.273715",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-18/273715.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-18.273699",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-18",
-      "ugid": "273699",
-      "title": "Extrordinary Gazette of India, 2026-06-18",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "North Eastern Railway",
-      "subject": "For publication in the Gazette of India under section 2 clause 7A of Railway (Amendment) Act 2008",
-      "gazette_id": "CG-UP-E-22062026-273699",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273699.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273699/273699.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-18.273699",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-18/273699.pdf",
       "topics": []
     }
   ],

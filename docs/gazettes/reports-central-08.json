@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-12.252972",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-12",
+      "ugid": "252972",
+      "title": "Extraordinary Gazette of India, 2024-03-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-14032024-252972",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252972.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252972/252972.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-12.252972",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-12/252972.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252972/252972_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-12.252971",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-12",
+      "ugid": "252971",
+      "title": "Extraordinary Gazette of India, 2024-03-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-14032024-252971",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252971.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252971/252971.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-12.252971",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-12/252971.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252971/252971_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-12.252958",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-12",
+      "ugid": "252958",
+      "title": "Extraordinary Gazette of India, 2024-03-12",
+      "ministry": "Ministry of Social Justice and Empowerment",
+      "department": "Department of Empowerment of Persons with Disabilities",
+      "office": "",
+      "subject": "Notification for making Aadhar mandatory for Residential Care for Children",
+      "gazette_id": "CG-DL-E-13032024-252958",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252958.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252958/252958.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-12.252958",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-12/252958.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252958/252958_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-12.252956",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58984,78 +59056,6 @@
       "mirror_path": "pdf/central/e/2023-11-28/250296.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250296/250296_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-28.250295",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-28",
-      "ugid": "250295",
-      "title": "Extraordinary Gazette of India, 2023-11-28",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Subrule 1 of Rule 15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
-      "gazette_id": "CG-DL-E-29112023-250295",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250295.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250295/250295.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-28.250295",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-28/250295.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250295/250295_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-28.250294",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-28",
-      "ugid": "250294",
-      "title": "Extraordinary Gazette of India, 2023-11-28",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-29112023-250294",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250294.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250294/250294.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-28.250294",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-28/250294.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250294/250294_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-28.250293",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-28",
-      "ugid": "250293",
-      "title": "Extraordinary Gazette of India, 2023-11-28",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "East Coast Railway",
-      "subject": "Dhanmandal  Chandikhol Chord Rail Link Project 5.960 Km  in East Coast Railway District Jajpur State  Odisha",
-      "gazette_id": "CG-OR-E-29112023-250293",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250293.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250293/250293.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-28.250293",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-28/250293.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250293/250293_djvu.txt"
     }
   ],
   "count": 2500,

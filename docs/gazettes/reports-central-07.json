@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-08-05.256066",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-05",
+      "ugid": "256066",
+      "title": "Extraordinary Gazette of India, 2024-08-05",
+      "ministry": "Ministry of Home Affairs",
+      "department": "CTCR DIVISION",
+      "office": "",
+      "subject": "Engagement extension of tenure of Spl PPs in NIA",
+      "gazette_id": "CG-DL-E-05082024-256066",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256066.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256066/256066.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-05.256066",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-05/256066.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256066/256066_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-08-05.256065",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-05",
+      "ugid": "256065",
+      "title": "Extraordinary Gazette of India, 2024-08-05",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Ports Wing",
+      "office": "",
+      "subject": "Notification for Magdalla Port",
+      "gazette_id": "CG-DL-E-05082024-256065",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256065.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256065/256065.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-05.256065",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-05/256065.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256065/256065_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-08-05.256064",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-08-05",
+      "ugid": "256064",
+      "title": "Extraordinary Gazette of India, 2024-08-05",
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "department": "Ports Wing",
+      "office": "",
+      "subject": "Notification for Dahej Port",
+      "gazette_id": "CG-DL-E-05082024-256064",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256064.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256064/256064.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-08-05.256064",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-08-05/256064.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256064/256064_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-08-05.256063",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-03-12/252973.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252973/252973_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-12.252972",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-12",
-      "ugid": "252972",
-      "title": "Extraordinary Gazette of India, 2024-03-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-14032024-252972",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252972.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252972/252972.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-12.252972",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-12/252972.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252972/252972_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-12.252971",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-12",
-      "ugid": "252971",
-      "title": "Extraordinary Gazette of India, 2024-03-12",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-14032024-252971",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252971.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252971/252971.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-12.252971",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-12/252971.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252971/252971_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-03-12.252958",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-03-12",
-      "ugid": "252958",
-      "title": "Extraordinary Gazette of India, 2024-03-12",
-      "ministry": "Ministry of Social Justice and Empowerment",
-      "department": "Department of Empowerment of Persons with Disabilities",
-      "office": "",
-      "subject": "Notification for making Aadhar mandatory for Residential Care for Children",
-      "gazette_id": "CG-DL-E-13032024-252958",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252958.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252958/252958.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-03-12.252958",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-03-12/252958.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252958/252958_djvu.txt"
     }
   ],
   "count": 2500,

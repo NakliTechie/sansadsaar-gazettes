@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-26.247635",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-26",
+      "ugid": "247635",
+      "title": "Extraordinary Gazette of India, 2023-07-26",
+      "ministry": "Ministry of Railways",
+      "department": "CONSTRUCTION ORGANISATION/CENTRAL RAILWAY",
+      "office": "OFFICE OF CHIEF ADMINISTRATIVE OFFICER/CONSTRUCTION",
+      "subject": "Publication of E gazette Notification for declaring Hadapsar station Development as satellite terminal as a Special Railway Project being executed by Gati Shakti Unit of Pune Division, Central Railway",
+      "gazette_id": "CG-MH-E-27072023-247635",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247635.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247635/247635.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-26.247635",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-26/247635.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-26.247634",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-26",
+      "ugid": "247634",
+      "title": "Extraordinary Gazette of India, 2023-07-26",
+      "ministry": "Ministry of Environment,  Forest  and Climate Change",
+      "department": "Environmental Impact Assessment (EIA) Division",
+      "office": "",
+      "subject": "Extension of time period by another six months",
+      "gazette_id": "CG-DL-E-27072023-247634",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247634.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247634/247634.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-26.247634",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-26/247634.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-26.247633",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-26",
+      "ugid": "247633",
+      "title": "Extraordinary Gazette of India, 2023-07-26",
+      "ministry": "Lok Sabha Secretariat",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "THE REGISTRATION OF BIRTHS AND DEATHS (AMENDMENT) BILL, 2023 THE JAMMU AND KASHMIR RESERVATION (AMENDMENT) BILL, 2023 THE JAMMU AND KASHMIR REORGANISATION (AMENDMENT) BILL, 2023 THE CONSTITUTION (JAMMU AND KASHMIR) SCHEDULED CASTES ORDER (AMENDMENT) BILL, 2023 THE CONSTITUTION (JAMMU AND KASHMIR) SCHEDULED TRIBES ORDER (AMENDMENT) BILL, 2023 THE MINES AND MINERALS (DEVELOPMENT AND REGULATION) AMENDMENT BILL, 2023",
+      "gazette_id": "CG-DL-E-27072023-247633",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247633.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247633/247633.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-26.247633",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-26/247633.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-26.247632",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57423,75 +57492,6 @@
       "ia_identifier": "in.gazette.central.e.2023-03-29.244764",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-03-29/244764.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-29.244763",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-29",
-      "ugid": "244763",
-      "title": "Extraordinary Gazette of India, 2023-03-29",
-      "ministry": "Ministry of Chemicals and Fertilizers",
-      "department": "Department of Pharmaceuticals",
-      "office": "National Pharmaceuticals Pricing Authority",
-      "subject": "Fixation of Ceiling price of 1 formulation and extended of 5 medical devices and Oxygen Concentrator approved in 110 Authority meeting",
-      "gazette_id": "CG-DL-E-29032023-244763",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244763.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244763/244763.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-29.244763",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-29/244763.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-29.244762",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-29",
-      "ugid": "244762",
-      "title": "Extraordinary Gazette of India, 2023-03-29",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Indirect Taxes and Customs",
-      "subject": "Seeks to provide BCD exemption",
-      "gazette_id": "CG-DL-E-29032023-244762",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244762.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244762/244762.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-29.244762",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-29/244762.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-29.244761",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-29",
-      "ugid": "244761",
-      "title": "Extraordinary Gazette of India, 2023-03-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A morth",
-      "gazette_id": "CG-DL-E-29032023-244761",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244761.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244761/244761.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-29.244761",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-29/244761.pdf",
       "topics": []
     }
   ],

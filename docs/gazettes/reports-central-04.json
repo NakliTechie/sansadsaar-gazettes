@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-07-10.264787",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-10",
+      "ugid": "264787",
+      "title": "Extraordinary Gazette of India, 2025-07-10",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "20ESIROHIABR",
+      "gazette_id": "CG-RJ-E-30072025-264787",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264787.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264787/264787.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-10.264787",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-10/264787.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264787/264787_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-10.264697",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-10",
+      "ugid": "264697",
+      "title": "Extraordinary Gazette of India, 2025-07-10",
+      "ministry": "The Bureau of Energy Efficiency",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "the Bureau  of  Energy Efficiency the Bureau with the previous approval of the Central Government",
+      "gazette_id": "CG-DL-E-16072025-264697",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264697.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264697/264697.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-10.264697",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-10/264697.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264697/264697_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-10.264679",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-10",
+      "ugid": "264679",
+      "title": "Extraordinary Gazette of India, 2025-07-10",
+      "ministry": "The Bureau of Energy Efficiency",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "the Bureau of Energy Efficiency with the previous approval of the Central Government",
+      "gazette_id": "CG-DL-E-15072025-264679",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264679.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264679/264679.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-10.264679",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-10/264679.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264679/264679_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-07-10.264670",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-03-13/261628.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261628/261628_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-13.261627",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-13",
-      "ugid": "261627",
-      "title": "Extraordinary Gazette of India, 2025-03-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-15032025-261627",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261627.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261627/261627.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-13.261627",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-13/261627.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261627/261627_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-13.261626",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-13",
-      "ugid": "261626",
-      "title": "Extraordinary Gazette of India, 2025-03-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-15032025-261626",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261626.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261626/261626.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-13.261626",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-13/261626.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261626/261626_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-13.261613",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-13",
-      "ugid": "261613",
-      "title": "Extraordinary Gazette of India, 2025-03-13",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Customs Wing CBIC",
-      "subject": "In exercise of the powers conferred by sub section (2) of section 14 of the Customs Act, 1962 (52 of 1962), the Central Board of Indirect Taxes and Customs, being satisfied that it is necessary and expedient to do so",
-      "gazette_id": "CG-DL-E-13032025-261613",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261613.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261613/261613.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-13.261613",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-13/261613.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261613/261613_djvu.txt"
     }
   ],
   "count": 2500,

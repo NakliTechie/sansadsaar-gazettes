@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-06-18.273716",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-18",
+      "ugid": "273716",
+      "title": "Extrordinary Gazette of India, 2026-06-18",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "SC Railway Publication of Notification under section 20E of Railways Act, 1989 Acquisition of land for Bypass Line at Nizamabad Junction station for connecting Nizamabad and Secunderabad and Nizamabad and Pedaaplli Main Lines Nizamabad district in the state of Telangana.",
+      "gazette_id": "CG-TL-E-22062026-273716",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273716.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273716/273716.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-18.273716",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-18/273716.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-18.273715",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-18",
+      "ugid": "273715",
+      "title": "Extrordinary Gazette of India, 2026-06-18",
+      "ministry": "Reserve Bank of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section  2 of section 6 and sub section  2 of section 47 of the Foreign Exchange Management Act, 1999 42 of 1999, the Reserve Bank of India",
+      "gazette_id": "CG-MH-E-22062026-273715",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273715.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273715/273715.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-18.273715",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-18/273715.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-18.273699",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-18",
+      "ugid": "273699",
+      "title": "Extrordinary Gazette of India, 2026-06-18",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "North Eastern Railway",
+      "subject": "For publication in the Gazette of India under section 2 clause 7A of Railway (Amendment) Act 2008",
+      "gazette_id": "CG-UP-E-22062026-273699",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273699.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273699/273699.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-18.273699",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-18/273699.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-18.273687",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59191,78 +59260,6 @@
       "mirror_path": "pdf/central/e/2026-03-12/270899.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270899/270899_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-12.270898",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-12",
-      "ugid": "270898",
-      "title": "Extrordinary Gazette of India, 2026-03-12",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards, particulars of which are given in the second column",
-      "gazette_id": "CG-DL-E-12032026-270898",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270898.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270898/270898.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-12.270898",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-12/270898.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270898/270898_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-12.270897",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-12",
-      "ugid": "270897",
-      "title": "Extrordinary Gazette of India, 2026-03-12",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards, particulars of which are given in the second",
-      "gazette_id": "CG-DL-E-12032026-270897",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270897.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270897/270897.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-12.270897",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-12/270897.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270897/270897_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-12.270896",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-12",
-      "ugid": "270896",
-      "title": "Extrordinary Gazette of India, 2026-03-12",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Sub rule  1 of Rule  15 of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
-      "gazette_id": "CG-DL-E-12032026-270896",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270896.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270896/270896.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-12.270896",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-12/270896.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270896/270896_djvu.txt"
     }
   ],
   "count": 2500,
