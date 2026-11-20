@@ -73,3 +73,4 @@ jobs:
           done
           echo "exceeded 10 push attempts; giving up — next derive run will catch up"
           exit 1
+# Schedule re-registered after the transfer to indiavotes (20 Nov 2026).
