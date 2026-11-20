@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-11-19.278068",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-19",
+      "ugid": "278068",
+      "title": "Extraordinary Gazette of India, 2026-11-19",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-19112026-278068",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278068.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-19.278068/278068.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-19.278068",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-19/278068.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-11-19.278067",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-19",
+      "ugid": "278067",
+      "title": "Extraordinary Gazette of India, 2026-11-19",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-19112026-278067",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278067.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-19.278067/278067.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-19.278067",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-19/278067.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-11-19.278066",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-19",
+      "ugid": "278066",
+      "title": "Extraordinary Gazette of India, 2026-11-19",
+      "ministry": "Ministry of Social Justice and Empowerment",
+      "department": "Department of Empowerment of Persons with Disabilities",
+      "office": "",
+      "subject": "Notification regarding Revised Guidelines for Assessment of Specified Disabilities under the RPwD Act, 2016",
+      "gazette_id": "CG-DL-E-19112026-278066",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278066.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "",
+      "ia_identifier": "in.gazette.central.e.2026-11-19.278066",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-19/278066.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-11-19.278064",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59108,75 +59177,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-18.273826",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-18/273826.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-18.273825",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-18",
-      "ugid": "273825",
-      "title": "Extrordinary Gazette of India, 2026-06-18",
-      "ministry": "Bureau of Indian Standards",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In pursuance of Subrule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby",
-      "gazette_id": "CG-DL-E-25062026-273825",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273825.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273825/273825.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-18.273825",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-18/273825.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-18.273769",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-18",
-      "ugid": "273769",
-      "title": "Extrordinary Gazette of India, 2026-06-18",
-      "ministry": "Ministry of Railways",
-      "department": "Sout East Central Railway",
-      "office": "",
-      "subject": "20E Notification",
-      "gazette_id": "CG-CG-E-23062026-273769",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273769.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273769/273769.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-18.273769",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-18/273769.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-18.273731",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-18",
-      "ugid": "273731",
-      "title": "Extrordinary Gazette of India, 2026-06-18",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
-      "office": "",
-      "subject": "Initiation of Anti Dumping Investigation of Resorcinol from China PR and Japan",
-      "gazette_id": "CG-DL-E-23062026-273731",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273731.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273731/273731.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-18.273731",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-18/273731.pdf",
       "topics": []
     }
   ],

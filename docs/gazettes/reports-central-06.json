@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-11-26.258954",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-26",
+      "ugid": "258954",
+      "title": "Extraordinary Gazette of India, 2024-11-26",
+      "ministry": "UCO Bank",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by section 19 read with sub section  2 of section 12 of the Banking Companies",
+      "gazette_id": "CG-WB-E-27112024-258954",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258954.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258954/258954.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-26.258954",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-26/258954.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258954/258954_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-26.258951",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-26",
+      "ugid": "258951",
+      "title": "Extraordinary Gazette of India, 2024-11-26",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Publication of user fee notification",
+      "gazette_id": "CG-DL-E-27112024-258951",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258951.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258951/258951.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-26.258951",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-26/258951.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258951/258951_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-11-26.258946",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-11-26",
+      "ugid": "258946",
+      "title": "Extraordinary Gazette of India, 2024-11-26",
+      "ministry": "Ministry of Defence",
+      "department": "Department of Defence",
+      "office": "D(Coord)",
+      "subject": "Cantt,.",
+      "gazette_id": "CG-DL-E-27112024-258946",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258946.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258946/258946.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-11-26.258946",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-11-26/258946.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258946/258946_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-11-26.258945",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-08-05/256073.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256073/256073_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-05.256072",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-05",
-      "ugid": "256072",
-      "title": "Extraordinary Gazette of India, 2024-08-05",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "WESTERN RAILWAY",
-      "subject": "Publication of Corrigendum  Revised Notification to the last E Gazette Notification no 2772 of 23 July, 2024, under clause 20E of section 2 of the Railway Act 1989 24 of 1989 for land to be acquired in connection with Special Railway Project Namely Vijapur Ambaliyasan Gauge Conversion Project",
-      "gazette_id": "CG-MH-E-05082024-256072",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256072.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256072/256072.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-05.256072",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-05/256072.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256072/256072_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-05.256070",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-05",
-      "ugid": "256070",
-      "title": "Extraordinary Gazette of India, 2024-08-05",
-      "ministry": "Ministry of Housing and Urban Affairs",
-      "department": "Works Division",
-      "office": "",
-      "subject": "In continuation of the Notification No 25011 7 85 W2 dated 1st July, 2019, the Central Government appoints Shri Manohar Lal, Minister of Housing and Urban Affairs",
-      "gazette_id": "CG-DL-E-05082024-256070",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256070.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256070/256070.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-05.256070",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-05/256070.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256070/256070_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-08-05.256069",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-08-05",
-      "ugid": "256069",
-      "title": "Extraordinary Gazette of India, 2024-08-05",
-      "ministry": "Ministry of Corporate Affairs",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sub sections  1 and  2 of section 79 of the Limited Liability Partnership Act,",
-      "gazette_id": "CG-DL-E-05082024-256069",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/256069.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256069/256069.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-08-05.256069",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-08-05/256069.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-08-05.256069/256069_djvu.txt"
     }
   ],
   "count": 2500,

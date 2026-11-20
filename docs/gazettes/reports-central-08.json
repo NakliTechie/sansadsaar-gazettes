@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2024-03-12.252976",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-12",
+      "ugid": "252976",
+      "title": "Extraordinary Gazette of India, 2024-03-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-14032024-252976",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252976.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252976/252976.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-12.252976",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-12/252976.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252976/252976_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-12.252974",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-12",
+      "ugid": "252974",
+      "title": "Extraordinary Gazette of India, 2024-03-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-14032024-252974",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252974.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252974/252974.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-12.252974",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-12/252974.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252974/252974_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2024-03-12.252973",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2024-03-12",
+      "ugid": "252973",
+      "title": "Extraordinary Gazette of India, 2024-03-12",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-14032024-252973",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/252973.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252973/252973.pdf",
+      "ia_identifier": "in.gazette.central.e.2024-03-12.252973",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2024-03-12/252973.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-03-12.252973/252973_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2024-03-12.252972",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58984,78 +59056,6 @@
       "mirror_path": "pdf/central/e/2023-11-28/250301.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250301/250301_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-28.250299",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-28",
-      "ugid": "250299",
-      "title": "Extraordinary Gazette of India, 2023-11-28",
-      "ministry": "NATIONAL COMMISSION FOR HOMOEOPATHY",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by sub section 1 and Clauses",
-      "gazette_id": "CG-DL-E-29112023-250299",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250299.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250299/250299.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-28.250299",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-28/250299.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250299/250299_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-28.250297",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-28",
-      "ugid": "250297",
-      "title": "Extraordinary Gazette of India, 2023-11-28",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Gujarat",
-      "gazette_id": "CG-DL-E-29112023-250297",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250297.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250297/250297.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-28.250297",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-28/250297.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250297/250297_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-11-28.250296",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-11-28",
-      "ugid": "250296",
-      "title": "Extraordinary Gazette of India, 2023-11-28",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "department": "Exploration Division",
-      "office": "",
-      "subject": "Gujarat",
-      "gazette_id": "CG-DL-E-29112023-250296",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250296.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250296/250296.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-11-28.250296",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-11-28/250296.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250296/250296_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-07-26.247638",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-26",
+      "ugid": "247638",
+      "title": "Extraordinary Gazette of India, 2023-07-26",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D NHAI",
+      "gazette_id": "CG-DL-E-27072023-247638",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247638.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247638/247638.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-26.247638",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-26/247638.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-26.247637",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-26",
+      "ugid": "247637",
+      "title": "Extraordinary Gazette of India, 2023-07-26",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3A",
+      "gazette_id": "CG-DL-E-27072023-247637",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247637.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247637/247637.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-26.247637",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-26/247637.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-07-26.247636",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-07-26",
+      "ugid": "247636",
+      "title": "Extraordinary Gazette of India, 2023-07-26",
+      "ministry": "Petroleum and Natural Gas Regulatory Board",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of power conferred by clause 3a of Section 20 of the Petroleum and Natural Gas Regulatory Board Act,",
+      "gazette_id": "CG-DL-E-27072023-247636",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247636.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247636/247636.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-07-26.247636",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-07-26/247636.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2023-07-26.247635",
       "category": "extraordinary",
       "type_letter": "e",
@@ -57423,75 +57492,6 @@
       "ia_identifier": "in.gazette.central.e.2023-03-29.244767",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-03-29/244767.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-29.244766",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-29",
-      "ugid": "244766",
-      "title": "Extraordinary Gazette of India, 2023-03-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-31032023-244766",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244766.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244766/244766.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-29.244766",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-29/244766.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-29.244765",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-29",
-      "ugid": "244765",
-      "title": "Extraordinary Gazette of India, 2023-03-29",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-31032023-244765",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244765.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244765/244765.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-29.244765",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-29/244765.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-03-29.244764",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-03-29",
-      "ugid": "244764",
-      "title": "Extraordinary Gazette of India, 2023-03-29",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
-      "office": "",
-      "subject": "Initiation of ADD of Flexible Slabstock Polyol from China PR and Thailand",
-      "gazette_id": "CG-DL-E-29032023-244764",
-      "gazette_source_url": "https://egazette.nic.in/WriteReadData/2023/244764.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-03-29.244764/244764.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-03-29.244764",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-03-29/244764.pdf",
       "topics": []
     }
   ],

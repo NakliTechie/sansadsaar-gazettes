@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-07-11.264534",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-11",
+      "ugid": "264534",
+      "title": "Extraordinary Gazette of India, 2025-07-11",
+      "ministry": "Ministry of Cooperation",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "Tribhuvan Sahkari University Statutes 2025",
+      "gazette_id": "CG-DL-E-11072025-264534",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264534.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-11.264534/264534.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-11.264534",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-11/264534.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-11.264534/264534_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-10.264897",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-10",
+      "ugid": "264897",
+      "title": "Extraordinary Gazette of India, 2025-07-10",
+      "ministry": "International Financial Services Centres Authority",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by subsection 1 of Section 28, read with subsection",
+      "gazette_id": "CG-GJ-E-22072025-264897",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264897.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264897/264897.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-10.264897",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-10/264897.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264897/264897_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-07-10.264788",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-10",
+      "ugid": "264788",
+      "title": "Extraordinary Gazette of India, 2025-07-10",
+      "ministry": "Ministry of Railways",
+      "department": "North Western Railway",
+      "office": "",
+      "subject": "20ESIROHIABR",
+      "gazette_id": "CG-RJ-E-18072025-264788",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264788.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264788/264788.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-10.264788",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-10/264788.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264788/264788_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-07-10.264787",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-03-13/261631.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261631/261631_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-13.261630",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-13",
-      "ugid": "261630",
-      "title": "Extraordinary Gazette of India, 2025-03-13",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "South Central Railway",
-      "subject": "Construction of Road Over Bridge in lieu of Level Crossing No28 at Km315 57 in between Bisugirsharif Potkapalli stations",
-      "gazette_id": "CG-TL-E-15032025-261630",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261630.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261630/261630.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-13.261630",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-13/261630.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261630/261630_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-13.261629",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-13",
-      "ugid": "261629",
-      "title": "Extraordinary Gazette of India, 2025-03-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Arbitrator File",
-      "gazette_id": "CG-DL-E-15032025-261629",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261629.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261629/261629.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-13.261629",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-13/261629.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261629/261629_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-13.261628",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-13",
-      "ugid": "261628",
-      "title": "Extraordinary Gazette of India, 2025-03-13",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3a",
-      "gazette_id": "CG-DL-E-15032025-261628",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261628.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261628/261628.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-13.261628",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-13/261628.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261628/261628_djvu.txt"
     }
   ],
   "count": 2500,

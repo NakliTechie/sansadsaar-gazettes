@@ -1,6 +1,75 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2026-06-18.273825",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-18",
+      "ugid": "273825",
+      "title": "Extrordinary Gazette of India, 2026-06-18",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Subrule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby",
+      "gazette_id": "CG-DL-E-25062026-273825",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273825.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273825/273825.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-18.273825",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-18/273825.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-18.273769",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-18",
+      "ugid": "273769",
+      "title": "Extrordinary Gazette of India, 2026-06-18",
+      "ministry": "Ministry of Railways",
+      "department": "Sout East Central Railway",
+      "office": "",
+      "subject": "20E Notification",
+      "gazette_id": "CG-CG-E-23062026-273769",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273769.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273769/273769.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-18.273769",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-18/273769.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-06-18.273731",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-06-18",
+      "ugid": "273731",
+      "title": "Extrordinary Gazette of India, 2026-06-18",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
+      "office": "",
+      "subject": "Initiation of Anti Dumping Investigation of Resorcinol from China PR and Japan",
+      "gazette_id": "CG-DL-E-23062026-273731",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273731.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-18.273731/273731.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-06-18.273731",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-06-18/273731.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-06-18.273716",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59188,78 +59257,6 @@
       "mirror_path": "pdf/central/e/2026-03-12/270902.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270902/270902_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-12.270901",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-12",
-      "ugid": "270901",
-      "title": "Extrordinary Gazette of India, 2026-03-12",
-      "ministry": "Ministry of External Affairs",
-      "department": "UNP Division",
-      "office": "",
-      "subject": "Implementation of UNSC Resolution 1970 related to Libya, March 2026",
-      "gazette_id": "CG-DL-E-13032026-270901",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270901.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270901/270901.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-12.270901",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-12/270901.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270901/270901_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-12.270900",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-12",
-      "ugid": "270900",
-      "title": "Extrordinary Gazette of India, 2026-03-12",
-      "ministry": "Ministry of Finance",
-      "department": "Department of Revenue",
-      "office": "Central Board of Indirect Taxes and Customs",
-      "subject": "Seeks to amend List 14 of Jumbo Notification",
-      "gazette_id": "CG-DL-E-12032026-270900",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270900.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270900/270900.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-12.270900",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-12/270900.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270900/270900_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-03-12.270899",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-03-12",
-      "ugid": "270899",
-      "title": "Extrordinary Gazette of India, 2026-03-12",
-      "ministry": "Ministry of Law  and Justice",
-      "department": "Legislative Department",
-      "office": "",
-      "subject": "Recruitment Rules for Group A posts in Vidhi Sahitya Prakashan",
-      "gazette_id": "CG-DL-E-12032026-270899",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270899.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270899/270899.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-03-12.270899",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-03-12/270899.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2026-03-12.270899/270899_djvu.txt"
     }
   ],
   "count": 2500,

@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-13.261630",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-13",
+      "ugid": "261630",
+      "title": "Extraordinary Gazette of India, 2025-03-13",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "South Central Railway",
+      "subject": "Construction of Road Over Bridge in lieu of Level Crossing No28 at Km315 57 in between Bisugirsharif Potkapalli stations",
+      "gazette_id": "CG-TL-E-15032025-261630",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261630.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261630/261630.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-13.261630",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-13/261630.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261630/261630_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-13.261629",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-13",
+      "ugid": "261629",
+      "title": "Extraordinary Gazette of India, 2025-03-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Arbitrator File",
+      "gazette_id": "CG-DL-E-15032025-261629",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261629.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261629/261629.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-13.261629",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-13/261629.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261629/261629_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-03-13.261628",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-13",
+      "ugid": "261628",
+      "title": "Extraordinary Gazette of India, 2025-03-13",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3a",
+      "gazette_id": "CG-DL-E-15032025-261628",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261628.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261628/261628.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-13.261628",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-13/261628.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-13.261628/261628_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-03-13.261627",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-26/258980.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258980/258980_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-26.258954",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-26",
-      "ugid": "258954",
-      "title": "Extraordinary Gazette of India, 2024-11-26",
-      "ministry": "UCO Bank",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by section 19 read with sub section  2 of section 12 of the Banking Companies",
-      "gazette_id": "CG-WB-E-27112024-258954",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258954.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258954/258954.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-26.258954",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-26/258954.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258954/258954_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-26.258951",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-26",
-      "ugid": "258951",
-      "title": "Extraordinary Gazette of India, 2024-11-26",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Publication of user fee notification",
-      "gazette_id": "CG-DL-E-27112024-258951",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258951.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258951/258951.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-26.258951",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-26/258951.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258951/258951_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-26.258946",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-26",
-      "ugid": "258946",
-      "title": "Extraordinary Gazette of India, 2024-11-26",
-      "ministry": "Ministry of Defence",
-      "department": "Department of Defence",
-      "office": "D(Coord)",
-      "subject": "Cantt,.",
-      "gazette_id": "CG-DL-E-27112024-258946",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/258946.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258946/258946.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-26.258946",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-26/258946.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-26.258946/258946_djvu.txt"
     }
   ],
   "count": 2500,

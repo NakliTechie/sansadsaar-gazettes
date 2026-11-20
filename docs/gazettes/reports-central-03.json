@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-12-03.268245",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-03",
+      "ugid": "268245",
+      "title": "Extrordinary Gazette of India, 2025-12-03",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards",
+      "gazette_id": "CG-DL-E-05122025-268245",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268245.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268245/268245.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-03.268245",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-03/268245.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268245/268245_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-12-03.268244",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-03",
+      "ugid": "268244",
+      "title": "Extrordinary Gazette of India, 2025-12-03",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby",
+      "gazette_id": "CG-DL-E-05122025-268244",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268244.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268244/268244.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-03.268244",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-03/268244.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268244/268244_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2025-12-03.268233",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-12-03",
+      "ugid": "268233",
+      "title": "Extrordinary Gazette of India, 2025-12-03",
+      "ministry": "Securities and Exchange Board of India",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sections 11,  11A  and  30  of  the  Securities  and  Exchange  Board  of  India  Act",
+      "gazette_id": "CG-MH-E-04122025-268233",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268233.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268233/268233.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-12-03.268233",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-12-03/268233.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-03.268233/268233_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-12-03.268228",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59927,78 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-07-11/264535.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-11.264535/264535_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-11.264534",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-11",
-      "ugid": "264534",
-      "title": "Extraordinary Gazette of India, 2025-07-11",
-      "ministry": "Ministry of Cooperation",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Tribhuvan Sahkari University Statutes 2025",
-      "gazette_id": "CG-DL-E-11072025-264534",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264534.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-11.264534/264534.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-11.264534",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-11/264534.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-11.264534/264534_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-10.264897",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-10",
-      "ugid": "264897",
-      "title": "Extraordinary Gazette of India, 2025-07-10",
-      "ministry": "International Financial Services Centres Authority",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of the powers conferred by subsection 1 of Section 28, read with subsection",
-      "gazette_id": "CG-GJ-E-22072025-264897",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264897.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264897/264897.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-10.264897",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-10/264897.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264897/264897_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-07-10.264788",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-07-10",
-      "ugid": "264788",
-      "title": "Extraordinary Gazette of India, 2025-07-10",
-      "ministry": "Ministry of Railways",
-      "department": "North Western Railway",
-      "office": "",
-      "subject": "20ESIROHIABR",
-      "gazette_id": "CG-RJ-E-18072025-264788",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264788.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264788/264788.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-07-10.264788",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-07-10/264788.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-10.264788/264788_djvu.txt"
     }
   ],
   "count": 2500,

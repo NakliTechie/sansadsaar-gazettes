@@ -1,6 +1,78 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2023-11-28.250299",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-28",
+      "ugid": "250299",
+      "title": "Extraordinary Gazette of India, 2023-11-28",
+      "ministry": "NATIONAL COMMISSION FOR HOMOEOPATHY",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In exercise of the powers conferred by sub section 1 and Clauses",
+      "gazette_id": "CG-DL-E-29112023-250299",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250299.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250299/250299.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-28.250299",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-28/250299.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250299/250299_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-28.250297",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-28",
+      "ugid": "250297",
+      "title": "Extraordinary Gazette of India, 2023-11-28",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Exploration Division",
+      "office": "",
+      "subject": "Gujarat",
+      "gazette_id": "CG-DL-E-29112023-250297",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250297.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250297/250297.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-28.250297",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-28/250297.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250297/250297_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2023-11-28.250296",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2023-11-28",
+      "ugid": "250296",
+      "title": "Extraordinary Gazette of India, 2023-11-28",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "department": "Exploration Division",
+      "office": "",
+      "subject": "Gujarat",
+      "gazette_id": "CG-DL-E-29112023-250296",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/250296.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250296/250296.pdf",
+      "ia_identifier": "in.gazette.central.e.2023-11-28.250296",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2023-11-28/250296.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2023-11-28.250296/250296_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2023-11-28.250295",
       "category": "extraordinary",
       "type_letter": "e",
@@ -58333,75 +58405,6 @@
       "ia_identifier": "in.gazette.central.e.2023-07-26.247639",
       "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
       "mirror_path": "pdf/central/e/2023-07-26/247639.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-26.247638",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-26",
-      "ugid": "247638",
-      "title": "Extraordinary Gazette of India, 2023-07-26",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D NHAI",
-      "gazette_id": "CG-DL-E-27072023-247638",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247638.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247638/247638.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-26.247638",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-26/247638.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-26.247637",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-26",
-      "ugid": "247637",
-      "title": "Extraordinary Gazette of India, 2023-07-26",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-27072023-247637",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247637.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247637/247637.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-26.247637",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-26/247637.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2023-07-26.247636",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2023-07-26",
-      "ugid": "247636",
-      "title": "Extraordinary Gazette of India, 2023-07-26",
-      "ministry": "Petroleum and Natural Gas Regulatory Board",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "In exercise of power conferred by clause 3a of Section 20 of the Petroleum and Natural Gas Regulatory Board Act,",
-      "gazette_id": "CG-DL-E-27072023-247636",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2023/247636.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2023-07-26.247636/247636.pdf",
-      "ia_identifier": "in.gazette.central.e.2023-07-26.247636",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2023-07-26/247636.pdf",
       "topics": []
     }
   ],
